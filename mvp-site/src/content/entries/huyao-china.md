@@ -101,6 +101,8 @@ confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐）"
 
 parallel_motifs:
+  - entry_id: shan-hai-jing-bestiary
+    relation: 源头文本——中国狐妖形象的最早文献来自《山海经·南山经》青丘山九尾狐条
   - entry_id: east-asian-fox-cult
     relation: 母题伞形入口——本条是东亚狐信仰跨文化谱系的母体源头
   - entry_id: tamamo-no-mae-japan
