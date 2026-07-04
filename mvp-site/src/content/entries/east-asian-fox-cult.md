@@ -118,6 +118,42 @@ secondary_sources:
     year: 2020
     language: zh
     note: 以两国最重要的志怪总集为对比文本，依据充分
+  - type: book
+    title: "The Cult of the Fox: Power, Gender, and Popular Religion in Late Imperial and Modern China"
+    author: Kang Xiaofei
+    year: 2006
+    language: en
+    note: 英文学界研究中国狐仙信仰的第一奠基作（Columbia University Press），从权力—性别—民间宗教三维度展开
+  - type: book
+    title: "Alien Kind: Foxes and Late Imperial Chinese Narrative"
+    author: Rania Huntington
+    year: 2003
+    language: en
+    note: 英文学界明清狐妖文学研究的奠基专著（Harvard East Asian Monographs），提出狐妖是“跨越物种/性别/生死边界”的核心日常心得载体
+  - type: book
+    title: "The Fox and the Jewel: Shared and Private Meanings in Contemporary Japanese Inari Worship"
+    author: Karen A. Smyers
+    year: 1999
+    language: en
+    note: 当代稲荷信仰民族志研究开山之作（University of Hawai'i Press），剥析神道神使在当代日本的“共享—私人”双层意义结构
+  - type: book
+    title: "Pandemonium and Parade: Japanese Monsters and the Culture of Yokai"
+    author: Michael Dylan Foster
+    year: 2009
+    language: en
+    note: 当代日本妖怪学英文学界第一权威（University of California Press），为稻荷狐/玉藻前/天狗提供统一方法论支撑
+  - type: book
+    title: "妖怪学新考 / 日本妖怪学大全"
+    author: 小松和彦
+    year: 1994
+    language: ja
+    note: 日本当代妖怪学领袖人物，提出“妖怪是不被祭祀的神”——为稻荷狐/玉藻前同源分化提供日语学界理论原点
+  - type: paper
+    title: "论古典文献中九尾狐形象之流变"
+    author: 许净瞳
+    year: 2011
+    language: zh
+    note: 提出重要学术争议——《山海经》青丘山与青丘国为两处，郭璞注可能为误读，为九尾狐溡源提供新可能
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐原型）"

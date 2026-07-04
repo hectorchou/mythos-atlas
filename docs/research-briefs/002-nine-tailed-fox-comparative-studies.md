@@ -166,3 +166,91 @@
 - 日文文献：通过 **J-STAGE**（部分开放）
 
 本清单已按 Mythos Atlas Schema 的 `secondary_sources` 字段格式初步规范，可直接引入对应词条。
+
+
+---
+
+# 附录：第二轮补搜发现（2026-07-04）
+
+第一轮文献综述完成后追加检索，发现 6 篇学界公认的**重量级奠基文献**遗漏，特此补录并标注学术地位。
+
+## 第一等级 · 学科奠基作（必读）
+
+### 1. Kang Xiaofei 康笑菲 — *The Cult of the Fox*（2005/2006）
+- **完整书名**：*The Cult of the Fox: Power, Gender, and Popular Religion in Late Imperial and Modern China*
+- **出版**：Columbia University Press
+- **DOI 章节**：10.7312/kang13338 系列（章节可单独引用）
+- **地位**：**中国狐仙研究英文学界的第一奠基作**——之前遗漏是重大疏漏
+- **核心章节**：
+  - 第 2 章：*Huxian and the Spread of the Fox Cult*（狐仙信仰的传播）
+  - 第 3 章：*Foxes and Domestic Worship*（家庭祭祀）
+  - 第 4 章：*Foxes and Spirit Mediums*（狐仙与灵媒）
+  - 第 5 章：*Foxes and Local Cults*（地方信仰）
+  - 第 6 章：*Fox Spirits and Officials*（狐仙与官员）
+- **独家论点**：从"权力—性别—民间宗教"三维度切入，将狐仙置于中华帝国晚期社会结构中考察
+- **对 Mythos Atlas 的价值**：huyao-china 与 east-asian-fox-cult 词条的**核心二手来源升级**——比原有的李剑国《中国狐文化》更适合作英文学界引用
+
+### 2. Rania Huntington — *Alien Kind: Foxes and Late Imperial Chinese Narrative*（2003）
+- **出版**：Harvard University Asia Center · Harvard East Asian Monographs
+- **地位**：**明清狐妖文学研究英文学界的第一奠基作**
+- **相关衍生论文**：
+  - Huntington (2000) — *Foxes and Sex in Late Imperial Chinese Narrative*, DOI: 10.1163/156852600750072312
+  - Huntington (2005) — *Ghosts Seeking Substitutes: Female Suicide and Repetition*, DOI: 10.1353/LATE.2005.0007
+- **核心论点**：狐妖跨越物种/性别/生死边界，是明清叙事文学中"越界"想象的核心载体
+- **对 Mythos Atlas 的价值**：直接支撑 huyao-china 词条中"聊斋志异狐女文学"章节
+
+### 3. Karen A. Smyers — *The Fox and the Jewel*（1999）
+- **完整书名**：*The Fox and the Jewel: Shared and Private Meanings in Contemporary Japanese Inari Worship*
+- **出版**：University of Hawai'i Press
+- **DOI**：10.2307/1179037
+- **地位**：**当代稲荷信仰民族志研究的开山之作**
+- **相关衍生**：
+  - Smyers (1997) — *Inari Pilgrimage: Following One's Path on the Mountain*, DOI: 10.18874/JJRS.24.3-4.1997.427-452
+  - Smyers (1996) — *"My Own Inari": Personalization of the Deity in Inari Worship*, JJRS 23: 85–116
+- **核心论点**：稲荷神在当代日本的"共享—私人"双层意义结构，展现民间宗教如何在个体化时代持续存活
+- **对 Mythos Atlas 的价值**：inari-kitsune-japan 词条中"当代活态信仰"章节的核心二手来源
+
+### 4. Michael Dylan Foster — 妖怪学英文学界代表作
+- **代表作 1**：*Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai*（2009）
+  - University of California Press · DOI: 10.1525/CALIFORNIA/9780520253612.001.0001
+- **代表作 2**：*The Book of Yōkai: Mysterious Creatures of Japanese Folklore*（2015）
+  - University of California Press
+- **地位**：**当代日本妖怪学英文学界的第一权威**——所有相关英文论文几乎必引
+- **相关论文**：Foster (2012) — *Haunting Modernity: Tanuki, Trains, and Transformation in Japan*
+- **对 Mythos Atlas 的价值**：inari-kitsune-japan、tamamo-no-mae-japan、tengu-japan 三个词条的**统一英文学界方法论支撑**
+
+## 第二等级 · 关键专题研究
+
+### 5. 小松和彦 · 新妖怪学（多篇 · 陆薇薇 2021 综述）
+- **陆薇薇 (2021)** — 《小松和彦与日本"新妖怪学"》
+- **小松和彦本人**：《妖怪学新考》《日本妖怪学大全》
+- **核心论点**：妖怪是"不被祭祀的神"——来源于人们的警戒心与不安，是区分自我与他者的机制
+- **对 Mythos Atlas 的价值**：为 inari-kitsune-japan 词条中"神—妖辩证"提供**日本本土学界最权威的理论支撑**——这是玉藻前与稻荷狐同源分化理论的日语学界原点
+
+### 6. 许净瞳 (2011) — 论古典文献中九尾狐形象之流变
+- **发表**：万方数据
+- **独家考据**：《山海经》中"青丘山"与"青丘国"实为两处，"青丘山之九尾"可能是别一种动物，郭璞注可能存在**误读**
+- **颠覆性**：这一论点挑战了"《山海经》九尾狐 = 后世九尾狐原型"的传统认知，为九尾狐形象溯源提供了新可能
+- **对 Mythos Atlas 的价值**：huyao-china 与 east-asian-fox-cult 词条中"最早文献"字段需要标注这一学术争议
+
+## 第三等级 · 补充资源
+
+- **노성환 Noh Sung-Hwan (2016)** — 《한국의 구미호와 일본의 설녀》（韩国九尾狐与日本雪女）—— 另一组韩日跨文化比较
+- **Yoonhee Hong (2022)** — *Return of Myth, Myth Resources, and the Contemporaneity of Mythology in Korea and China Today* —— 当代神话资源比较
+- **Wang Aiqing & Whyke (2024)** — *From Ancient Zhiguai Tales to Contemporary Animation: A Study of Visual Rhetoric in 'Yao-Chinese Folktales'* —— 从志怪到国产动画《中国奇谭》的视觉修辞学分析
+- **Yu-ming Daniel Hou (1996)** — *Voices of Anxiety: An Examination of the Treatment of Sexuality in the Fox Tales of Liao-chai chih-i* —— 聊斋狐妖性别研究的早期博论
+
+## 遗漏原因反思
+
+第一轮遗漏这 6 篇的原因：
+1. **查询关键词不够专——**"cross-cultural fox"未命中作者姓名检索
+2. **学科奠基作反而稀有引用——**Kang Xiaofei / Huntington / Smyers 是"必读"但很少被作为搜索关键词出现
+3. **日语学界的英文中转不足——**小松和彦的核心工作要通过中文综述反查
+
+## 现在的文献总量
+
+- **第一轮**：22 篇
+- **第二轮**：6 篇奠基作 + 4 篇补充 = 10 篇
+- **合计**：**32 篇学术文献**，覆盖中英日韩四语学界
+
+**这个文献密度已足够支撑独立发表学术综述文章**。
