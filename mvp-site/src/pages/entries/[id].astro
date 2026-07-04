@@ -1,0 +1,91 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('entries');
+  return entries.map(e => ({ params: { id: e.data.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const d = entry.data;
+---
+
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>{d.name_primary} · Mythos Atlas</title>
+  <style>
+    body { font-family: -apple-system, "PingFang SC", serif; max-width: 780px; margin: 0 auto; padding: 2rem; color: #222; background: #faf8f3; line-height: 1.75; }
+    h1 { margin-bottom: .2rem; }
+    .original { color: #6b4423; font-size: 1.2em; }
+    .path { color: #888; font-size: .9em; margin-bottom: 1.5rem; }
+    .summary-box { background: #fff; border-left: 4px solid #c9a961; padding: 1rem 1.2rem; margin: 1rem 0 2rem; }
+    .meta-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: .9em; }
+    .meta-table td { padding: .4rem .6rem; border-bottom: 1px solid #e5ddc8; }
+    .meta-table td:first-child { color: #888; width: 8em; }
+    .source { background: white; padding: .8rem 1rem; margin: .5rem 0; border-radius: 3px; border-left: 3px solid #6b4423; }
+    .source .st-type { display: inline-block; background: #6b4423; color: white; font-size: .7em; padding: .1em .5em; border-radius: 2px; margin-right: .5em; text-transform: uppercase; }
+    .source a { color: #6b4423; word-break: break-all; }
+    .confidence-attested { color: #2a7f3f; }
+    .confidence-documented { color: #b8860b; }
+    .confidence-folk { color: #808080; }
+    .confidence-speculative { color: #c94f4f; }
+    .parallel { padding: .5rem .8rem; background: #f2ecd8; margin: .3rem 0; border-radius: 2px; font-size: .9em; }
+    a.back { color: #888; text-decoration: none; font-size: .9em; }
+  </style>
+</head>
+<body>
+  <a href="/" class="back">← 返回索引</a>
+  <h1>{d.name_primary} <span class="original">{d.name_original}</span></h1>
+  <div class="path">{d.culture_path} · {d.entity_type} · <span class={`confidence-${d.confidence}`}>{d.confidence}</span></div>
+
+  <div class="summary-box">{d.summary}</div>
+
+  <table class="meta-table">
+    {d.name_aliases && <tr><td>别称</td><td>{d.name_aliases.join(' / ')}</td></tr>}
+    {d.era && <tr><td>时代</td><td>{d.era}</td></tr>}
+    {d.geo_region && <tr><td>地理范围</td><td>{d.geo_region}</td></tr>}
+    {d.first_recorded && <tr><td>最早文献</td><td>{d.first_recorded}</td></tr>}
+    {d.attributes && <tr><td>特征</td><td>{d.attributes.join(' · ')}</td></tr>}
+  </table>
+
+  <Content />
+
+  <h2>一手来源</h2>
+  {d.primary_sources.map(s => (
+    <div class="source">
+      <div><span class="st-type">{s.type}</span><strong>{s.title}</strong>{s.author && ` · ${s.author}`}{s.year && ` (${s.year})`}</div>
+      {s.location && <div style="font-size:.85em; color:#666">{s.location}</div>}
+      {s.url && <div><a href={s.url} target="_blank">{s.url}</a></div>}
+      {s.note && <div style="font-size:.85em; color:#888; margin-top:.3em">{s.note}</div>}
+    </div>
+  ))}
+
+  {d.secondary_sources && d.secondary_sources.length > 0 && (
+    <>
+      <h2>二手研究</h2>
+      {d.secondary_sources.map(s => (
+        <div class="source">
+          <div><span class="st-type">{s.type}</span><strong>{s.title}</strong>{s.author && ` · ${s.author}`}{s.year && ` (${s.year})`}</div>
+          {s.url && <div><a href={s.url} target="_blank">{s.url}</a></div>}
+        </div>
+      ))}
+    </>
+  )}
+
+  {d.parallel_motifs && d.parallel_motifs.length > 0 && (
+    <>
+      <h2>跨文化对照</h2>
+      {d.parallel_motifs.map(p => (
+        <div class="parallel"><a href={`/entries/${p.entry_id}`}>{p.entry_id}</a> — {p.relation}</div>
+      ))}
+    </>
+  )}
+
+  <hr style="margin-top:3rem" />
+  <p style="color:#aaa; font-size:.8em">
+    录入：{d.curator} · 更新：{d.updated_at} · LLM 参与：{d.llm_assisted ? '是' : '否'} · 状态：{d.review_status}
+  </p>
+</body>
+</html>

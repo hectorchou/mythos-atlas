@@ -1,0 +1,11 @@
+# Astro
+mvp-site/node_modules/
+mvp-site/dist/
+mvp-site/.astro/
+mvp-site/.vite/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+screenshot-*.png

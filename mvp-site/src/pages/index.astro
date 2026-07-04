@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+const entries = await getCollection('entries');
+
+// 按文化体系一级分组
+const grouped: Record<string, typeof entries> = {};
+for (const e of entries) {
+  const top = e.data.culture_path.split('/')[0];
+  (grouped[top] ||= []).push(e);
+}
+---
+
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mythos Atlas · 神话与神秘学谱系</title>
+  <style>
+    body { font-family: -apple-system, "PingFang SC", sans-serif; max-width: 960px; margin: 0 auto; padding: 2rem; color: #222; background: #faf8f3; }
+    h1 { border-bottom: 2px solid #333; padding-bottom: .5rem; }
+    .culture-block { margin: 2rem 0; }
+    .culture-block h2 { color: #6b4423; }
+    ul { list-style: none; padding: 0; }
+    li { padding: .8rem 1rem; margin: .4rem 0; background: white; border-left: 3px solid #c9a961; border-radius: 2px; }
+    li a { color: #333; text-decoration: none; font-weight: 600; }
+    li a:hover { color: #6b4423; }
+    .meta { color: #888; font-size: .85em; margin-left: .5rem; }
+    .summary { margin-top: .3rem; color: #555; font-size: .9em; }
+    .tagline { color: #666; font-style: italic; }
+  </style>
+</head>
+<body>
+  <h1>Mythos Atlas</h1>
+  <p class="tagline">世界神话与神秘学的可溯源谱系数据库 · Phase 1 MVP</p>
+
+  {Object.entries(grouped).map(([culture, items]) => (
+    <section class="culture-block">
+      <h2>{culture}</h2>
+      <ul>
+        {items.map(e => (
+          <li>
+            <a href={`/entries/${e.data.id}`}>{e.data.name_primary}</a>
+            <span class="meta">· {e.data.culture_path} · {e.data.entity_type}</span>
+            <div class="summary">{e.data.summary}</div>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <hr />
+  <p style="color:#888; font-size:.85em">共 {entries.length} 条 · 每条均可溯源至一手文献</p>
+</body>
+</html>
