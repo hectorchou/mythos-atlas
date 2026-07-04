@@ -45,7 +45,15 @@ npm run build
 2. 在 `mvp-site/src/content/entries/` 新建 `<id>.md`
 3. 按 YAML front-matter 格式填字段
 4. `primary_sources` 至少 1 条不可省略
-5. 提交 PR
+5. 深度词条 / 母题伞形词条 发布前必须完成 [SOP-01: 奠基作反向检索](./docs/SOP-01-foundational-works-reverse-search.md)
+6. 提交 PR
+
+## 项目规范
+
+- [SOP-01 · 奠基作反向检索](./docs/SOP-01-foundational-works-reverse-search.md) — 防止遗漏学科权威文献的检索方法学
+- [奠基学者索引表](./docs/FOUNDATIONAL-AUTHORS.md) — 各文化学科必读作者名单（持续维护）
+- [字段规范 Schema v0.2](./schema/entry-schema-v0.1.md)
+- [采集流水线架构](./docs/pipeline-architecture.md)
 
 ## Roadmap
 
