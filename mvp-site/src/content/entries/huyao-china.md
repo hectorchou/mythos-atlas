@@ -97,6 +97,8 @@ confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐）"
 
 parallel_motifs:
+  - entry_id: tamamo-no-mae-japan
+    relation: 妓己故事的日本后传——中国九尾狐妓己叙事被日本文学直接接续，建构出同一只九尾狐穿越三国千年的史诗架构，是东亚妖怪叙事跨文化嵌接的极致案例
   - entry_id: inari-kitsune-japan
     relation: 中国狐妖东传日本后升格为神使——从"精怪修练"路径重构为"神明眷属"路径，完成从妖异到神圣的宗教定位反转
   - entry_id: gumiho-korea

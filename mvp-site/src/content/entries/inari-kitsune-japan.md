@@ -90,6 +90,8 @@ confidence: attested
 first_recorded: "712年（《古事记》记载本尊）；神使狐明确记载见于1120年《今昔物语集》"
 
 parallel_motifs:
+  - entry_id: tamamo-no-mae-japan
+    relation: 日本狐信仰内部"神—妖"两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致，两者共同支撑起日本狐文化的完整光谱
   - entry_id: gumiho-korea
     relation: 中国狐妖东传的两条分岁——日本升格为神使（稻荷狐），韩国下沉为吐噬型妖异（九尾狐）。同一符号在不同文化土壤中走向完全相反的两极
   - entry_id: huyao-china
