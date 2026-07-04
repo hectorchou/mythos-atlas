@@ -9,6 +9,10 @@ name_translations:
   de: Draug
   is: Draugur
 
+hero_image: /images/entries/draugr-norse.jpg
+hero_image_alt: "Draugr · 北欧尸鬼"
+hero_image_credit: "AI generated · Nordic saga illustration style"
+
 culture_path: 西欧/北欧/维京民俗/亡灵
 entity_type: creature
 era: 13-14世纪萨迦文献系统记载，口传更早

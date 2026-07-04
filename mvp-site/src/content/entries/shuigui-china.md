@@ -8,6 +8,10 @@ name_translations:
   en: Water Ghost / Water Demon
   ja: 水鬼（すいき）
 
+hero_image: /images/entries/shuigui-china.jpg
+hero_image_alt: "水鬼 · 中国志怪意象"
+hero_image_credit: "AI generated · Chinese ink painting style"
+
 culture_path: 东亚/中国/民间信仰/水系鬼怪
 entity_type: spirit
 era: 口传早于文献记载，至迟唐代已有系统描述

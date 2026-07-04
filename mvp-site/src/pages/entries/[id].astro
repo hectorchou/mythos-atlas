@@ -9,6 +9,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const d = entry.data;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <html lang="zh-CN">
@@ -20,6 +21,9 @@ const d = entry.data;
     h1 { margin-bottom: .2rem; }
     .original { color: #6b4423; font-size: 1.2em; }
     .path { color: #888; font-size: .9em; margin-bottom: 1.5rem; }
+    .hero { margin: 1rem 0 1.5rem; }
+    .hero img { width: 100%; height: auto; border-radius: 4px; display: block; box-shadow: 0 2px 12px rgba(0,0,0,.15); }
+    .hero-credit { text-align: right; font-size: .75em; color: #999; margin-top: .3rem; }
     .summary-box { background: #fff; border-left: 4px solid #c9a961; padding: 1rem 1.2rem; margin: 1rem 0 2rem; }
     .meta-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: .9em; }
     .meta-table td { padding: .4rem .6rem; border-bottom: 1px solid #e5ddc8; }
@@ -39,6 +43,13 @@ const d = entry.data;
   <a href={import.meta.env.BASE_URL} class="back">← 返回索引</a>
   <h1>{d.name_primary} <span class="original">{d.name_original}</span></h1>
   <div class="path">{d.culture_path} · {d.entity_type} · <span class={`confidence-${d.confidence}`}>{d.confidence}</span></div>
+
+  {d.hero_image && (
+    <div class="hero">
+      <img src={`${base}${d.hero_image}`} alt={d.hero_image_alt || d.name_primary} />
+      {d.hero_image_credit && <div class="hero-credit">{d.hero_image_credit}</div>}
+    </div>
+  )}
 
   <div class="summary-box">{d.summary}</div>
 
@@ -78,7 +89,7 @@ const d = entry.data;
     <>
       <h2>跨文化对照</h2>
       {d.parallel_motifs.map(p => (
-        <div class="parallel"><a href={`${import.meta.env.BASE_URL.replace(/\/$/,'')}/entries/${p.entry_id}`}>{p.entry_id}</a> — {p.relation}</div>
+        <div class="parallel"><a href={`${base}/entries/${p.entry_id}`}>{p.entry_id}</a> — {p.relation}</div>
       ))}
     </>
   )}

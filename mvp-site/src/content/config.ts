@@ -22,6 +22,10 @@ const entries = defineCollection({
     name_aliases: z.array(z.string()).optional(),
     name_translations: z.record(z.string()).optional(),
 
+    hero_image: z.string().optional(),
+    hero_image_alt: z.string().optional(),
+    hero_image_credit: z.string().optional(),
+
     culture_path: z.string(),
     entity_type: z.enum(['deity', 'creature', 'spirit', 'event', 'place', 'ritual', 'motif']),
     era: z.string().optional(),

@@ -7,6 +7,10 @@ name_translations:
   zh: 凯尔派水马
   en: Kelpie
 
+hero_image: /images/entries/kelpie-scotland.jpg
+hero_image_alt: "Kelpie · 苏格兰高地水马"
+hero_image_credit: "AI generated · Scottish Highland Romantic style"
+
 culture_path: 西欧/苏格兰/凯尔特民俗/水系妖怪
 entity_type: creature
 era: 至迟 18 世纪已见于文献，口传更早

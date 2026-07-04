@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 const entries = await getCollection('entries');
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// 按文化体系一级分组
 const grouped: Record<string, typeof entries> = {};
 for (const e of entries) {
   const top = e.data.culture_path.split('/')[0];
@@ -15,16 +15,19 @@ for (const e of entries) {
   <meta charset="UTF-8" />
   <title>Mythos Atlas · 神话与神秘学谱系</title>
   <style>
-    body { font-family: -apple-system, "PingFang SC", sans-serif; max-width: 960px; margin: 0 auto; padding: 2rem; color: #222; background: #faf8f3; }
+    body { font-family: -apple-system, "PingFang SC", sans-serif; max-width: 1080px; margin: 0 auto; padding: 2rem; color: #222; background: #faf8f3; }
     h1 { border-bottom: 2px solid #333; padding-bottom: .5rem; }
     .culture-block { margin: 2rem 0; }
     .culture-block h2 { color: #6b4423; }
-    ul { list-style: none; padding: 0; }
-    li { padding: .8rem 1rem; margin: .4rem 0; background: white; border-left: 3px solid #c9a961; border-radius: 2px; }
-    li a { color: #333; text-decoration: none; font-weight: 600; }
-    li a:hover { color: #6b4423; }
-    .meta { color: #888; font-size: .85em; margin-left: .5rem; }
-    .summary { margin-top: .3rem; color: #555; font-size: .9em; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+    .card { background: white; border-radius: 4px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); text-decoration: none; color: inherit; display: flex; flex-direction: column; transition: transform .15s, box-shadow .15s; border-left: 3px solid #c9a961; }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,.12); }
+    .thumb { width: 100%; aspect-ratio: 3/2; background: linear-gradient(135deg, #d4c9a8, #b8a679); display: flex; align-items: center; justify-content: center; color: #6b4423; font-size: 1.5em; font-family: serif; }
+    .thumb img { width: 100%; height: 100%; object-fit: cover; }
+    .card-body { padding: .8rem 1rem; flex: 1; }
+    .card-title { font-weight: 600; margin-bottom: .3rem; }
+    .card-meta { color: #888; font-size: .8em; margin-bottom: .4rem; }
+    .card-summary { color: #555; font-size: .85em; line-height: 1.5; }
     .tagline { color: #666; font-style: italic; }
   </style>
 </head>
@@ -35,15 +38,24 @@ for (const e of entries) {
   {Object.entries(grouped).map(([culture, items]) => (
     <section class="culture-block">
       <h2>{culture}</h2>
-      <ul>
+      <div class="grid">
         {items.map(e => (
-          <li>
-            <a href={`${import.meta.env.BASE_URL.replace(/\/$/,'')}/entries/${e.data.id}`}>{e.data.name_primary}</a>
-            <span class="meta">· {e.data.culture_path} · {e.data.entity_type}</span>
-            <div class="summary">{e.data.summary}</div>
-          </li>
+          <a class="card" href={`${base}/entries/${e.data.id}`}>
+            <div class="thumb">
+              {e.data.hero_image ? (
+                <img src={`${base}${e.data.hero_image}`} alt={e.data.name_primary} />
+              ) : (
+                <span>{e.data.name_primary}</span>
+              )}
+            </div>
+            <div class="card-body">
+              <div class="card-title">{e.data.name_primary}</div>
+              <div class="card-meta">{e.data.culture_path.split('/').slice(1).join(' · ')} · {e.data.entity_type}</div>
+              <div class="card-summary">{e.data.summary}</div>
+            </div>
+          </a>
         ))}
-      </ul>
+      </div>
     </section>
   ))}
 

@@ -8,6 +8,10 @@ name_translations:
   en: Xibalba / Maya Underworld
   es: Xibalbá
 
+hero_image: /images/entries/xibalba-maya.jpg
+hero_image_alt: "Xibalba · 玛雅冥界"
+hero_image_credit: "AI generated · Maya codex style"
+
 culture_path: 拉美/中美洲/玛雅神话/冥界
 entity_type: place
 era: 前哥伦布时期至16世纪抄本记载

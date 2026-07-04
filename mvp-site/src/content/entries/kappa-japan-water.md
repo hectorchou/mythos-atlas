@@ -8,6 +8,10 @@ name_translations:
   en: Kappa
   ko: 갓파
 
+hero_image: /images/entries/kappa-japan-water.jpg
+hero_image_alt: "河童 · 浮世绘风格"
+hero_image_credit: "AI generated · Ukiyo-e style · Toriyama Sekien inspired"
+
 culture_path: 东亚/日本/民间信仰/水系妖怪
 entity_type: creature
 era: 有文献记载始于江户时代，口传更早

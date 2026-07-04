@@ -9,6 +9,10 @@ name_translations:
   ja: 狐（きつね）
   ko: 구미호
 
+hero_image: /images/entries/huyao-china.jpg
+hero_image_alt: "狐妖 · 中国九尾狐"
+hero_image_credit: "AI generated · Chinese gongbi style · Liaozhai inspired"
+
 culture_path: 东亚/中国/民间信仰/精怪
 entity_type: creature
 era: 先秦已见于文献，汉唐定型，明清成熟

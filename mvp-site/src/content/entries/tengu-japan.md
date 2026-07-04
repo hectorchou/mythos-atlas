@@ -9,6 +9,10 @@ name_translations:
   ko: 텐구
   fr: Tengu
 
+hero_image: /images/entries/tengu-japan.jpg
+hero_image_alt: "天狗 · 大天狗形象"
+hero_image_credit: "AI generated · Ukiyo-e style · Kuniyoshi inspired"
+
 culture_path: 东亚/日本/民间信仰/山灵
 entity_type: spirit
 era: 最早文献记载可追溯至8世纪日本书纪，形态随时代演变

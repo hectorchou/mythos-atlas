@@ -8,6 +8,10 @@ name_translations:
   en: The Weeping Woman
   es: La Llorona
 
+hero_image: /images/entries/la-llorona-mexico.jpg
+hero_image_alt: "La Llorona · 哭泣的女人"
+hero_image_credit: "AI generated · Mexican folk art style"
+
 culture_path: 拉美/中美洲/墨西哥民间传说/幽灵
 entity_type: spirit
 era: 最早文本记载可追溯至1550年代西班牙殖民时期，口传融合了前哥伦布元素

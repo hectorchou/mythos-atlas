@@ -9,6 +9,10 @@ name_translations:
   ko: 구미호
   ja: 九尾の狐（韓国系）
 
+hero_image: /images/entries/gumiho-korea.jpg
+hero_image_alt: "九尾狐 · 韩国民画风格"
+hero_image_credit: "AI generated · Korean minhwa style"
+
 culture_path: 东亚/朝鲜半岛/民间信仰/精怪
 entity_type: creature
 era: 高丽时代（13世纪）已见系统记载，朝鲜王朝民间口传定型

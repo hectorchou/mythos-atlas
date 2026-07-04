@@ -9,6 +9,10 @@ name_translations:
   ja: 稲荷狐（いなりぎつね）
   ko: 이나리 여우
 
+hero_image: /images/entries/inari-kitsune-japan.jpg
+hero_image_alt: "稻荷狐 · 神使白狐"
+hero_image_credit: "AI generated · Ukiyo-e style · Hiroshige inspired"
+
 culture_path: 东亚/日本/神道/稻荷信仰
 entity_type: spirit
 era: 平安时代确立神使地位，江户时代形成全国信仰网络

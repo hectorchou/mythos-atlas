@@ -9,6 +9,10 @@ name_translations:
   ja: 玉藻前（たまものまえ）
   ko: 다마모노마에
 
+hero_image: /images/entries/tamamo-no-mae-japan.jpg
+hero_image_alt: "玉藻前与杀生石"
+hero_image_credit: "AI generated · Ukiyo-e style · Yoshitoshi inspired"
+
 culture_path: 东亚/日本/民间信仰/精怪
 entity_type: creature
 era: 平安末期传说雏形，室町时代文学定型，江户时代能乐歌舞伎集大成
