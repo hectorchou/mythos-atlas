@@ -87,6 +87,37 @@ secondary_sources:
     year: 2003
     language: zh
     note: 追溯九尾狐在中国内部语义演变的核心论文
+  - type: paper
+    title: "East Asian Fox Legends: Read at Your Own Risk, Possession Possible"
+    author: Lauren Noelle Schmidt
+    year: 2010
+    language: en
+    note: 英文学界少见的三国对比系统研究，从 10 个维度构建对比表（属性、寿命、变形、毛色、弱点、尾数等）
+  - type: paper
+    title: "中日戏曲中的九尾狐形象探析——以妓己与玉藻前为中心"
+    author: 刘国勇 & 刘艳绒
+    year: 2024
+    language: zh
+    note: 中日戏曲舞台呈现对比，提出中国妖狐矮化与"封神戏"对女性执政焦虑相关
+  - type: paper
+    title: "A Comparative Study on Foxy Bead Folktales in Korea and Japan"
+    author: Noh Sung-Hwan
+    year: 2019
+    language: en-ko
+    url: https://doi.org/10.21792/trijpn.2019..87.021
+    note: 革日狐珠（狐丹）故事比较，发现"人吞狐珠"故事仅存于韩国
+  - type: paper
+    title: "狐狸与日本的稻荷神信仰"
+    author: 李玉洁
+    year: 2011
+    language: zh
+    note: 关键论点：日本稻荷神社创祀者为中国秦朝赴日的秦氏后裔，揭示了中日狐信仰传播的具体历史机制
+  - type: paper
+    title: "狐狸变身谭的中日比较研究——以《太平广记》与《今昔物語集》为线索"
+    author: 郑一鸣
+    year: 2020
+    language: zh
+    note: 以两国最重要的志怪总集为对比文本，依据充分
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐原型）"
@@ -120,22 +151,15 @@ Mythos Atlas 的第一批词条中，中国狐妖、日本稻荷狐、韩国九�
 
 ## 谱系全景
 
-```
-                    中国狐妖（huyao-china）
-                    多义母体：祥瑞 ↔ 妖媚 ↔ 情义
-                            │
-              ┌─────────────┼─────────────┐
-              │                            │
-          东渡日本                     西传朝鲜半岛
-              │                            │
-    ┌─────────┴─────────┐                  │
-    │                   │                  │
-稻荷狐（升格）      玉藻前（史诗化）      九尾狐（下沉）
-神使正统            跨国千年恶狐          家庭恐怖
-inari-kitsune       tamamo-no-mae         gumiho-korea
-```
+![东亚狐信仰跨文化谱系图](/mythos-atlas/images/entries/east-asian-fox-cult-diagram.png)
 
 **四点定位构成一个完整的语义扇形**：中国是母体，日本走出了升格与史诗化两条上行分支，韩国走出了下沉一条分支。
+
+## 信仰地理分布
+
+![东亚狐仙信仰分布地图](/mythos-atlas/images/entries/east-asian-fox-cult-map.png)
+
+跨文化谱系在地理上呈现为三个信仰区块的共存：**中国华北及东北的活态狐仙堂群** · **日本全国三万余座稲荷神社** · **朝鲜半岛以口传为主的九尾狐叙事带**。
 
 ## 三国分化的核心对比
 
