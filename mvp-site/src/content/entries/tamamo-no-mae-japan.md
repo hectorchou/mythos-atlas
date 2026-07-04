@@ -96,6 +96,8 @@ confidence: attested
 first_recorded: "室町时代（15世纪《神明鏡》等抄本），传说渊源可追溯至平安末期"
 
 parallel_motifs:
+  - entry_id: east-asian-fox-cult
+    relation: 母题伞形入口——本条为中国狐妖东传日本的史诗化分支
   - entry_id: gumiho-korea
     relation: 东亚两大"九尾狐化恶女"叙事的双子星——日本玉藻前与韩国九尾狐均沿袭中国九尾狐"化美女惑君主"母题，但走向不同：玉藻前发展出"三国传来"的史诗化架构与"杀生石"物质化归宿，韩国九尾狐则下沉为民间叙事与家庭恐怖
   - entry_id: huyao-china

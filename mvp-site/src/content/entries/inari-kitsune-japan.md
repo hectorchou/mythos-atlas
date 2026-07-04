@@ -94,6 +94,8 @@ confidence: attested
 first_recorded: "712年（《古事记》记载本尊）；神使狐明确记载见于1120年《今昔物语集》"
 
 parallel_motifs:
+  - entry_id: east-asian-fox-cult
+    relation: 母题伞形入口——本条为中国狐妖东传日本的升格分支
   - entry_id: tamamo-no-mae-japan
     relation: 日本狐信仰内部"神—妖"两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致，两者共同支撑起日本狐文化的完整光谱
   - entry_id: gumiho-korea

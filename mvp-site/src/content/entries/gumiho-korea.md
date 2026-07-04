@@ -80,6 +80,8 @@ confidence: attested
 first_recorded: "1145年（《三国史记》九尾狐兆象记载）；狐妖化人叙事系统化见于1281年《三国遗事》"
 
 parallel_motifs:
+  - entry_id: east-asian-fox-cult
+    relation: 母题伞形入口——本条为中国狐妖西传朝鲜半岛的下沉分支
   - entry_id: huyao-china
     relation: 东亚狐信仰传播链的第三站——中国狐妖跨海传入朝鲜半岛后发生了与日本相反的重构：**恐怖化下沉**。保留了"化美女惑男子"母题，但剥离了修炼成仙与情义色彩，纯化为吞噬性妖异
   - entry_id: inari-kitsune-japan

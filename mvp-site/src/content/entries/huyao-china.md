@@ -101,6 +101,8 @@ confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐）"
 
 parallel_motifs:
+  - entry_id: east-asian-fox-cult
+    relation: 母题伞形入口——本条是东亚狐信仰跨文化谱系的母体源头
   - entry_id: tamamo-no-mae-japan
     relation: 妓己故事的日本后传——中国九尾狐妓己叙事被日本文学直接接续，建构出同一只九尾狐穿越三国千年的史诗架构，是东亚妖怪叙事跨文化嵌接的极致案例
   - entry_id: inari-kitsune-japan
