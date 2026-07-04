@@ -38,7 +38,7 @@ for (const e of entries) {
       <ul>
         {items.map(e => (
           <li>
-            <a href={`/entries/${e.data.id}`}>{e.data.name_primary}</a>
+            <a href={`${import.meta.env.BASE_URL.replace(/\/$/,'')}/entries/${e.data.id}`}>{e.data.name_primary}</a>
             <span class="meta">· {e.data.culture_path} · {e.data.entity_type}</span>
             <div class="summary">{e.data.summary}</div>
           </li>

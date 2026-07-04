@@ -1,5 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://mythos-atlas.local',
+  site: 'https://hectorchou.github.io',
+  base: '/mythos-atlas',
+  trailingSlash: 'ignore',
 });

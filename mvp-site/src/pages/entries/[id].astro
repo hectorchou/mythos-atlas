@@ -36,7 +36,7 @@ const d = entry.data;
   </style>
 </head>
 <body>
-  <a href="/" class="back">← 返回索引</a>
+  <a href={import.meta.env.BASE_URL} class="back">← 返回索引</a>
   <h1>{d.name_primary} <span class="original">{d.name_original}</span></h1>
   <div class="path">{d.culture_path} · {d.entity_type} · <span class={`confidence-${d.confidence}`}>{d.confidence}</span></div>
 
@@ -78,7 +78,7 @@ const d = entry.data;
     <>
       <h2>跨文化对照</h2>
       {d.parallel_motifs.map(p => (
-        <div class="parallel"><a href={`/entries/${p.entry_id}`}>{p.entry_id}</a> — {p.relation}</div>
+        <div class="parallel"><a href={`${import.meta.env.BASE_URL.replace(/\/$/,'')}/entries/${p.entry_id}`}>{p.entry_id}</a> — {p.relation}</div>
       ))}
     </>
   )}
