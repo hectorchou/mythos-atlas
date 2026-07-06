@@ -24,67 +24,67 @@ attributes: [人面羊身/狮身, 通晓天下万物精怪, 授黄帝白泽图, 
 
 primary_sources:
   - type: book
-    title: 抱朴子·内篇·极言
-    author: 葛洪
+    title: "抱朴子·内篇·极言"
+    author: "葛洪"
     year: 320
     language: zh
     location: 卷十三·极言
     url: https://ctext.org/wiki.pl?if=gb&res=571060
     access: open
-    note: "'昔黄帝……穷神奸则记白泽之辞……' 是白泽作为黄帝顾问的最早文献记载。葛洪东晋道教文献奠定了白泽的神圣定位"
+    note: "昔黄帝……穷神奸则记白泽之辞…… 是白泽作为黄帝顾问的最早文献记载。葛洪东晋道教文献奠定了白泽的神圣定位"
   - type: book
-    title: 云笈七签·轩辕本纪
-    author: 张君房（辑）
+    title: "云笈七签·轩辕本纪"
+    author: "张君房（辑）"
     year: 1029
     language: zh
     location: 卷一百·轩辕本纪
     url: https://ctext.org/wiki.pl?if=gb&res=555253
     access: open
-    note: "'（黄帝）巡狩东至海，登桓山，于海滨得白泽神兽，能言，达于万物之情。因问天下鬼神之事，自古精气为物、游魂为变者，凡万一千五百二十种，白泽言之，帝令以图写之，以示天下。' 是白泽授图叙事最完整的一次记载，'11520 种精怪'数字亦源于此"
+    note: "（黄帝）巡狩东至海，登桓山，于海滨得白泽神兽，能言，达于万物之情。因问天下鬼神之事，自古精气为物、游魂为变者，凡万一千五百二十种，白泽言之，帝令以图写之，以示天下。 是白泽授图叙事最完整的一次记载，11520 种精怪数字亦源于此"
   - type: manuscript
-    title: 敦煌残卷《白泽精怪图》
-    author: 佚名（唐代）
+    title: "敦煌残卷《白泽精怪图》"
+    author: "佚名（唐代）"
     year: 900
     language: zh
-    note: 敦煌莫高窟藏经洞出土的唐代《白泽图》残卷（现藏大英图书馆、法国国家图书馆），是**目前存世最早的白泽图实物**——虽已残缺，但保留了大量精怪图像与名称，为"白泽图"确曾存在提供了关键证据
+    note: "敦煌莫高窟藏经洞出土的唐代《白泽图》残卷（现藏大英图书馆、法国国家图书馆），是**目前存世最早的白泽图实物**——虽已残缺，但保留了大量精怪图像与名称，为白泽图确曾存在提供了关键证据"
   - type: book
-    title: 三才图会
-    author: 王圻
+    title: "三才图会"
+    author: "王圻"
     year: 1607
     language: zh
-    note: 明代类书，收录白泽图像的重要视觉资料源
+    note: "明代类书，收录白泽图像的重要视觉资料源"
 
 secondary_sources:
   - type: paper
     title: "白泽考——从东汉到唐宋"
-    author: 王小盾
+    author: "王小盾"
     year: 2004
     language: zh
-    note: 首都师范大学教授的核心考据论文，追溯白泽形象从东汉到宋代的完整演变
+    note: "首都师范大学教授的核心考据论文，追溯白泽形象从东汉到宋代的完整演变"
   - type: book
-    title: 中国妖怪学史
-    author: 陈器文
+    title: "中国妖怪学史"
+    author: "陈器文"
     year: 2011
     language: zh
-    note: 台湾中兴大学教授，将白泽定位为"中国妖怪学的神圣起源" —— 妖怪之所以可以被系统研究，正因为有白泽这一原初权威
+    note: "台湾中兴大学教授，将白泽定位为中国妖怪学的神圣起源 —— 妖怪之所以可以被系统研究，正因为有白泽这一原初权威"
   - type: book
-    title: 妖怪学新考
-    author: 小松和彦
+    title: "妖怪学新考"
+    author: "小松和彦"
     year: 1994
     language: ja
-    note: 日本妖怪学泰斗对白泽东传日本演化为"Hakutaku"神兽的分析——白泽是中日妖怪学传统的共同源头
+    note: "日本妖怪学泰斗对白泽东传日本演化为Hakutaku神兽的分析——白泽是中日妖怪学传统的共同源头"
   - type: paper
     title: "The Baize Illustrations of Demons: A Chinese Tradition of Cataloguing the Supernatural"
-    author: Anne S. Goodrich
+    author: "Anne S. Goodrich"
     year: 1991
     language: en
-    note: 英语学界研究白泽图传统的经典论文
+    note: "英语学界研究白泽图传统的经典论文"
   - type: paper
     title: "敦煌本《白泽精怪图》研究"
-    author: 姜生
+    author: "姜生"
     year: 2013
     language: zh
-    note: 敦煌残卷《白泽图》最新学术研究——从道教史与妖怪学双维度切入
+    note: "敦煌残卷《白泽图》最新学术研究——从道教史与妖怪学双维度切入"
 
 confidence: attested
 first_recorded: "东晋（约 320 年，《抱朴子》），传说起源可上溯至黄帝神话"
@@ -93,11 +93,11 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——白泽虽未直接出自《山海经》，但其"通晓万物"设定与山海经博物学传统一脉相承，是山海经精神的道教式延续
+    relation: "山海经母题伞形入口——白泽虽未直接出自《山海经》，但其通晓万物设定与山海经博物学传统一脉相承，是山海经精神的道教式延续"
   - entry_id: inari-kitsune-japan
-    relation: 东传日本——白泽经由佛教东传日本演化为"Hakutaku"神兽，与稻荷狐同属"中国神灵东渡日本"的传播链
+    relation: "东传日本——白泽经由佛教东传日本演化为Hakutaku神兽，与稻荷狐同属中国神灵东渡日本的传播链"
   - entry_id: huyao-china
-    relation: 白泽是"精怪知识化"的神圣起源，狐妖则是被白泽图收录的具体精怪之一——一为总纲，一为分目
+    relation: "白泽是精怪知识化的神圣起源，狐妖则是被白泽图收录的具体精怪之一——一为总纲，一为分目"
 
 curator: hector
 review_status: draft

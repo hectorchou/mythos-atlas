@@ -25,54 +25,54 @@ attributes: [三姊妹, 居Urðarbrunnr命运之井, 每日汲水浇树, 编织�
 
 primary_sources:
   - type: manuscript
-    title: Völuspá（女先知的预言）·20节
-    author: 佚名（10世纪口传）
+    title: "Völuspá（女先知的预言）·20节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Völuspá
     access: open
     note: "她们于泉源边设立法庭——从那里来了三位少女，无所不知，她们从水中走来，居于树下。第一位名叫Urðr（已生），第二位Verðandi（正在生），第三位Skuld（将生）——她们刻画命运，为诸神之子定夺人生，为世人宣布命运。 诺伦最原始最权威的文本记载"
   - type: manuscript
-    title: Fáfnismál（法夫尼尔之歌）·12-13节
-    author: 佚名
+    title: "Fáfnismál（法夫尼尔之歌）·12-13节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Fáfnismál
     access: open
     note: "诺伦有众多类别，来源各异——有的来自阿萨神族，有的来自精灵族，有的是Dvalinn矮人族的女儿。 是诺伦作为命运神格类型（不止三位）的关键文本，揭示命运神在北欧神话的分布式存在"
   - type: manuscript
-    title: Reginsmál（雷金之歌）·2节
-    author: 佚名
+    title: "Reginsmál（雷金之歌）·2节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Reginsmál
     access: open
     note: "记载Andvari矮人所述诺伦的判决决定了我下落于水中——诺伦命运判决不可违逆的原典证据"
   - type: manuscript
-    title: Helgakviða Hundingsbana I·2-4节
-    author: 佚名
+    title: "Helgakviða Hundingsbana I·2-4节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Helgakviða_Hundingsbana_I
     access: open
     note: "英雄Helgi出生时诺伦到场编织命运——她们编织命运的丝线一直伸展到月亮的殿堂，将金线固定在东西南北四方。是诺伦在新生儿床前宣命仪式的核心文本"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·15-16章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·15-16章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理三位主要诺伦（Urðr, Verðandi, Skuld）、其居所（Urðarbrunnr）、每日汲水浇灌世界树的完整叙事，以及另有众多诺伦，善者赐福，恶者赐祸的分类学"
   - type: archive
-    title: Ribe颅骨符文护身符
-    author: 丹麦Ribe刻工
+    title: "Ribe颅骨符文护身符"
+    author: "丹麦Ribe刻工"
     year: 725
     language: non
     note: "丹麦Ribe出土的公元725年颅骨护身符，卢恩铭文求Urðr及Óðinn助止血——是Urðr崇拜早于埃达500余年、且被视为治疗神格的关键实物证据"
   - type: archive
-    title: Frisian Westeremden B杖
-    author: 荷兰Westeremden
+    title: "Frisian Westeremden B杖"
+    author: "荷兰Westeremden"
     year: 800
     language: non
     note: "荷兰弗里斯兰Westeremden出土紫杉木杖，卢恩铭文提及Wurd/Urðr。是诺伦Urðr在西日耳曼语区（非北欧核心）也有崇拜的证据"
@@ -80,61 +80,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "The Norns in Old Norse Mythology"
-    author: Karen Bek-Pedersen
+    author: "Karen Bek-Pedersen"
     year: 2011
     language: en
     note: "Dunedin Academic Press。丹麦学者Bek-Pedersen专著，是当代英语学界诺伦研究的绝对权威。系统整合文本、考古、比较神话学证据"
   - type: book
     title: "Norse Mythology: A Guide"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "Norns 条目是当代英语学界最完整的整理"
   - type: paper
     title: "Wyrd, Urðr and Fate in Old English and Old Norse"
-    author: Karen Bek-Pedersen
+    author: "Karen Bek-Pedersen"
     year: 2007
     language: en
     note: "收录于《Studies in Old Norse Literature》。分析Urðr与古英语Wyrd（命运/怪异，Shakespeare女巫Weird Sisters的词源）的深层同源——是英语weird一词的隐性存活"
   - type: book
     title: "The Well and the Tree: World and Time in Early Germanic Culture"
-    author: Paul C. Bauschatz
+    author: "Paul C. Bauschatz"
     year: 1982
     language: en
     note: "University of Massachusetts Press。经典专著，论证日耳曼时间观是过去决定现在而非线性——现在是过去累积的重量，Urðr(过去)决定Verðandi(现在)决定Skuld(将来)。是诺伦时间哲学的权威研究"
   - type: book
     title: "Le Destin dans la Littérature Nordique Ancienne"
-    author: Régis Boyer
+    author: "Régis Boyer"
     year: 1979
     language: fr
     note: "法语学界巴黎索邦大学教授Boyer对北欧命运观的经典专著"
   - type: paper
     title: "The Fates and their Wheel"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
     note: "收录于《Myth and Religion of the North》。将诺伦与希腊Moirai、罗马Parcae、斯拉夫Rozhanitsy比较，是印欧三命运女神母题研究的经典"
   - type: paper
     title: "Norns, Disir, Valkyries: Female Supernatural Beings"
-    author: Judy Quinn
+    author: "Judy Quinn"
     year: 2006
     language: en
     note: "收录于《Old Norse Religion in Long-Term Perspectives》。深入分析诺伦与Dísir（家族守护女神）、Valkyrjur女武神的边界与重叠"
   - type: paper
     title: "運命の女神ノルンの三重構造"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1978
     language: ja
     note: "日语学界经典。谷口幸男对三诺伦时间结构的印欧比较分析"
   - type: book
     title: "Die Nornen: Studien über germanischen Schicksalsglauben"
-    author: Karl Bertholet
+    author: "Karl Bertholet"
     year: 1911
     language: de
     note: "德语学界最早的系统专著。虽年代久远但奠定了德语学界诺伦研究的基础框架"
   - type: paper
     title: "Fate and Foreknowledge in Old Norse Sagas"
-    author: Anthony Winterbourne
+    author: "Anthony Winterbourne"
     year: 2004
     language: en
     note: "《When the Norns Have Spoken: Time and Fate in Germanic Paganism》。分析诺伦命运观如何贯穿冰岛萨迦文学——每个英雄都活在诺伦已宣布的命运中"

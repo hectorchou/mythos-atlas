@@ -23,73 +23,73 @@ attributes: [九尾, 常化美女, 食人肝, 千年修炼可化人, 惧红豆�
 
 primary_sources:
   - type: book
-    title: 三國遺事（삼국유사）
-    author: 一然（일연）
+    title: "三國遺事（삼국유사）"
+    author: "一然（일연）"
     year: 1281
     language: ko-classical
     location: 卷四·义解第五·元晓不羁；卷五·感通第七
     url: https://kostma.aks.ac.kr/classic/gojunViewIframe.aspx?dataUCI=G002+CLA+KSM-WU.1281.0000-00000000.0006
     access: open
-    note: 高丽末期高僧一然编撰，记载新罗时期狐化女诱惑僧侣的最早叙事，是韩国狐妖文献学的一手源头
+    note: "高丽末期高僧一然编撰，记载新罗时期狐化女诱惑僧侣的最早叙事，是韩国狐妖文献学的一手源头"
   - type: book
-    title: 三國史記（삼국사기）
-    author: 金富軾（김부식）
+    title: "三國史記（삼국사기）"
+    author: "金富軾（김부식）"
     year: 1145
     language: ko-classical
-    note: 高丽正史，记录新罗、百济时期数则"九尾狐现"作为天象异兆——此时九尾狐仍保留中国"祥瑞/凶兆"双义性
+    note: "高丽正史，记录新罗、百济时期数则九尾狐现作为天象异兆——此时九尾狐仍保留中国祥瑞/凶兆双义性"
   - type: book
-    title: 於于野譚（어우야담）
-    author: 柳夢寅（유몽인）
+    title: "於于野譚（어우야담）"
+    author: "柳夢寅（유몽인）"
     year: 1622
     language: ko-classical
-    note: 朝鲜王朝早期最重要的野谈集之一，收录多则狐女化人诱惑士人的故事，是朝鲜半岛"恐怖化九尾狐"形象定型的关键文献
+    note: "朝鲜王朝早期最重要的野谈集之一，收录多则狐女化人诱惑士人的故事，是朝鲜半岛恐怖化九尾狐形象定型的关键文献"
   - type: book
-    title: 靑邱野談（청구야담）
-    author: 佚名
+    title: "靑邱野談（청구야담）"
+    author: "佚名"
     year: 1830
     language: ko-classical
-    note: 朝鲜王朝后期野谈集大成之作，狐妖故事密集，与《於于野譚》共同构成朝鲜狐叙事的双璧
+    note: "朝鲜王朝后期野谈集大成之作，狐妖故事密集，与《於于野譚》共同构成朝鲜狐叙事的双璧"
   - type: oral_record
-    title: 韩国口传民间故事·狐妹妹（여우누이）
-    author: 采集：任东权（임동권）等
+    title: "韩国口传民间故事·狐妹妹（여우누이）"
+    author: "采集：任东权（임동권）等"
     year: 20世纪
     language: ko
-    note: 朝鲜半岛流传最广的狐妖民间故事——九尾狐化为妹妹形态潜入人家，夜夜杀食家畜与家人心肝。是韩国狐妖恐怖形象在民间的活态遗存
+    note: "朝鲜半岛流传最广的狐妖民间故事——九尾狐化为妹妹形态潜入人家，夜夜杀食家畜与家人心肝。是韩国狐妖恐怖形象在民间的活态遗存"
 
 secondary_sources:
   - type: book
-    title: 한국 여우 이야기의 원형과 변용
-    author: 崔仁鶴（최인학）
+    title: "한국 여우 이야기의 원형과 변용"
+    author: "崔仁鶴（최인학）"
     year: 1996
     language: ko
-    note: 韩国民俗学界系统研究九尾狐叙事的奠基之作
+    note: "韩国民俗学界系统研究九尾狐叙事的奠基之作"
   - type: paper
     title: "The Gumiho：Sexuality, Foreignness, and the Female Fox in Korean Folklore"
-    author: Grayson, James H.
+    author: "Grayson, James H."
     year: 2001
     language: en
-    note: 谢菲尔德大学韩国学教授，从性别与他者性视角分析九尾狐形象
+    note: "谢菲尔德大学韩国学教授，从性别与他者性视角分析九尾狐形象"
   - type: paper
     title: "东亚狐妖叙事比较研究——以中日韩三国为中心"
-    author: 崔真喆
+    author: "崔真喆"
     year: 2015
     language: zh
-    note: 中韩比较文学视角，重点分析朝鲜半岛狐妖恐怖化的社会心理根源
+    note: "中韩比较文学视角，重点分析朝鲜半岛狐妖恐怖化的社会心理根源"
 
 confidence: attested
 first_recorded: "1145年（《三国史记》九尾狐兆象记载）；狐妖化人叙事系统化见于1281年《三国遗事》"
 
 parallel_motifs:
   - entry_id: east-asian-fox-cult
-    relation: 母题伞形入口——本条为中国狐妖西传朝鲜半岛的下沉分支
+    relation: "母题伞形入口——本条为中国狐妖西传朝鲜半岛的下沉分支"
   - entry_id: huyao-china
-    relation: 东亚狐信仰传播链的第三站——中国狐妖跨海传入朝鲜半岛后发生了与日本相反的重构：**恐怖化下沉**。保留了"化美女惑男子"母题，但剥离了修炼成仙与情义色彩，纯化为吞噬性妖异
+    relation: "东亚狐信仰传播链的第三站——中国狐妖跨海传入朝鲜半岛后发生了与日本相反的重构：**恐怖化下沉**。保留了化美女惑男子母题，但剥离了修炼成仙与情义色彩，纯化为吞噬性妖异"
   - entry_id: inari-kitsune-japan
-    relation: 中国狐妖东传的两条分岔——日本升格为神使（稻荷狐），韩国下沉为吞噬型妖异（九尾狐）。同一符号在不同文化土壤中走向完全相反的两极，是东亚宗教符号本土化研究的典型样本
+    relation: "中国狐妖东传的两条分岔——日本升格为神使（稻荷狐），韩国下沉为吞噬型妖异（九尾狐）。同一符号在不同文化土壤中走向完全相反的两极，是东亚宗教符号本土化研究的典型样本"
   - entry_id: tamamo-no-mae-japan
-    relation: 东亚两大"九尾狐化恶女"叙事的双子星——同源于中国妓己母题，但日本玩藻前发展出三国传来史诗化架构，韩国九尾狐则下沉为家庭恐怖叙事
+    relation: "东亚两大九尾狐化恶女叙事的双子星——同源于中国妓己母题，但日本玩藻前发展出三国传来史诗化架构，韩国九尾狐则下沉为家庭恐怖叙事"
   - entry_id: la-llorona-mexico
-    relation: 跨文化对照——韩国九尾狐"食人肝"与拉美La Llorona"杀子"，都是东西方对"女性异类致命性"焦虑的具象化表达
+    relation: "跨文化对照——韩国九尾狐食人肝与拉美La Llorona杀子，都是东西方对女性异类致命性焦虑的具象化表达"
 
 curator: hector
 review_status: draft

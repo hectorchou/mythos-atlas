@@ -22,17 +22,17 @@ attributes: [两栖, 头顶水盘, 喜好相扑, 拉马入水, 惧铁与猿]
 
 primary_sources:
   - type: book
-    title: 和汉三才图会
-    author: 寺岛良安
+    title: "和汉三才图会"
+    author: "寺岛良安"
     year: 1712
     language: ja
     location: 卷四十
     url: https://dl.ndl.go.jp/pid/2569722
     access: open
-    note: 日本国立国会图书馆藏本，江户时代类书
+    note: "日本国立国会图书馆藏本，江户时代类书"
   - type: book
-    title: 遠野物語
-    author: 柳田國男
+    title: "遠野物語"
+    author: "柳田國男"
     year: 1910
     language: ja
     location: 第55-59话
@@ -44,11 +44,11 @@ first_recorded: "1712（《和汉三才图会》系统记载）"
 
 parallel_motifs:
   - entry_id: kelpie-scotland
-    relation: 同为水系诱溺型妖怪，均有变形与拉人入水母题
+    relation: "同为水系诱溺型妖怪，均有变形与拉人入水母题"
   - entry_id: shuigui-china
-    relation: 东亚水系妖怪谱系对应位——日本河童保留'动物形态'特征，中国水鬼保留'人魂'特征
+    relation: "东亚水系妖怪谱系对应位——日本河童保留动物形态特征，中国水鬼保留人魂特征"
   - entry_id: tengu-japan
-    relation: 日本妖怪两大代表——河童是'水之妖怪'，天狗是'山之妖怪'，构成日本民间信仰的水—山二元空间结构
+    relation: "日本妖怪两大代表——河童是水之妖怪，天狗是山之妖怪，构成日本民间信仰的水—山二元空间结构"
 
 curator: hector
 review_status: draft

@@ -25,8 +25,8 @@ attributes: [独眼, 灰袍长者, 佩枪Gungnir, 骑八足马Sleipnir, 二鸦Hu
 
 primary_sources:
   - type: manuscript
-    title: Völuspá（女先知的预言）
-    author: 佚名（10世纪口传，Codex Regius收录）
+    title: "Völuspá（女先知的预言）"
+    author: "佚名（10世纪口传，Codex Regius收录）"
     year: 1270
     language: is
     location: 《诗体埃达》开篇第一诗，Codex Regius fol. 1r-3r
@@ -34,62 +34,62 @@ primary_sources:
     access: open
     note: "奥丁向女先知问询过去与未来的核心叙事，是诸神黄昏预言与奥丁知识追求的最重要文本"
   - type: manuscript
-    title: Hávamál（至高者之歌）
-    author: 佚名（10世纪口传）
+    title: "Hávamál（至高者之歌）"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hávamál
     access: open
     note: "收录奥丁自我悬挂世界树九昼夜（Rúnatal篇138-145节）的第一人称叙述——我知道我悬挂在风摇撼的树上，九个整夜，被长矛所伤，献给奥丁，我自己献给自己。是奥丁获取卢恩智慧的最权威原典"
   - type: manuscript
-    title: Grímnismál（格里姆尼尔之歌）
-    author: 佚名
+    title: "Grímnismál（格里姆尼尔之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Grímnismál
     access: open
     note: "奥丁化名Grímnir被凡人王囚禁烈焰之间，向少年讲述九界宇宙论与自己的众多别名（Nafnaþulur体系），是理解奥丁众名号的核心文本"
   - type: book
-    title: Gylfaginning（吉尔法欺骗）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "《散文埃达》第一部分。斯诺里系统整理奥丁的神职、家谱、事迹，是奥丁神话结构化叙事的唯一完整文本"
   - type: book
-    title: Ynglinga saga（挪威列王传·序）
-    author: Snorri Sturluson
+    title: "Ynglinga saga（挪威列王传·序）"
+    author: "Snorri Sturluson"
     year: 1230
     language: is
     url: https://sagadb.org/heimskringla
     access: open
     note: "斯诺里将奥丁历史化——从亚洲Tyrkland率阿萨人迁徙到北欧的人间王，是神话历史化最完整的样本，与Gylfaginning的神话叙事互为对照"
   - type: book
-    title: Gesta Danorum（Book I-III）
-    author: Saxo Grammaticus
+    title: "Gesta Danorum（Book I-III）"
+    author: "Saxo Grammaticus"
     year: 1208
     language: la
     url: https://www.kb.dk/en/gestadanorum
     access: open
     note: "丹麦拉丁文史书对奥丁（Othinus）的独立记载，与冰岛叙事有微妙差异，是三支系交叉验证的关键"
   - type: archive
-    title: Tacitus《Germania》
-    author: Publius Cornelius Tacitus
+    title: "Tacitus《Germania》"
+    author: "Publius Cornelius Tacitus"
     year: 98
     language: la
     url: https://www.thelatinlibrary.com/tacitus/tac.ger.shtml
     access: open
     note: "塔西陀公元98年《日耳曼尼亚志》第9章记载日耳曼人以Mercury（=Wodan）为最尊之神，并有人祭。是奥丁信仰早于埃达1100年的最重要外部证据"
   - type: archive
-    title: 冰岛/瑞典船葬（Oseberg / Gokstad / Sutton Hoo）
-    author: 出土文物
+    title: "冰岛/瑞典船葬（Oseberg / Gokstad / Sutton Hoo）"
+    author: "出土文物"
     year: 834
     language: non
     note: "挪威Oseberg船葬（834）与英格兰Sutton Hoo船葬（625）出土大量与奥丁崇拜相关器物——独眼头盔、Sleipnir纹样、渡鸦符号。是奥丁崇拜的实物证据"
   - type: archive
-    title: Rök石刻（Ög 136）
-    author: 瑞典维京刻工
+    title: "Rök石刻（Ög 136）"
+    author: "瑞典维京刻工"
     year: 800
     language: non
     url: https://app.raa.se/open/runor/inscription?id=b7ac7dc4-5c11-4ec6-ac6f-fcd0bf7a5d55
@@ -99,61 +99,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "牛津大学出版社。Odin条目是当前英语学界最权威的系统整理"
   - type: book
     title: "Odin: Ecstasy, Runes, and Norse Magic"
-    author: Diana Paxson
+    author: "Diana Paxson"
     year: 2017
     language: en
     note: "Weiser Books出版。当代英语学界对奥丁狂喜/卢恩/魔法三重职能的专著"
   - type: book
     title: "Cultes, mythes et religions"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1948
     language: fr
     note: "Dumézil印欧比较神话学奠基作。将奥丁定位为印欧第一功能（主权/魔法/知识）代表，与Tyr（法律主权）形成主权双元结构"
   - type: book
     title: "Die Religion der Germanen"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1957
     language: de
     note: "德语学界奠基作。第二卷对奥丁-Wodan的德语区信仰谱系有系统梳理"
   - type: book
     title: "Odin: Der einäugige Gott und die indogermanischen Rauschgottheiten"
-    author: Karl Helm
+    author: "Karl Helm"
     year: 1946
     language: de
     note: "德语学界经典专著，将奥丁纳入印欧狂喜之神谱系与吠陀鲁陀罗、希腊狄俄尼索斯等比较"
   - type: paper
     title: "Óðinn as Mercury: The Interpretatio Romana Model"
-    author: Rudolf Simek
+    author: "Rudolf Simek"
     year: 1993
     language: en
     note: "收录于《Dictionary of Northern Mythology》。分析罗马-日耳曼奥丁-Mercury对应关系的关键论文"
   - type: book
     title: "Óðinn"
-    author: Annette Lassen
+    author: "Annette Lassen"
     year: 2011
     language: is
     note: "冰岛大学Lassen教授的丹麦语/冰岛语专著《Odin på kristent pergament》，研究基督教抄本中奥丁形象的塑造。北欧本土学界代表作"
   - type: paper
     title: "オーディン神話における知の獲得"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1980
     language: ja
     note: "日本古北欧文学学界经典论文。谷口幸男是日语学界埃达最重要的译者，他对奥丁知识获取母题的分析是日语学界代表作"
   - type: book
-    title: 北欧神话ABC
-    author: 茅盾
+    title: "北欧神话ABC"
+    author: "茅盾"
     year: 1930
     language: zh
     note: "中文学界最早系统介绍奥丁的著作"
   - type: paper
     title: "Odin, Shamanism and Old Norse Religion"
-    author: Neil Price
+    author: "Neil Price"
     year: 2002
     language: en
     note: "收录于Price博士论文《The Viking Way: Religion and War in Late Iron Age Scandinavia》。论证奥丁信仰与萨米/西伯利亚萨满传统的深层结构同源，是21世纪最重要的奥丁研究之一"

@@ -23,137 +23,137 @@ attributes: [跨文化母题, 同源符号三极分化, 精怪修炼理论, 化�
 
 primary_sources:
   - type: book
-    title: 山海经
-    author: 佚名（战国至汉初）
+    title: "山海经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 南山经·青丘之山
     url: https://ctext.org/shan-hai-jing/nan-shan-jing
     access: open
-    note: 东亚狐信仰的共同源头——九尾狐首见记载"青丘之山有兽焉，其状如狐而九尾"
+    note: "东亚狐信仰的共同源头——九尾狐首见记载青丘之山有兽焉，其状如狐而九尾"
   - type: book
-    title: 玄中记
-    author: 郭璞
+    title: "玄中记"
+    author: "郭璞"
     year: 320
     language: zh
     url: https://ctext.org/wiki.pl?if=gb&res=88976
     access: open
-    note: 狐修炼年限理论奠基文献，此理论后随文化传播影响日韩狐信仰底层结构
+    note: "狐修炼年限理论奠基文献，此理论后随文化传播影响日韩狐信仰底层结构"
   - type: book
-    title: 日本書紀
-    author: 舍人親王等
+    title: "日本書紀"
+    author: "舍人親王等"
     year: 720
     language: ja
     url: https://dl.ndl.go.jp/pid/951165
     access: open
-    note: 日本稻荷神本尊（仓稲魂命）系统记载，是狐信仰在日本本土化的正统源头
+    note: "日本稻荷神本尊（仓稲魂命）系统记载，是狐信仰在日本本土化的正统源头"
   - type: book
-    title: 三國遺事
-    author: 一然
+    title: "三國遺事"
+    author: "一然"
     year: 1281
     language: ko-classical
     url: https://kostma.aks.ac.kr/classic/gojunViewIframe.aspx?dataUCI=G002+CLA+KSM-WU.1281.0000-00000000.0006
     access: open
-    note: 高丽末期高僧一然编撰，朝鲜半岛狐妖化人诱惑叙事的最早系统文献
+    note: "高丽末期高僧一然编撰，朝鲜半岛狐妖化人诱惑叙事的最早系统文献"
   - type: manuscript
-    title: 玉藻前三国伝記
-    author: 佚名（江户初期）
+    title: "玉藻前三国伝記"
+    author: "佚名（江户初期）"
     year: 1653
     language: ja
-    note: 东亚狐信仰跨文化连续性的最重要文本证据——将中国妲己与日本玉藻前明确接续为同一只九尾狐
+    note: "东亚狐信仰跨文化连续性的最重要文本证据——将中国妲己与日本玉藻前明确接续为同一只九尾狐"
 
 secondary_sources:
   - type: book
-    title: 中国狐文化
-    author: 李剑国
+    title: "中国狐文化"
+    author: "李剑国"
     year: 2002
     language: zh
-    note: 中文学界研究狐文化的集大成之作，涵盖狐信仰在东亚传播的完整脉络
+    note: "中文学界研究狐文化的集大成之作，涵盖狐信仰在东亚传播的完整脉络"
   - type: book
-    title: The Fox's Craft in Japanese Religion and Folklore
-    author: Michael Bathgate
+    title: "The Foxs Craft in Japanese Religion and Folklore"
+    author: "Michael Bathgate"
     year: 2004
     language: en
-    note: 芝加哥大学出版，英语学界研究日本狐信仰及其中国渊源的权威专著
+    note: "芝加哥大学出版，英语学界研究日本狐信仰及其中国渊源的权威专著"
   - type: paper
     title: "东亚狐妖叙事比较研究——以中日韩三国为中心"
-    author: 崔真喆
+    author: "崔真喆"
     year: 2015
     language: zh
-    note: 中日韩三国狐叙事比较研究的代表作
+    note: "中日韩三国狐叙事比较研究的代表作"
   - type: paper
     title: "从祥瑞到妖媚：九尾狐形象的历史流变"
-    author: 王青
+    author: "王青"
     year: 2003
     language: zh
-    note: 追溯九尾狐在中国内部语义演变的核心论文
+    note: "追溯九尾狐在中国内部语义演变的核心论文"
   - type: paper
     title: "East Asian Fox Legends: Read at Your Own Risk, Possession Possible"
-    author: Lauren Noelle Schmidt
+    author: "Lauren Noelle Schmidt"
     year: 2010
     language: en
-    note: 英文学界少见的三国对比系统研究，从 10 个维度构建对比表（属性、寿命、变形、毛色、弱点、尾数等）
+    note: "英文学界少见的三国对比系统研究，从 10 个维度构建对比表（属性、寿命、变形、毛色、弱点、尾数等）"
   - type: paper
     title: "中日戏曲中的九尾狐形象探析——以妓己与玉藻前为中心"
-    author: 刘国勇 & 刘艳绒
+    author: "刘国勇 & 刘艳绒"
     year: 2024
     language: zh
-    note: 中日戏曲舞台呈现对比，提出中国妖狐矮化与"封神戏"对女性执政焦虑相关
+    note: "中日戏曲舞台呈现对比，提出中国妖狐矮化与封神戏对女性执政焦虑相关"
   - type: paper
     title: "A Comparative Study on Foxy Bead Folktales in Korea and Japan"
-    author: Noh Sung-Hwan
+    author: "Noh Sung-Hwan"
     year: 2019
     language: en-ko
     url: https://doi.org/10.21792/trijpn.2019..87.021
-    note: 革日狐珠（狐丹）故事比较，发现"人吞狐珠"故事仅存于韩国
+    note: "革日狐珠（狐丹）故事比较，发现人吞狐珠故事仅存于韩国"
   - type: paper
     title: "狐狸与日本的稻荷神信仰"
-    author: 李玉洁
+    author: "李玉洁"
     year: 2011
     language: zh
-    note: 关键论点：日本稻荷神社创祀者为中国秦朝赴日的秦氏后裔，揭示了中日狐信仰传播的具体历史机制
+    note: "关键论点：日本稻荷神社创祀者为中国秦朝赴日的秦氏后裔，揭示了中日狐信仰传播的具体历史机制"
   - type: paper
     title: "狐狸变身谭的中日比较研究——以《太平广记》与《今昔物語集》为线索"
-    author: 郑一鸣
+    author: "郑一鸣"
     year: 2020
     language: zh
-    note: 以两国最重要的志怪总集为对比文本，依据充分
+    note: "以两国最重要的志怪总集为对比文本，依据充分"
   - type: book
     title: "The Cult of the Fox: Power, Gender, and Popular Religion in Late Imperial and Modern China"
-    author: Kang Xiaofei
+    author: "Kang Xiaofei"
     year: 2006
     language: en
-    note: 英文学界研究中国狐仙信仰的第一奠基作（Columbia University Press），从权力—性别—民间宗教三维度展开
+    note: "英文学界研究中国狐仙信仰的第一奠基作（Columbia University Press），从权力—性别—民间宗教三维度展开"
   - type: book
     title: "Alien Kind: Foxes and Late Imperial Chinese Narrative"
-    author: Rania Huntington
+    author: "Rania Huntington"
     year: 2003
     language: en
-    note: 英文学界明清狐妖文学研究的奠基专著（Harvard East Asian Monographs），提出狐妖是“跨越物种/性别/生死边界”的核心日常心得载体
+    note: "英文学界明清狐妖文学研究的奠基专著（Harvard East Asian Monographs），提出狐妖是“跨越物种/性别/生死边界”的核心日常心得载体"
   - type: book
     title: "The Fox and the Jewel: Shared and Private Meanings in Contemporary Japanese Inari Worship"
-    author: Karen A. Smyers
+    author: "Karen A. Smyers"
     year: 1999
     language: en
-    note: 当代稲荷信仰民族志研究开山之作（University of Hawai'i Press），剥析神道神使在当代日本的“共享—私人”双层意义结构
+    note: "当代稲荷信仰民族志研究开山之作（University of Hawaii Press），剥析神道神使在当代日本的“共享—私人”双层意义结构"
   - type: book
     title: "Pandemonium and Parade: Japanese Monsters and the Culture of Yokai"
-    author: Michael Dylan Foster
+    author: "Michael Dylan Foster"
     year: 2009
     language: en
-    note: 当代日本妖怪学英文学界第一权威（University of California Press），为稻荷狐/玉藻前/天狗提供统一方法论支撑
+    note: "当代日本妖怪学英文学界第一权威（University of California Press），为稻荷狐/玉藻前/天狗提供统一方法论支撑"
   - type: book
     title: "妖怪学新考 / 日本妖怪学大全"
-    author: 小松和彦
+    author: "小松和彦"
     year: 1994
     language: ja
-    note: 日本当代妖怪学领袖人物，提出“妖怪是不被祭祀的神”——为稻荷狐/玉藻前同源分化提供日语学界理论原点
+    note: "日本当代妖怪学领袖人物，提出“妖怪是不被祭祀的神”——为稻荷狐/玉藻前同源分化提供日语学界理论原点"
   - type: paper
     title: "论古典文献中九尾狐形象之流变"
-    author: 许净瞳
+    author: "许净瞳"
     year: 2011
     language: zh
-    note: 提出重要学术争议——《山海经》青丘山与青丘国为两处，郭璞注可能为误读，为九尾狐溡源提供新可能
+    note: "提出重要学术争议——《山海经》青丘山与青丘国为两处，郭璞注可能为误读，为九尾狐溡源提供新可能"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐原型）"
@@ -162,13 +162,13 @@ related_entries: [huyao-china, inari-kitsune-japan, gumiho-korea, tamamo-no-mae-
 
 parallel_motifs:
   - entry_id: huyao-china
-    relation: 母题源头——中国狐妖是东亚狐信仰的共同母体，本身即完成了从祥瑞到妖媚到情义的多次内部演变
+    relation: "母题源头——中国狐妖是东亚狐信仰的共同母体，本身即完成了从祥瑞到妖媚到情义的多次内部演变"
   - entry_id: inari-kitsune-japan
-    relation: 日本升格支——中国狐妖东传后升格为神使，嵌入神道体系，是"宗教符号跨文化升格"的典型
+    relation: "日本升格支——中国狐妖东传后升格为神使，嵌入神道体系，是宗教符号跨文化升格的典型"
   - entry_id: gumiho-korea
-    relation: 韩国下沉支——中国狐妖西传朝鲜半岛后下沉为吞噬型妖异，是"宗教符号跨文化下沉"的典型
+    relation: "韩国下沉支——中国狐妖西传朝鲜半岛后下沉为吞噬型妖异，是宗教符号跨文化下沉的典型"
   - entry_id: tamamo-no-mae-japan
-    relation: 日本史诗化支——将中国妲己叙事直接接续为同一只九尾狐的转世，是东亚妖怪叙事跨国连续性的极致
+    relation: "日本史诗化支——将中国妲己叙事直接接续为同一只九尾狐的转世，是东亚妖怪叙事跨国连续性的极致"
 
 curator: hector
 review_status: draft

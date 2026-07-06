@@ -26,8 +26,8 @@ attributes: [仪式化球赛, 橡胶球（重3-4公斤）, 用臀部/髋部击�
 
 primary_sources:
   - type: book
-    title: Popol Vuh·第二部（球赛叙事）
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第二部（球赛叙事）"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -35,62 +35,62 @@ primary_sources:
     access: open
     note: "《波波尔·乌》中球赛出现十余次——从父辈Hun Hunahpu的失败球赛到双子英雄在Xibalba的胜利球赛。是理解玛雅球赛宗教意义的唯一原典文本"
   - type: archive
-    title: Paso de la Amada球场（Chiapas）
-    author: 前古典期先民
+    title: "Paso de la Amada球场（Chiapas）"
+    author: "前古典期先民"
     year: -1650
     language: unk
     note: "墨西哥恰帕斯Paso de la Amada遗址——**世界已知最古老的球场**（公元前1650年）。是Mesoamerican Ballgame早于玛雅文明的证据，也是中美洲仪式化球赛3000+年历史的起点"
   - type: archive
-    title: Chichén Itzá Gran Juego de Pelota（大球场）
-    author: 后古典期Toltec-Maya
+    title: "Chichén Itzá Gran Juego de Pelota（大球场）"
+    author: "后古典期Toltec-Maya"
     year: 1000
     language: myn
     note: "尤卡坦Chichén Itzá大球场——**世界最大的中美洲球场**（166米×68米）。石浮雕描绘球员被斩首后血喷成七条蛇的场景——是球赛-献祭-创世三位一体的核心实物。UNESCO世界遗产"
   - type: archive
-    title: Copán球场
-    author: 古典期Copán
+    title: "Copán球场"
+    author: "古典期Copán"
     year: 738
     language: myn
     note: "洪都拉斯Copán球场——玛雅古典期最精致的球场之一。King 18 Rabbit于738年重修，装饰着六只巨型鹦鹉头石雕（对应Vucub Caquix，双子英雄射下的骄傲鹦鹉神）。是球赛叙事与建筑装饰绑定的经典实物"
   - type: archive
-    title: El Tajín球场浮雕（Veracruz）
-    author: 埃皮古典期El Tajín文化
+    title: "El Tajín球场浮雕（Veracruz）"
+    author: "埃皮古典期El Tajín文化"
     year: 900
     language: unk
     note: "墨西哥Veracruz州El Tajín遗址——拥有17座球场（**已知最多球场的单一遗址**）。南球场石浮雕系列描绘完整的球赛-献祭-复活仪式——是理解仪式化球赛叙事结构的最完整实物证据"
   - type: archive
-    title: Yaxchilan Lintel 24 & 26
-    author: 古典期Yaxchilan
+    title: "Yaxchilan Lintel 24 & 26"
+    author: "古典期Yaxchilan"
     year: 725
     language: myn
     note: "墨西哥Yaxchilan遗址24与26号门楣浮雕——描绘Bird Jaguar IV王的球赛加冕仪式。是玛雅王与球赛神学绑定的核心图像证据"
   - type: archive
-    title: 玛雅古典期陶器球赛场景 K2803, K1288, K1209
-    author: 古典期玛雅陶器绘画师
+    title: "玛雅古典期陶器球赛场景 K2803, K1288, K1209"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "Maya Vase Database收录数百件描绘球赛的古典期陶器——双子英雄在Xibalba球场比赛的图像证据。是《波波尔·乌》球赛叙事早于文本800年的图像证据"
   - type: book
-    title: Florentine Codex（第八卷）
-    author: Fray Bernardino de Sahagún
+    title: "Florentine Codex（第八卷）"
+    author: "Fray Bernardino de Sahagún"
     year: 1577
     language: nah-es
     url: https://www.wdl.org/en/item/10096/
     access: open
     note: "Sahagún记载阿兹特克Ōllamaliztli球赛的完整规则、装备、宗教意义——是接触时代（1519年前后）实际球赛实践的最重要文本证据"
   - type: archive
-    title: Codex Borgia 21页
-    author: 前哥伦布晚期墨西哥中央高地祭司
+    title: "Codex Borgia 21页"
+    author: "前哥伦布晚期墨西哥中央高地祭司"
     year: 1400
     language: nah
     url: https://www.famsi.org/research/loubat/Borgia/thumbs0.html
     access: open
     note: "Codex Borgia 21页描绘完整的球赛-太阳/月亮神学场景——是前哥伦布时期球赛宗教意义的一手图像证据"
   - type: archive
-    title: 橡胶球（Manatí, Veracruz出土）
-    author: 前古典期奥尔梅克
+    title: "橡胶球（Manatí, Veracruz出土）"
+    author: "前古典期奥尔梅克"
     year: -1600
     language: unk
     note: "墨西哥Veracruz州El Manatí遗址出土的公元前1600年橡胶球（世界最早保存下来的橡胶制品）——证明中美洲最早球赛使用橡胶球的物质证据。目前藏于墨西哥Xalapa人类学博物馆"
@@ -98,85 +98,85 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "The Sport of Life and Death: The Mesoamerican Ballgame"
-    author: E. Michael Whittington 编
+    author: "E. Michael Whittington 编"
     year: 2001
     language: en
     note: "Thames & Hudson出版。**Mint Museum of Art联合北美+拉美+欧洲多国学者的划时代综合研究**——20+位学者从考古、图像、文本、仪式、当代复活多维度综合研究中美洲球赛。是英语学界最权威的球赛专著"
   - type: book
     title: "The Mesoamerican Ballgame"
-    author: Vernon L. Scarborough & David R. Wilcox 编
+    author: "Vernon L. Scarborough & David R. Wilcox 编"
     year: 1991
     language: en
     note: "University of Arizona Press。多学者综合研究——第一本英语学界系统整理中美洲球赛的学术专著，为后续研究奠定框架"
   - type: book
     title: "The Blood of Kings"
-    author: Linda Schele & Mary Ellen Miller
+    author: "Linda Schele & Mary Ellen Miller"
     year: 1986
     language: en
     note: "**系统论证玛雅球赛是双子英雄叙事的仪式再现**——玛雅王作为Hunahpu化身在球场上重演Xibalba战斗。是玛雅王权=球赛神学理论的核心"
   - type: paper
     title: "The Ballgame and the Cult of the Twins"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1985
     language: en
     note: "收录于《Fifth Palenque Round Table》。Taube论证古典期陶器与球场浮雕上的球赛场景就是《波波尔·乌》双子英雄叙事——图像-文本对应的关键论文"
   - type: paper
     title: "El juego de pelota mesoamericano"
-    author: Ted J. J. Leyenaar
+    author: "Ted J. J. Leyenaar"
     year: 1978
     language: es
     note: "荷兰学者Leyenaar对西北墨西哥Ulama球赛（中美洲球赛的当代残留形式）的民族志研究——是理解仪式化球赛实际形态的关键"
   - type: paper
     title: "The Maya Ballgame: Rebirth in the Court of Life and Death"
-    author: Anita G. Cook
+    author: "Anita G. Cook"
     year: 2001
     language: en
     note: "收录于《The Sport of Life and Death》。Cook论证球赛不仅是献祭仪式，也是复活仪式——输赢双方在宇宙循环中都有其位置"
   - type: book
     title: "The Ancient Maya"
-    author: Sharer & Traxler
+    author: "Sharer & Traxler"
     year: 2006
     language: en
     note: "Stanford University Press第6版。玛雅考古学标准教材对1500+已确认球场的系统整理"
   - type: paper
     title: "El juego de pelota en la cosmovisión maya"
-    author: Mercedes de la Garza
+    author: "Mercedes de la Garza"
     year: 1998
     language: es
     note: "墨西哥国立自治大学。**de la Garza是拉美学界玛雅宗教研究的权威学者之一**——对球赛哲学意义的深入分析"
   - type: paper
     title: "The Ballgame in Mesoamerican Iconography"
-    author: Marvin Cohodas
+    author: "Marvin Cohodas"
     year: 1975
     language: en
     note: "收录于《American Antiquity》。加拿大学者Cohodas对球赛图像早期系统研究，为后续研究奠定图像学基础"
   - type: book
     title: "Le jeu de balle dans la Mésoamérique préhispanique"
-    author: Christian Duverger
+    author: "Christian Duverger"
     year: 1978
     language: fr
     note: "**法语学界的经典专著**——巴黎社会科学高等研究院教授Duverger对中美洲球赛的完整分析。法国拉美研究传统的代表作"
   - type: paper
     title: "『ポポル・ヴフ』における球技"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1985
     language: ja
     note: "日语学界玛雅研究奠基者对球赛叙事的系统介绍"
   - type: paper
     title: "Blood and Beauty: The Aesthetics of Ballgame Violence"
-    author: Stephen Houston
+    author: "Stephen Houston"
     year: 2014
     language: en
     note: "玛雅象形文字破译权威Houston对球赛美学的当代研究——**斩首献祭在玛雅审美中被视为美而非暴力**"
   - type: paper
     title: "Ulama: The Ancient Ball Game of Sinaloa"
-    author: Manuel Aguilar-Moreno
+    author: "Manuel Aguilar-Moreno"
     year: 2007
     language: en
     note: "**对西北墨西哥Sinaloa州至今仍在实践的Ulama球赛的民族志研究**——Ulama是玛雅球赛在当代唯一的连续传承（虽已去仪式化），是理解古代球赛实际动作的关键"
   - type: book
-    title: 玛雅文明
-    author: 白凤森
+    title: "玛雅文明"
+    author: "白凤森"
     year: 2004
     language: zh
     note: "商务印书馆。中文学界对玛雅球赛的介绍"

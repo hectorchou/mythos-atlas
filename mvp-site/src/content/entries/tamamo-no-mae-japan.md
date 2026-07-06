@@ -23,89 +23,89 @@ attributes: [白面金毛九尾, 绝美贵妃, 通晓百家学问, 三国祸国�
 
 primary_sources:
   - type: manuscript
-    title: 神明鏡（しんめいかがみ）
-    author: 佚名（室町时代）
+    title: "神明鏡（しんめいかがみ）"
+    author: "佚名（室町时代）"
     year: 1400
     language: ja
     location: 卷下·玉藻前条
-    note: 现存最早系统记载玉藻前故事的文献之一，室町时代抄本，是"三国传来金毛九尾狐"叙事的原型来源
+    note: "现存最早系统记载玉藻前故事的文献之一，室町时代抄本，是三国传来金毛九尾狐叙事的原型来源"
   - type: manuscript
-    title: 玉藻前草子（たまものまえそうし）
-    author: 佚名（室町至江户初期）
+    title: "玉藻前草子（たまものまえそうし）"
+    author: "佚名（室町至江户初期）"
     year: 1500
     language: ja
-    note: 御伽草子系列作品，日本古典文学研究中"玉藻前叙事定型期"的核心一手文献。日本国立国会图书馆藏有多种江户抄本
+    note: "御伽草子系列作品，日本古典文学研究中玉藻前叙事定型期的核心一手文献。日本国立国会图书馆藏有多种江户抄本"
   - type: manuscript
-    title: 玉藻前三国伝記（三國傳記）
-    author: 佚名（江户初期）
+    title: "玉藻前三国伝記（三國傳記）"
+    author: "佚名（江户初期）"
     year: 1653
     language: ja
-    note: 江户初期将玉藻前叙事扩展为"印度→中国（妲己）→日本"三国祸国的经典版本，是后世能乐、歌舞伎、浮世绘的共同底本
+    note: "江户初期将玉藻前叙事扩展为印度→中国（妲己）→日本三国祸国的经典版本，是后世能乐、歌舞伎、浮世绘的共同底本"
   - type: book
-    title: 謡曲「殺生石」（能乐剧本）
-    author: 世阿弥流派（据传）
+    title: "謡曲「殺生石」（能乐剧本）"
+    author: "世阿弥流派（据传）"
     year: 1450
     language: ja
     url: https://www.the-noh.com/jp/plays/data/program_050.html
     access: open
-    note: 世阿弥能乐流派代表作之一，"杀生石"是能乐五番目物（切能）名作，将玄翁和尚打碎杀生石、超度玉藻前怨灵的情节定型
+    note: "世阿弥能乐流派代表作之一，杀生石是能乐五番目物（切能）名作，将玄翁和尚打碎杀生石、超度玉藻前怨灵的情节定型"
   - type: book
-    title: 絵本三国妖婦伝
-    author: 高井蘭山
+    title: "絵本三国妖婦伝"
+    author: "高井蘭山"
     year: 1804
     language: ja
     url: https://dl.ndl.go.jp/pid/2536492
     access: open
-    note: 江户后期读本小说集大成之作，将玉藻前"三国传来"叙事推向大众读者，日本国立国会图书馆藏
+    note: "江户后期读本小说集大成之作，将玉藻前三国传来叙事推向大众读者，日本国立国会图书馆藏"
   - type: book
-    title: 歌舞伎「玉藻前曦袂」（たまものまえあさひのたもと）
-    author: 松貫四 等
+    title: "歌舞伎「玉藻前曦袂」（たまものまえあさひのたもと）"
+    author: "松貫四 等"
     year: 1751
     language: ja
-    note: 江户中期歌舞伎名作，将玉藻前故事戏剧化为舞台表演经典，至今仍为歌舞伎保留剧目
+    note: "江户中期歌舞伎名作，将玉藻前故事戏剧化为舞台表演经典，至今仍为歌舞伎保留剧目"
   - type: archive
-    title: 那須野「殺生石」遺跡
-    author: 栃木县那须町
+    title: "那須野「殺生石」遺跡"
+    author: "栃木县那须町"
     year: 传说源起至今
     language: ja
     url: https://www.nasukogen.org/
     access: open
-    note: 栃木县那须温泉神社附近的实体"杀生石"，是玉藻前传说的活态圣地，至今为国家指定名胜。2022年3月自然崩裂事件曾引发日本社会广泛关注
+    note: "栃木县那须温泉神社附近的实体杀生石，是玉藻前传说的活态圣地，至今为国家指定名胜。2022年3月自然崩裂事件曾引发日本社会广泛关注"
 
 secondary_sources:
   - type: book
-    title: 玉藻前伝説の研究
-    author: 田中貴子
+    title: "玉藻前伝説の研究"
+    author: "田中貴子"
     year: 1996
     language: ja
-    note: 京都精华大学教授，玉藻前叙事史研究的奠基之作
+    note: "京都精华大学教授，玉藻前叙事史研究的奠基之作"
   - type: paper
     title: "Tamamo-no-Mae：The Nine-Tailed Fox in Japanese Literature and Culture"
-    author: Michael Bathgate
+    author: "Michael Bathgate"
     year: 2004
     language: en
-    note: 收录于《The Fox's Craft in Japanese Religion and Folklore》，芝加哥大学出版
+    note: "收录于《The Foxs Craft in Japanese Religion and Folklore》，芝加哥大学出版"
   - type: paper
     title: "从妲己到玉藻前——东亚九尾狐叙事的跨文化重构"
-    author: 王鑫
+    author: "王鑫"
     year: 2018
     language: zh
-    note: 中日比较文学视角，重点分析玉藻前叙事如何吸收并重构中国妲己形象
+    note: "中日比较文学视角，重点分析玉藻前叙事如何吸收并重构中国妲己形象"
 
 confidence: attested
 first_recorded: "室町时代（15世纪《神明鏡》等抄本），传说渊源可追溯至平安末期"
 
 parallel_motifs:
   - entry_id: east-asian-fox-cult
-    relation: 母题伞形入口——本条为中国狐妖东传日本的史诗化分支
+    relation: "母题伞形入口——本条为中国狐妖东传日本的史诗化分支"
   - entry_id: gumiho-korea
-    relation: 东亚两大"九尾狐化恶女"叙事的双子星——日本玉藻前与韩国九尾狐均沿袭中国九尾狐"化美女惑君主"母题，但走向不同：玉藻前发展出"三国传来"的史诗化架构与"杀生石"物质化归宿，韩国九尾狐则下沉为民间叙事与家庭恐怖
+    relation: "东亚两大九尾狐化恶女叙事的双子星——日本玉藻前与韩国九尾狐均沿袭中国九尾狐化美女惑君主母题，但走向不同：玉藻前发展出三国传来的史诗化架构与杀生石物质化归宿，韩国九尾狐则下沉为民间叙事与家庭恐怖"
   - entry_id: huyao-china
-    relation: 玉藻前的中国前传是妲己——这是东亚妖怪叙事中罕见的"跨国身份连续"设定：**同一狐妖穿越千年三国**，将中日两国的"祸国妖狐"传说直接嫁接为一条时间线。是研究东亚妖怪叙事跨文化融合的最完整案例
+    relation: "玉藻前的中国前传是妲己——这是东亚妖怪叙事中罕见的跨国身份连续设定：**同一狐妖穿越千年三国**，将中日两国的祸国妖狐传说直接嫁接为一条时间线。是研究东亚妖怪叙事跨文化融合的最完整案例"
   - entry_id: inari-kitsune-japan
-    relation: 日本狐信仰内部"神—妖"两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致。两者共同支撑起日本狐文化的完整光谱
+    relation: "日本狐信仰内部神—妖两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致。两者共同支撑起日本狐文化的完整光谱"
   - entry_id: tengu-japan
-    relation: 日本三大妖怪并列——玉藻前、酒呑童子、大嶽丸；玉藻前是三者中唯一"跨国界修炼型"妖怪，其地位与本土出身的天狗、鬼形成对照
+    relation: "日本三大妖怪并列——玉藻前、酒呑童子、大嶽丸；玉藻前是三者中唯一跨国界修炼型妖怪，其地位与本土出身的天狗、鬼形成对照"
 
 curator: hector
 review_status: draft

@@ -25,68 +25,68 @@ attributes: [红发红须, 力大无穷, 雷神之锤Mjǫllnir, 力量腰带Megi
 
 primary_sources:
   - type: manuscript
-    title: Þrymskviða（索列之歌）
-    author: 佚名（10世纪口传）
+    title: "Þrymskviða（索列之歌）"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Þrymskviða
     access: open
     note: "《诗体埃达》最完整的托尔叙事——巨人Þrymr盗走Mjǫllnir索娶芙蕾雅，托尔被迫女扮嫁装夺回雷神之锤。是北欧神话最具戏剧张力与幽默感的诗篇"
   - type: manuscript
-    title: Hymiskviða（希米尔之歌）
-    author: 佚名
+    title: "Hymiskviða（希米尔之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hymiskviða
     access: open
     note: "托尔与巨人Hymir出海钓中庭巨蛇Jǫrmungandr的核心叙事，是Ragnarök时二者最终对决的伏笔"
   - type: manuscript
-    title: Hárbarðsljóð（灰须之歌）
-    author: 佚名
+    title: "Hárbarðsljóð（灰须之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hárbarðsljóð
     access: open
     note: "托尔与化名Hárbarðr的奥丁隔河斗嘴，是奥丁-托尔父子性格对照最直白的文本——奥丁夸耀征服贵妇，托尔夸耀屠杀巨人"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·38-47章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·38-47章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理托尔的家谱与Útgarða-Loki骗局的完整叙事——托尔在巨人城被幻术击败醉酒未饮尽杯中海水、抱起的老猫是中庭巨蛇、摔跤输给的老妪是衰老本身。是北欧神话中最深刻的哲学寓言"
   - type: book
-    title: Skáldskaparmál（诗歌语言）
-    author: Snorri Sturluson
+    title: "Skáldskaparmál（诗歌语言）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "收录托尔战巨人Hrungnir、Geirrøðr的两大叙事，是Mjǫllnir被制造的完整背景"
   - type: archive
-    title: Mjǫllnir锤形护身符（Þórshamrar）
-    author: 维京匠人（10-11世纪）
+    title: "Mjǫllnir锤形护身符（Þórshamrar）"
+    author: "维京匠人（10-11世纪）"
     year: 950
     language: non
     note: "斯堪的纳维亚及俄罗斯出土超过1000枚锤形护身符，是托尔崇拜考古证据最丰富的实物类型。晚期与十字架混合出现，反映基督教化过渡期的信仰博弈"
   - type: archive
-    title: Altuna石刻（U 1161）
-    author: 瑞典维京刻工
+    title: "Altuna石刻（U 1161）"
+    author: "瑞典维京刻工"
     year: 1050
     language: non
     url: https://app.raa.se/open/runor/inscription?id=fdefb75d-42f5-4c3a-a894-e46f2eb9d90c
     access: open
     note: "瑞典Altuna石描绘托尔垂钓中庭巨蛇场景，是Hymiskviða叙事的实物证据。类似的Hørdum石（丹麦）、Ardre VIII石（哥特兰）构成完整的钓蛇图像谱系"
   - type: archive
-    title: Kvinneby护身符（Öl SAS1989;43）
-    author: 瑞典厄兰岛
+    title: "Kvinneby护身符（Öl SAS1989;43）"
+    author: "瑞典厄兰岛"
     year: 1050
     language: non
     note: "铜制护身符上刻卢恩铭文求托尔护佑，直接引用Mjǫllnir之名。是托尔作为民间保护神的最直接实物证据"
   - type: archive
-    title: Adam of Bremen《Gesta Hammaburgensis》第四书
-    author: Adam of Bremen
+    title: "Adam of Bremen《Gesta Hammaburgensis》第四书"
+    author: "Adam of Bremen"
     year: 1076
     language: la
     url: https://sourcebooks.fordham.edu/basis/adam-bremen.asp
@@ -95,62 +95,62 @@ primary_sources:
 
 secondary_sources:
   - type: book
-    title: "Thor's Hammer: Norse Mythology for Blockheads"
-    author: John Lindow
+    title: "Thors Hammer: Norse Mythology for Blockheads"
+    author: "John Lindow"
     year: 2001
     language: en
     note: "收录于《Norse Mythology》。当代英语学界托尔条目最完整整理"
   - type: book
     title: "Thor: Myth to Marvel"
-    author: Martin Arnold
+    author: "Martin Arnold"
     year: 2011
     language: en
     note: "Continuum出版。追踪托尔从维京神明到漫威英雄的完整接受史，是神话现代化研究的经典个案"
   - type: book
     title: "Le Dieu Scandinave Þórr"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1948
     language: fr
     note: "Dumézil印欧比较神话学。将托尔定位为印欧第二功能（战争/力量）代表，与吠陀Indra、罗马Mars形成三重功能中的战神轴"
   - type: book
     title: "Die Religion der Germanen"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1957
     language: de
     note: "德语学界。第二卷对Donar/Þunor/Þórr跨日耳曼语区雷神谱系的系统整理"
   - type: paper
-    title: "Thor's Fishing Expedition"
-    author: Preben Meulengracht Sørensen
+    title: "Thors Fishing Expedition"
+    author: "Preben Meulengracht Sørensen"
     year: 1986
     language: en
     note: "收录于《Words and Objects》。丹麦学者对钓蛇母题的图像学-文本学综合研究"
   - type: paper
     title: "The Hammer of Thor: Amulets and Cosmic Order"
-    author: Anders Kaliff
+    author: "Anders Kaliff"
     year: 2007
     language: en
     note: "收录于《Fire, Water, Heaven and Earth》。瑞典考古学者对Mjǫllnir护身符的宗教社会学分析"
   - type: book
     title: "Thor and Óðinn: A Comparative Study"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
     note: "收录于《Myth and Religion of the North》。经典的托尔-奥丁对比研究，指出托尔是农民/自由民的神，奥丁是国王/贵族的神"
   - type: paper
     title: "トールとインドラ"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1985
     language: ja
     note: "日语学界对托尔-Indra印欧对应关系的研究"
   - type: paper
     title: "Iron-Age Mjǫllnir Pendants in Scandinavia"
-    author: Nanouschka Myrberg Burström
+    author: "Nanouschka Myrberg Burström"
     year: 2013
     language: en
     note: "斯德哥尔摩大学考古学者对锤形护身符的类型学与地理分布研究，是理解托尔崇拜规模的量化证据"
   - type: book
-    title: 北欧神话故事
-    author: 石琴娥
+    title: "北欧神话故事"
+    author: "石琴娥"
     year: 2000
     language: zh
     note: "中国社科院学者石琴娥的译介与整理，是中文学界托尔叙事的主要入口"

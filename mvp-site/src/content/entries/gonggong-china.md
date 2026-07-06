@@ -23,77 +23,77 @@ attributes: [人面蛇身, 朱发, 乘二龙, 掌洪水, 与颛顼争帝, 触不
 
 primary_sources:
   - type: book
-    title: 山海经·海外北经
-    author: 佚名（战国至汉初）
+    title: "山海经·海外北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/hai-wai-bei-jing
     access: open
-    note: "'共工之臣曰相柳氏，九首人面，蛇身而青。' 山海经中共工的间接记载——通过其臣相柳出现"
+    note: "共工之臣曰相柳氏，九首人面，蛇身而青。 山海经中共工的间接记载——通过其臣相柳出现"
   - type: book
-    title: 山海经·大荒北经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-bei-jing
     access: open
-    note: "'共工之台，射者不敢北乡。' 记载共工的祭祀台，是共工作为水神受祭的最早证据"
+    note: "共工之台，射者不敢北乡。 记载共工的祭祀台，是共工作为水神受祭的最早证据"
   - type: book
-    title: 淮南子·天文训
-    author: 刘安等
+    title: "淮南子·天文训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/tian-wen-xun
     access: open
-    note: "'昔者共工与颛顼争为帝，怒而触不周之山，天柱折，地维绝。天倾西北，故日月星辰移焉；地不满东南，故水潦尘埃归焉。' 共工触不周山叙事的最早完整记载，是中国神话中最重要的宇宙论文本之一"
+    note: "昔者共工与颛顼争为帝，怒而触不周之山，天柱折，地维绝。天倾西北，故日月星辰移焉；地不满东南，故水潦尘埃归焉。 共工触不周山叙事的最早完整记载，是中国神话中最重要的宇宙论文本之一"
   - type: book
-    title: 列子·汤问
-    author: 列御寇（成书战国至汉）
+    title: "列子·汤问"
+    author: "列御寇（成书战国至汉）"
     year: -100
     language: zh
     url: https://ctext.org/liezi/tang-wen
     access: open
-    note: "'共工氏与颛顼争为帝，怒而触不周之山，折天柱，绝地维。' 与淮南子版本互证"
+    note: "共工氏与颛顼争为帝，怒而触不周之山，折天柱，绝地维。 与淮南子版本互证"
   - type: book
-    title: 国语·鲁语上
-    author: 佚名（战国）
+    title: "国语·鲁语上"
+    author: "佚名（战国）"
     year: -400
     language: zh
     url: https://ctext.org/guo-yu/lu-yu-shang
     access: open
-    note: "'共工氏之伯九有也……欲壅防百川，堕高堙庳，以害天下。' 将共工塑造为治水失败的负面形象，与大禹治水叙事对照"
+    note: "共工氏之伯九有也……欲壅防百川，堕高堙庳，以害天下。 将共工塑造为治水失败的负面形象，与大禹治水叙事对照"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 详考共工与相柳、颛顼、大禹的叙事关系
+    note: "详考共工与相柳、颛顼、大禹的叙事关系"
   - type: paper
     title: "共工神话考"
-    author: 丁山
+    author: "丁山"
     year: 1961
     language: zh
-    note: 收录于《中国古代宗教与神话考》。经典考据，论证共工原型可能是上古水利部族首领
+    note: "收录于《中国古代宗教与神话考》。经典考据，论证共工原型可能是上古水利部族首领"
   - type: book
     title: "The Flood Myths of Early China"
-    author: Mark Edward Lewis
+    author: "Mark Edward Lewis"
     year: 2006
     language: en
-    note: SUNY 出版。系统分析共工-颛顼-鲧-禹的洪水叙事链，将共工触山定位为"洪水起因"的神话解释
+    note: "SUNY 出版。系统分析共工-颛顼-鲧-禹的洪水叙事链，将共工触山定位为洪水起因的神话解释"
   - type: paper
     title: "Cosmic Warfare in Ancient Chinese Mythology"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1993
     language: en
-    note: 英语学界对共工-颛顼宇宙战争的系统梳理
+    note: "英语学界对共工-颛顼宇宙战争的系统梳理"
   - type: paper
     title: "共工神話と中国古代の宇宙観"
-    author: 森安太郎
+    author: "森安太郎"
     year: 1970
     language: ja
-    note: 日本汉学界经典论文，指出共工触山是中国神话解释华夏地理"西高东低"的核心机制
+    note: "日本汉学界经典论文，指出共工触山是中国神话解释华夏地理西高东低的核心机制"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经》《国语》）"
@@ -102,11 +102,11 @@ related_entries: [shan-hai-jing-bestiary, nvwa-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——共工是山海经宇宙论叙事的核心角色
+    relation: "山海经母题伞形入口——共工是山海经宇宙论叙事的核心角色"
   - entry_id: nvwa-china
-    relation: 直接叙事关联——共工触山导致天崩地裂，女娲补天正是修复共工造成的宇宙灾变。二者构成中国神话最完整的"破坏-修复"叙事对
+    relation: "直接叙事关联——共工触山导致天崩地裂，女娲补天正是修复共工造成的宇宙灾变。二者构成中国神话最完整的破坏-修复叙事对"
   - entry_id: xibalba-maya
-    relation: 跨文化——同为"宇宙灾变"母题。共工触山改变天地格局，玛雅创世神话中亦有多次世代崩坏。二者代表两种不同文化对宇宙不稳定性的神话表达
+    relation: "跨文化——同为宇宙灾变母题。共工触山改变天地格局，玛雅创世神话中亦有多次世代崩坏。二者代表两种不同文化对宇宙不稳定性的神话表达"
 
 curator: hector
 review_status: draft

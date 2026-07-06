@@ -25,16 +25,16 @@ attributes: [老年智者形象, 罗马鼻, 蜥蜴/爬行动物元素, 创造世
 
 primary_sources:
   - type: book
-    title: Relación de las cosas de Yucatán
-    author: Fray Diego de Landa
+    title: "Relación de las cosas de Yucatán"
+    author: "Fray Diego de Landa"
     year: 1566
     language: es
     url: https://www.wdl.org/en/item/7333/
     access: open
     note: "**西班牙方济各会士Diego de Landa主教1566年在西班牙撰写的尤卡坦民族志**——虽然他1562年在Maní镇焚烧了几乎所有玛雅象形文字抄本（是历史最大文化灾难之一），但他也记录了大量玛雅信仰细节。**这是玉卡坦Itzamna信仰最重要的殖民时代文本证据**。他记录Itzamna是玛雅最高神、文字与医药的发明者"
   - type: archive
-    title: Dresden Codex神D图像
-    author: 后古典期尤卡坦玛雅祭司
+    title: "Dresden Codex神D图像"
+    author: "后古典期尤卡坦玛雅祭司"
     year: 1200
     language: myn
     location: 德累斯顿 Sächsische Landesbibliothek
@@ -42,36 +42,36 @@ primary_sources:
     access: open
     note: "Dresden Codex中反复出现的**God D神明**——老年智者形象、罗马鼻、方形眼睛、蜥蜴元素——公认是Itzamna的图像对应。是Itzamna图像证据的核心"
   - type: archive
-    title: Madrid Codex
-    author: 后古典期玛雅祭司
+    title: "Madrid Codex"
+    author: "后古典期玛雅祭司"
     year: 1400
     language: myn
     location: 马德里 Museo de América
     access: open
     note: "4份幸存玛雅抄本之一。多处描绘Itzamna（神D）作为文字与仪式的中心神"
   - type: archive
-    title: 玛雅古典期陶器 K1728, K2796等神D图像
-    author: 古典期玛雅陶器绘画师
+    title: "玛雅古典期陶器 K1728, K2796等神D图像"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "Maya Vase Database收录数百件古典期陶器描绘神D——特别是**神D坐在天空神圣图书馆写作** 的场景，是玛雅祭司作为文字守护者的神话原型"
   - type: archive
-    title: Palenque十字架庙铭文
-    author: 古典期Palenque
+    title: "Palenque十字架庙铭文"
+    author: "古典期Palenque"
     year: 690
     language: myn
     note: "Palenque十字架庙记载Itzamna创造世界的关键铭文——这是玛雅古典期王朝将自己合法性追溯到Itzamna的政治-神话文本"
   - type: archive
-    title: Copán Stela H
-    author: 古典期Copán雕刻师
+    title: "Copán Stela H"
+    author: "古典期Copán雕刻师"
     year: 730
     language: myn
     note: "洪都拉斯Copán H号石碑——18 Rabbit王身着Itzamna装扮，是玛雅王=Itzamna化身的实物证据"
   - type: book
-    title: Ritual of the Bacabs
-    author: 匿名尤卡坦玛雅祭司
+    title: "Ritual of the Bacabs"
+    author: "匿名尤卡坦玛雅祭司"
     year: 1750
     language: myn
     note: "尤卡坦玛雅祭司抄本，用玛雅语用拉丁字母记载的仪式咒语集——反复呼唤Itzamna作为医药与治愈之神。是Itzamna作为医药神职能的关键文本证据"
@@ -79,85 +79,85 @@ primary_sources:
 secondary_sources:
   - type: paper
     title: "Itzamna: The God of Gods"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1992
     language: en
     note: "收录于《The Major Gods of Ancient Yucatan》。**UC Riverside教授Taube对Itzamna的系统专题研究**——识别古典期神D与后古典期Itzamna的图像连续性，论证Itzamna是玛雅最高神。是英语学界当前最权威的Itzamna研究"
   - type: book
     title: "The Ancient Maya"
-    author: Robert J. Sharer & Loa P. Traxler
+    author: "Robert J. Sharer & Loa P. Traxler"
     year: 2006
     language: en
     note: "Stanford University Press第6版。玛雅考古学标准教材对Itzamna作为最高神的系统整理"
   - type: paper
     title: "Itzamná and the Origin of Writing"
-    author: Michael D. Coe
+    author: "Michael D. Coe"
     year: 1977
     language: en
     note: "收录于《Studies in Ancient Mesoamerica》。**Coe论证Itzamna作为玛雅文字发明神的意义**——文字来自神明的赐予，玛雅祭司阶层的合法性建立在Itzamna神学之上"
   - type: book
-    title: "Maya Cosmos: Three Thousand Years on the Shaman's Path"
-    author: David Freidel, Linda Schele & Joy Parker
+    title: "Maya Cosmos: Three Thousand Years on the Shamans Path"
+    author: "David Freidel, Linda Schele & Joy Parker"
     year: 1993
     language: en
     note: "**系统分析Itzamna作为宇宙创造者的天文-神学意义**——Itzamna创造世界的场景对应特定天文事件"
   - type: paper
     title: "The Cosmological Symbolism of the Iguana House"
-    author: J. Eric S. Thompson
+    author: "J. Eric S. Thompson"
     year: 1970
     language: en
     note: "**Thompson是20世纪玛雅学界的权威人物**（虽有争议但影响深远）。他对Itzamna作为鬣蜥屋（Iguana House=天空）主神的经典分析。收录于《Maya History and Religion》"
   - type: book
     title: "Maya History and Religion"
-    author: J. Eric S. Thompson
+    author: "J. Eric S. Thompson"
     year: 1970
     language: en
     note: "University of Oklahoma Press。**Thompson玛雅宗教研究的经典综合**——Itzamna章节是英语学界几代人的入门底本。虽部分观点已被修正，但其框架至今仍具影响力"
   - type: paper
     title: "La creación en la cosmovisión maya"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1990
     language: es
     note: "墨西哥国立自治大学。León-Portilla对玛雅创世神学的系统研究——**Itzamna作为哲学-神学最高原则的分析**是拉美学界最重要的解读之一"
   - type: paper
     title: "Itzamna y la escritura sagrada"
-    author: Mercedes de la Garza
+    author: "Mercedes de la Garza"
     year: 1988
     language: es
     note: "墨西哥国立自治大学。**de la Garza是拉美学界玛雅宗教研究的权威**——对Itzamna作为文字之神的深入研究"
   - type: paper
     title: "God D as a Solar Deity"
-    author: Michael D. Coe & Justin Kerr
+    author: "Michael D. Coe & Justin Kerr"
     year: 1998
     language: en
     note: "收录于《The Art of the Maya Scribe》。论证Itzamna（神D）与太阳神Kinich Ahau的关系——Itzamna在白日形态就是太阳神"
   - type: paper
     title: "Itzamna and the Maya Priesthood"
-    author: Grant D. Jones
+    author: "Grant D. Jones"
     year: 1998
     language: en
     note: "《The Conquest of the Last Maya Kingdom》。Jones论证Itzamna在玛雅祭司阶层内部的核心地位——祭司自视为Itzamna的直接传承者"
   - type: book
     title: "Popol Vuh: The Definitive Edition"
-    author: Dennis Tedlock
+    author: "Dennis Tedlock"
     year: 1985
     language: en
     note: "Tedlock在注释中指出：**《波波尔·乌》中Tepeu-Gucumatz合一的创造者神格在尤卡坦对应Itzamna**——是理解基切-尤卡坦玛雅分支神谱差异的关键"
   - type: book
     title: "The Yucatec Maya"
-    author: Nancy M. Farriss
+    author: "Nancy M. Farriss"
     year: 1984
     language: en
     note: "Princeton University Press。**Farriss对殖民时代尤卡坦玛雅族的经典社会史研究**——包括Itzamna信仰在殖民后的转化"
   - type: paper
     title: "『イツァムナー』とマヤ最高神格"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1985
     language: ja
     note: "日语学界玛雅研究奠基者对Itzamna的系统介绍"
   - type: book
-    title: 玛雅：中美洲文明的巅峰
-    author: Michael D. Coe（王大英译）
+    title: "玛雅：中美洲文明的巅峰"
+    author: "Michael D. Coe（王大英译）"
     year: 2005
     language: zh
     note: "上海人民出版社《The Maya》中文版。Coe这一系列著作对Itzamna的介绍是中文学界重要入口"

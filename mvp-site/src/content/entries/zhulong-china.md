@@ -23,66 +23,66 @@ attributes: [人面蛇身, 赤色千里, 睁眼为昼闭眼为夜, 吹气为冬�
 
 primary_sources:
   - type: book
-    title: 山海经·海外北经
-    author: 佚名（战国至汉初）
+    title: "山海经·海外北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷八·海外北经·钟山条
     url: https://ctext.org/shan-hai-jing/hai-wai-bei-jing
     access: open
-    note: "原文：'钟山之神，名曰烛阴，视为昼，瞑为夜，吹为冬，呼为夏，不饮不食不息，息为风，身长千里……人面，蛇身，赤色，居钟山下。' 是烛龙形象的最早系统描述"
+    note: "原文：钟山之神，名曰烛阴，视为昼，瞑为夜，吹为冬，呼为夏，不饮不食不息，息为风，身长千里……人面，蛇身，赤色，居钟山下。 是烛龙形象的最早系统描述"
   - type: book
-    title: 山海经·大荒北经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷十七·大荒北经·章尾山条
     url: https://ctext.org/shan-hai-jing/da-huang-bei-jing
     access: open
-    note: "'西北海之外……有神，人面蛇身而赤，直目正乘，其瞑乃晦，其视乃明……是谓烛龙。' 与海外北经互补，为烛龙的第二个原典条目"
+    note: "西北海之外……有神，人面蛇身而赤，直目正乘，其瞑乃晦，其视乃明……是谓烛龙。 与海外北经互补，为烛龙的第二个原典条目"
   - type: book
-    title: 楚辞·天问
-    author: 屈原
+    title: "楚辞·天问"
+    author: "屈原"
     year: -280
     language: zh
     location: "'日安不到？烛龙何照？'"
     url: https://ctext.org/chu-ci/tian-wen
     access: open
-    note: 屈原在《天问》中直接以烛龙起兴，是先秦时代烛龙神话已广泛流传的旁证
+    note: "屈原在《天问》中直接以烛龙起兴，是先秦时代烛龙神话已广泛流传的旁证"
   - type: book
-    title: 淮南子·地形训
-    author: 刘安等
+    title: "淮南子·地形训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/di-xing-xun
     access: open
-    note: "'烛龙在雁门北，蔽于委羽之山，不见日，其神人面龙身而无足。' 提供烛龙形象的另一版本（'龙身'而非'蛇身'）"
+    note: "烛龙在雁门北，蔽于委羽之山，不见日，其神人面龙身而无足。 提供烛龙形象的另一版本（龙身而非蛇身）"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 中文学界研究烛龙的核心底本，对"视为昼瞑为夜"作了详尽考释
+    note: "中文学界研究烛龙的核心底本，对视为昼瞑为夜作了详尽考释"
   - type: paper
     title: "论烛龙神话与远古北方极昼极夜现象"
-    author: 何新
+    author: "何新"
     year: 1986
     language: zh
-    note: 提出震撼学界的假说——烛龙可能是先民对**北极圈极昼极夜自然现象**的神话化解释
+    note: "提出震撼学界的假说——烛龙可能是先民对**北极圈极昼极夜自然现象**的神话化解释"
   - type: book
     title: "The Classic of Mountains and Seas"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1999
     language: en
-    note: 英文全译本中"Torch Dragon"章节，是英语学界对烛龙的标准翻译与阐释
+    note: "英文全译本中Torch Dragon章节，是英语学界对烛龙的标准翻译与阐释"
   - type: paper
     title: "Zhulong: The Chinese Torch Dragon"
-    author: 收录于 Handbook of Chinese Mythology (Yang & An)
+    author: "收录于 Handbook of Chinese Mythology (Yang & An)"
     year: 2005
     language: en
-    note: ABC-CLIO 出版，英文学界中国神话工具书对烛龙的权威条目
+    note: "ABC-CLIO 出版，英文学界中国神话工具书对烛龙的权威条目"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·海外北经》与《大荒北经》）"
@@ -91,9 +91,9 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——烛龙是《山海经》最纯粹的宇宙原初神代表
+    relation: "山海经母题伞形入口——烛龙是《山海经》最纯粹的宇宙原初神代表"
   - entry_id: xibalba-maya
-    relation: 跨文化——烛龙"睁眼为昼闭眼为夜"与玛雅冥界"日夜循环"均是先民对昼夜现象的原始解释，前者是自然神格化，后者是空间化建构
+    relation: "跨文化——烛龙睁眼为昼闭眼为夜与玛雅冥界日夜循环均是先民对昼夜现象的原始解释，前者是自然神格化，后者是空间化建构"
 
 curator: hector
 review_status: draft

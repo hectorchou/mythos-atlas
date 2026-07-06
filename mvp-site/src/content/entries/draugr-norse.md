@@ -23,26 +23,26 @@ attributes: [尸身不腐, 超常力量, 可变大缩小, 操控天气, 惧斩�
 
 primary_sources:
   - type: book
-    title: Eyrbyggja Saga
-    author: 佚名（13世纪冰岛萨迦）
+    title: "Eyrbyggja Saga"
+    author: "佚名（13世纪冰岛萨迦）"
     year: 1260
     language: is
     location: 第34章至第44章（Þórólfr haltfótr与Víga-Styrr的draugr情节）
     url: https://sagadb.org/eyrbyggja_saga
     access: open
-    note: 冰岛萨迦中最著名的draugr叙事，包含尸鬼复活、压迫生者、最终被火化解的完整情节弧
+    note: "冰岛萨迦中最著名的draugr叙事，包含尸鬼复活、压迫生者、最终被火化解的完整情节弧"
   - type: book
-    title: Grettis Saga
-    author: 佚名（14世纪冰岛萨迦）
+    title: "Grettis Saga"
+    author: "佚名（14世纪冰岛萨迦）"
     year: 1320
     language: is
     location: 第18章至第21章（Grettir与Glámr之战）
     url: https://sagadb.org/grettis_saga
     access: open
-    note: 最经典的draugr对决——英雄Grettir与尸鬼Glámr的搏斗，直接影响了后世僵尸文学
+    note: "最经典的draugr对决——英雄Grettir与尸鬼Glámr的搏斗，直接影响了后世僵尸文学"
   - type: book
-    title: Laxdæla Saga
-    author: 佚名（13世纪冰岛萨迦）
+    title: "Laxdæla Saga"
+    author: "佚名（13世纪冰岛萨迦）"
     year: 1250
     language: is
     url: https://sagadb.org/laxdaela_saga
@@ -51,27 +51,27 @@ primary_sources:
 secondary_sources:
   - type: paper
     title: "The Undead in the Old Norse Sagas: A Study of the Draugr Motif"
-    author: Armann Jakobsson
+    author: "Armann Jakobsson"
     year: 2009
     language: en
     url: https://doi.org/10.1484/J.VIATOR.1.100120
     access: paywall
-    note: 当代北欧中世纪研究权威对draugr母题的系统性分析
+    note: "当代北欧中世纪研究权威对draugr母题的系统性分析"
   - type: book
     title: "The Norse Myths: A Guide to the Gods and Heroes"
-    author: Carolyne Larrington
+    author: "Carolyne Larrington"
     year: 2017
     language: en
-    note: 牛津大学北欧文学教授，权威入门
+    note: "牛津大学北欧文学教授，权威入门"
 
 confidence: attested
 first_recorded: "13世纪（冰岛萨迦抄本）"
 
 parallel_motifs:
   - entry_id: shuigui-china
-    relation: 同为"无法安息的亡灵"——draugr因宝藏贪欲或生前恶行而复生，水鬼因溺亡不得投胎，均属"不得善终者化为厉鬼"跨文化母题
+    relation: "同为无法安息的亡灵——draugr因宝藏贪欲或生前恶行而复生，水鬼因溺亡不得投胎，均属不得善终者化为厉鬼跨文化母题"
   - entry_id: xibalba-maya
-    relation: 北欧与玛雅对"死后世界"的不同建构——draugr留在现世侵扰活人，Xibalba则是系统化的死后审判与考验空间
+    relation: "北欧与玛雅对死后世界的不同建构——draugr留在现世侵扰活人，Xibalba则是系统化的死后审判与考验空间"
 
 curator: hector
 review_status: draft

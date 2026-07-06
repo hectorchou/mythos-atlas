@@ -24,8 +24,8 @@ attributes: [双典结构, 口传+成文, 13世纪冰岛成书, 阿萨神族+华
 
 primary_sources:
   - type: manuscript
-    title: Codex Regius (GKS 2365 4to)
-    author: 佚名编者（约1270年抄成）
+    title: "Codex Regius (GKS 2365 4to)"
+    author: "佚名编者（约1270年抄成）"
     year: 1270
     language: is
     location: 冰岛雷克雅未克 · Árni Magnússon Institute for Icelandic Studies
@@ -33,56 +33,56 @@ primary_sources:
     access: open
     note: "《诗体埃达》唯一的完整中世纪抄本，编号Codex Regius（王室抄本）。1662年由冰岛主教Brynjólfur Sveinsson献给丹麦国王，1971年归还冰岛。收录《Völuspá女先知的预言》《Hávamál至高者之歌》等29首古诺斯诗歌，是北欧神话最重要的一手文献"
   - type: book
-    title: Prose Edda / Snorra Edda（散文埃达）
-    author: Snorri Sturluson（斯诺里·斯图鲁松）
+    title: "Prose Edda / Snorra Edda（散文埃达）"
+    author: "Snorri Sturluson（斯诺里·斯图鲁松）"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "冰岛政治家、诗人斯诺里·斯图鲁松（1179-1241）为吟游诗人（skáld）编写的诗学手册，分为《Gylfaginning吉尔法欺骗》《Skáldskaparmál诗歌语言》《Háttatal韵律列表》三部分。是北欧神话唯一的系统化叙事文本——没有斯诺里，北欧神话只剩零散诗歌"
   - type: manuscript
-    title: Codex Upsaliensis (DG 11)
-    author: 佚名抄手（约1300年）
+    title: "Codex Upsaliensis (DG 11)"
+    author: "佚名抄手（约1300年）"
     year: 1300
     language: is
     url: https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A60219
     access: open
     note: "《散文埃达》最早的抄本之一，藏于瑞典乌普萨拉大学图书馆。与Codex Regius of Snorra Edda（GKS 2367 4to）、Codex Wormianus（AM 242 fol）、Codex Trajectinus（Utrecht 1374）共同构成散文埃达的四大抄本传统"
   - type: manuscript
-    title: Codex Regius of Snorra Edda (GKS 2367 4to)
-    author: 佚名抄手（约1325年）
+    title: "Codex Regius of Snorra Edda (GKS 2367 4to)"
+    author: "佚名抄手（约1325年）"
     year: 1325
     language: is
     location: 冰岛雷克雅未克
     access: open
-    note: 《散文埃达》最权威的抄本，是现代校订本的底本
+    note: "《散文埃达》最权威的抄本，是现代校订本的底本"
   - type: book
-    title: Heimskringla（挪威列王传）
-    author: Snorri Sturluson
+    title: "Heimskringla（挪威列王传）"
+    author: "Snorri Sturluson"
     year: 1230
     language: is
     url: https://sagadb.org/heimskringla
     access: open
     note: "斯诺里另一巨著，开篇《Ynglinga saga》以历史化方式讲述阿萨神族——把奥丁塑造为从亚洲迁徙到北欧的人间君主，是理解北欧神话神话历史化的关键旁证文本"
   - type: book
-    title: Gesta Danorum（丹麦人的业绩）
-    author: Saxo Grammaticus（萨克索·格拉玛提库斯）
+    title: "Gesta Danorum（丹麦人的业绩）"
+    author: "Saxo Grammaticus（萨克索·格拉玛提库斯）"
     year: 1208
     language: la
     url: https://www.kb.dk/en/gestadanorum
     access: open
     note: "丹麦史学家用拉丁文撰写的16卷丹麦史，前9卷记录大量北欧神话叙事（Balder之死、Hadingus等），是与冰岛埃达并行的另一北欧神话文献支系。丹麦皇家图书馆开放全文"
   - type: archive
-    title: 挪威/瑞典/丹麦卢恩石刻（Runestones）
-    author: 各地维京刻工（9-11世纪）
+    title: "挪威/瑞典/丹麦卢恩石刻（Runestones）"
+    author: "各地维京刻工（9-11世纪）"
     year: 950
     language: non
     url: https://app.raa.se/open/runor/search
     access: open
     note: "瑞典国家遗产委员会（Riksantikvarieämbetet）Runor数据库，收录6600+卢恩石刻。其中Rök石（Ög 136）、Ledberg石、Altuna石等直接刻有Thor、Ragnarök、Odin相关叙事，是与文本埃达同时代的实物证据"
   - type: archive
-    title: 冰岛萨迦全集（Íslendinga sögur）
-    author: 佚名（13-14世纪冰岛作者）
+    title: "冰岛萨迦全集（Íslendinga sögur）"
+    author: "佚名（13-14世纪冰岛作者）"
     year: 1250
     language: is
     url: https://sagadb.org/
@@ -92,82 +92,82 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
-    note: 牛津大学出版社。当代英语学界最权威的北欧神话工具书，UC Berkeley 教授 John Lindow 系统词条化整理埃达所有神明、事件、地名，是英文学界的标准参考
+    note: "牛津大学出版社。当代英语学界最权威的北欧神话工具书，UC Berkeley 教授 John Lindow 系统词条化整理埃达所有神明、事件、地名，是英文学界的标准参考"
   - type: book
     title: "Handbook of Norse Mythology"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
-    note: ABC-CLIO 出版。与前书为同一作者的另一版本，学术索引更详细
+    note: "ABC-CLIO 出版。与前书为同一作者的另一版本，学术索引更详细"
   - type: book
     title: "Gods and Myths of Northern Europe"
-    author: H.R. Ellis Davidson
+    author: "H.R. Ellis Davidson"
     year: 1964
     language: en
-    note: Penguin 出版。剑桥学者 Davidson 的经典专著，几代英语学界研究北欧神话的入门底本。1988年出版的续作《Myths and Symbols in Pagan Europe》进一步扩展到凯尔特-北欧比较研究
+    note: "Penguin 出版。剑桥学者 Davidson 的经典专著，几代英语学界研究北欧神话的入门底本。1988年出版的续作《Myths and Symbols in Pagan Europe》进一步扩展到凯尔特-北欧比较研究"
   - type: book
     title: "Dictionary of Northern Mythology"
-    author: Rudolf Simek
+    author: "Rudolf Simek"
     year: 1993
     language: en
-    note: D.S. Brewer出版。德国学者Simek所著的词典式工具书，德语学界研究北欧神话的核心参考文献，英译本广泛使用于欧美学界
+    note: "D.S. Brewer出版。德国学者Simek所著的词典式工具书，德语学界研究北欧神话的核心参考文献，英译本广泛使用于欧美学界"
   - type: book
     title: "Myth and Religion of the North"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
-    note: Weidenfeld & Nicolson出版。牛津大学第一任古北欧文学教授Turville-Petre的经典专著，与Davidson并称英语学界北欧神话双璧
+    note: "Weidenfeld & Nicolson出版。牛津大学第一任古北欧文学教授Turville-Petre的经典专著，与Davidson并称英语学界北欧神话双璧"
   - type: book
     title: "Die Religion der Germanen"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1957
     language: de
-    note: 荷兰学者Jan de Vries两卷本德语巨著，德语学界研究日耳曼-北欧宗教的奠基作，Simek字典亦大量援引
+    note: "荷兰学者Jan de Vries两卷本德语巨著，德语学界研究日耳曼-北欧宗教的奠基作，Simek字典亦大量援引"
   - type: book
     title: "Les Dieux des Germains"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1959
     language: fr
-    note: 法国比较神话学家Dumézil经典著作。他提出印欧"三重功能说"（主权/战争/生产），将奥丁-提尔-弗雷分别对应三种功能，是北欧神话进入比较神话学的关键奠基作
+    note: "法国比较神话学家Dumézil经典著作。他提出印欧三重功能说（主权/战争/生产），将奥丁-提尔-弗雷分别对应三种功能，是北欧神话进入比较神话学的关键奠基作"
   - type: book
     title: "The Poetic Edda: A Study Guide"
-    author: Carolyne Larrington
+    author: "Carolyne Larrington"
     year: 2014
     language: en
-    note: 牛津大学出版社。牛津学者Larrington也是2014年新版《诗体埃达》英译本译者，她的研究指南是当前英语学界最新的埃达导读
+    note: "牛津大学出版社。牛津学者Larrington也是2014年新版《诗体埃达》英译本译者，她的研究指南是当前英语学界最新的埃达导读"
   - type: book
-    title: 北欧神话
-    author: 茅盾（沈雁冰）
+    title: "北欧神话"
+    author: "茅盾（沈雁冰）"
     year: 1929
     language: zh
-    note: 中国现代最早系统介绍北欧神话的著作，虽以译介为主，是中文学界的起点文本
+    note: "中国现代最早系统介绍北欧神话的著作，虽以译介为主，是中文学界的起点文本"
   - type: book
-    title: 北欧神话学
-    author: 白川静
+    title: "北欧神话学"
+    author: "白川静"
     year: 1965
     language: ja
     note: "日本汉学巨匠白川静罕见的比较神话学著作，将北欧神话与中国、日本神话进行结构对照。虽然他更著名的是中国古文字学，此书是日语学界重要的比较视角"
   - type: paper
     title: "Ragnarök: A Study in Old Norse Eschatology"
-    author: John Lindow
+    author: "John Lindow"
     year: 2020
     language: en
-    note: 收录于《The Pre-Christian Religions of the North》第4卷。当代最完整的诸神黄昏研究，Brepols出版
+    note: "收录于《The Pre-Christian Religions of the North》第4卷。当代最完整的诸神黄昏研究，Brepols出版"
   - type: book
     title: "The Pre-Christian Religions of the North (PCRN)"
-    author: Margaret Clunies Ross 主编
+    author: "Margaret Clunies Ross 主编"
     year: 2018
     language: en
-    note: Brepols出版的六卷本巨著，是21世纪北欧神话学界最大规模的国际合作研究项目，代表当前学界最新共识
+    note: "Brepols出版的六卷本巨著，是21世纪北欧神话学界最大规模的国际合作研究项目，代表当前学界最新共识"
   - type: paper
     title: "The Cosmology of the Prose Edda"
-    author: Anders Andrén
+    author: "Anders Andrén"
     year: 2014
     language: en
-    note: Lund大学考古学教授Andrén对埃达宇宙论的考古学-文本学交叉研究，收录于《Tracing Old Norse Cosmology》
+    note: "Lund大学考古学教授Andrén对埃达宇宙论的考古学-文本学交叉研究，收录于《Tracing Old Norse Cosmology》"
 
 confidence: attested
 first_recorded: "口传自维京时代（8-11世纪），文本成于13世纪冰岛"
@@ -176,9 +176,9 @@ related_entries: [draugr-norse]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 跨文化母题伞形——《埃达》与[山海经](/entries/shan-hai-jing-bestiary)构成东西方最古老的神秘学百科对偶。前者靠一位天才编者（斯诺里）系统化定型，后者靠多层匿名编纂逐渐累积，两种截然不同的"神话成书路径"
+    relation: "跨文化母题伞形——《埃达》与[山海经](/entries/shan-hai-jing-bestiary)构成东西方最古老的神秘学百科对偶。前者靠一位天才编者（斯诺里）系统化定型，后者靠多层匿名编纂逐渐累积，两种截然不同的神话成书路径"
   - entry_id: draugr-norse
-    relation: 埃达谱系下游具体条目——[Draugr](/entries/draugr-norse)是萨迦文学中的不死者，其信仰基础即埃达神话中的死亡观与冥界赫尔（Hel）
+    relation: "埃达谱系下游具体条目——[Draugr](/entries/draugr-norse)是萨迦文学中的不死者，其信仰基础即埃达神话中的死亡观与冥界赫尔（Hel）"
 
 curator: hector
 review_status: draft

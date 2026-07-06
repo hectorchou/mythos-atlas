@@ -23,54 +23,54 @@ attributes: [断首无头, 以乳为目, 以脐为口, 一手执干（盾）一�
 
 primary_sources:
   - type: book
-    title: 山海经·海外西经
-    author: 佚名（战国至汉初）
+    title: "山海经·海外西经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷七·海外西经·常羊之山条
     url: https://ctext.org/shan-hai-jing/hai-wai-xi-jing
     access: open
-    note: "'刑天与帝至此争神，帝断其首，葬之常羊之山。乃以乳为目，以脐为口，操干戚以舞。' 刑天神话的唯一原典记载，全文仅 30 字"
+    note: "刑天与帝至此争神，帝断其首，葬之常羊之山。乃以乳为目，以脐为口，操干戚以舞。 刑天神话的唯一原典记载，全文仅 30 字"
   - type: book
-    title: 读山海经·十三首之十
-    author: 陶渊明
+    title: "读山海经·十三首之十"
+    author: "陶渊明"
     year: 420
     language: zh
     url: https://ctext.org/wiki.pl?if=gb&chapter=671306
     access: open
-    note: "'刑天舞干戚，猛志固常在。' 陶渊明《读山海经》十三首中的核心一句，使刑天从神话人物升格为文学永恒母题——'刑天精神'一词由此诞生"
+    note: "刑天舞干戚，猛志固常在。 陶渊明《读山海经》十三首中的核心一句，使刑天从神话人物升格为文学永恒母题——刑天精神一词由此诞生"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 详考"刑天"与"形天"的版本异文，以及"帝"究竟指黄帝还是天帝的争议
+    note: "详考刑天与形天的版本异文，以及帝究竟指黄帝还是天帝的争议"
   - type: paper
     title: "刑天神话与上古氏族战争记忆"
-    author: 何新
+    author: "何新"
     year: 1988
     language: zh
-    note: 提出刑天可能是被黄帝集团击败的南方部族首领，其"断首而舞"是败者神话被胜者叙事收编时残留的文化裂缝
+    note: "提出刑天可能是被黄帝集团击败的南方部族首领，其断首而舞是败者神话被胜者叙事收编时残留的文化裂缝"
   - type: book
     title: "Chinese Mythology: An Introduction"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1993
     language: en
-    note: 英文学界对刑天叙事的完整介绍，将其与希腊神话中被斩首仍战斗的英雄类型进行比较
+    note: "英文学界对刑天叙事的完整介绍，将其与希腊神话中被斩首仍战斗的英雄类型进行比较"
   - type: paper
     title: "陶淵明「読山海経」の刑天像"
-    author: 石川忠久
+    author: "石川忠久"
     year: 1996
     language: ja
-    note: 日本汉学界对陶渊明如何再造刑天形象的研究，指出'猛志固常在'是六朝士人精神困境的投射
+    note: "日本汉学界对陶渊明如何再造刑天形象的研究，指出猛志固常在是六朝士人精神困境的投射"
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 系统梳理刑天从山海经到陶渊明再到近代'反抗精神'符号的完整接受史
+    note: "系统梳理刑天从山海经到陶渊明再到近代反抗精神符号的完整接受史"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·海外西经》）"
@@ -79,11 +79,11 @@ related_entries: [shan-hai-jing-bestiary, kuafu-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——刑天是山海经反抗英雄叙事的极致代表
+    relation: "山海经母题伞形入口——刑天是山海经反抗英雄叙事的极致代表"
   - entry_id: kuafu-china
-    relation: 山海经内部悲剧英雄双璧——夸父是"追求不可能而死"，刑天是"失败后仍不屈"，共同构成中国上古神话最完整的英雄悲剧原型
+    relation: "山海经内部悲剧英雄双璧——夸父是追求不可能而死，刑天是失败后仍不屈，共同构成中国上古神话最完整的英雄悲剧原型"
   - entry_id: draugr-norse
-    relation: 跨文化——同为"死后不屈"的战士形象。刑天是被斩首后仍战斗，Draugr是死后不甘化为不死之身，但价值取向相反：刑天被歌颂，Draugr被恐惧
+    relation: "跨文化——同为死后不屈的战士形象。刑天是被斩首后仍战斗，Draugr是死后不甘化为不死之身，但价值取向相反：刑天被歌颂，Draugr被恐惧"
 
 curator: hector
 review_status: draft

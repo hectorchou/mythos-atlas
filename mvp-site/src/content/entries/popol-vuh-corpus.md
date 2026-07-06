@@ -25,8 +25,8 @@ attributes: [四次创世, 泥人→木人→猴人→玉米人, 双子英雄Hun
 
 primary_sources:
   - type: manuscript
-    title: Manuscrito de Chichicastenango / Ayer Manuscript MS 1515
-    author: 匿名基切玛雅贵族转写者
+    title: "Manuscrito de Chichicastenango / Ayer Manuscript MS 1515"
+    author: "匿名基切玛雅贵族转写者"
     year: 1701
     language: quc
     location: 芝加哥Newberry图书馆 · Edward E. Ayer Collection MS 1515
@@ -34,30 +34,30 @@ primary_sources:
     access: open
     note: "《波波尔·乌》仅存的一份16世纪手稿。1701-1703年由多明我会神父Francisco Ximénez在Chichicastenango教区任职时抄写并附西班牙文对译，其所依据的基切语原始手稿（1554-1558年间编成）已失传。手稿现藏Newberry图书馆，是新大陆前哥伦布时期神话保存最重要的文献"
   - type: manuscript
-    title: Popol Vuh Facsimile Edition
-    author: Francisco Ximénez（誊抄+对译）
+    title: "Popol Vuh Facsimile Edition"
+    author: "Francisco Ximénez（誊抄+对译）"
     year: 1701
     language: quc-es
     url: https://en.wikipedia.org/wiki/Popol_Vuh
     access: open
     note: "Ximénez神父的双栏对译版是所有现代译本的底本。他在《Historia de la Provincia de San Vicente de Chiapa y Guatemala》中亦引用大量内容"
   - type: archive
-    title: 玛雅古典期陶器与壁画双子英雄图像（K1226, K3033, K2011等）
-    author: 古典期玛雅陶器绘画师
+    title: "玛雅古典期陶器与壁画双子英雄图像（K1226, K3033, K2011等）"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "Justin Kerr摄影档案Maya Vase Database收录数千件古典期玛雅陶器图像。多件描绘Hunahpu与Xbalanque的双子英雄叙事场景（斗Xibalba冥主、球赛、复活），是《波波尔·乌》叙事早于文本1000年的实物证据。**这是《波波尔·乌》真正震撼的一点——文本虽晚，但其叙事在古典期已完整存在**"
   - type: archive
-    title: San Bartolo壁画（危地马拉Petén）
-    author: 前古典期玛雅壁画师
+    title: "San Bartolo壁画（危地马拉Petén）"
+    author: "前古典期玛雅壁画师"
     year: -100
     language: myn
     note: "危地马拉Petén雨林中San Bartolo遗址2001年发现的前古典期玛雅壁画，公元前100年前后。描绘玉米神诞生、四方创世、双子英雄早期形象——将《波波尔·乌》核心母题上推至公元前1世纪，是新大陆最早的神话叙事图像之一"
   - type: archive
-    title: Dresden Codex / Codex Dresdensis
-    author: 后古典期尤卡坦玛雅祭司
+    title: "Dresden Codex / Codex Dresdensis"
+    author: "后古典期尤卡坦玛雅祭司"
     year: 1200
     language: myn
     location: 德国德累斯顿 · Sächsische Landesbibliothek
@@ -65,42 +65,42 @@ primary_sources:
     access: open
     note: "仅存4份前哥伦布时期玛雅象形文字抄本之一（另有Madrid, Paris, Grolier）。虽属尤卡坦而非基切分支，但包含玉米神、双子英雄、金星表、洪水叙事等《波波尔·乌》核心母题的图像/文字证据"
   - type: archive
-    title: Madrid Codex
-    author: 后古典期玛雅祭司
+    title: "Madrid Codex"
+    author: "后古典期玛雅祭司"
     year: 1400
     language: myn
     location: 马德里 · Museo de América
     access: open
     note: "4份幸存玛雅抄本之一，内含创世+仪式内容"
   - type: archive
-    title: Paris Codex
-    author: 后古典期玛雅祭司
+    title: "Paris Codex"
+    author: "后古典期玛雅祭司"
     year: 1400
     language: myn
     location: 巴黎 · Bibliothèque nationale de France
     access: open
     note: "4份幸存玛雅抄本之一。虽残缺，含天文历法与神明叙事"
   - type: archive
-    title: Piedras Negras Panel 3
-    author: 古典期玛雅雕刻师
+    title: "Piedras Negras Panel 3"
+    author: "古典期玛雅雕刻师"
     year: 782
     language: myn
     note: "危地马拉古典期玛雅遗址Piedras Negras石雕。含双子英雄斗Xibalba叙事的图像证据。是Michael D. Coe 1973年《The Maya Scribe and His World》首次系统论证古典期陶器叙事即《波波尔·乌》的关键实物"
   - type: book
-    title: Título de Totonicapán
-    author: 匿名基切贵族
+    title: "Título de Totonicapán"
+    author: "匿名基切贵族"
     year: 1554
     language: quc
     note: "1554年编成的基切玛雅族谱与土地权文书。与《波波尔·乌》几乎同时期同地区（Totonicapán），部分叙事重叠，是《波波尔·乌》的姊妹文献"
   - type: book
-    title: Anales de los Cakchiqueles / Annals of the Kaqchikels
-    author: 匿名Kaqchikel贵族
+    title: "Anales de los Cakchiqueles / Annals of the Kaqchikels"
+    author: "匿名Kaqchikel贵族"
     year: 1573
     language: cak
     note: "Kaqchikel玛雅族（基切邻族）的历史编年，与《波波尔·乌》互为对照，是理解玛雅高地神话-历史链的关键旁证"
   - type: book
-    title: Chilam Balam de Chumayel
-    author: 匿名尤卡坦玛雅祭司
+    title: "Chilam Balam de Chumayel"
+    author: "匿名尤卡坦玛雅祭司"
     year: 1782
     language: myn-es
     url: https://library.si.edu/digital-library/book/booksofchilamba00roys
@@ -110,103 +110,103 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life"
-    author: Dennis Tedlock
+    author: "Dennis Tedlock"
     year: 1985
     language: en
     note: "Simon & Schuster出版。杜克大学人类学教授Dennis Tedlock的翻译+注释本，是当代英语学界最权威的《波波尔·乌》学术版本。1996年修订版结合他在基切玛雅族的现场民族志研究——**Tedlock是当代唯一同时精通基切语和玛雅古文字的学者**"
   - type: book
     title: "Popol Vuh: The Sacred Book of the Maya"
-    author: Allen J. Christenson
+    author: "Allen J. Christenson"
     year: 2003
     language: en
     note: "BYU出版社。Christenson双卷本——第一卷为诗体翻译，第二卷为逐字对译。是Tedlock之外当代英语学界最权威版本，语言学考据尤其严格"
   - type: book
     title: "Popol Vuh: Antiguas historias del Quiché"
-    author: Adrián Recinos
+    author: "Adrián Recinos"
     year: 1947
     language: es
     note: "Fondo de Cultura Económica出版。危地马拉学者Recinos的经典西班牙语译注本，是拉丁美洲学界的标准参考。Delia Goetz与Sylvanus G. Morley将其转译为英语（1950），开启英语学界研究热潮"
   - type: book
     title: "The Popol Vuh: A Sacred Book of the Maya"
-    author: Lewis Spence
+    author: "Lewis Spence"
     year: 1908
     language: en
     note: "最早的英语普及本。虽考据已过时，但作为百年经典仍是理解早期英语学界玛雅神话研究的起点"
   - type: book
     title: "The Maya Scribe and His World"
-    author: Michael D. Coe
+    author: "Michael D. Coe"
     year: 1973
     language: en
     note: "Grolier Club出版。耶鲁大学玛雅学家Michael Coe的划时代作品——**首次系统论证古典期玛雅陶器上的叙事场景就是《波波尔·乌》的双子英雄故事**。这一论断震撼学界，将《波波尔·乌》叙事从16世纪上推至公元7-9世纪，是玛雅学最重要的方法论突破之一"
   - type: book
     title: "Breaking the Maya Code"
-    author: Michael D. Coe
+    author: "Michael D. Coe"
     year: 1992
     language: en
     note: "玛雅象形文字破译史。虽非《波波尔·乌》专著，但对理解为何16世纪文本能与古典期图像对应至关重要——象形文字破译使古典期铭文中的神名与《波波尔·乌》人名对上号"
   - type: book
     title: "The Mythical Popol Vuh"
-    author: Munro S. Edmonson
+    author: "Munro S. Edmonson"
     year: 1971
     language: en
     note: "Tulane大学出版。Edmonson以诗行对齐的严格语言学方式重译《波波尔·乌》，是英语学界现代研究的开端之作"
   - type: book
     title: "Popol Vuh: Traducción y estudio"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1998
     language: es
     note: "墨西哥国立自治大学。León-Portilla是墨西哥原住民哲学研究的奠基人，其《波波尔·乌》研究将文本置于纳瓦特尔-玛雅原住民哲学的大框架"
   - type: book
     title: "La Loi de la Vengeance chez les Anciens Mayas"
-    author: Georges Raynaud
+    author: "Georges Raynaud"
     year: 1925
     language: fr
     note: "法语学界最早的《波波尔·乌》系统研究。Raynaud（法国印第安人研究奠基者）法译本影响了整个法语学界对中美洲研究的方向"
   - type: paper
     title: "The Blood of Kings: Dynasty and Ritual in Maya Art"
-    author: Linda Schele & Mary Ellen Miller
+    author: "Linda Schele & Mary Ellen Miller"
     year: 1986
     language: en
     note: "George Braziller出版。**玛雅学破译时代的划时代作品**。将玛雅王权、球赛、放血仪式与《波波尔·乌》双子英雄斗Xibalba叙事系统连接——玛雅王是双子英雄的地上化身"
   - type: book
     title: "The Ancient Maya"
-    author: Robert J. Sharer & Loa P. Traxler
+    author: "Robert J. Sharer & Loa P. Traxler"
     year: 2006
     language: en
     note: "Stanford University Press第6版。玛雅考古学标准教材。将《波波尔·乌》定位为理解玛雅文明整体结构的核心文本"
   - type: paper
     title: "The San Bartolo Murals and the Popol Vuh"
-    author: William Saturno, Karl Taube & David Stuart
+    author: "William Saturno, Karl Taube & David Stuart"
     year: 2005
     language: en
     note: "National Geographic Society资助的San Bartolo壁画研究报告。宣布壁画上的玉米神诞生场景与《波波尔·乌》创世第四次（玉米人）神话完全对应——将《波波尔·乌》叙事上推至公元前100年"
   - type: book
-    title: "Maya Cosmos: Three Thousand Years on the Shaman's Path"
-    author: David Freidel, Linda Schele & Joy Parker
+    title: "Maya Cosmos: Three Thousand Years on the Shamans Path"
+    author: "David Freidel, Linda Schele & Joy Parker"
     year: 1993
     language: en
     note: "William Morrow出版。将《波波尔·乌》、玛雅象形文字铭文、天文观测、萨满实践综合为完整的玛雅宇宙论重建。是当代玛雅宗教研究的核心文本"
   - type: paper
     title: "The Maya Ballgame and the Popol Vuh"
-    author: E. Michael Whittington 编
+    author: "E. Michael Whittington 编"
     year: 2001
     language: en
     note: "《The Sport of Life and Death: The Mesoamerican Ballgame》。将玛雅球赛遗址（如Chichén Itzá大球场、Copán球场）的考古与《波波尔·乌》双子英雄球赛场景系统对照——球赛是宇宙创世的仪式再现"
   - type: paper
     title: "『ポポル・ヴフ』とメソアメリカの創世神話"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1971
     language: ja
     note: "日语学界玛雅研究的开创性论文。増田義郎（东京大学）系统介绍《波波尔·乌》"
   - type: book
-    title: 玛雅圣书·波波尔·乌
-    author: 林大雄（译）
+    title: "玛雅圣书·波波尔·乌"
+    author: "林大雄（译）"
     year: 2010
     language: zh
     note: "商务印书馆。中文学界迄今最完整的《波波尔·乌》译本，从Recinos西班牙语版转译。虽非直接从基切语翻译，但是中文读者理解玛雅神话的主要入口"
   - type: paper
     title: "The Popol Vuh in Comparative Context"
-    author: Bruce Lincoln
+    author: "Bruce Lincoln"
     year: 1999
     language: en
     note: "收录于《Theorizing Myth》。芝加哥大学Lincoln将《波波尔·乌》置于世界比较神话学框架，特别与印欧神话对比"

@@ -25,8 +25,8 @@ attributes: [独腿, 三位一体, Kaqulja Juraqan闪电胡拉坎, Ch'ipi Kaqulj
 
 primary_sources:
   - type: book
-    title: Popol Vuh·第一部第一章
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第一部第一章"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -34,8 +34,8 @@ primary_sources:
     access: open
     note: "因此那位U-Kux Kaj心之天神也被称为Juraqan胡拉坎。第一位是Kaqulja Juraqan（独腿闪电），第二位是Chipi Kaqulja（新生的闪电），第三位是Raxa Kaqulja（碧绿的闪电）。三位一体即是心之天神。 胡拉坎最原始最完整的三位一体记载"
   - type: book
-    title: Popol Vuh·第一部第三章
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第一部第三章"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -43,8 +43,8 @@ primary_sources:
     access: open
     note: "心之天神心之地降下大洪水，倾覆木人。  胡拉坎作为洪水降下者的原始记载——是四次创世中第二次毁灭的执行者"
   - type: archive
-    title: Dresden Codex闪电神K图像
-    author: 后古典期尤卡坦玛雅祭司
+    title: "Dresden Codex闪电神K图像"
+    author: "后古典期尤卡坦玛雅祭司"
     year: 1200
     language: myn
     location: 德累斯顿 Sächsische Landesbibliothek
@@ -52,22 +52,22 @@ primary_sources:
     access: open
     note: "Dresden Codex中出现的雷神K（Kawiil）——独腿、蛇形一足、额头有燃烧火炬——公认是胡拉坎在尤卡坦分支的对应神格。是胡拉坎图像证据的核心"
   - type: archive
-    title: 玛雅古典期陶器 K'awiil 神像
-    author: 古典期玛雅陶器绘画师
+    title: "玛雅古典期陶器 Kawiil 神像"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "数百件古典期陶器描绘Kawiil神——独腿、火炬额头、蛇形一足。Karl Taube论证古典期Kawiil即胡拉坎前身，将胡拉坎叙事上推至古典期"
   - type: archive
-    title: Palenque庙宇雕刻（三殿组）
-    author: 古典期玛雅雕刻师
+    title: "Palenque庙宇雕刻（三殿组）"
+    author: "古典期玛雅雕刻师"
     year: 690
     language: myn
     note: "墨西哥Palenque十字架庙、太阳庙、叶十字庙雕刻中Kawiil作为王权象征反复出现——玛雅王手持Kawiil权杖代表其接受神明力量"
   - type: book
-    title: Chilam Balam de Chumayel
-    author: 匿名尤卡坦玛雅祭司
+    title: "Chilam Balam de Chumayel"
+    author: "匿名尤卡坦玛雅祭司"
     year: 1782
     language: myn
     url: https://library.si.edu/digital-library/book/booksofchilamba00roys
@@ -77,73 +77,73 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Popol Vuh: The Definitive Edition"
-    author: Dennis Tedlock
+    author: "Dennis Tedlock"
     year: 1985
     language: en
     note: "对胡拉坎心之天神三位一体结构的详细注释——Tedlock指出这一结构与基督教三位一体不同，是玛雅原生的三种闪电分化"
   - type: paper
-    title: "K'awiil, God of Lightning"
-    author: Karl Taube
+    title: "Kawiil, God of Lightning"
+    author: "Karl Taube"
     year: 1992
     language: en
     note: "收录于《The Major Gods of Ancient Yucatan》。UC Riverside教授Taube对雷神K/Kawiil的系统研究——论证古典期玛雅Kawiil是基切胡拉坎的直接前身，独腿蛇足特征贯穿整个玛雅时期"
   - type: paper
     title: "Hurricane and Huracán: Etymology of a Global Word"
-    author: Fernando Ortiz
+    author: "Fernando Ortiz"
     year: 1947
     language: es
     note: "收录于《El huracán: Su mitología y sus símbolos》。古巴人类学家Ortiz的经典专著——**系统追溯hurricane词源从加勒比原住民Taíno语的Juracán到英语的完整链条**。是研究殖民时代原住民语言进入欧洲语言的经典样本"
   - type: book
     title: "El huracán: Su mitología y sus símbolos"
-    author: Fernando Ortiz
+    author: "Fernando Ortiz"
     year: 1947
     language: es
     note: "Fondo de Cultura Económica出版。**词源学界最权威的hurricane专著**——论证Huracán/Juracán从玛雅到Taíno再到西班牙再到英语的完整传播链条，涉及加勒比、中美洲、欧洲三大文化圈"
   - type: book
     title: "The Ancient Maya"
-    author: Robert J. Sharer & Loa P. Traxler
+    author: "Robert J. Sharer & Loa P. Traxler"
     year: 2006
     language: en
     note: "Stanford University Press第6版。玛雅考古学标准教材对Kawiil作为玛雅王权象征的系统整理"
   - type: book
     title: "Maya Cosmos"
-    author: Freidel, Schele & Parker
+    author: "Freidel, Schele & Parker"
     year: 1993
     language: en
     note: "系统分析Kawiil-胡拉坎与玛雅王权仪式的连接——玛雅王手持Kawiil权杖代表其能召唤闪电与风暴"
   - type: paper
     title: "Storm Gods across Mesoamerica"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 2001
     language: en
     note: "比较分析玛雅Huracán/Kawiil、阿兹特克Tlaloc、Zapotec Cocijo、Mixe-Zoque风暴神——揭示中美洲共同的独腿风暴神原型"
   - type: paper
     title: "The Heart of Sky: Cosmology of the Popol Vuh"
-    author: Allen J. Christenson
+    author: "Allen J. Christenson"
     year: 2001
     language: en
     note: "收录于《Popol Vuh Volume II》。Christenson对胡拉坎心之天神哲学意义的深入分析——心（kux）在玛雅哲学中不是身体器官，而是本质/精神/生命力"
   - type: paper
     title: "Los dioses del rayo en Mesoamérica"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1992
     language: es
     note: "墨西哥国立自治大学。León-Portilla对中美洲雷神谱系的系统研究——将胡拉坎纳入更广泛的原住民哲学框架"
   - type: paper
     title: "The Taíno Juracán and Maya Huracán: A Comparative Study"
-    author: Fatima Bercht 编
+    author: "Fatima Bercht 编"
     year: 1997
     language: en
     note: "《Taíno: Pre-Columbian Art and Culture from the Caribbean》。史密森学会出版。研究加勒比Taíno族与玛雅胡拉坎的可能同源关系"
   - type: paper
     title: "『ポポル・ヴフ』におけるフラカン"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1980
     language: ja
     note: "日语学界玛雅神话研究经典"
   - type: paper
-    title: "K'awiil as a Symbol of Royal Power"
-    author: Stephen Houston & David Stuart
+    title: "Kawiil as a Symbol of Royal Power"
+    author: "Stephen Houston & David Stuart"
     year: 1996
     language: en
     note: "玛雅象形文字破译权威对Kawiil在铭文中作为王权象征频率的统计分析"

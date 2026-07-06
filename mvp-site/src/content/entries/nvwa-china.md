@@ -23,77 +23,77 @@ attributes: [人面蛇身, 一日七十化, 抟土造人, 炼五色石补天, �
 
 primary_sources:
   - type: book
-    title: 山海经·大荒西经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒西经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-xi-jing
     access: open
-    note: "'有神十人，名曰女娲之肠，化为神，处栗广之野。' 山海经中女娲最早的记载，仅存肠化神的残片叙事"
+    note: "有神十人，名曰女娲之肠，化为神，处栗广之野。 山海经中女娲最早的记载，仅存肠化神的残片叙事"
   - type: book
-    title: 楚辞·天问
-    author: 屈原
+    title: "楚辞·天问"
+    author: "屈原"
     year: -280
     language: zh
     url: https://ctext.org/chu-ci/tian-wen
     access: open
-    note: "'女娲有体，孰制匠之？' 屈原直接问诘女娲的身体是谁创造的——是先秦女娲已作为造物主流传的旁证"
+    note: "女娲有体，孰制匠之？ 屈原直接问诘女娲的身体是谁创造的——是先秦女娲已作为造物主流传的旁证"
   - type: book
-    title: 淮南子·览冥训
-    author: 刘安等
+    title: "淮南子·览冥训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/lan-ming-xun
     access: open
-    note: "'往古之时，四极废，九州裂……女娲炼五色石以补苍天，断鳌足以立四极，杀黑龙以济冀州，积芦灰以止淫水。' 女娲补天叙事的最早完整记载"
+    note: "往古之时，四极废，九州裂……女娲炼五色石以补苍天，断鳌足以立四极，杀黑龙以济冀州，积芦灰以止淫水。 女娲补天叙事的最早完整记载"
   - type: book
-    title: 风俗通义
-    author: 应劭
+    title: "风俗通义"
+    author: "应劭"
     year: 195
     language: zh
     url: https://ctext.org/fengsutongyi
     access: open
-    note: "'俗说天地开辟，未有人民，女娲抟黄土作人。剧务，力不暇供，乃引绳于泥中，举以为人。' 女娲抟土造人叙事的最早完整记载"
+    note: "俗说天地开辟，未有人民，女娲抟黄土作人。剧务，力不暇供，乃引绳于泥中，举以为人。 女娲抟土造人叙事的最早完整记载"
   - type: book
-    title: 说文解字
-    author: 许慎
+    title: "说文解字"
+    author: "许慎"
     year: 121
     language: zh
     url: https://ctext.org/shuo-wen-jie-zi
     access: open
-    note: "'娲，古之神圣女，化万物者也。' 汉代字书对女娲身份的经典定义"
+    note: "娲，古之神圣女，化万物者也。 汉代字书对女娲身份的经典定义"
 
 secondary_sources:
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 系统梳理女娲从山海经残片到汉代完整创世-补天叙事的层积过程
+    note: "系统梳理女娲从山海经残片到汉代完整创世-补天叙事的层积过程"
   - type: paper
     title: "女娲考"
-    author: 闻一多
+    author: "闻一多"
     year: 1948
     language: zh
-    note: 收录于《神话与诗》。闻一多经典考据，论证女娲原为南方苗蛮系创世女神，后被华夏神话吸纳
+    note: "收录于《神话与诗》。闻一多经典考据，论证女娲原为南方苗蛮系创世女神，后被华夏神话吸纳"
   - type: book
     title: "The Flood Myths of Early China"
-    author: Mark Edward Lewis
+    author: "Mark Edward Lewis"
     year: 2006
     language: en
-    note: SUNY 出版。西方汉学家对中国洪水神话的系统研究，女娲补天位于其中的核心分析
+    note: "SUNY 出版。西方汉学家对中国洪水神话的系统研究，女娲补天位于其中的核心分析"
   - type: paper
     title: "Fuxi and Nüwa in Han Iconography"
-    author: Wu Hung（巫鸿）
+    author: "Wu Hung（巫鸿）"
     year: 1989
     language: en
-    note: 收录于《The Wu Liang Shrine》。巫鸿对汉画像石"伏羲女娲交尾"图像的经典分析
+    note: "收录于《The Wu Liang Shrine》。巫鸿对汉画像石伏羲女娲交尾图像的经典分析"
   - type: paper
     title: "女媧神話の構造"
-    author: 御手洗胜
+    author: "御手洗胜"
     year: 1984
     language: ja
-    note: 日本汉学界对女娲神话结构主义分析的经典论文
+    note: "日本汉学界对女娲神话结构主义分析的经典论文"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·大荒西经》《楚辞·天问》）"
@@ -102,9 +102,9 @@ related_entries: [shan-hai-jing-bestiary, xiwangmu-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——女娲是山海经与后世创世神话的核心接口
+    relation: "山海经母题伞形入口——女娲是山海经与后世创世神话的核心接口"
   - entry_id: xiwangmu-china
-    relation: 山海经内部——中国神话最重要的两大独立女神。女娲主创世，西王母主长生，共同构成中国女神谱系的两极
+    relation: "山海经内部——中国神话最重要的两大独立女神。女娲主创世，西王母主长生，共同构成中国女神谱系的两极"
 
 curator: hector
 review_status: draft

@@ -23,69 +23,69 @@ attributes: [羊身人面, 目在腋下, 虎齿人爪, 食人未咽害及其身,
 
 primary_sources:
   - type: book
-    title: 山海经·北山经
-    author: 佚名（战国至汉初）
+    title: "山海经·北山经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷三·钩吾之山条
     url: https://ctext.org/shan-hai-jing/bei-shan-jing
     access: open
-    note: "原文：'有兽焉，其状如羊身人面，其目在腋下，虎齿人爪，其音如婴儿，名曰狍鸮，是食人。' 郭璞注：'狍鸮即《左传》所谓饕餮也。' 这是饕餮的最早博物志描述"
+    note: "原文：有兽焉，其状如羊身人面，其目在腋下，虎齿人爪，其音如婴儿，名曰狍鸮，是食人。 郭璞注：狍鸮即《左传》所谓饕餮也。 这是饕餮的最早博物志描述"
   - type: book
-    title: 左传·文公十八年
-    author: 左丘明
+    title: "左传·文公十八年"
+    author: "左丘明"
     year: -389
     language: zh
     location: 文公十八年
     url: https://ctext.org/chun-qiu-zuo-zhuan/wen-gong
     access: open
-    note: "'缙云氏有不才子……天下之民谓之饕餮……以比三凶。' 是饕餮作为'上古四凶之一'（与浑敦/穷奇/梼杌并列）的最早文献依据"
+    note: "缙云氏有不才子……天下之民谓之饕餮……以比三凶。 是饕餮作为上古四凶之一（与浑敦/穷奇/梼杌并列）的最早文献依据"
   - type: book
-    title: 吕氏春秋·先识览
-    author: 吕不韦（辑）
+    title: "吕氏春秋·先识览"
+    author: "吕不韦（辑）"
     year: -239
     language: zh
     url: https://ctext.org/lv-shi-chun-qiu/xian-shi
     access: open
-    note: "'周鼎著饕餮，有首无身，食人未咽，害及其身。' 是文献中最早明确将饕餮与青铜器纹样关联的记载，为'纹样即神话'提供关键证据"
+    note: "周鼎著饕餮，有首无身，食人未咽，害及其身。 是文献中最早明确将饕餮与青铜器纹样关联的记载，为纹样即神话提供关键证据"
   - type: archive
-    title: 商周青铜器纹样（考古出土）
-    author: 商周礼器（青铜实物）
+    title: "商周青铜器纹样（考古出土）"
+    author: "商周礼器（青铜实物）"
     year: -1600
     language: 无
-    note: 商代早期至西周晚期约 1000 年间，饕餮纹（学界又称'兽面纹'）是青铜礼器最主要的装饰纹样。安阳殷墟、周原遗址等大量出土器物为其视觉传统的物质证据
+    note: "商代早期至西周晚期约 1000 年间，饕餮纹（学界又称兽面纹）是青铜礼器最主要的装饰纹样。安阳殷墟、周原遗址等大量出土器物为其视觉传统的物质证据"
 
 secondary_sources:
   - type: book
-    title: 中国青铜时代
-    author: 张光直
+    title: "中国青铜时代"
+    author: "张光直"
     year: 1983
     language: zh
-    note: 哈佛大学张光直教授对青铜器饕餮纹与巫术通神功能的经典研究，是中文学界解读饕餮的核心二手来源
+    note: "哈佛大学张光直教授对青铜器饕餮纹与巫术通神功能的经典研究，是中文学界解读饕餮的核心二手来源"
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 袁珂对狍鸮/饕餮的名实关系考订
+    note: "袁珂对狍鸮/饕餮的名实关系考订"
   - type: paper
     title: "The Meaning of the Taotie: A Reevaluation"
-    author: Sarah Allan（艾兰）
+    author: "Sarah Allan（艾兰）"
     year: 1991
     language: en
-    note: 达特茅斯学院汉学家艾兰的重要论文，挑战了张光直的"巫术通神说"，提出**饕餮纹可能是抽象的宇宙秩序符号而非具体神兽**
+    note: "达特茅斯学院汉学家艾兰的重要论文，挑战了张光直的巫术通神说，提出**饕餮纹可能是抽象的宇宙秩序符号而非具体神兽**"
   - type: book
     title: "Art in Ritual: The Case of the Chinese Taotie"
-    author: Robert W. Bagley
+    author: "Robert W. Bagley"
     year: 1990
     language: en
-    note: 普林斯顿大学 Bagley 从艺术史角度反驳"纹样对应具体动物"说，提出**先有纹样传统，后被文献附会为饕餮**的观点
+    note: "普林斯顿大学 Bagley 从艺术史角度反驳纹样对应具体动物说，提出**先有纹样传统，后被文献附会为饕餮**的观点"
   - type: paper
     title: "饕餮纹的文化内涵——从商周到当代"
-    author: 邵学海
+    author: "邵学海"
     year: 2005
     language: zh
-    note: 追溯饕餮纹从商周礼器到清代宫廷再到当代设计的连续演变
+    note: "追溯饕餮纹从商周礼器到清代宫廷再到当代设计的连续演变"
 
 confidence: attested
 first_recorded: "商代早期（约前 1600 年，青铜纹样）；战国晚期（《山海经·北山经》文献化）"
@@ -94,9 +94,9 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——饕餮是《山海经》博物志异兽 + 青铜时代纹样传统的独特交汇
+    relation: "山海经母题伞形入口——饕餮是《山海经》博物志异兽 + 青铜时代纹样传统的独特交汇"
   - entry_id: draugr-norse
-    relation: 跨文化——饕餮与北欧狼芬里尔（Fenrir）均为"贪食/毁灭型"神话符号，前者是纹样化的抽象警示，后者是叙事化的具体威胁
+    relation: "跨文化——饕餮与北欧狼芬里尔（Fenrir）均为贪食/毁灭型神话符号，前者是纹样化的抽象警示，后者是叙事化的具体威胁"
 
 curator: hector
 review_status: draft

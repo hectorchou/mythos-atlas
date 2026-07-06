@@ -23,89 +23,89 @@ attributes: [白毛狐, 稻荷神使, 口衔稻穗宝珠钥匙, 神域守护, �
 
 primary_sources:
   - type: book
-    title: 古事記
-    author: 太安万侶
+    title: "古事記"
+    author: "太安万侶"
     year: 712
     language: ja
     location: 上卷·宇迦之御魂神条
     url: https://dl.ndl.go.jp/pid/991097
     access: open
-    note: 记载稻荷神本尊"宇迦之御魂神"（ウカノミタマノカミ），是稻荷信仰的最初文献源头。此时神使狐尚未明确出现
+    note: "记载稻荷神本尊宇迦之御魂神（ウカノミタマノカミ），是稻荷信仰的最初文献源头。此时神使狐尚未明确出现"
   - type: book
-    title: 日本書紀
-    author: 舍人親王等
+    title: "日本書紀"
+    author: "舍人親王等"
     year: 720
     language: ja
     location: 神代卷
     url: https://dl.ndl.go.jp/pid/951165
     access: open
-    note: "记为'倉稲魂命'（ウカノミタマノミコト），确立稻荷神的神格与掌管职能（谷物、农业、丰饶）"
+    note: "记为倉稲魂命（ウカノミタマノミコト），确立稻荷神的神格与掌管职能（谷物、农业、丰饶）"
   - type: book
-    title: 山城国風土記（逸文）
-    author: 佚名
+    title: "山城国風土記（逸文）"
+    author: "佚名"
     year: 733
     language: ja
-    note: 记载秦伊侣具在深草（今京都伏见）射靶时糯米变化为白鸟飞去，落地生稻——"稻成り"（inari）之名源起，是伏见稻荷大社创建（711年）的一手传说依据
+    note: "记载秦伊侣具在深草（今京都伏见）射靶时糯米变化为白鸟飞去，落地生稻——稻成り（inari）之名源起，是伏见稻荷大社创建（711年）的一手传说依据"
   - type: book
-    title: 今昔物語集
-    author: 佚名
+    title: "今昔物語集"
+    author: "佚名"
     year: 1120
     language: ja
     location: 卷十六·稻荷神赐福篇、卷二十七·狐附身与化人诸篇
     url: https://dl.ndl.go.jp/pid/2543307
     access: open
-    note: 平安末期系统化记载稻荷狐作为神使、以及野狐化人惑众的双面形象，是"神狐"与"野狐"分野的关键文献
+    note: "平安末期系统化记载稻荷狐作为神使、以及野狐化人惑众的双面形象，是神狐与野狐分野的关键文献"
   - type: book
-    title: 稲荷大明神流記
-    author: 佚名（镰仓时代）
+    title: "稲荷大明神流記"
+    author: "佚名（镰仓时代）"
     year: 1300
     language: ja
-    note: 中世稻荷信仰系统化文献，明确将白狐定位为稻荷神眷属（神使），而非神本尊——这一区分至今为神社厅正式立场
+    note: "中世稻荷信仰系统化文献，明确将白狐定位为稻荷神眷属（神使），而非神本尊——这一区分至今为神社厅正式立场"
   - type: archive
-    title: 伏見稲荷大社文書
-    author: 伏见稻荷大社
+    title: "伏見稲荷大社文書"
+    author: "伏见稻荷大社"
     year: 平安至今
     language: ja
     url: https://inari.jp/
     access: open
-    note: 稻荷信仰总本宫官方一手档案，包含历代祭祀记录、狐信仰考据、御神符样式变迁
+    note: "稻荷信仰总本宫官方一手档案，包含历代祭祀记录、狐信仰考据、御神符样式变迁"
 
 secondary_sources:
   - type: book
-    title: 稲荷信仰の研究
-    author: 直江広治
+    title: "稲荷信仰の研究"
+    author: "直江広治"
     year: 1983
     language: ja
-    note: 日本民俗学界稻荷信仰研究的奠基之作
+    note: "日本民俗学界稻荷信仰研究的奠基之作"
   - type: book
-    title: The Fox and the Jewel：Shared and Private Meanings in Contemporary Japanese Inari Worship
-    author: Karen A. Smyers
+    title: "The Fox and the Jewel：Shared and Private Meanings in Contemporary Japanese Inari Worship"
+    author: "Karen A. Smyers"
     year: 1999
     language: en
-    note: 夏威夷大学出版，西方学界研究当代稻荷信仰最权威的民族志田野调查
+    note: "夏威夷大学出版，西方学界研究当代稻荷信仰最权威的民族志田野调查"
   - type: paper
     title: "神使としての狐——稲荷信仰における眷属観の形成"
-    author: 中村禎里
+    author: "中村禎里"
     year: 2001
     language: ja
-    note: 追溯"狐=稻荷神使"观念的历史形成过程
+    note: "追溯狐=稻荷神使观念的历史形成过程"
 
 confidence: attested
 first_recorded: "712年（《古事记》记载本尊）；神使狐明确记载见于1120年《今昔物语集》"
 
 parallel_motifs:
   - entry_id: east-asian-fox-cult
-    relation: 母题伞形入口——本条为中国狐妖东传日本的升格分支
+    relation: "母题伞形入口——本条为中国狐妖东传日本的升格分支"
   - entry_id: tamamo-no-mae-japan
-    relation: 日本狐信仰内部"神—妖"两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致，两者共同支撑起日本狐文化的完整光谱
+    relation: "日本狐信仰内部神—妖两极的典型对照——稻荷狐是神使正统的极致，玉藻前是恶狐妖异的极致，两者共同支撑起日本狐文化的完整光谱"
   - entry_id: gumiho-korea
-    relation: 中国狐妖东传的两条分岁——日本升格为神使（稻荷狐），韩国下沉为吐噬型妖异（九尾狐）。同一符号在不同文化土壤中走向完全相反的两极
+    relation: "中国狐妖东传的两条分岁——日本升格为神使（稻荷狐），韩国下沉为吐噬型妖异（九尾狐）。同一符号在不同文化土壤中走向完全相反的两极"
   - entry_id: huyao-china
-    relation: 东亚狐信仰跨海传播链——中国狐修理论东渡日本后发生根本性重构：从"精怪修炼→仙"路径，转变为"神明眷属→神圣"路径。同一动物符号在中日文化中走向完全相反的宗教定位
+    relation: "东亚狐信仰跨海传播链——中国狐修理论东渡日本后发生根本性重构：从精怪修炼→仙路径，转变为神明眷属→神圣路径。同一动物符号在中日文化中走向完全相反的宗教定位"
   - entry_id: tengu-japan
-    relation: 日本"神—妖"二元光谱两端——稻荷狐是从妖异升格为神使的成功范例，而天狗则始终徘徊于神与妖之间。两者共同展示日本神道对超自然存在的分类逻辑
+    relation: "日本神—妖二元光谱两端——稻荷狐是从妖异升格为神使的成功范例，而天狗则始终徘徊于神与妖之间。两者共同展示日本神道对超自然存在的分类逻辑"
   - entry_id: kappa-japan-water
-    relation: 日本三大民间超自然形象——稻荷狐（神格化的动物）、天狗（山灵）、河童（水妖），共同构成日本民俗宇宙的骨架
+    relation: "日本三大民间超自然形象——稻荷狐（神格化的动物）、天狗（山灵）、河童（水妖），共同构成日本民俗宇宙的骨架"
 
 curator: hector
 review_status: draft

@@ -23,62 +23,62 @@ attributes: [炎帝之女, 溺亡东海, 化为文首白喙赤足之鸟, 衔西�
 
 primary_sources:
   - type: book
-    title: 山海经·北山经
-    author: 佚名（战国至汉初）
+    title: "山海经·北山经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷三·发鸠山条
     url: https://ctext.org/shan-hai-jing/bei-shan-jing
     access: open
-    note: "原文：'发鸠之山，其上多柘木。有鸟焉，其状如乌，文首、白喙、赤足，名曰精卫，其鸣自詨。是炎帝之少女，名曰女娃。女娃游于东海，溺而不返，故为精卫，常衔西山之木石，以堙于东海。' 是精卫叙事的唯一一次原典完整记载"
+    note: "原文：发鸠之山，其上多柘木。有鸟焉，其状如乌，文首、白喙、赤足，名曰精卫，其鸣自詨。是炎帝之少女，名曰女娃。女娃游于东海，溺而不返，故为精卫，常衔西山之木石，以堙于东海。 是精卫叙事的唯一一次原典完整记载"
   - type: book
-    title: 述异记
-    author: 任昉
+    title: "述异记"
+    author: "任昉"
     year: 500
     language: zh
     url: https://ctext.org/wiki.pl?if=gb&res=102102
     access: open
-    note: 南北朝志怪补充——精卫又名'誓鸟''冤禽''志鸟'，与东海的海燕结为夫妇，生雌鸟如精卫，雄鸟似海燕。展示了精卫神话在六朝的具体化演变
+    note: "南北朝志怪补充——精卫又名誓鸟冤禽志鸟，与东海的海燕结为夫妇，生雌鸟如精卫，雄鸟似海燕。展示了精卫神话在六朝的具体化演变"
   - type: book
-    title: 博物志
-    author: 张华
+    title: "博物志"
+    author: "张华"
     year: 290
     language: zh
     url: https://ctext.org/wiki.pl?if=gb&res=574091
     access: open
-    note: 西晋博物学名著对精卫叙事的收录
+    note: "西晋博物学名著对精卫叙事的收录"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 袁珂将精卫神话解读为"上古人民对自然力抗争的意志之歌"，是当代中文学界的主流阐释
+    note: "袁珂将精卫神话解读为上古人民对自然力抗争的意志之歌，是当代中文学界的主流阐释"
   - type: paper
     title: "精卫神话与中国文化中的执念结构"
-    author: 叶舒宪
+    author: "叶舒宪"
     year: 1997
     language: zh
-    note: 中国社会科学院文学所研究员，从原型批评视角分析精卫作为"执念原型"在中国文化中的深层结构
+    note: "中国社会科学院文学所研究员，从原型批评视角分析精卫作为执念原型在中国文化中的深层结构"
   - type: book
     title: "The Classic of Mountains and Seas"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1999
     language: en
-    note: 英文全译本对精卫的翻译与阐释（"Jingwei Bird"）
+    note: "英文全译本对精卫的翻译与阐释（Jingwei Bird）"
   - type: paper
     title: "Filling the Sea: The Persistence Motif in Chinese Mythology"
-    author: 收录于 Handbook of Chinese Mythology
+    author: "收录于 Handbook of Chinese Mythology"
     year: 2005
     language: en
-    note: 从跨文化比较视角讨论"精卫填海"作为"不可能任务"母题在东亚神话中的独特性
+    note: "从跨文化比较视角讨论精卫填海作为不可能任务母题在东亚神话中的独特性"
   - type: paper
     title: "陶渊明《读山海经》与精卫叙事的文人化重构"
-    author: 王青
+    author: "王青"
     year: 2010
     language: zh
-    note: 分析陶渊明'精卫衔微木，将以填沧海。刑天舞干戚，猛志固常在'如何将精卫从神话形象升华为士人精神象征
+    note: "分析陶渊明精卫衔微木，将以填沧海。刑天舞干戚，猛志固常在如何将精卫从神话形象升华为士人精神象征"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·北山经》）"
@@ -87,11 +87,11 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——精卫是《山海经》"化生+执念"叙事的最完整代表
+    relation: "山海经母题伞形入口——精卫是《山海经》化生+执念叙事的最完整代表"
   - entry_id: kuafu-china
-    relation: 同为山海经悲壮英雄双璧——夸父代表"人对自然极限的挑战"，精卫代表"死后不屈的复仇执念"。两者共同构成中国上古"悲壮美学"的双柱
+    relation: "同为山海经悲壮英雄双璧——夸父代表人对自然极限的挑战，精卫代表死后不屈的复仇执念。两者共同构成中国上古悲壮美学的双柱"
   - entry_id: la-llorona-mexico
-    relation: 跨文化——精卫与La Llorona同为"含冤女性化为不朽存在"母题，但精卫是执念的正向升华（填海），La Llorona是执念的负向沉沦（哀号）
+    relation: "跨文化——精卫与La Llorona同为含冤女性化为不朽存在母题，但精卫是执念的正向升华（填海），La Llorona是执念的负向沉沦（哀号）"
 
 curator: hector
 review_status: draft

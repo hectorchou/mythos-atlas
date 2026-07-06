@@ -23,73 +23,73 @@ attributes: [后羿之妻, 窃不死药, 奔月, 居广寒宫, 与玉兔蟾蜍�
 
 primary_sources:
   - type: book
-    title: 归藏
-    author: 佚名（战国）
+    title: "归藏"
+    author: "佚名（战国）"
     year: -300
     language: zh
-    note: "'昔常娥以不死之药服之，遂奔月为月精。' 引自《文选·祭颜光禄文》李善注。归藏是《易》三本之一，此为嫦娥奔月最早的文献记载，早于《淮南子》"
+    note: "昔常娥以不死之药服之，遂奔月为月精。 引自《文选·祭颜光禄文》李善注。归藏是《易》三本之一，此为嫦娥奔月最早的文献记载，早于《淮南子》"
   - type: book
-    title: 淮南子·览冥训
-    author: 刘安等
+    title: "淮南子·览冥训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/lan-ming-xun
     access: open
-    note: "'羿请不死之药于西王母，姮娥窃以奔月，怅然有丧，无以续之。' 嫦娥奔月叙事的最早完整版本"
+    note: "羿请不死之药于西王母，姮娥窃以奔月，怅然有丧，无以续之。 嫦娥奔月叙事的最早完整版本"
   - type: book
-    title: 灵宪
-    author: 张衡
+    title: "灵宪"
+    author: "张衡"
     year: 118
     language: zh
-    note: "'羿请无死之药于西王母，姮娥窃之以奔月……姮娥遂托身于月，是为蟾蜍。' 东汉张衡记载，嫦娥化蟾蜍是其原始形象——这一丑陋结局在后世逐步被消解"
+    note: "羿请无死之药于西王母，姮娥窃之以奔月……姮娥遂托身于月，是为蟾蜍。 东汉张衡记载，嫦娥化蟾蜍是其原始形象——这一丑陋结局在后世逐步被消解"
   - type: book
-    title: 楚辞·天问
-    author: 屈原
+    title: "楚辞·天问"
+    author: "屈原"
     year: -280
     language: zh
     url: https://ctext.org/chu-ci/tian-wen
     access: open
-    note: "'夜光何德，死则又育？厥利维何，而顾菟在腹？' 屈原问月中之兔——先秦时代月中神话已流行的旁证"
+    note: "夜光何德，死则又育？厥利维何，而顾菟在腹？ 屈原问月中之兔——先秦时代月中神话已流行的旁证"
   - type: book
-    title: 搜神记·卷十四
-    author: 干宝
+    title: "搜神记·卷十四"
+    author: "干宝"
     year: 350
     language: zh
     url: https://ctext.org/sou-shen-ji
     access: open
-    note: 东晋整理版嫦娥奔月叙事，将其纳入志怪叙事系统
+    note: "东晋整理版嫦娥奔月叙事，将其纳入志怪叙事系统"
 
 secondary_sources:
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 详考嫦娥从化蟾蜍到广寒仙子的形象美化过程
+    note: "详考嫦娥从化蟾蜍到广寒仙子的形象美化过程"
   - type: paper
     title: "姮娥奔月神话考"
-    author: 闻一多
+    author: "闻一多"
     year: 1948
     language: zh
-    note: 收录于《神话与诗》。闻一多经典考据，论证嫦娥可能与远古月神"常仪"（帝俊之妻）同源
+    note: "收录于《神话与诗》。闻一多经典考据，论证嫦娥可能与远古月神常仪（帝俊之妻）同源"
   - type: paper
-    title: "The Moon Rabbit and Chang'e"
-    author: Sarah Allan
+    title: "The Moon Rabbit and Change"
+    author: "Sarah Allan"
     year: 1991
     language: en
-    note: 收录于《The Shape of the Turtle》续篇。剑桥汉学家对月中神话（兔/蟾蜍/嫦娥）的系统分析
+    note: "收录于《The Shape of the Turtle》续篇。剑桥汉学家对月中神话（兔/蟾蜍/嫦娥）的系统分析"
   - type: paper
     title: "The Woman in the Moon"
-    author: Suzanne Cahill
+    author: "Suzanne Cahill"
     year: 1993
     language: en
-    note: 收录于《Transcendence and Divine Passion》。西方汉学界对嫦娥作为女仙形象演变的研究
+    note: "收录于《Transcendence and Divine Passion》。西方汉学界对嫦娥作为女仙形象演变的研究"
   - type: paper
     title: "嫦娥奔月神話の変遷"
-    author: 小南一郎
+    author: "小南一郎"
     year: 1984
     language: ja
-    note: 日本汉学界对嫦娥叙事从汉到唐宋演变的系统研究
+    note: "日本汉学界对嫦娥叙事从汉到唐宋演变的系统研究"
 
 confidence: attested
 first_recorded: "战国（《归藏》），西汉（《淮南子》系统化）"
@@ -98,11 +98,11 @@ related_entries: [shan-hai-jing-bestiary, houyi-china, xiwangmu-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——嫦娥虽未直接出现于山海经，但通过后羿-西王母-月神谱系与山海经神话密切关联
+    relation: "山海经母题伞形入口——嫦娥虽未直接出现于山海经，但通过后羿-西王母-月神谱系与山海经神话密切关联"
   - entry_id: houyi-china
-    relation: 直接夫妻叙事对——嫦娥窃后羿之药奔月，构成中国神话最重要的夫妻悲剧
+    relation: "直接夫妻叙事对——嫦娥窃后羿之药奔月，构成中国神话最重要的夫妻悲剧"
   - entry_id: xiwangmu-china
-    relation: 药之源头——不死药出自西王母，嫦娥奔月是西王母长生体系的下游叙事
+    relation: "药之源头——不死药出自西王母，嫦娥奔月是西王母长生体系的下游叙事"
 
 curator: hector
 review_status: draft

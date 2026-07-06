@@ -23,62 +23,62 @@ attributes: [状如黄囊, 赤如丹火, 六足四翼, 浑敦无面目, 识歌�
 
 primary_sources:
   - type: book
-    title: 山海经·西山经
-    author: 佚名（战国至汉初）
+    title: "山海经·西山经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷二·西次三经·天山条
     url: https://ctext.org/shan-hai-jing/xi-shan-jing
     access: open
-    note: "'天山……有神焉，其状如黄囊，赤如丹火，六足四翼，浑敦无面目，是识歌舞，实为帝江也。' 帝江的唯一原典记载，仅 30 余字"
+    note: "天山……有神焉，其状如黄囊，赤如丹火，六足四翼，浑敦无面目，是识歌舞，实为帝江也。 帝江的唯一原典记载，仅 30 余字"
   - type: book
-    title: 庄子·应帝王
-    author: 庄子
+    title: "庄子·应帝王"
+    author: "庄子"
     year: -290
     language: zh
     url: https://ctext.org/zhuangzi/fit-for-emperors-and-kings
     access: open
     note: "南海之帝为倏，北海之帝为忽，中央之帝为浑沌。倏与忽时相与遇于浑沌之地，浑沌待之甚善。倏与忽谋报浑沌之德，曰：人皆有七窍以视听食息，此独无有，尝试凿之。日凿一窍，七日而浑沌死。—— 中国哲学史上最重要的寓言之一，与山海经帝江记载互为呼应"
   - type: book
-    title: 左传·文公十八年
-    author: 左丘明
+    title: "左传·文公十八年"
+    author: "左丘明"
     year: -389
     language: zh
     url: https://ctext.org/chun-qiu-zuo-zhuan/wen-gong-shi-ba-nian
     access: open
-    note: "'昔帝鸿氏有不才子……天下之民谓之浑敦。' 将帝鸿之子改造为四凶之一的浑敦，帝江-帝鸿-浑敦叙事合流的关键节点"
+    note: "昔帝鸿氏有不才子……天下之民谓之浑敦。 将帝鸿之子改造为四凶之一的浑敦，帝江-帝鸿-浑敦叙事合流的关键节点"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: "袁珂明确指出：'帝江即帝鸿，亦即《庄子》之浑沌。' 是中文学界帝江=浑沌=帝鸿三位一体说的经典表述"
+    note: "袁珂明确指出：帝江即帝鸿，亦即《庄子》之浑沌。 是中文学界帝江=浑沌=帝鸿三位一体说的经典表述"
   - type: book
     title: "Hundun and the Butterfly: The Chuang Tzu on Chaos and Transformation"
-    author: N.J. Girardot
+    author: "N.J. Girardot"
     year: 1983
     language: en
-    note: 加州大学出版。西方学界研究中国混沌观念的经典专著，系统梳理帝江-浑沌-Hundun 的哲学与神话关联
+    note: "加州大学出版。西方学界研究中国混沌观念的经典专著，系统梳理帝江-浑沌-Hundun 的哲学与神话关联"
   - type: paper
     title: "Chaos in Chinese Mythology"
-    author: Norman Girardot
+    author: "Norman Girardot"
     year: 1976
     language: en
-    note: 收录于《History of Religions》。首次系统论证山海经帝江是庄子浑沌寓言的神话原型
+    note: "收录于《History of Religions》。首次系统论证山海经帝江是庄子浑沌寓言的神话原型"
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 详考帝江-帝鸿-浑敦-浑沌的名号流变与身份合流过程
+    note: "详考帝江-帝鸿-浑敦-浑沌的名号流变与身份合流过程"
   - type: paper
     title: "『荘子』の混沌と『山海経』の帝江"
-    author: 池田知久
+    author: "池田知久"
     year: 1998
     language: ja
-    note: 日本庄子学界对帝江与浑沌关系的系统研究，指出这是中国哲学从神话中脱胎的关键案例
+    note: "日本庄子学界对帝江与浑沌关系的系统研究，指出这是中国哲学从神话中脱胎的关键案例"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·西山经》）"
@@ -87,11 +87,11 @@ related_entries: [shan-hai-jing-bestiary, qiongqi-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——帝江是山海经与中国哲学接口的最关键节点
+    relation: "山海经母题伞形入口——帝江是山海经与中国哲学接口的最关键节点"
   - entry_id: qiongqi-china
-    relation: 帝鸿之子被列为"四凶"之首的浑敦，与穷奇同属四凶谱系。帝江-浑敦是父子关系（如袁珂说），揭示了山海经神明与四凶叙事的血缘链
+    relation: "帝鸿之子被列为四凶之首的浑敦，与穷奇同属四凶谱系。帝江-浑敦是父子关系（如袁珂说），揭示了山海经神明与四凶叙事的血缘链"
   - entry_id: xibalba-maya
-    relation: 跨文化——同为"未分化的原初状态"象征。玛雅创世神话中的原初虚空与帝江/浑沌构成"混沌创世"的文化对偶
+    relation: "跨文化——同为未分化的原初状态象征。玛雅创世神话中的原初虚空与帝江/浑沌构成混沌创世的文化对偶"
 
 curator: hector
 review_status: draft

@@ -27,8 +27,8 @@ attributes: [羽蛇形态, 白肤蓄须（部分传说）, 掌风与创世, 与�
 
 primary_sources:
   - type: book
-    title: Popol Vuh·第一部第一章
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第一部第一章"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -36,60 +36,60 @@ primary_sources:
     access: open
     note: "那时只有天，只有海……只有Tepeu（主宰者）与Gucumatz（羽蛇/被绿羽覆盖者）在水中。他们伟大，他们智慧，他们思考。因此发生了创世。 羽蛇神Gucumatz作为最初创世者的原始记载"
   - type: archive
-    title: Teotihuacan羽蛇金字塔（La Ciudadela）
-    author: 特奥蒂瓦坎建造者
+    title: "Teotihuacan羽蛇金字塔（La Ciudadela）"
+    author: "特奥蒂瓦坎建造者"
     year: 200
     language: unk
     note: "墨西哥特奥蒂瓦坎羽蛇金字塔（Templo de la Serpiente Emplumada），公元200-250年建成。石墙上100+羽蛇头颅雕刻——是羽蛇神崇拜早于玛雅古典期与阿兹特克约1000年的最古老大规模建筑证据。已列入UNESCO世界遗产"
   - type: archive
-    title: 奥尔梅克羽蛇雕刻（Chalcatzingo / La Venta）
-    author: 奥尔梅克雕刻师
+    title: "奥尔梅克羽蛇雕刻（Chalcatzingo / La Venta）"
+    author: "奥尔梅克雕刻师"
     year: -900
     language: unk
     note: "墨西哥Chalcatzingo Monument 5（约公元前900年）与La Venta Monument 19描绘早期羽蛇形态——是羽蛇神在**新大陆母文化奥尔梅克时期已存在的证据**。将羽蛇神叙事上推至公元前900年，比玛雅古典期早1500年"
   - type: archive
-    title: Chichén Itzá库库尔坎金字塔（El Castillo）
-    author: 后古典期Toltec-Maya
+    title: "Chichén Itzá库库尔坎金字塔（El Castillo）"
+    author: "后古典期Toltec-Maya"
     year: 1000
     language: myn
     note: "尤卡坦Chichén Itzá的库库尔坎金字塔（El Castillo）——365级台阶对应太阳年，四面52块面板对应52年历法周期。每年**春分与秋分日**下午，太阳照射在阶梯边缘产生**蛇形阴影从顶端滑下**——是羽蛇神叙事的天文-建筑对应，至今每年吸引百万观众。UNESCO世界遗产"
   - type: archive
-    title: Xochicalco羽蛇神庙
-    author: 埃皮古典期
+    title: "Xochicalco羽蛇神庙"
+    author: "埃皮古典期"
     year: 800
     language: unk
     note: "墨西哥莫雷洛斯Xochicalco羽蛇神庙（约公元650-900年）——是特奥蒂瓦坎-玛雅-托尔特克之间的过渡期羽蛇神崇拜的关键遗址"
   - type: archive
-    title: Tula羽蛇神柱与Chac Mool
-    author: 托尔特克雕刻师
+    title: "Tula羽蛇神柱与Chac Mool"
+    author: "托尔特克雕刻师"
     year: 1000
     language: nah
     note: "墨西哥Hidalgo州Tula（图拉）——托尔特克首都遗址。B金字塔顶端的巨型羽蛇神柱（Atlantes de Tula）与Chac Mool（半躺武士像）是托尔特克-阿兹特克传承阶段羽蛇神崇拜的核心实物"
   - type: archive
-    title: Codex Borgia
-    author: 前哥伦布晚期墨西哥中央高地祭司
+    title: "Codex Borgia"
+    author: "前哥伦布晚期墨西哥中央高地祭司"
     year: 1400
     language: nah
     url: https://www.famsi.org/research/loubat/Borgia/thumbs0.html
     access: open
     note: "前哥伦布时期五大墨西哥抄本之一。第56页与其他多处描绘Quetzalcoatl羽蛇神的完整神格——是前哥伦布时期羽蛇神图像最重要的一手证据"
   - type: book
-    title: Florentine Codex（《新西班牙事物通史》）第三卷
-    author: Fray Bernardino de Sahagún（与纳瓦特尔informant合著）
+    title: "Florentine Codex（《新西班牙事物通史》）第三卷"
+    author: "Fray Bernardino de Sahagún（与纳瓦特尔informant合著）"
     year: 1577
     language: nah-es
     url: https://www.wdl.org/en/item/10096/
     access: open
     note: "方济各会传教士Sahagún与阿兹特克贵族informant合著的12卷双语（纳瓦特尔+西班牙）巨著。第三卷记载Quetzalcoatl完整神话——托尔特克王/羽蛇神/文明缔造者/被诱骗流放东方/预言归来。是阿兹特克视角羽蛇神神话的最完整文本"
   - type: book
-    title: Anales de Cuauhtitlan
-    author: 匿名纳瓦特尔历史学家
+    title: "Anales de Cuauhtitlan"
+    author: "匿名纳瓦特尔历史学家"
     year: 1570
     language: nah
     note: "纳瓦特尔历史编年。记载托尔特克王Ce Ácatl Topiltzin Quetzalcoatl（一芦苇年·我们的王子·羽蛇）的历史化叙事——玛雅历史学界至今争论他是历史人物还是神话人物"
   - type: book
-    title: Popol Vuh·第四部
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第四部"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -100,79 +100,79 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Quetzalcoatl and the Irony of Empire"
-    author: David Carrasco
+    author: "David Carrasco"
     year: 1982
     language: en
     note: "University of Chicago Press。哈佛大学宗教学教授Carrasco的划时代专著——**系统论证Quetzalcoatl-Kukulkan-Gucumatz是同一神格在不同文化的名号变体**。追溯从奥尔梅克到阿兹特克三千年的完整传承链。是英语学界当前最权威的羽蛇神研究"
   - type: book
     title: "The Aztecs"
-    author: Michael E. Smith
+    author: "Michael E. Smith"
     year: 2003
     language: en
     note: "Blackwell出版第2版。ASU教授Smith对阿兹特克Quetzalcoatl的系统整理——包括他作为托尔特克王的历史化叙事"
   - type: paper
     title: "The Feathered Serpent"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1992
     language: en
     note: "收录于《The Major Gods of Ancient Yucatan》。Taube对羽蛇神图像谱系的系统研究——识别羽蛇神在不同时期的视觉标识变化"
   - type: paper
     title: "Serpent Symbolism in Mesoamerica"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 2001
     language: en
     note: "收录于《Archaeoastronomy at Chichén Itzá》。分析Chichén Itzá春分蛇影现象的天文-仪式意义"
   - type: paper
     title: "El culto a Quetzalcóatl"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1980
     language: es
     note: "墨西哥国立自治大学。**León-Portilla是墨西哥原住民哲学研究的奠基人**——他对Quetzalcoatl作为哲学王/知识神的分析是拉美学界最重要的解读"
   - type: book
     title: "Quetzalcoatl y Guadalupe"
-    author: Jacques Lafaye
+    author: "Jacques Lafaye"
     year: 1974
     language: fr
     note: "**法国拉美学家Lafaye的经典专著**——研究Quetzalcoatl信仰如何在殖民时代与瓜达卢佩圣母崇拜融合。是宗教融合研究的经典案例"
   - type: book
     title: "The Ancient Maya"
-    author: Sharer & Traxler
+    author: "Sharer & Traxler"
     year: 2006
     language: en
     note: "Stanford University Press。玛雅Kukulkan/Gucumatz的系统整理与考古证据"
   - type: paper
     title: "Chichén Itzá and its Serpent Shadow"
-    author: Susan Milbrath
+    author: "Susan Milbrath"
     year: 2003
     language: en
     note: "佛罗里达大学天文考古学者Milbrath对春分蛇影现象的天文考古学分析——证明这是**故意设计的建筑-天文对应**"
   - type: paper
     title: "The Cult of Quetzalcoatl at Teotihuacan"
-    author: Saburo Sugiyama
+    author: "Saburo Sugiyama"
     year: 2005
     language: en
     note: "亚利桑那州立大学。**Sugiyama主持特奥蒂瓦坎羽蛇金字塔发掘**，发现内部人祭墓葬——是了解特奥蒂瓦坎羽蛇神崇拜实际形态的最重要考古学者"
   - type: book
     title: "Cortés and the Quetzalcoatl Return"
-    author: Camilla Townsend
+    author: "Camilla Townsend"
     year: 2003
     language: en
     note: "《American Historical Review》学术论文。**批判性检视阿兹特克人误认Cortés为归来的Quetzalcoatl的流传叙事**——Townsend论证这一叙事很可能是殖民后期的神话建构，而非1519年实际信仰。是修正主义学派的关键文本"
   - type: paper
     title: "『ケツァルコアトル』神話研究"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1970
     language: ja
     note: "日语学界玛雅-阿兹特克研究奠基者对Quetzalcoatl的系统介绍"
   - type: paper
     title: "Feathered Serpents in Global Perspective"
-    author: Bruce Lincoln
+    author: "Bruce Lincoln"
     year: 1976
     language: en
     note: "芝加哥大学Lincoln将羽蛇神与全球羽蛇/龙谱系（中华龙、印度Nāga、埃及Wadjet）比较——探讨神圣蛇/龙作为世界性神话母题的深层结构"
   - type: book
-    title: 阿兹特克与玛雅神话
-    author: Karl Taube（张军译）
+    title: "阿兹特克与玛雅神话"
+    author: "Karl Taube（张军译）"
     year: 2001
     language: zh
     note: "陕西师范大学出版社。中文学界最权威的中美洲神话入门读物之一"

@@ -23,78 +23,78 @@ attributes: [豹尾虎齿, 善啸, 蓬发戴胜, 居昆仑之丘, 司天之厉�
 
 primary_sources:
   - type: book
-    title: 山海经·西山经
-    author: 佚名（战国至汉初）
+    title: "山海经·西山经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷二·西次三经·玉山条
     url: https://ctext.org/shan-hai-jing/xi-shan-jing
     access: open
-    note: "'玉山，是西王母所居也。西王母其状如人，豹尾虎齿而善啸，蓬发戴胜，是司天之厉及五残。' 西王母形象最早、最原始的记载——半人半兽的凶神"
+    note: "玉山，是西王母所居也。西王母其状如人，豹尾虎齿而善啸，蓬发戴胜，是司天之厉及五残。 西王母形象最早、最原始的记载——半人半兽的凶神"
   - type: book
-    title: 山海经·海内北经
-    author: 佚名（战国至汉初）
+    title: "山海经·海内北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/hai-nei-bei-jing
     access: open
     note: "西王母梯几而戴胜杖，其南有三青鸟，为西王母取食。—— 增加了三青鸟侍神与梯几而坐的仪式化姿态"
   - type: book
-    title: 山海经·大荒西经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒西经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-xi-jing
     access: open
-    note: "'有人戴胜，虎齿，有豹尾，穴处，名曰西王母。' 三经互证——玉山/昆仑/穴处三种居所记载并存"
+    note: "有人戴胜，虎齿，有豹尾，穴处，名曰西王母。 三经互证——玉山/昆仑/穴处三种居所记载并存"
   - type: book
-    title: 穆天子传
-    author: 佚名（战国）
+    title: "穆天子传"
+    author: "佚名（战国）"
     year: -300
     language: zh
     url: https://ctext.org/mu-tianzi-zhuan
     access: open
-    note: "卷三记周穆王西巡见西王母于瑶池，'觞西王母于瑶池之上'——西王母首次以人形'王者'姿态与人间君主对等交往，是形象人格化的关键转折"
+    note: "卷三记周穆王西巡见西王母于瑶池，觞西王母于瑶池之上——西王母首次以人形王者姿态与人间君主对等交往，是形象人格化的关键转折"
   - type: book
-    title: 淮南子·览冥训
-    author: 刘安等
+    title: "淮南子·览冥训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/lan-ming-xun
     access: open
-    note: "'羿请不死之药于西王母，姮娥窃以奔月。' 西王母掌不死之药的记载，直接催生嫦娥奔月神话，也奠定汉代长生信仰的核心"
+    note: "羿请不死之药于西王母，姮娥窃以奔月。 西王母掌不死之药的记载，直接催生嫦娥奔月神话，也奠定汉代长生信仰的核心"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 详考西王母三条山海经记载的地层关系与形象演变
+    note: "详考西王母三条山海经记载的地层关系与形象演变"
   - type: book
     title: "The Cult of the Queen Mother of the West"
-    author: Suzanne Cahill
+    author: "Suzanne Cahill"
     year: 1993
     language: en
-    note: Stanford University Press。英语学界研究西王母的经典专著，系统梳理唐代西王母信仰
+    note: "Stanford University Press。英语学界研究西王母的经典专著，系统梳理唐代西王母信仰"
   - type: paper
     title: "The Queen Mother of the West in Han Iconography"
-    author: Wu Hung（巫鸿）
+    author: "Wu Hung（巫鸿）"
     year: 1989
     language: en
-    note: 收录于《The Wu Liang Shrine》。巫鸿对武梁祠西王母画像石的经典分析，是汉代西王母图像学的奠基作
+    note: "收录于《The Wu Liang Shrine》。巫鸿对武梁祠西王母画像石的经典分析，是汉代西王母图像学的奠基作"
   - type: book
-    title: 西王母神话研究
-    author: 王孝廉
+    title: "西王母神话研究"
+    author: "王孝廉"
     year: 1988
     language: zh
-    note: 中文学界西王母专题研究，梳理从山海经到唐宋道教的完整演变链
+    note: "中文学界西王母专题研究，梳理从山海经到唐宋道教的完整演变链"
   - type: paper
     title: "西王母信仰の展開"
-    author: 小南一郎
+    author: "小南一郎"
     year: 1994
     language: ja
-    note: 日本汉学界对西王母信仰的系统研究，收录于《中国の神話と物語り》
+    note: "日本汉学界对西王母信仰的系统研究，收录于《中国の神話と物語り》"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·西山经》《穆天子传》）"
@@ -103,9 +103,9 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——西王母是《山海经》女神谱系的最高代表，也是最完整的"神格演化"样本
+    relation: "山海经母题伞形入口——西王母是《山海经》女神谱系的最高代表，也是最完整的神格演化样本"
   - entry_id: zhulong-china
-    relation: 山海经内部——同为西北方位神，但烛龙保持纯粹自然神性，西王母则完成了从凶神到主神的完整人格化
+    relation: "山海经内部——同为西北方位神，但烛龙保持纯粹自然神性，西王母则完成了从凶神到主神的完整人格化"
 
 curator: hector
 review_status: draft

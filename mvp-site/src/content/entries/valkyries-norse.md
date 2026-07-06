@@ -25,76 +25,76 @@ attributes: [骑飞马, 佩甲执矛, 天鹅羽衣变形, 战场选取英灵, �
 
 primary_sources:
   - type: manuscript
-    title: Grímnismál（格里姆尼尔之歌）·36节
-    author: 佚名（10世纪口传）
+    title: "Grímnismál（格里姆尼尔之歌）·36节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Grímnismál
     access: open
     note: "Hrist与Mist我愿她们为我斟角酒，Skeggjǫld与Skǫgul、Hildr与Þrúðr、Hlǫkk与Herfjǫtur、Gǫll与Geirǫlul、Randgríð与Ráðgríð以及Reginleif——她们向英灵斟麦酒。 女武神13名的最原始名录"
   - type: manuscript
-    title: Völuspá（女先知的预言）·30-31节
-    author: 佚名
+    title: "Völuspá（女先知的预言）·30-31节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Völuspá
     access: open
     note: "我看见女武神从远方赶来，准备骑向Goðþjóð——Skuld持盾，Skǫgul紧随，Gunnr、Hildr、Gǫndul、Geirskǫgul。 女先知目睹女武神赴战场的核心文本，重要意义：Skuld既是女武神又是命运诺伦，双重身份"
   - type: manuscript
-    title: Darraðarljóð（长矛之歌）
-    author: 佚名（11世纪，收入Njáls saga 157章）
+    title: "Darraðarljóð（长矛之歌）"
+    author: "佚名（11世纪，收入Njáls saga 157章）"
     year: 1270
     language: is
     url: https://sagadb.org/brennu-njals_saga
     access: open
     note: "1014年爱尔兰Clontarf战役前夜，苏格兰Caithness的凡人窥见12位女武神在血血织布机上编织战士命运，用矛为梭、用头颅为纱锤、用肠为经线。我们编织，我们编织，长矛之布——北欧文学中最震撼的战争意象之一"
   - type: manuscript
-    title: Sigrdrífumál（Sigrdrífa之歌）
-    author: 佚名
+    title: "Sigrdrífumál（Sigrdrífa之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Sigrdrífumál
     access: open
     note: "英雄Sigurd在Hindarfjall山唤醒被奥丁刺以睡眠之刺沉睡的女武神Sigrdrífa（后与Brynhildr合流），她教他卢恩符文与智慧。是女武神-英雄爱情叙事的核心"
   - type: manuscript
-    title: Helgakviða Hundingsbana I & II
-    author: 佚名
+    title: "Helgakviða Hundingsbana I & II"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Helgakviða_Hundingsbana_I
     access: open
     note: "女武神Sigrún爱上英雄Helgi Hundingsbani、助其杀敌、丈夫死后夜访其坟丘、二人最终转世重生的完整叙事。是北欧文学中最凄美的女武神-英雄爱情"
   - type: manuscript
-    title: Vǫlundarkviða（沃隆德之歌）
-    author: 佚名
+    title: "Vǫlundarkviða（沃隆德之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Vǫlundarkviða
     access: open
     note: "三位女武神-天鹅少女在湖边脱去天鹅羽衣沐浴时被三兄弟捕获成婚，九年后穿回羽衣飞走。是女武神天鹅少女型的核心文本"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·36章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·36章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "Odin派她们去每一场战斗；她们选取谁将战死，决定胜负。Gunnr、Rota与最年轻的诺伦Skuld总是骑马赴战选取战死者，决定战斗结果。 斯诺里系统整理女武神的职能"
   - type: archive
-    title: Hårby女武神小雕像（丹麦国家博物馆）
-    author: 丹麦Hårby
+    title: "Hårby女武神小雕像（丹麦国家博物馆）"
+    author: "丹麦Hårby"
     year: 800
     language: non
     note: "2012年丹麦Fyn岛Hårby出土的3厘米镀银铜像，公认是女武神形象——女性骑士持剑执盾。是现存唯一的女武神立体实物证据"
   - type: archive
-    title: 女武神吊坠与胸针（斯堪的纳维亚多地）
-    author: 维京匠人
+    title: "女武神吊坠与胸针（斯堪的纳维亚多地）"
+    author: "维京匠人"
     year: 900
     language: non
     note: "瑞典Birka、丹麦Wickham Market、俄罗斯Gnezdovo等地出土多枚女性持盾或斟酒姿态的银/铜坠饰，公认是女武神形象。是女武神信仰的实物证据链"
   - type: archive
-    title: Tängelgårda石（Gotland）
-    author: 瑞典哥特兰
+    title: "Tängelgårda石（Gotland）"
+    author: "瑞典哥特兰"
     year: 700
     language: non
     note: "瑞典哥特兰岛7-8世纪的图像石（picture stone），描绘女武神持角杯迎接骑马英雄进入Valhǫll的场景，是Valhǫll接引仪式最古老的图像证据"
@@ -102,61 +102,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "The Battle-Magic and the Valkyries"
-    author: H.R. Ellis Davidson
+    author: "H.R. Ellis Davidson"
     year: 1988
     language: en
     note: "收录于《Myths and Symbols in Pagan Europe》。剑桥学者Davidson经典章节，深入分析女武神从战场选魂者到英雄恋人到民间信仰的完整演化"
   - type: book
     title: "Norse Mythology: A Guide"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "Valkyries 条目是当代英语学界最完整的整理"
   - type: paper
     title: "Valkyries: Selectors of the Slain"
-    author: Kathleen M. Self
+    author: "Kathleen M. Self"
     year: 2014
     language: en
     note: "《Studies in Old Norse Literature》。深入分析女武神与seiðr、命运、战争的三重连接"
   - type: book
     title: "The Viking Way: Religion and War in Late Iron Age Scandinavia"
-    author: Neil Price
+    author: "Neil Price"
     year: 2002
     language: en
     note: "Price博士论文有专章论述女武神-vǫlva-seiðr的复合体，考察实际战争魔法的考古证据。女性执剑武士墓（如Birka Bj 581）是当代最重要的相关发现"
   - type: paper
     title: "The Female Viking Warrior Confirmed by Genomics"
-    author: Charlotte Hedenstierna-Jonson et al.
+    author: "Charlotte Hedenstierna-Jonson et al."
     year: 2017
     language: en
     note: "收录于《American Journal of Physical Anthropology》。DNA分析证实瑞典Birka Bj 581墓主为女性武士——是女武神信仰对应的社会现实的关键证据"
   - type: paper
     title: "Valkyries and Heroines: Sigrún, Sigrdrífa, Brynhildr"
-    author: Judy Quinn
+    author: "Judy Quinn"
     year: 2005
     language: en
     note: "分析三位堕入凡尘的女武神叙事的比较研究，是女武神-英雄爱情叙事的当代权威分析"
   - type: book
     title: "Le Ring de Wagner et ses Sources"
-    author: Régis Boyer
+    author: "Régis Boyer"
     year: 1996
     language: fr
     note: "法语学界索邦大学教授Boyer论证瓦格纳《尼伯龙根的指环》如何改造了埃达女武神叙事，特别是Brünnhilde（Brynhildr）"
   - type: paper
     title: "ワルキューレの起源"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1972
     language: ja
     note: "日语学界经典。谷口对女武神起源（战场女神、选魂者、天鹅少女三层）的印欧比较研究"
   - type: book
     title: "Die Walküren"
-    author: Marta Weber
+    author: "Marta Weber"
     year: 1928
     language: de
     note: "德语学界早期专著。虽年代较远但奠定德语学界女武神研究基础"
   - type: paper
     title: "Women in Old Norse Warrior Culture"
-    author: Judith Jesch
+    author: "Judith Jesch"
     year: 2015
     language: en
     note: "《Women in the Viking Age》续研究。考察维京时代女性与战争文化的实际关系，是女武神信仰社会基础研究的当代权威"

@@ -23,8 +23,8 @@ attributes: [先秦文本, 宇宙志/博物志/神话集, 十八卷本, 五藏�
 
 primary_sources:
   - type: book
-    title: 山海经（十八卷本）
-    author: 佚名（战国至汉初逐层编纂）
+    title: "山海经（十八卷本）"
+    author: "佚名（战国至汉初逐层编纂）"
     year: -300
     language: zh
     location: 五藏山经5卷 + 海外经4卷 + 海内经4卷 + 大荒经5卷
@@ -32,89 +32,89 @@ primary_sources:
     access: open
     note: "中国哲学书电子化计划 ctext.org 全文开放，配郭璞注。是当前访问《山海经》原典最权威的公共资源"
   - type: book
-    title: 山海经传（郭璞注本）
-    author: 郭璞
+    title: "山海经传（郭璞注本）"
+    author: "郭璞"
     year: 320
     language: zh
     url: https://ctext.org/wiki.pl?if=gb&res=88976
     access: open
-    note: 东晋郭璞注本是《山海经》流传至今最权威的注释本，历代刊本皆以此为祖本
+    note: "东晋郭璞注本是《山海经》流传至今最权威的注释本，历代刊本皆以此为祖本"
   - type: book
-    title: 山海经图赞
-    author: 郭璞
+    title: "山海经图赞"
+    author: "郭璞"
     year: 320
     language: zh
-    note: 郭璞为《山海经》所配图赞，是"山海经图"传统的最早文献依据
+    note: "郭璞为《山海经》所配图赞，是山海经图传统的最早文献依据"
   - type: manuscript
-    title: 山海经存（明代蒋应镐图本）
-    author: 蒋应镐 / 武临父
+    title: "山海经存（明代蒋应镐图本）"
+    author: "蒋应镐 / 武临父"
     year: 1597
     language: zh
-    note: 明万历二十五年《山海经》图绘本，74 张版画，是现存最完整的明代山海经图谱视觉体系
+    note: "明万历二十五年《山海经》图绘本，74 张版画，是现存最完整的明代山海经图谱视觉体系"
   - type: archive
-    title: 长沙子弹库战国楚帛书
-    author: 出土文物
+    title: "长沙子弹库战国楚帛书"
+    author: "出土文物"
     year: -300
     language: zh
-    note: 战国楚帛书上的四方神与十二月神图像，是与《山海经》同时代的视觉原始资料，为异兽形象考据提供实物证据
+    note: "战国楚帛书上的四方神与十二月神图像，是与《山海经》同时代的视觉原始资料，为异兽形象考据提供实物证据"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
     note: "**中文学界研究《山海经》的第一奠基作**（上海古籍出版社），袁珂穷毕生之力集校集注，『通释其义者凡百余事』，此后所有中文研究皆以此为底本"
   - type: book
-    title: 山海经全译
-    author: 袁珂
+    title: "山海经全译"
+    author: "袁珂"
     year: 2016
     language: zh
-    note: 袁珂晚年精修的通行本，保留经文原貌 + 有校有注有译，是当前中文学界最权威的通行译注本
+    note: "袁珂晚年精修的通行本，保留经文原貌 + 有校有注有译，是当前中文学界最权威的通行译注本"
   - type: book
     title: "The Classic of Mountains and Seas"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1999
     language: en
     note: "**英文学界第一权威全译本**（Penguin Classics），伦敦大学 SOAS 汉学家 Birrell 的译注，是山海经英文研究的标准参考"
   - type: book
     title: "Libro dei monti e dei mari (Shanhai jing): Cosmografia e mitologia nella Cina Antica"
-    author: Riccardo Fracasso
+    author: "Riccardo Fracasso"
     year: 1996
     language: it
     note: "**欧陆汉学界的奠基作**（Marsilio, Venezia），威尼斯大学 Fracasso 的意大利文全译加注，从宇宙志与神话学双维度切入"
   - type: book
-    title: "Étude sur la mythologie et l'ethnologie de la Chine ancienne"
-    author: Rémi Mathieu
+    title: "Étude sur la mythologie et lethnologie de la Chine ancienne"
+    author: "Rémi Mathieu"
     year: 1983
     language: fr
     note: "**法文学界的奠基作**（Collège de France），Mathieu 的法译加民族志研究，长期作为法语汉学界标准参考"
   - type: paper
     title: "A New Model in the Study of Chinese Mythology"
-    author: Liu Yuqing 刘毓庆
+    author: "Liu Yuqing 刘毓庆"
     year: 2017
     language: en
     url: https://doi.org/10.1163/23521341-12340040
-    note: 山西大学教授对中国神话学新方法论的建构，覆盖山海经研究的方法论重构
+    note: "山西大学教授对中国神话学新方法论的建构，覆盖山海经研究的方法论重构"
   - type: paper
     title: "Formation of the Traditional Chinese State Ritual System of Sacrifice to Mountain and Water Spirits"
-    author: Jinhua Jia
+    author: "Jinhua Jia"
     year: 2021
     language: en
     url: https://doi.org/10.3390/REL12050319
-    note: 从山海经追溯中国国家山水祭祀礼制的形成，展示了《山海经》作为宇宙志的宗教史价值
+    note: "从山海经追溯中国国家山水祭祀礼制的形成，展示了《山海经》作为宇宙志的宗教史价值"
   - type: paper
     title: "The Shanhaijing and the Origins of Daoist Sacred Geography"
-    author: Lennert Gesterkamp
+    author: "Lennert Gesterkamp"
     year: 收录于 Poetry and Daoism
     language: en
-    note: 论证《山海经》是早期道教神圣地理学的直接源头
+    note: "论证《山海经》是早期道教神圣地理学的直接源头"
   - type: paper
     title: "论古典文献中九尾狐形象之流变"
-    author: 许净瞳
+    author: "许净瞳"
     year: 2011
     language: zh
-    note: 提出重要学术争议——《山海经》中"青丘山"与"青丘国"实为两处，郭璞注可能存在误读
+    note: "提出重要学术争议——《山海经》中青丘山与青丘国实为两处，郭璞注可能存在误读"
 
 confidence: attested
 first_recorded: "战国至汉初（前 4 世纪至前 1 世纪），最晚定型于西汉刘向、刘歆父子校定"
@@ -123,9 +123,9 @@ related_entries: [huyao-china, east-asian-fox-cult]
 
 parallel_motifs:
   - entry_id: east-asian-fox-cult
-    relation: 《山海经》"青丘山九尾狐"是东亚狐信仰谱系的共同源头，本词条为其源头级文本的完整体系入口
+    relation: "《山海经》青丘山九尾狐是东亚狐信仰谱系的共同源头，本词条为其源头级文本的完整体系入口"
   - entry_id: huyao-china
-    relation: 《山海经》是中国狐妖形象的最早文献来源，狐妖词条中的"祥瑞"阶段直接源自山海经
+    relation: "《山海经》是中国狐妖形象的最早文献来源，狐妖词条中的祥瑞阶段直接源自山海经"
 
 curator: hector
 review_status: draft

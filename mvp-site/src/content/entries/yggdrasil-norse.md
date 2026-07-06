@@ -25,52 +25,52 @@ attributes: [白蜡树, 常绿不朽, 三根系, 九界轴心, 雄鹰栖顶, 松
 
 primary_sources:
   - type: manuscript
-    title: Völuspá（女先知的预言）·19-20节
-    author: 佚名（10世纪口传）
+    title: "Völuspá（女先知的预言）·19-20节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Völuspá
     access: open
     note: "我知道一棵白蜡树屹立，它被称为Yggdrasill，高大之树，被白色泥浆浇灌，露珠从其上落入山谷，永远苍翠于Urðarbrunnr命运之井旁。 世界树最原始、最权威的文本记载"
   - type: manuscript
-    title: Grímnismál（格里姆尼尔之歌）·29-35, 44节
-    author: 佚名
+    title: "Grímnismál（格里姆尼尔之歌）·29-35, 44节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Grímnismál
     access: open
     note: "描绘世界树最完整的诗篇——三根系（阿萨/巨人/冥界）、四神鹿（Dáinn/Dvalinn/Duneyrr/Duraþrór）啃食树叶、蛇Níðhǫggr与鹰的对立、松鼠Ratatoskr在树顶树底传递辱骂。是世界树生态学最详细的原典"
   - type: manuscript
-    title: Hávamál（至高者之歌）·138-141节
-    author: 佚名
+    title: "Hávamál（至高者之歌）·138-141节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hávamál
     access: open
     note: "奥丁自述悬挂在风摇撼的树上，九个整夜——通过其自我献祭连接了世界树与主神身份。Yggdrasill字面即Yggr（奥丁别名·恐怖者）之马——马是绞刑架的隐喻，即奥丁悬挂之树"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·15-16章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·15-16章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理世界树三根、三井（Urðarbrunnr命运之井/Mímisbrunnr智慧之井/Hvergelmir沸腾之泉）、生态、诺伦三姊妹的完整叙事。是世界树宇宙论结构化叙事的核心文本"
   - type: archive
-    title: Överhogdal挂毯（Överhogdalstapeten）
-    author: 瑞典Jämtland
+    title: "Överhogdal挂毯（Överhogdalstapeten）"
+    author: "瑞典Jämtland"
     year: 1100
     language: non
     note: "瑞典中部Jämtland地区出土的11-12世纪羊毛挂毯，描绘世界树、诸神、巨兽、宇宙动物。是世界树图像的最珍贵实物证据，藏于Jamtli博物馆"
   - type: archive
-    title: Oseberg船葬（挪威Oslo Vestfold）
-    author: 挪威贵族
+    title: "Oseberg船葬（挪威Oslo Vestfold）"
+    author: "挪威贵族"
     year: 834
     language: non
     note: "挪威834年女性贵族船葬。船内木雕上有世界树纹样，随葬品含大量与命运/纺织相关物品，与诺伦叙事高度呼应"
   - type: archive
-    title: Uppsala神庙圣林
-    author: Adam of Bremen 记载
+    title: "Uppsala神庙圣林"
+    author: "Adam of Bremen 记载"
     year: 1076
     language: la
     url: https://sourcebooks.fordham.edu/basis/adam-bremen.asp
@@ -80,61 +80,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Tracing Old Norse Cosmology: The World Tree, Middle Earth, and the Sun"
-    author: Anders Andrén
+    author: "Anders Andrén"
     year: 2014
     language: en
     note: "Nordic Academic Press出版。隆德大学考古学教授的专著，是当代英语学界世界树研究最权威著作。系统整合文本、考古、图像证据"
   - type: book
     title: "Norse Mythology: A Guide"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "Yggdrasil 条目是当代英语学界最完整的整理"
   - type: paper
     title: "The World Tree in Old Norse Cosmology"
-    author: Rudolf Simek
+    author: "Rudolf Simek"
     year: 1993
     language: en
     note: "收录于《Dictionary of Northern Mythology》。将世界树置于印欧宇宙树谱系框架"
   - type: book
     title: "The Tree of Life: An Archaeological Study"
-    author: Roger Cook
+    author: "Roger Cook"
     year: 1974
     language: en
     note: "Thames & Hudson出版。跨文化世界树/生命树母题研究，包含世界树在世界神话谱系的定位"
   - type: book
     title: "Yggdrasil: The Cosmic Tree in Old Norse Belief"
-    author: Katherine Morris
+    author: "Katherine Morris"
     year: 1991
     language: en
     note: "博士论文。系统研究世界树作为宇宙轴心（Axis Mundi）的宗教史学分析"
   - type: paper
     title: "Sacred Trees in Northern Europe"
-    author: Anders Hultgård
+    author: "Anders Hultgård"
     year: 2007
     language: en
     note: "收录于《The Sacred History of European Trees》。Uppsala大学宗教学者对北欧圣树信仰的整理，包括Yggdrasill、Uppsala圣林、婚礼树等实际宗教实践"
   - type: paper
     title: "The Well of Fate and the Norns"
-    author: Karen Bek-Pedersen
+    author: "Karen Bek-Pedersen"
     year: 2011
     language: en
     note: "《The Norns in Old Norse Mythology》。丹麦学者专著，深入分析Urðarbrunnr命运之井与诺伦三姊妹的关系，是命运观研究的当代权威"
   - type: book
-    title: "Le puits d'Urd"
-    author: Régis Boyer
+    title: "Le puits dUrd"
+    author: "Régis Boyer"
     year: 1994
     language: fr
     note: "法语学界的经典。前巴黎索邦大学北欧学教授Boyer对Urðarbrunnr命运之井的哲学诠释"
   - type: paper
     title: "世界樹ユグドラシル論"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1975
     language: ja
     note: "日语学界经典。谷口幸男对世界树的印欧比较神话学分析"
   - type: paper
     title: "Cosmic Axis and Shamanic Trees"
-    author: Mircea Eliade
+    author: "Mircea Eliade"
     year: 1964
     language: en
     note: "收录于《Shamanism: Archaic Techniques of Ecstasy》。Eliade将Yggdrasill置于全球萨满宇宙树谱系框架，是比较宗教学的核心节点"

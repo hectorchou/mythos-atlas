@@ -25,62 +25,62 @@ attributes: [变形能力, 性别流动, 曾变母马生Sleipnir, 巨人血统, 
 
 primary_sources:
   - type: manuscript
-    title: Lokasenna（洛基的口角）
-    author: 佚名（10世纪口传）
+    title: "Lokasenna（洛基的口角）"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Lokasenna
     access: open
     note: "《诗体埃达》中洛基闯入诸神宴会逐一辱骂每位神明的完整叙事，暴露每位神的丑闻——是北欧神话中最露骨的神明也有阴影文本，也是洛基被捆缚的直接导火索"
   - type: manuscript
-    title: Þrymskviða（索列之歌）
-    author: 佚名
+    title: "Þrymskviða（索列之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Þrymskviða
     access: open
     note: "洛基化身侍女陪托尔取回Mjǫllnir的核心叙事，是洛基创造问题-解决问题典型循环的代表"
   - type: manuscript
-    title: Völuspá（女先知的预言）·51-55节
-    author: 佚名
+    title: "Völuspá（女先知的预言）·51-55节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Völuspá
     access: open
     note: "洛基脱缚驾Naglfar死者指甲之船到来——预言中洛基在诸神黄昏中的核心角色"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·33-35, 42, 49-50章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·33-35, 42, 49-50章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理洛基的家谱、变形、Baldr之死策划、被捆缚受毒液滴面的完整叙事，是洛基神话结构化叙事的核心文本"
   - type: book
-    title: Skáldskaparmál（诗歌语言）
-    author: Snorri Sturluson
+    title: "Skáldskaparmál（诗歌语言）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "洛基剪掉Sif金发赔罪、找矮人制造Mjǫllnir/Gungnir/Draupnir/Skíðblaðnir诸神器的完整叙事——诸神所有神器都因洛基的过错和他的补救而诞生"
   - type: manuscript
-    title: Baldrs draumar（巴德尔之梦）
-    author: 佚名
+    title: "Baldrs draumar（巴德尔之梦）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Baldrs_draumar
     access: open
     note: "奥丁到冥界唤醒女先知问Baldr死亡预言的诗篇，是理解洛基策划Baldr之死背景的关键"
   - type: archive
-    title: Snaptun石（Snaptunstenen）
-    author: 丹麦刻工
+    title: "Snaptun石（Snaptunstenen）"
+    author: "丹麦刻工"
     year: 1000
     language: non
     note: "丹麦Snaptun出土的石制吹火器，刻有唇上有缝的男性面孔——公认是洛基被侏儒Brokkr与Sindri缝嘴的实物证据（Skáldskaparmál叙事）。是洛基崇拜为数不多的直接实物证据之一"
   - type: archive
-    title: Gosforth十字架（Gosforth Cross）
-    author: 英格兰坎布里亚
+    title: "Gosforth十字架（Gosforth Cross）"
+    author: "英格兰坎布里亚"
     year: 950
     language: non
     note: "英格兰坎布里亚郡Gosforth基督教十字架上刻有洛基被缚、妻Sigyn持碗、蛇滴毒液的完整场景，与基督受难场景并置——是维京-基督教融合期洛基叙事的珍贵实物"
@@ -88,61 +88,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Loki"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1948
     language: fr
     note: "Dumézil经典专著。将洛基定位为印欧诡计神谱系（对应吠陀Namuci、伊朗Ahriman），提出洛基与Heimdallr是宇宙轮回的双元对立。是洛基研究的奠基作"
   - type: book
     title: "The Problem of Loki"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1933
     language: en
     note: "FF Communications出版。荷兰-德语学者早期专著，试图统一洛基散乱矛盾的形象，指出不可能给洛基一个统一的原型解释——这个无法归类本身就是洛基的本质"
   - type: paper
     title: "Loki as Trickster"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "收录于《Norse Mythology》。将洛基与全球trickster谱系（美洲Coyote、非洲Anansi、日本狐狸）比较，是当代英语学界最完整的整理"
   - type: book
     title: "Loki in Scandinavian Mythology"
-    author: Anna Birgitta Rooth
+    author: "Anna Birgitta Rooth"
     year: 1961
     language: en
     note: "Gleerup出版。瑞典学者Rooth从民间传说与埃达文本双管齐下的经典专著"
   - type: book
     title: "The Masks of Odin"
-    author: Elsa-Brita Titchenell
+    author: "Elsa-Brita Titchenell"
     year: 1985
     language: en
     note: "Theosophical出版。虽偏神智学传统，但对洛基-奥丁双元结构的分析被后来学者反复引用"
   - type: paper
     title: "Loki and the Gender-Bending in Old Norse Myth"
-    author: Carolyne Larrington
+    author: "Carolyne Larrington"
     year: 2015
     language: en
     note: "收录于《Studies in Old Norse Literature》。牛津学者对洛基性别流动母题的当代研究，是酷儿理论与北欧神话学结合的代表作"
   - type: paper
     title: "ロキ神話における両義性"
-    author: 山室静
+    author: "山室静"
     year: 1980
     language: ja
     note: "日语学界经典。分析洛基作为两义性存在（既非纯神也非纯恶）的哲学意涵"
   - type: book
     title: "The Viking Way"
-    author: Neil Price
+    author: "Neil Price"
     year: 2002
     language: en
     note: "分析洛基与seiðr（阴柔魔法）的关联——洛基被指ergi（性别倒错），反映维京时代阴柔魔法的社会禁忌"
   - type: paper
     title: "Baldr, Loki and the Genesis of Ragnarök"
-    author: Jens Peter Schjødt
+    author: "Jens Peter Schjødt"
     year: 2008
     language: en
     note: "收录于《Initiation between Two Worlds》。丹麦Aarhus大学学者对Baldr-洛基-Ragnarök叙事链的系统重建"
   - type: book
-    title: 洛基
-    author: Neil Gaiman（尼尔·盖曼）
+    title: "洛基"
+    author: "Neil Gaiman（尼尔·盖曼）"
     year: 2017
     language: en
     note: "《Norse Mythology》专章。虽是通俗化改写，但作为当代最有影响力的洛基再现，塑造了漫威一代对洛基的认知"

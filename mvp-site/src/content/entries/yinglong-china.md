@@ -23,69 +23,69 @@ attributes: [有翼之龙, 蓄水攻敌, 助黄帝杀蚩尤与夸父, 因大战�
 
 primary_sources:
   - type: book
-    title: 山海经·大荒北经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-bei-jing
     access: open
-    note: "'应龙已杀蚩尤，又杀夸父，乃去南方处之，故南方多雨。' 应龙参与黄帝-蚩尤大战与夸父叙事的最早记载，也是南方多雨的神话解释"
+    note: "应龙已杀蚩尤，又杀夸父，乃去南方处之，故南方多雨。 应龙参与黄帝-蚩尤大战与夸父叙事的最早记载，也是南方多雨的神话解释"
   - type: book
-    title: 山海经·大荒东经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒东经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-dong-jing
     access: open
-    note: "'大荒东北隅中，有山名曰凶犁土丘。应龙处南极，杀蚩尤与夸父，不得复上，故下数旱，旱而为应龙之状，乃得大雨。' 提供祈雨仪式的神话依据——扮应龙可得雨"
+    note: "大荒东北隅中，有山名曰凶犁土丘。应龙处南极，杀蚩尤与夸父，不得复上，故下数旱，旱而为应龙之状，乃得大雨。 提供祈雨仪式的神话依据——扮应龙可得雨"
   - type: book
-    title: 楚辞·天问
-    author: 屈原
+    title: "楚辞·天问"
+    author: "屈原"
     year: -280
     language: zh
     url: https://ctext.org/chu-ci/tian-wen
     access: open
-    note: "'应龙何画？河海何历？' 屈原以应龙起兴，问及大禹治水时应龙以尾画地、导水入海——这是应龙第二个神话职能（协助治水）的最早出处"
+    note: "应龙何画？河海何历？ 屈原以应龙起兴，问及大禹治水时应龙以尾画地、导水入海——这是应龙第二个神话职能（协助治水）的最早出处"
   - type: book
-    title: 淮南子·地形训
-    author: 刘安等
+    title: "淮南子·地形训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/di-xing-xun
     access: open
-    note: "'羽嘉生飞龙，飞龙生凤凰……毛犊生应龙……应龙生建马。' 将应龙纳入神兽谱系"
+    note: "羽嘉生飞龙，飞龙生凤凰……毛犊生应龙……应龙生建马。 将应龙纳入神兽谱系"
   - type: book
-    title: 广雅·释鱼
-    author: 张揖
+    title: "广雅·释鱼"
+    author: "张揖"
     year: 227
     language: zh
-    note: "'有鳞曰蛟龙，有翼曰应龙，有角曰虬龙，无角曰螭龙。' 三国时期对龙谱的系统分类，'有翼曰应龙'成为后世定义"
+    note: "有鳞曰蛟龙，有翼曰应龙，有角曰虬龙，无角曰螭龙。 三国时期对龙谱的系统分类，有翼曰应龙成为后世定义"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 详考应龙-黄帝-蚩尤-夸父叙事链的地层关系
+    note: "详考应龙-黄帝-蚩尤-夸父叙事链的地层关系"
   - type: paper
     title: "黄帝战蚩尤神话新解"
-    author: 何新
+    author: "何新"
     year: 1988
     language: zh
-    note: 提出黄帝-蚩尤大战可能是华夏族与东夷/苗蛮族融合过程的神话化记忆，应龙作为黄帝阵营的关键力量在其中的政治象征意义
+    note: "提出黄帝-蚩尤大战可能是华夏族与东夷/苗蛮族融合过程的神话化记忆，应龙作为黄帝阵营的关键力量在其中的政治象征意义"
   - type: book
     title: "Chinese Mythology: An Introduction"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1993
     language: en
-    note: 英语学界对应龙叙事的系统梳理
+    note: "英语学界对应龙叙事的系统梳理"
   - type: paper
     title: "The Dragon in Chinese Cosmology"
-    author: Michael Loewe
+    author: "Michael Loewe"
     year: 1994
     language: en
-    note: 收录于《Divination, Mythology and Monarchy in Han China》。剑桥汉学家 Loewe 对中国龙谱系的经典分析，应龙位于其中的"战争龙"分支
+    note: "收录于《Divination, Mythology and Monarchy in Han China》。剑桥汉学家 Loewe 对中国龙谱系的经典分析，应龙位于其中的战争龙分支"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·大荒北经》《大荒东经》）"
@@ -94,9 +94,9 @@ related_entries: [shan-hai-jing-bestiary, kuafu-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——应龙是山海经中战争神话的核心角色
+    relation: "山海经母题伞形入口——应龙是山海经中战争神话的核心角色"
   - entry_id: kuafu-china
-    relation: 直接叙事关联——应龙"杀蚩尤又杀夸父"，是夸父悲剧结局的另一版本（区别于"逐日而渴死"的主流版本）
+    relation: "直接叙事关联——应龙杀蚩尤又杀夸父，是夸父悲剧结局的另一版本（区别于逐日而渴死的主流版本）"
 
 curator: hector
 review_status: draft

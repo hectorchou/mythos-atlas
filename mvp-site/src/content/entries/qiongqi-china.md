@@ -23,72 +23,72 @@ attributes: [状如虎而有翼, 音如狗吠, 食人从首始, 逐鬼食蛊, �
 
 primary_sources:
   - type: book
-    title: 山海经·西山经
-    author: 佚名（战国至汉初）
+    title: "山海经·西山经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷二·西次四经·邽山条
     url: https://ctext.org/shan-hai-jing/xi-shan-jing
     access: open
-    note: "'邽山……其上有兽焉，其状如牛，猬毛，名曰穷奇，音如獆狗，是食人。' 穷奇最早的形象记载——牛形有猬毛"
+    note: "邽山……其上有兽焉，其状如牛，猬毛，名曰穷奇，音如獆狗，是食人。 穷奇最早的形象记载——牛形有猬毛"
   - type: book
-    title: 山海经·海内北经
-    author: 佚名（战国至汉初）
+    title: "山海经·海内北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/hai-nei-bei-jing
     access: open
-    note: "'穷奇状如虎，有翼，食人从首始。所食被发，在蜪犬北。一曰从足。' 与西山经形象不同——虎形有翼。两经并存，形成穷奇形象的双重版本"
+    note: "穷奇状如虎，有翼，食人从首始。所食被发，在蜪犬北。一曰从足。 与西山经形象不同——虎形有翼。两经并存，形成穷奇形象的双重版本"
   - type: book
-    title: 左传·文公十八年
-    author: 左丘明
+    title: "左传·文公十八年"
+    author: "左丘明"
     year: -389
     language: zh
     url: https://ctext.org/chun-qiu-zuo-zhuan/wen-gong-shi-ba-nian
     access: open
-    note: "'少皞氏有不才子……天下之民谓之穷奇。' 将穷奇列入'四凶'（浑敦、穷奇、梼杌、饕餮），完成从神兽到凶臣的身份转换"
+    note: "少皞氏有不才子……天下之民谓之穷奇。 将穷奇列入四凶（浑敦、穷奇、梼杌、饕餮），完成从神兽到凶臣的身份转换"
   - type: book
-    title: 神异经·西荒经
-    author: 托名东方朔（实为汉魏时期作品）
+    title: "神异经·西荒经"
+    author: "托名东方朔（实为汉魏时期作品）"
     year: 100
     language: zh
     url: https://ctext.org/shen-yi-jing
     access: open
-    note: "'西北有兽焉，其状似虎……喜食人。知人语言……闻人相斗，辄食直者；闻人忠信，辄食其鼻；闻人恶逆不善，辄杀兽往馈之。' 汉代将穷奇道德化——反向惩罚正直者，是中国神话中罕见的'反道德神兽'"
+    note: "西北有兽焉，其状似虎……喜食人。知人语言……闻人相斗，辄食直者；闻人忠信，辄食其鼻；闻人恶逆不善，辄杀兽往馈之。 汉代将穷奇道德化——反向惩罚正直者，是中国神话中罕见的反道德神兽"
   - type: book
-    title: 后汉书·礼仪志
-    author: 范晔
+    title: "后汉书·礼仪志"
+    author: "范晔"
     year: 445
     language: zh
     url: https://ctext.org/hou-han-shu/li-yi-zhi
     access: open
-    note: "大傩仪式记载'穷奇腾根共食蛊'——穷奇被吸纳为宫廷驱疫仪式的十二神兽之一，完成从凶兽到辟邪神兽的第三次身份转换"
+    note: "大傩仪式记载穷奇腾根共食蛊——穷奇被吸纳为宫廷驱疫仪式的十二神兽之一，完成从凶兽到辟邪神兽的第三次身份转换"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 详考穷奇在西山经与海内北经的形象差异，以及与四凶叙事的合流过程
+    note: "详考穷奇在西山经与海内北经的形象差异，以及与四凶叙事的合流过程"
   - type: paper
     title: "四凶考"
-    author: 顾颉刚
+    author: "顾颉刚"
     year: 1936
     language: zh
-    note: 顾颉刚经典考据。指出'四凶'原为四类神兽，被儒家史官改造为四位凶臣，是神话历史化的典型案例
+    note: "顾颉刚经典考据。指出四凶原为四类神兽，被儒家史官改造为四位凶臣，是神话历史化的典型案例"
   - type: book
     title: "The Han Dynasty Great Exorcism"
-    author: Derk Bodde
+    author: "Derk Bodde"
     year: 1975
     language: en
-    note: 收录于《Festivals in Classical China》。Princeton 大学出版。西方汉学界对汉代大傩仪式的经典研究，穷奇位于其中的十二神兽体系
+    note: "收录于《Festivals in Classical China》。Princeton 大学出版。西方汉学界对汉代大傩仪式的经典研究，穷奇位于其中的十二神兽体系"
   - type: paper
     title: "『山海経』における凶獣の系譜"
-    author: 伊藤清司
+    author: "伊藤清司"
     year: 1969
     language: ja
-    note: 日本汉学界对山海经凶兽体系的系统研究，穷奇作为其中的"双重身份"样本
+    note: "日本汉学界对山海经凶兽体系的系统研究，穷奇作为其中的双重身份样本"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·西山经》《海内北经》）"
@@ -97,9 +97,9 @@ related_entries: [shan-hai-jing-bestiary, taotie-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——穷奇是山海经凶兽体系的核心样本
+    relation: "山海经母题伞形入口——穷奇是山海经凶兽体系的核心样本"
   - entry_id: taotie-china
-    relation: 山海经内部——同为四凶之一，穷奇与饕餮共同构成中国凶兽谱系的两极。饕餮偏重"贪食"，穷奇偏重"反道德"
+    relation: "山海经内部——同为四凶之一，穷奇与饕餮共同构成中国凶兽谱系的两极。饕餮偏重贪食，穷奇偏重反道德"
 
 curator: hector
 review_status: draft

@@ -25,8 +25,8 @@ attributes: [三年Fimbulvetr大寒冬, 家族相残道德崩坏, Fenrir脱缚, 
 
 primary_sources:
   - type: manuscript
-    title: Völuspá（女先知的预言）·40-66节
-    author: 佚名（10世纪口传）
+    title: "Völuspá（女先知的预言）·40-66节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     location: 《诗体埃达》开篇第一诗，Codex Regius fol. 1r-3r
@@ -34,52 +34,52 @@ primary_sources:
     access: open
     note: "诸神黄昏叙事的最原始、最完整、最权威文本。40-58节描绘毁灭进程，59-66节描绘新世界。是理解Ragnarök的唯一一手核心文本"
   - type: manuscript
-    title: Vafþrúðnismál（瓦夫斯鲁德尼尔之歌）
-    author: 佚名
+    title: "Vafþrúðnismál（瓦夫斯鲁德尼尔之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Vafþrúðnismál
     access: open
     note: "奥丁化名Gagnráðr与巨人智者Vafþrúðnir问答智慧的诗篇。第44-55节详细预言Ragnarök后的世界，与Völuspá互为呼应但细节更具体"
   - type: manuscript
-    title: Grímnismál（格里姆尼尔之歌）·17-24节
-    author: 佚名
+    title: "Grímnismál（格里姆尼尔之歌）·17-24节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Grímnismál
     access: open
     note: "描述Vígríðr战场方圆百里格的诗篇，是最终战场地理的核心文本"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·51-53章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·51-53章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理Ragnarök的完整叙事进程，将散见于《诗体埃达》的碎片组织为线性叙事。是Ragnarök结构化叙事的唯一完整文本"
   - type: archive
-    title: Rök石刻（Ög 136）
-    author: 瑞典维京刻工
+    title: "Rök石刻（Ög 136）"
+    author: "瑞典维京刻工"
     year: 800
     language: non
     url: https://app.raa.se/open/runor/inscription?id=b7ac7dc4-5c11-4ec6-ac6f-fcd0bf7a5d55
     access: open
     note: "世界最长卢恩石刻，760字符。当代学者（Holmberg 2020, Ralph 2007）解读认为直接涉及Ragnarök预言与太阳之狼——是Ragnarök叙事早于埃达400余年的实物证据"
   - type: archive
-    title: Ledberg石（Ög 181）
-    author: 瑞典维京刻工
+    title: "Ledberg石（Ög 181）"
+    author: "瑞典维京刻工"
     year: 1000
     language: non
     note: "瑞典Östergötland石刻描绘Fenrir吞食奥丁场景，是Ragnarök核心情节的图像证据"
   - type: archive
-    title: Skarpåker石（Sö 154）
-    author: 瑞典维京刻工
+    title: "Skarpåker石（Sö 154）"
+    author: "瑞典维京刻工"
     year: 1050
     language: non
     note: "瑞典Södermanland石刻铭文：Jörð skal rifna ok upphiminn（大地将裂，苍天将崩）——直接引用Ragnarök末世意象，是维京时代日常语言中末世论的实物证据"
   - type: archive
-    title: Gosforth十字架（Gosforth Cross）
-    author: 英格兰坎布里亚
+    title: "Gosforth十字架（Gosforth Cross）"
+    author: "英格兰坎布里亚"
     year: 950
     language: non
     note: "英格兰10世纪基督教十字架上刻有多个Ragnarök场景（Víðarr撕裂Fenrir下颚、洛基被缚、海姆达尔持号角），与基督受难叙事并置。是维京-基督教融合期末世论叙事的珍贵实物"
@@ -87,61 +87,61 @@ primary_sources:
 secondary_sources:
   - type: paper
     title: "Ragnarök: A Study in Old Norse Eschatology"
-    author: John Lindow
+    author: "John Lindow"
     year: 2020
     language: en
     note: "收录于《The Pre-Christian Religions of the North》第4卷，Brepols出版。当代最完整、最权威的Ragnarök专题研究"
   - type: book
     title: "Ragnarök: Odens Verden"
-    author: Anders Andrén
+    author: "Anders Andrén"
     year: 2014
     language: sv
     note: "隆德大学考古学教授瑞典语专著。将Ragnarök叙事与考古证据（Rök石、船葬、护身符）系统交叉分析，是北欧本土学界代表作"
   - type: book
     title: "The End of the World in Medieval Thought and Spirituality"
-    author: Eric Palazzo & Karla Pollmann 编
+    author: "Eric Palazzo & Karla Pollmann 编"
     year: 2020
     language: en
     note: "Brepols出版。将Ragnarök纳入中世纪基督教末世论比较框架，指出Snorri可能受Apocalypse影响改造原始叙事"
   - type: book
     title: "The Doom of the Gods"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
     note: "收录于《Myth and Religion of the North》第10章。经典专著章节，将Ragnarök与琐罗亚斯德教末世论比较"
   - type: paper
     title: "Ragnarök and Fimbulvetr"
-    author: Bo Gräslund
+    author: "Bo Gräslund"
     year: 2007
     language: en
     note: "Uppsala大学考古学教授论文。提出Fimbulvetr大寒冬可能对应公元536年历史气候灾变（火山爆发引发的持续低温），是Ragnarök叙事的历史气象基础"
   - type: paper
     title: "The Return of Baldr and the New World"
-    author: Gro Steinsland
+    author: "Gro Steinsland"
     year: 1991
     language: en
     note: "挪威奥斯陆大学Steinsland对Ragnarök后新世界叙事的分析，重点考察基督教影响与本土元素的边界"
   - type: book
     title: "The Twilight of the Gods"
-    author: Richard Wagner
+    author: "Richard Wagner"
     year: 1876
     language: de
     note: "瓦格纳《尼伯龙根的指环》第四部《Götterdämmerung》。虽是艺术再造非学术，但将Ragnarök定型为西方古典艺术的核心意象——Twilight of the Gods一词从此固化"
   - type: paper
     title: "Rök Stone Interpretation"
-    author: Per Holmberg, Bo Gräslund, Olof Sundqvist, Henrik Williams
+    author: "Per Holmberg, Bo Gräslund, Olof Sundqvist, Henrik Williams"
     year: 2020
     language: en
     note: "收录于《Futhark》。四位瑞典学者联合论文，用最新语文学方法重新解读Rök石为Ragnarök末世预言，是21世纪Rök研究最重要突破"
   - type: paper
     title: "神々の黄昏について"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1990
     language: ja
     note: "日语学界谷口幸男对Ragnarök的经典研究，与《诗体埃达》日译本互为参考"
   - type: book
-    title: 北欧的神话与史诗
-    author: 石琴娥
+    title: "北欧的神话与史诗"
+    author: "石琴娥"
     year: 2000
     language: zh
     note: "中文学界对北欧末世论的系统介绍"

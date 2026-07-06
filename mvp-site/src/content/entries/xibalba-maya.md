@@ -22,46 +22,46 @@ attributes: [地下冥界, 十二位死神统治, 六重考验之屋, 蝙蝠精�
 
 primary_sources:
   - type: book
-    title: Popol Vuh（波波尔·乌）
-    author: 基切玛雅人，16世纪以拉丁字母转写
+    title: "Popol Vuh（波波尔·乌）"
+    author: "基切玛雅人，16世纪以拉丁字母转写"
     year: 1558
     language: quc
     location: 第二部——英雄双子（Hunahpu与Xbalanque）下冥界部分
     url: https://www.famsi.org/mayawriting/popol_vuh/
     access: open
-    note: FAMSI（前哥伦布研究基金会）在线版，权威英西双语对照
+    note: "FAMSI（前哥伦布研究基金会）在线版，权威英西双语对照"
   - type: manuscript
-    title: Florentine Codex
-    author: Bernardino de Sahagún
+    title: "Florentine Codex"
+    author: "Bernardino de Sahagún"
     year: 1577
     language: nah
     location: 卷十
     url: https://www.loc.gov/item/2021667828/
     access: open
-    note: 墨西哥中部前西班牙时期冥界概念的补充参照
+    note: "墨西哥中部前西班牙时期冥界概念的补充参照"
 
 secondary_sources:
   - type: book
     title: "Popol Vuh: The Sacred Book of the Maya"
-    author: Allen J. Christenson（翻译与注释）
+    author: "Allen J. Christenson（翻译与注释）"
     year: 2007
     language: en
-    note: 当今学界公认最权威的Popol Vuh英译注释本，包含详细的Xibalba章节考据
+    note: "当今学界公认最权威的Popol Vuh英译注释本，包含详细的Xibalba章节考据"
   - type: paper
     title: "The Maya Underworld: Xibalba and the Ballgame"
-    author: Michael D. Coe
+    author: "Michael D. Coe"
     year: 1992
     language: en
-    note: 玛雅文明泰斗，系统分析球赛与冥界的象征关系
+    note: "玛雅文明泰斗，系统分析球赛与冥界的象征关系"
 
 confidence: attested
 first_recorded: "16世纪（Popol Vuh）——但大量前哥伦布时期陶器与壁画已描绘冥界场景"
 
 parallel_motifs:
   - entry_id: draugr-norse
-    relation: 北欧亡灵与玛雅冥界——draugr留在现世，Xibalba则是一个系统化的死后世界，两种死后观反映了不同文化对"死亡边界"的认知差异
+    relation: "北欧亡灵与玛雅冥界——draugr留在现世，Xibalba则是一个系统化的死后世界，两种死后观反映了不同文化对死亡边界的认知差异"
   - entry_id: shuigui-china
-    relation: 中国水鬼的"替身轮回"与玛雅的"考验通过后复活"——均包含"通过特定规则方可解脱"的叙事框架
+    relation: "中国水鬼的替身轮回与玛雅的考验通过后复活——均包含通过特定规则方可解脱的叙事框架"
 
 curator: hector
 review_status: draft

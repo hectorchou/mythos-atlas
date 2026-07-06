@@ -25,40 +25,40 @@ attributes: [两大神族对立, Gullveig被三次焚烧不死, 奥丁投矛开�
 
 primary_sources:
   - type: manuscript
-    title: Völuspá（女先知的预言）·21-26节
-    author: 佚名（10世纪口传）
+    title: "Völuspá（女先知的预言）·21-26节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Völuspá
     access: open
     note: "她记得世界的第一次战争，那时诸神以矛刺Gullveig，在Hár高殿中焚烧她——三次焚烧，三次重生，她仍然活着。她称自己为Heiðr……奥丁投出长矛掷入敌军之中，那是世界的第一次战争。 阿萨-华纳战争最原始最完整的文本记载"
   - type: book
-    title: Skáldskaparmál（诗歌语言·G56, 57章）
-    author: Snorri Sturluson
+    title: "Skáldskaparmál（诗歌语言·G56, 57章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里记载和平仪式——诸神和华纳共聚一堂议和。他们走到一个大瓮前向内吐唾液作为契约标志。分别时，诸神不愿契约唾液就此浪费，便取来创造了一人，名Kvasir。 Kvasir之血酿成诗蜜，是[奥丁](/entries/odin-norse)诗歌神格的物质起源"
   - type: book
-    title: Ynglinga saga（挪威列王传·序·4章）
-    author: Snorri Sturluson
+    title: "Ynglinga saga（挪威列王传·序·4章）"
+    author: "Snorri Sturluson"
     year: 1230
     language: is
     url: https://sagadb.org/heimskringla
     access: open
     note: "斯诺里历史化叙事——阿萨与华纳有一场大战……他们决定议和，双方互换人质。华纳送出最尊贵的Njǫrðr与其子Freyr，阿萨送出Hœnir与Mímir。 是理解神族融合的关键历史化文本"
   - type: manuscript
-    title: Vafþrúðnismál·38-39节
-    author: 佚名
+    title: "Vafþrúðnismál·38-39节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Vafþrúðnismál
     access: open
     note: "巨人Vafþrúðnir向奥丁回答：华纳的智者们把Njǫrðr作为人质送给诸神。他将在世界终结时归回到智慧的华纳族中。 是Njǫrðr人质身份与Ragnarök后归属的关键文本"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·23章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·23章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
@@ -67,68 +67,68 @@ primary_sources:
 
 secondary_sources:
   - type: book
-    title: "L'Idéologie tripartie des Indo-Européens"
-    author: Georges Dumézil
+    title: "LIdéologie tripartie des Indo-Européens"
+    author: "Georges Dumézil"
     year: 1958
     language: fr
     note: "Dumézil印欧三重功能说的奠基作。阿萨-华纳战争是其核心证据——阿萨代表主权+战争（Odin+Thor），华纳代表生产+丰饶（Njǫrðr+Freyr+Freyja），两族融合即三重功能整合。**这是当代北欧神话学最重要的理论框架**"
   - type: book
     title: "Les Dieux des Germains"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1959
     language: fr
     note: "Dumézil日耳曼神话专著。第二章专论阿萨-华纳战争，与吠陀 Deva-Asura 战争、罗马 Romans-Sabines 战争进行完整比较——揭示印欧共同的两族战争与融合母题"
   - type: paper
     title: "The Æsir-Vanir War: A Comparative Analysis"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "收录于《Norse Mythology》。Lindow对Dumézil三重功能说的批判性检视，指出既接受核心框架又指出细节反例"
   - type: book
     title: "The Poetic Edda: Essays on Old Norse Mythology"
-    author: Paul Acker & Carolyne Larrington 编
+    author: "Paul Acker & Carolyne Larrington 编"
     year: 2002
     language: en
     note: "Routledge出版。多位学者合著，包含Margaret Clunies Ross对Æsir-Vanir War叙事结构的分析——不是历史事件，而是神话逻辑的必要开端"
   - type: paper
     title: "Prolonged Echoes: Old Norse Myths in Medieval Northern Society"
-    author: Margaret Clunies Ross
+    author: "Margaret Clunies Ross"
     year: 1994
     language: en
     note: "Odense University Press。悉尼大学北欧学教授Ross的两卷本巨著。第一卷论述阿萨-华纳融合如何反映维京时代社会阶层整合"
   - type: paper
     title: "Historical Kernels behind the Æsir-Vanir War"
-    author: Rudolf Simek
+    author: "Rudolf Simek"
     year: 2004
     language: en
     note: "收录于《Old Norse Religion in Long-Term Perspectives》。德国学者Simek质疑纯Dumézil式解读，探讨战争叙事是否隐含真实历史事件（如北欧不同族群融合）"
   - type: book
     title: "Die Religion der Germanen"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1957
     language: de
     note: "德语学界。第二卷对华纳神族的独立起源与阿萨吸收过程有详细分析"
   - type: paper
     title: "Kvasir and the Peace-Spittle"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
     note: "收录于《Myth and Religion of the North》。对Kvasir由和平唾液诞生的印欧比较神话学分析，与吠陀Kāvya Uśanas对应"
   - type: paper
     title: "Deva-Asura and Æsir-Vanir"
-    author: Bruce Lincoln
+    author: "Bruce Lincoln"
     year: 1986
     language: en
     note: "收录于《Myth, Cosmos, and Society: Indo-European Themes of Creation and Destruction》。芝加哥大学宗教史学者Lincoln对Dumézil框架的深化——两族战争是印欧创世神话必要组成部分"
   - type: paper
     title: "アース神族とヴァン神族の戦争"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1985
     language: ja
     note: "日语学界经典。谷口对两族战争的印欧比较分析"
   - type: book
     title: "La guerre des deux races divines"
-    author: Régis Boyer
+    author: "Régis Boyer"
     year: 1981
     language: fr
     note: "法语学界巴黎索邦大学教授Boyer专著。作为Dumézil学派后继者的完整整理"

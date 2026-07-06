@@ -23,85 +23,85 @@ attributes: [善射, 射落九日, 诛猰貐凿齿九婴大风封豨修蛇, 请�
 
 primary_sources:
   - type: book
-    title: 山海经·海内经
-    author: 佚名（战国至汉初）
+    title: "山海经·海内经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/hai-nei-jing
     access: open
-    note: "'帝俊赐羿彤弓素矰，以扶下国。羿是始去恤下地之百艰。' 山海经中后羿神格的最早记载——受帝俊委派拯救下界"
+    note: "帝俊赐羿彤弓素矰，以扶下国。羿是始去恤下地之百艰。 山海经中后羿神格的最早记载——受帝俊委派拯救下界"
   - type: book
-    title: 楚辞·天问
-    author: 屈原
+    title: "楚辞·天问"
+    author: "屈原"
     year: -280
     language: zh
     url: https://ctext.org/chu-ci/tian-wen
     access: open
-    note: "'羿焉彃日？乌焉解羽？' 屈原直接问诘后羿射日细节——是先秦射日神话已广泛流传的旁证"
+    note: "羿焉彃日？乌焉解羽？ 屈原直接问诘后羿射日细节——是先秦射日神话已广泛流传的旁证"
   - type: book
-    title: 楚辞·离骚
-    author: 屈原
+    title: "楚辞·离骚"
+    author: "屈原"
     year: -300
     language: zh
     url: https://ctext.org/chu-ci/li-sao
     access: open
-    note: "'羿淫游以佚畋兮，又好射夫封狐。' 屈原对后羿荒淫的批判，反映其历史化后的负面形象"
+    note: "羿淫游以佚畋兮，又好射夫封狐。 屈原对后羿荒淫的批判，反映其历史化后的负面形象"
   - type: book
-    title: 淮南子·本经训
-    author: 刘安等
+    title: "淮南子·本经训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/ben-jing-xun
     access: open
-    note: "'尧之时，十日并出……尧乃使羿……上射十日而下杀猰貐，断修蛇于洞庭，禽封豨于桑林。' 后羿射日+除六害叙事的最早完整记载"
+    note: "尧之时，十日并出……尧乃使羿……上射十日而下杀猰貐，断修蛇于洞庭，禽封豨于桑林。 后羿射日+除六害叙事的最早完整记载"
   - type: book
-    title: 淮南子·览冥训
-    author: 刘安等
+    title: "淮南子·览冥训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/lan-ming-xun
     access: open
-    note: "'羿请不死之药于西王母，姮娥窃以奔月。' 后羿-嫦娥叙事的最早出处，直接连接[西王母](/entries/xiwangmu-china)与[嫦娥](/entries/change-china)"
+    note: "羿请不死之药于西王母，姮娥窃以奔月。 后羿-嫦娥叙事的最早出处，直接连接[西王母](/entries/xiwangmu-china)与[嫦娥](/entries/change-china)"
   - type: book
-    title: 左传·襄公四年
-    author: 左丘明
+    title: "左传·襄公四年"
+    author: "左丘明"
     year: -389
     language: zh
     url: https://ctext.org/chun-qiu-zuo-zhuan/xiang-gong-si-nian
     access: open
-    note: "'昔有夏之方衰也，后羿自鉏迁于穷石，因夏民以代夏政。' 记载夏代有穷氏羿代夏的历史叙事——与神话后羿构成双羿问题"
+    note: "昔有夏之方衰也，后羿自鉏迁于穷石，因夏民以代夏政。 记载夏代有穷氏羿代夏的历史叙事——与神话后羿构成双羿问题"
 
 secondary_sources:
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 系统梳理神话大羿与历史夷羿的合流过程
+    note: "系统梳理神话大羿与历史夷羿的合流过程"
   - type: paper
     title: "羿的传说"
-    author: 茅盾
+    author: "茅盾"
     year: 1929
     language: zh
-    note: 收录于《中国神话研究ABC》。中国现代神话学最早对后羿叙事的系统研究
+    note: "收录于《中国神话研究ABC》。中国现代神话学最早对后羿叙事的系统研究"
   - type: book
     title: "Chinese Mythology: An Introduction"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1993
     language: en
-    note: 英语学界对后羿-嫦娥叙事的完整介绍
+    note: "英语学界对后羿-嫦娥叙事的完整介绍"
   - type: paper
     title: "The Ten Suns Myth in Ancient China"
-    author: Sarah Allan
+    author: "Sarah Allan"
     year: 1981
     language: en
-    note: 收录于《The Shape of the Turtle》。剑桥汉学家 Allan 对十日神话的经典分析，指出十日神话与商代日祭传统的关联
+    note: "收录于《The Shape of the Turtle》。剑桥汉学家 Allan 对十日神话的经典分析，指出十日神话与商代日祭传统的关联"
   - type: paper
     title: "羿神話の二重構造"
-    author: 白川静
+    author: "白川静"
     year: 1975
     language: ja
-    note: 日本汉学巨匠白川静对神话羿与历史羿"二重结构"的经典分析
+    note: "日本汉学巨匠白川静对神话羿与历史羿二重结构的经典分析"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·海内经》《楚辞·天问》）"
@@ -110,11 +110,11 @@ related_entries: [shan-hai-jing-bestiary, xiwangmu-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——后羿是山海经英雄叙事的核心代表
+    relation: "山海经母题伞形入口——后羿是山海经英雄叙事的核心代表"
   - entry_id: xiwangmu-china
-    relation: 直接叙事关联——后羿请不死药于西王母，是连接英雄叙事与长生神话的关键节点
+    relation: "直接叙事关联——后羿请不死药于西王母，是连接英雄叙事与长生神话的关键节点"
   - entry_id: kuafu-china
-    relation: 山海经内部双日母题——后羿"射日"与[夸父](/entries/kuafu-china)"逐日"构成中国神话对日/太阳的两种对立态度：制服 vs 追求
+    relation: "山海经内部双日母题——后羿射日与[夸父](/entries/kuafu-china)逐日构成中国神话对日/太阳的两种对立态度：制服 vs 追求"
 
 curator: hector
 review_status: draft

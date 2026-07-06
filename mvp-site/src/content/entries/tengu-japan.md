@@ -23,17 +23,17 @@ attributes: [鸟喙人身, 背生双翼, 红色面孔, 手持团扇, 擅武艺, 
 
 primary_sources:
   - type: book
-    title: 日本書紀
-    author: 舍人親王等
+    title: "日本書紀"
+    author: "舍人親王等"
     year: 720
     language: zh-ja
     location: 卷九（神功皇后摄政前纪）
     url: https://dl.ndl.go.jp/pid/951165
     access: open
-    note: '"天狗"一词最早出现在日本文献中，此时指代流星的异象描写，尚未作为妖怪名称'
+    note: "天狗一词最早出现在日本文献中，此时指代流星的异象描写，尚未作为妖怪名称"
   - type: book
-    title: 今昔物語集
-    author: 佚名（平安末期）
+    title: "今昔物語集"
+    author: "佚名（平安末期）"
     year: 1120
     language: ja
     location: 卷二十·天狗系列
@@ -41,41 +41,41 @@ primary_sources:
     access: open
     note: "现存最早的系统性天狗叙事集——天狗已具备鸟喙、飞行、附身僧人、骄傲致堕等核心特征"
   - type: book
-    title: 太平記
-    author: 小島法師
+    title: "太平記"
+    author: "小島法師"
     year: 1370
     language: ja
     location: 卷七·天狗与朝廷争端
-    note: 南北朝军记物语，天狗作为山岳修验道守护者与战争预兆的形象确立
+    note: "南北朝军记物语，天狗作为山岳修验道守护者与战争预兆的形象确立"
 
 secondary_sources:
   - type: book
-    title: 妖怪学真諦
-    author: 井上円了
+    title: "妖怪学真諦"
+    author: "井上円了"
     year: 1894
     language: ja
-    note: 日本近代妖怪学奠基之作，将天狗归入"伪怪"（自然现象误认）范畴
+    note: "日本近代妖怪学奠基之作，将天狗归入伪怪（自然现象误认）范畴"
   - type: book
-    title: 天狗考
-    author: 柳田國男
+    title: "天狗考"
+    author: "柳田國男"
     year: 1926
     language: ja
-    note: 日本民俗学之父对天狗传说的系统考证
+    note: "日本民俗学之父对天狗传说的系统考证"
   - type: book
-    title: The Tengu of Japan
-    author: Haruko Wakabayashi
+    title: "The Tengu of Japan"
+    author: "Haruko Wakabayashi"
     year: 1994
     language: en
-    note: 当代英文界最权威的天狗研究专著
+    note: "当代英文界最权威的天狗研究专著"
 
 confidence: attested
 first_recorded: "720年（《日本書紀》）——但此时指流星，作为妖怪形象的定型在12世纪《今昔物語集》"
 
 parallel_motifs:
   - entry_id: kappa-japan-water
-    relation: 日本妖怪两大代表——河童是"水之妖怪"，天狗是"山之妖怪"，构成日本民间信仰的水—山二元空间结构
+    relation: "日本妖怪两大代表——河童是水之妖怪，天狗是山之妖怪，构成日本民间信仰的水—山二元空间结构"
   - entry_id: shuigui-china
-    relation: 中国"天狗食日"的天狗与日本天狗名称同源但内涵迥异，是中日妖怪学比较的典型案例
+    relation: "中国天狗食日的天狗与日本天狗名称同源但内涵迥异，是中日妖怪学比较的典型案例"
 
 curator: hector
 review_status: draft

@@ -22,54 +22,54 @@ attributes: [水中溺亡者所化, 需找替身, 夜间出没, 常化为人形�
 
 primary_sources:
   - type: book
-    title: 太平广记
-    author: 李昉等编
+    title: "太平广记"
+    author: "李昉等编"
     year: 978
     language: zh
     location: 卷三百二十三至三百二十四·鬼部
     url: https://ctext.org/library.pl?if=gb&file=102105
     access: open
-    note: 宋代类书，收录大量唐代及以前的水鬼遇袭故事，如"张琮""谢邈之"等条
+    note: "宋代类书，收录大量唐代及以前的水鬼遇袭故事，如张琮谢邈之等条"
   - type: book
-    title: 聊斋志异
-    author: 蒲松龄
+    title: "聊斋志异"
+    author: "蒲松龄"
     year: 1679
     language: zh
     location: 卷三《水莽草》等篇
     url: https://ctext.org/library.pl?if=gb&file=78001
     access: open
-    note: 清代志怪小说集，"水莽草"篇完整描述了"替死鬼"的运作机制
+    note: "清代志怪小说集，水莽草篇完整描述了替死鬼的运作机制"
   - type: book
-    title: 述异记
-    author: 任昉
+    title: "述异记"
+    author: "任昉"
     year: 6世纪
     language: zh
     url: https://ctext.org/library.pl?if=gb&file=102102
     access: open
-    note: 南北朝志怪，较早记载水中精怪
+    note: "南北朝志怪，较早记载水中精怪"
 
 secondary_sources:
   - type: paper
     title: "中国水鬼传说与溺亡禁忌的民俗学考察"
-    author: 王孝廉
+    author: "王孝廉"
     year: 1992
     language: zh
-    note: 收录于《水与水神》，中国水神信仰研究奠基著作
+    note: "收录于《水与水神》，中国水神信仰研究奠基著作"
   - type: book
-    title: 中国民间信仰研究
-    author: 乌丙安
+    title: "中国民间信仰研究"
+    author: "乌丙安"
     year: 1995
     language: zh
-    note: 中国民俗学泰斗，系统分析了替死鬼传说的社会功能
+    note: "中国民俗学泰斗，系统分析了替死鬼传说的社会功能"
 
 confidence: attested
 first_recorded: "6世纪（《述异记》）"
 
 parallel_motifs:
   - entry_id: kappa-japan-water
-    relation: 东亚水系妖怪谱系对应位——日本河童保留"动物形态"特征，中国水鬼保留"人魂"特征
+    relation: "东亚水系妖怪谱系对应位——日本河童保留动物形态特征，中国水鬼保留人魂特征"
   - entry_id: kelpie-scotland
-    relation: 同为"诱人入水溺亡"母题，但水鬼源于亡灵而凯尔派源于变形动物精怪
+    relation: "同为诱人入水溺亡母题，但水鬼源于亡灵而凯尔派源于变形动物精怪"
 
 curator: hector
 review_status: draft

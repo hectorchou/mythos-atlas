@@ -26,8 +26,8 @@ attributes: [首代英雄, 双子英雄之父, 球赛高手, 被Xibalba斩首, �
 
 primary_sources:
   - type: book
-    title: Popol Vuh·第二部前半
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第二部前半"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -35,8 +35,8 @@ primary_sources:
     access: open
     note: "Hun Hunahpu的完整叙事——与兄Vucub Hunahpu共赴Xibalba，被斩首后头颅挂葫芦树上，头颅向Xquic吐口水使其受孕。这是玉米神叙事的核心文本"
   - type: book
-    title: Popol Vuh·第二部末尾
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第二部末尾"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -44,8 +44,8 @@ primary_sources:
     access: open
     note: "双子英雄击败Xibalba后回到父亲坟前尝试复活Hun Hunahpu——但他只能勉强站立说话，记忆不全。双子决定让父亲以玉米每年重生的方式永存——是玉米神从英雄转变为农业循环神的关键转折"
   - type: book
-    title: Popol Vuh·第一部第四章
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第一部第四章"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515
@@ -53,34 +53,34 @@ primary_sources:
     access: open
     note: "诸神从Paxil和Cayalá两处圣山发现玉米，用玉米面团制作出四位祖先。 玉米是人类物质基础的原始神话记载——玛雅人在字面意义上是玉米人"
   - type: archive
-    title: San Bartolo西壁北墙壁画
-    author: 前古典期玛雅壁画师
+    title: "San Bartolo西壁北墙壁画"
+    author: "前古典期玛雅壁画师"
     year: -100
     language: myn
     note: "危地马拉Petén雨林San Bartolo遗址西壁北墙壁画（公元前100年）——**描绘玉米神从裂开的龟甲中重生的完整场景**。是Saturno-Taube-Stuart 2005年重大发现——将玉米神叙事上推至公元前1世纪，是新大陆最早的玉米神图像"
   - type: archive
-    title: Resurrection Plate（玉米神复活盘K1892）
-    author: 古典期玛雅陶器绘画师
+    title: "Resurrection Plate（玉米神复活盘K1892）"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "Maya Vase Database著名的复活盘——描绘玉米神从龟甲中重生，双子英雄Hunahpu与Xbalanque在两侧帮助他复活。是古典期玉米神复活叙事最经典的图像证据"
   - type: archive
-    title: Palenque十字架庙铭文与雕刻
-    author: 古典期玛雅雕刻师
+    title: "Palenque十字架庙铭文与雕刻"
+    author: "古典期玛雅雕刻师"
     year: 690
     language: myn
     note: "墨西哥Palenque十字架庙描绘Pakal王与玉米神合一的仪式——**是玛雅王权与玉米神神学绑定的核心实物**。庙宇建筑本身模仿玉米茎干形状"
   - type: archive
-    title: Copán 神庙玉米神雕像
-    author: 古典期Copán雕刻师
+    title: "Copán 神庙玉米神雕像"
+    author: "古典期Copán雕刻师"
     year: 700
     language: myn
     note: "洪都拉斯Copán多件独立雕像描绘Foliated Maize God（枝叶玉米神）——年轻男子头顶发出玉米穗形状。是古典期玛雅玉米神最经典的圆雕形象"
   - type: archive
-    title: Tikal Stela 31
-    author: 古典期Tikal雕刻师
+    title: "Tikal Stela 31"
+    author: "古典期Tikal雕刻师"
     year: 445
     language: myn
     note: "危地马拉Tikal第31号石碑——王手持权杖装扮成玉米神。是玛雅王=玉米神地上化身的最早实物证据之一"
@@ -88,79 +88,79 @@ primary_sources:
 secondary_sources:
   - type: paper
     title: "The Maize Tamale in Classic Maya Diet, Epigraphy, and Art"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1989
     language: en
     note: "收录于《American Antiquity》。UC Riverside教授Taube对玉米神完整图像谱系的系统研究——识别古典期玉米神的两大类型：**Tonsured Maize God（剃发型）** 与 **Foliated Maize God（枝叶型）**，前者对应年轻美男形象，后者对应玉米作物本身。是玛雅玉米神图像学的方法论突破"
   - type: book
     title: "The Maize God and the Mesoamerican Ballgame"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1985
     language: en
     note: "收录于《Fifth Palenque Round Table》。Taube论证玉米神-球赛-创世三位一体"
   - type: paper
     title: "The San Bartolo Murals and the Popol Vuh"
-    author: William Saturno, Karl Taube & David Stuart
+    author: "William Saturno, Karl Taube & David Stuart"
     year: 2005
     language: en
     note: "National Geographic Society资助研究。**将玉米神叙事上推至公元前100年的划时代论文**——San Bartolo壁画描绘玉米神诞生与四方创世，与《波波尔·乌》文本对应。这是玛雅学最重要的现代发现之一"
   - type: book
     title: "Popol Vuh: The Definitive Edition"
-    author: Dennis Tedlock
+    author: "Dennis Tedlock"
     year: 1985
     language: en
     note: "对Hun Hunahpu叙事的详细注释——Tedlock指出他是第一次英雄尝试的失败者，但通过转化为玉米神获得永生。是失败英雄→农业神叙事的经典分析"
   - type: book
     title: "The Blood of Kings"
-    author: Linda Schele & Mary Ellen Miller
+    author: "Linda Schele & Mary Ellen Miller"
     year: 1986
     language: en
     note: "**系统论证玛雅王在加冕仪式中扮演玉米神**——王头戴玉米穗形头饰、身着玉米叶服饰，重演玉米神从龟甲重生的场景。是玛雅王权=玉米神地上化身理论的核心"
   - type: book
     title: "Maya Cosmos"
-    author: Freidel, Schele & Parker
+    author: "Freidel, Schele & Parker"
     year: 1993
     language: en
     note: "分析玉米神与玛雅天文-农业历法的深度绑定——玉米神的死亡与重生对应雨季/旱季、金星周期、卓尔金历"
   - type: paper
     title: "El dios del maíz en la cosmovisión maya"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1988
     language: es
     note: "墨西哥国立自治大学。León-Portilla对玉米神作为**玛雅哲学核心** 的分析——玉米不仅是食物，是玛雅人对时间、死亡、重生的整体认知"
   - type: book
     title: "Popol Vuh: Literal Poetic Version"
-    author: Allen J. Christenson
+    author: "Allen J. Christenson"
     year: 2003
     language: en
     note: "逐字对译版对Hun Hunahpu名字的语言学分析——Junajpu意为一花或一猎人"
   - type: paper
     title: "The Maize God as an Icon of Beauty"
-    author: Mary Miller
+    author: "Mary Miller"
     year: 2001
     language: en
     note: "收录于《Studies in the History of Art》。**耶鲁大学Miller论证玉米神是玛雅审美的核心——完美的男性青年身体是玛雅艺术的美学理想**，玛雅王在加冕后被塑造成玉米神形象是王=美的神学基础"
   - type: paper
     title: "El maíz como fundamento civilizatorio"
-    author: Enrique Florescano
+    author: "Enrique Florescano"
     year: 2001
     language: es
     note: "墨西哥历史学家Florescano《La bandera mexicana》专著——**论证玉米是整个中美洲文明的物质与精神基础**，玉米神信仰是理解阿兹特克-玛雅-Zapotec-Mixe共同哲学的关键"
   - type: paper
     title: "『ポポル・ヴフ』における玉米神"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1978
     language: ja
     note: "日语学界玛雅研究奠基者对玉米神叙事的系统介绍"
   - type: paper
     title: "The Divine Substance of Kings"
-    author: Simon Martin & Nikolai Grube
+    author: "Simon Martin & Nikolai Grube"
     year: 2000
     language: en
     note: "玛雅象形文字破译权威。《Chronicle of the Maya Kings and Queens》一书系统分析王朝铭文中玉米神与王的绑定关系"
   - type: book
-    title: 玉米的故事
-    author: Betty Fussell（周佳译）
+    title: "玉米的故事"
+    author: "Betty Fussell（周佳译）"
     year: 2003
     language: zh
     note: "商务印书馆。**从植物学-农学-文化史的综合视角追溯玉米从中美洲到全球的传播**——是理解玉米神信仰历史基础的入门读物"

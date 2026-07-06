@@ -25,8 +25,8 @@ attributes: [双子兄弟, Hunahpu掌吹枪/太阳/白日, Xbalanque掌美洲豹
 
 primary_sources:
   - type: book
-    title: Popol Vuh·第二部
-    author: 匿名基切玛雅贵族
+    title: "Popol Vuh·第二部"
+    author: "匿名基切玛雅贵族"
     year: 1554
     language: quc
     location: Newberry Library Ayer MS 1515 fol. 12v-30r
@@ -34,46 +34,46 @@ primary_sources:
     access: open
     note: "双子英雄叙事的唯一完整文本源。占《波波尔·乌》约三分之一篇幅，是新大陆保留下来的最长且最结构化的英雄叙事"
   - type: archive
-    title: 玛雅古典期陶器 K1226 / K3033 / K2011 / K1004
-    author: 古典期玛雅陶器绘画师
+    title: "玛雅古典期陶器 K1226 / K3033 / K2011 / K1004"
+    author: "古典期玛雅陶器绘画师"
     year: 700
     language: myn
     url: http://www.mayavase.com/
     access: open
     note: "Justin Kerr摄影档案Maya Vase Database。数百件古典期陶器描绘双子英雄——K1226绘Hunahpu吹枪射Vucub Caquix鹦鹉、K3033绘双子诈死复活、K2011绘双子在Xibalba球场。是双子叙事早于《波波尔·乌》800余年的最直接实物证据"
   - type: archive
-    title: San Bartolo西壁壁画（危地马拉Petén）
-    author: 前古典期玛雅壁画师
+    title: "San Bartolo西壁壁画（危地马拉Petén）"
+    author: "前古典期玛雅壁画师"
     year: -100
     language: myn
     note: "危地马拉San Bartolo遗址西壁壁画公元前100年。描绘Hun Hunahpu（双子之父）从裂开的龟甲重生场景——将双子叙事上推至公元前1世纪。这是Saturno-Taube-Stuart 2005年重大发现"
   - type: archive
-    title: Izapa Stela 25（恰帕斯Izapa遗址）
-    author: 前古典期Izapa雕刻师
+    title: "Izapa Stela 25（恰帕斯Izapa遗址）"
+    author: "前古典期Izapa雕刻师"
     year: -100
     language: myn
     note: "墨西哥恰帕斯州Izapa遗址第25号石碑（公元前100年-公元100年）。描绘一位英雄用木杖击打大鸟（Vucub Caquix原型）的场景，是双子射鸟叙事的最早图像证据"
   - type: archive
-    title: Piedras Negras Stela 12
-    author: 古典期玛雅雕刻师
+    title: "Piedras Negras Stela 12"
+    author: "古典期玛雅雕刻师"
     year: 795
     language: myn
     note: "危地马拉Piedras Negras石碑12。含双子英雄叙事图像证据"
   - type: archive
-    title: Chichén Itzá大球场浮雕
-    author: 后古典期Toltec-Maya
+    title: "Chichén Itzá大球场浮雕"
+    author: "后古典期Toltec-Maya"
     year: 1000
     language: myn
     note: "尤卡坦Chichén Itzá大球场石浮雕描绘球员被斩首后血喷成七条蛇的场景——公认是双子英雄叙事的仪式再现，也是理解玛雅球赛-献祭-创世三位一体的关键实物"
   - type: archive
-    title: Copán Hieroglyphic Stairway
-    author: 古典期Copán雕刻师
+    title: "Copán Hieroglyphic Stairway"
+    author: "古典期Copán雕刻师"
     year: 755
     language: myn
     note: "洪都拉斯Copán象形文字阶梯（世界最长玛雅象形文字铭文）。含双子英雄名号与Xibalba相关内容，是玛雅王朝将自己与双子英雄绑定的核心政治文本"
   - type: archive
-    title: Piedras Negras Panel 3
-    author: 古典期玛雅雕刻师
+    title: "Piedras Negras Panel 3"
+    author: "古典期玛雅雕刻师"
     year: 782
     language: myn
     note: "石雕面板描绘玛雅王将自己塑造为Hunahpu化身举行王朝仪式，是玛雅王=双子英雄地上化身理论的关键实物"
@@ -81,79 +81,79 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Popol Vuh: The Definitive Edition"
-    author: Dennis Tedlock
+    author: "Dennis Tedlock"
     year: 1985
     language: en
     note: "当代英语学界最权威的《波波尔·乌》学术版本。第二部双子英雄叙事的翻译与注释是理解这一母题的核心"
   - type: book
     title: "The Maya Scribe and His World"
-    author: Michael D. Coe
+    author: "Michael D. Coe"
     year: 1973
     language: en
     note: "Grolier Club出版。**首次系统论证古典期玛雅陶器上的场景就是双子英雄叙事**——这一论断震撼学界，为玛雅陶器神圣文本性质提供了突破性理论框架。Coe被誉为古典期玛雅叙事研究的开创者"
   - type: paper
     title: "The Blood of Kings: Dynasty and Ritual in Maya Art"
-    author: Linda Schele & Mary Ellen Miller
+    author: "Linda Schele & Mary Ellen Miller"
     year: 1986
     language: en
     note: "George Braziller出版。**将双子英雄叙事与玛雅王权神学系统连接**——玛雅王在放血仪式和球赛中重演双子英雄斗Xibalba叙事，玛雅王即Hunahpu地上化身。是玛雅学破译时代的划时代作品"
   - type: book
-    title: "Maya Cosmos: Three Thousand Years on the Shaman's Path"
-    author: David Freidel, Linda Schele & Joy Parker
+    title: "Maya Cosmos: Three Thousand Years on the Shamans Path"
+    author: "David Freidel, Linda Schele & Joy Parker"
     year: 1993
     language: en
     note: "综合双子叙事与天文观测——Hunahpu对应金星，Xbalanque对应月亮，二者升天场景对应实际天文事件。是玛雅神话-天文学结合研究的核心文本"
   - type: paper
     title: "The Hero Twins: Myth and Image"
-    author: Karl Taube
+    author: "Karl Taube"
     year: 1993
     language: en
     note: "收录于《The Maya Vase Book Volume 3》。UC Riverside教授Taube对古典期陶器双子形象的系统分类，识别出双子的多种视觉标识（Hunahpu面部黑点、Xbalanque美洲豹皮）"
   - type: paper
     title: "The San Bartolo Murals and the Popol Vuh"
-    author: William Saturno, Karl Taube & David Stuart
+    author: "William Saturno, Karl Taube & David Stuart"
     year: 2005
     language: en
     note: "论证San Bartolo壁画上的玉米神/父辈英雄场景与《波波尔·乌》完全对应——将双子叙事上推至公元前100年"
   - type: book
     title: "Popol Vuh: Literal Poetic Version"
-    author: Allen J. Christenson
+    author: "Allen J. Christenson"
     year: 2003
     language: en
     note: "逐字对译版对双子叙事的语言学分析"
   - type: paper
     title: "Twin Heroes and the Maya Ballgame"
-    author: E. Michael Whittington 编
+    author: "E. Michael Whittington 编"
     year: 2001
     language: en
     note: "《The Sport of Life and Death》。玛雅球赛遗址与双子叙事的系统对照"
   - type: book
     title: "Antiguas historias del Quiché"
-    author: Adrián Recinos
+    author: "Adrián Recinos"
     year: 1947
     language: es
     note: "西班牙语学界标准参考。Recinos对双子叙事的注释是拉美学界的入门底本"
   - type: paper
     title: "Los gemelos divinos en las culturas prehispánicas"
-    author: Miguel León-Portilla
+    author: "Miguel León-Portilla"
     year: 1988
     language: es
     note: "墨西哥国立自治大学。León-Portilla将玛雅双子与阿兹特克Quetzalcoatl-Xolotl、纳瓦特尔双子叙事比较——揭示中美洲共同的双子神话原型"
   - type: paper
     title: "The Twins in World Mythology"
-    author: Bruce Lincoln
+    author: "Bruce Lincoln"
     year: 1981
     language: en
     note: "芝加哥大学Lincoln将玛雅双子置于全球双子神话谱系（印欧Aśvin双子、罗马Romulus-Remus、希腊Castor-Pollux）比较框架"
   - type: paper
     title: "『ポポル・ヴフ』双子神話"
-    author: 増田義郎
+    author: "増田義郎"
     year: 1975
     language: ja
     note: "日语学界玛雅研究奠基者对双子叙事的系统介绍"
   - type: paper
     title: "Blood, Sacrifice and Kingship"
-    author: Stephen Houston & David Stuart
+    author: "Stephen Houston & David Stuart"
     year: 1996
     language: en
     note: "玛雅象形文字破译权威Houston-Stuart对双子英雄名号在古典期铭文中出现频率的统计分析"

@@ -21,16 +21,16 @@ attributes: [变形, 化为骏马, 拉人入水, 皮肤黏附, 惧冷铁]
 
 primary_sources:
   - type: book
-    title: Popular Tales of the West Highlands
-    author: John Francis Campbell
+    title: "Popular Tales of the West Highlands"
+    author: "John Francis Campbell"
     year: 1860
     language: en
     url: https://www.gutenberg.org/ebooks/44033
     access: open
-    note: 苏格兰高地民间故事最早的系统性田野采集之一
+    note: "苏格兰高地民间故事最早的系统性田野采集之一"
   - type: paper
     title: "The Water-Horse of the Scottish Highlands"
-    author: Folklore Society
+    author: "Folklore Society"
     year: 1893
     language: en
     location: "Folklore, Vol. 4"
@@ -41,11 +41,11 @@ confidence: attested
 
 parallel_motifs:
   - entry_id: kappa-japan-water
-    relation: 东亚对应位——同为水系诱溺型妖怪
+    relation: "东亚对应位——同为水系诱溺型妖怪"
   - entry_id: draugr-norse
-    relation: 凯尔特水系妖怪与北欧亡灵妖怪——凯尔特世界以诱溺为恐惧核心，北欧以尸鬼复生为恐惧核心，体现了不同文化对'水域死亡'vs'陆地复生'的不同焦虑投射
+    relation: "凯尔特水系妖怪与北欧亡灵妖怪——凯尔特世界以诱溺为恐惧核心，北欧以尸鬼复生为恐惧核心，体现了不同文化对水域死亡vs陆地复生的不同焦虑投射"
   - entry_id: nix-germanic
-    relation: 日耳曼语族水灵，共享'变形+诱溺'母题
+    relation: "日耳曼语族水灵，共享变形+诱溺母题"
 
 curator: hector
 review_status: draft

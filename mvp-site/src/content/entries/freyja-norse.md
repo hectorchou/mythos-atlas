@@ -25,70 +25,70 @@ attributes: [绝美, 佩Brísingamen金项链, 驾双猫拉车, 骑金鬃野猪H
 
 primary_sources:
   - type: manuscript
-    title: Grímnismál（格里姆尼尔之歌）·14节
-    author: 佚名（10世纪口传）
+    title: "Grímnismál（格里姆尼尔之歌）·14节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Grímnismál
     access: open
     note: "Fólkvangr是第九个（神域），Freyja在其中安排战士的座席。她每日选取半数战死者，另一半归奥丁所有。 Freyja收取半数战死英灵的最原始文本，与奥丁的Valhǫll并列——是北欧战场神学的核心结构"
   - type: manuscript
-    title: Þrymskviða（索列之歌）
-    author: 佚名
+    title: "Þrymskviða（索列之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Þrymskviða
     access: open
     note: "巨人Þrymr索娶Freyja换取Mjǫllnir，Freyja愤怒到项链Brísingamen因胸膛颤抖而崩断。是Freyja作为诸神最珍贵资产被反复索娶的核心叙事"
   - type: manuscript
-    title: Hyndluljóð（辛德拉之歌）
-    author: 佚名
+    title: "Hyndluljóð（辛德拉之歌）"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hyndluljóð
     access: open
     note: "Freyja唤醒女巨人辛德拉追溯其宠爱者Óttarr家谱的诗篇——是Freyja作为家谱之神与sacred favouritism的核心文本"
   - type: manuscript
-    title: Oddrúnargrátr / Sigrdrífumál
-    author: 佚名
+    title: "Oddrúnargrátr / Sigrdrífumál"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Sigrdrífumál
     access: open
     note: "Sigrdrífumál是女武神Sigrdrífa教Sigurd卢恩符文的诗篇，Freyja作为女武神首领与卢恩魔法关联的核心"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·24, 35章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·24, 35章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "斯诺里系统整理Freyja的家谱（父Njǫrðr、兄Freyr、夫Óðr、女Hnoss与Gersemi）、住处Fólkvangr大厅Sessrúmnir、猫车、寻夫泪珠成金的完整叙事"
   - type: book
-    title: Skáldskaparmál（诗歌语言·8, 20, 32章）
-    author: Snorri Sturluson
+    title: "Skáldskaparmál（诗歌语言·8, 20, 32章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "记载Freyja众多别名（Vanadís、Gefn、Mardöll、Hörn、Sýr）与Brísingamen项链失窃、被洛基化海豹夺回的完整叙事——是Freyja物质符号最详细的文本"
   - type: book
-    title: Ynglinga saga（挪威列王传·序·4章）
-    author: Snorri Sturluson
+    title: "Ynglinga saga（挪威列王传·序·4章）"
+    author: "Snorri Sturluson"
     year: 1230
     language: is
     url: https://sagadb.org/heimskringla
     access: open
     note: "Freyja……是阿萨神族中唯一还活着的（历史化）神，她还活着，因此她的名字用于所有女性中最尊贵者。她教了阿萨seiðr魔法，那是华纳神族的技艺。 是Freyja作为seiðr魔法之源的关键文本"
   - type: archive
-    title: 女性船葬（Oseberg船葬 834年）
-    author: 挪威贵族女性
+    title: "女性船葬（Oseberg船葬 834年）"
+    author: "挪威贵族女性"
     year: 834
     language: non
     note: "挪威Oseberg船葬（834）是维京时代最富贵的女性船葬，随葬品含大量与seiðr相关物品（雕刻杖、种子、猫骨）。虽无直接铭文，但被广泛认为反映Freyja/seiðr女巫vǫlva信仰"
   - type: archive
-    title: Aska护身符（Ög Fv1970;310）
-    author: 瑞典Östergötland
+    title: "Aska护身符（Ög Fv1970;310）"
+    author: "瑞典Östergötland"
     year: 800
     language: non
     note: "瑞典Östergötland出土的女性银坠饰，被广泛解读为Freyja佩戴Brísingamen项链的形象，是Freyja崇拜的实物证据"
@@ -96,61 +96,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Freya, the Great Goddess of the North"
-    author: Britt-Mari Näsström
+    author: "Britt-Mari Näsström"
     year: 1995
     language: en
     note: "Lund大学出版。瑞典学者Näsström的博士论文，是当代英语学界唯一系统的Freyja专著，论证Freyja是北欧最重要女神，其地位在文本中被系统低估"
   - type: book
     title: "Norse Mythology: A Guide"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "Freyja 条目是当代英语学界最完整的整理"
   - type: paper
     title: "Freyja and Frigg: One Goddess or Two"
-    author: Stephan Grundy
+    author: "Stephan Grundy"
     year: 1998
     language: en
     note: "收录于《The Concept of the Goddess》。深入探讨Freyja与Frigg（奥丁妻）是否为同一女神的经典学界争议"
   - type: book
     title: "The Viking Way: Religion and War in Late Iron Age Scandinavia"
-    author: Neil Price
+    author: "Neil Price"
     year: 2002
     language: en
     note: "Uppsala博士论文。Freyja与seiðr魔法关系的当代最重要研究，考察seiðr女巫vǫlva的考古证据链"
   - type: paper
     title: "Freya as the Goddess of Death"
-    author: Britt-Mari Näsström
+    author: "Britt-Mari Näsström"
     year: 1996
     language: en
     note: "收录于《The Great Goddess in Northern Europe》。论证Freyja不仅是爱神，更是死亡女神——这是理解其收半数战死者的关键"
   - type: book
     title: "Gods and Myths of Northern Europe"
-    author: H.R. Ellis Davidson
+    author: "H.R. Ellis Davidson"
     year: 1964
     language: en
     note: "剑桥学者Davidson的经典专著，Freyja章节是英语学界几代人的入门底本"
   - type: paper
     title: "Seiðr and the Feminine in Old Norse Religion"
-    author: Jenny Blain
+    author: "Jenny Blain"
     year: 2002
     language: en
     note: "《Nine Worlds of Seid-Magic》。深入研究seiðr魔法的性别属性——为何Freyja是其源头而奥丁修习被指ergi"
   - type: paper
     title: "Freyjaと大地母神"
-    author: 谷口幸男
+    author: "谷口幸男"
     year: 1988
     language: ja
     note: "日语学界经典。将Freyja与印欧大地母神原型比较"
   - type: book
     title: "Le monde des morts en Scandinavie"
-    author: Régis Boyer
+    author: "Régis Boyer"
     year: 1994
     language: fr
     note: "法语学界巴黎索邦大学教授Boyer对北欧死亡观的经典研究，Freyja作为死亡女神地位的深度分析"
   - type: paper
     title: "Brísingamen and the Cosmology of Female Ornament"
-    author: Judith Jesch
+    author: "Judith Jesch"
     year: 2015
     language: en
     note: "Nottingham大学北欧学教授对Brísingamen项链象征意义的当代研究，联系维京时代女性权力符号"

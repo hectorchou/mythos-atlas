@@ -23,77 +23,77 @@ attributes: [铜头铁额, 食沙石, 造五兵, 八十一兄弟, 兽身人语, 
 
 primary_sources:
   - type: book
-    title: 山海经·大荒北经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     url: https://ctext.org/shan-hai-jing/da-huang-bei-jing
     access: open
-    note: "'蚩尤作兵伐黄帝，黄帝乃令应龙攻之冀州之野。应龙畜水，蚩尤请风伯雨师，纵大风雨。黄帝乃下天女曰魃……遂杀蚩尤。' 蚩尤黄帝大战的最早完整神话记载"
+    note: "蚩尤作兵伐黄帝，黄帝乃令应龙攻之冀州之野。应龙畜水，蚩尤请风伯雨师，纵大风雨。黄帝乃下天女曰魃……遂杀蚩尤。 蚩尤黄帝大战的最早完整神话记载"
   - type: book
-    title: 逸周书·尝麦解
-    author: 佚名（战国）
+    title: "逸周书·尝麦解"
+    author: "佚名（战国）"
     year: -300
     language: zh
-    note: "'蚩尤乃逐帝，争于涿鹿之阿，九隅无遗。赤帝大慑，乃说于黄帝，执蚩尤，杀之于中冀。' 逸周书对涿鹿之战的独立记载，与山海经互证"
+    note: "蚩尤乃逐帝，争于涿鹿之阿，九隅无遗。赤帝大慑，乃说于黄帝，执蚩尤，杀之于中冀。 逸周书对涿鹿之战的独立记载，与山海经互证"
   - type: book
-    title: 史记·五帝本纪
-    author: 司马迁
+    title: "史记·五帝本纪"
+    author: "司马迁"
     year: -91
     language: zh
     url: https://ctext.org/shiji/wu-di-ben-ji
     access: open
-    note: "'蚩尤作乱，不用帝命。于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野，遂禽杀蚩尤。' 司马迁将蚩尤纳入正史，完成神话历史化"
+    note: "蚩尤作乱，不用帝命。于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野，遂禽杀蚩尤。 司马迁将蚩尤纳入正史，完成神话历史化"
   - type: book
-    title: 龙鱼河图
-    author: 佚名（汉代纬书）
+    title: "龙鱼河图"
+    author: "佚名（汉代纬书）"
     year: 100
     language: zh
-    note: "'蚩尤兄弟八十一人，并兽身人语，铜头铁额，食沙石子……造立兵杖刀戟大弩，威振天下。' 汉代纬书对蚩尤形象的经典描述，是铜头铁额的最早出处"
+    note: "蚩尤兄弟八十一人，并兽身人语，铜头铁额，食沙石子……造立兵杖刀戟大弩，威振天下。 汉代纬书对蚩尤形象的经典描述，是铜头铁额的最早出处"
   - type: book
-    title: 述异记
-    author: 任昉
+    title: "述异记"
+    author: "任昉"
     year: 510
     language: zh
-    note: "'今冀州有乐名蚩尤戏，其民两两三三，头戴牛角而相抵……蚩尤能作云雾。' 记载民间蚩尤戏，是蚩尤崇拜在民间存活的珍贵证据"
+    note: "今冀州有乐名蚩尤戏，其民两两三三，头戴牛角而相抵……蚩尤能作云雾。 记载民间蚩尤戏，是蚩尤崇拜在民间存活的珍贵证据"
 
 secondary_sources:
   - type: book
-    title: 中国神话史
-    author: 袁珂
+    title: "中国神话史"
+    author: "袁珂"
     year: 1988
     language: zh
-    note: 系统梳理蚩尤从山海经到史记的历史化过程
+    note: "系统梳理蚩尤从山海经到史记的历史化过程"
   - type: paper
     title: "蚩尤考"
-    author: 徐旭生
+    author: "徐旭生"
     year: 1943
     language: zh
-    note: 收录于《中国古史的传说时代》。徐旭生经典考据，论证蚩尤为东夷或苗蛮集团首领，是中国上古三大族群冲突的神话记忆
+    note: "收录于《中国古史的传说时代》。徐旭生经典考据，论证蚩尤为东夷或苗蛮集团首领，是中国上古三大族群冲突的神话记忆"
   - type: book
     title: "The Cambridge History of Ancient China"
-    author: Michael Loewe & Edward Shaughnessy 编
+    author: "Michael Loewe & Edward Shaughnessy 编"
     year: 1999
     language: en
-    note: 剑桥中国上古史。第二章 David N. Keightley 对黄帝-蚩尤叙事的历史学分析，指出这可能是新石器时代族群融合的神话化记忆
+    note: "剑桥中国上古史。第二章 David N. Keightley 对黄帝-蚩尤叙事的历史学分析，指出这可能是新石器时代族群融合的神话化记忆"
   - type: paper
     title: "Chiyou and the Warrior Ethos in Han Iconography"
-    author: Wu Hung（巫鸿）
+    author: "Wu Hung（巫鸿）"
     year: 1995
     language: en
-    note: 收录于《Monumentality in Early Chinese Art and Architecture》。巫鸿对汉代蚩尤图像的经典分析
+    note: "收录于《Monumentality in Early Chinese Art and Architecture》。巫鸿对汉代蚩尤图像的经典分析"
   - type: paper
     title: "蚩尤神話と苗族起源伝承"
-    author: 铁井庆纪
+    author: "铁井庆纪"
     year: 1985
     language: ja
-    note: 日本汉学界对蚩尤-苗族关联的系统研究
+    note: "日本汉学界对蚩尤-苗族关联的系统研究"
   - type: book
-    title: 苗族古歌
-    author: 民间口传（贵州、湖南苗族地区）
+    title: "苗族古歌"
+    author: "民间口传（贵州、湖南苗族地区）"
     year: 1979
     language: zh
-    note: 中国民间文艺出版社整理版。苗族口传史诗中蚩尤（榜香尤）被奉为始祖，是研究华夏神话"败者叙事"另一视角的珍贵民族志材料
+    note: "中国民间文艺出版社整理版。苗族口传史诗中蚩尤（榜香尤）被奉为始祖，是研究华夏神话败者叙事另一视角的珍贵民族志材料"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·大荒北经》《逸周书》）"
@@ -102,11 +102,11 @@ related_entries: [shan-hai-jing-bestiary, yinglong-china]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——蚩尤是山海经战争叙事的核心角色
+    relation: "山海经母题伞形入口——蚩尤是山海经战争叙事的核心角色"
   - entry_id: yinglong-china
-    relation: 直接叙事关联——[应龙](/entries/yinglong-china) 是黄帝方的关键力量，蓄水攻蚩尤，二者共同构成涿鹿之战的对立双方
+    relation: "直接叙事关联——[应龙](/entries/yinglong-china) 是黄帝方的关键力量，蓄水攻蚩尤，二者共同构成涿鹿之战的对立双方"
   - entry_id: xingtian-china
-    relation: 山海经内部败者谱系——蚩尤（战败被杀）、[刑天](/entries/xingtian-china)（争神被斩）共同构成山海经"被压制的另一种声音"
+    relation: "山海经内部败者谱系——蚩尤（战败被杀）、[刑天](/entries/xingtian-china)（争神被斩）共同构成山海经被压制的另一种声音"
 
 curator: hector
 review_status: draft

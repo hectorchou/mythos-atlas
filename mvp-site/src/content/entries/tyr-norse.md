@@ -25,76 +25,76 @@ attributes: [独手（右手被Fenrir咬断）, 主法律与誓约, 荣誉与勇
 
 primary_sources:
   - type: manuscript
-    title: Hymiskviða（希米尔之歌）·4-33节
-    author: 佚名（10世纪口传）
+    title: "Hymiskviða（希米尔之歌）·4-33节"
+    author: "佚名（10世纪口传）"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Hymiskviða
     access: open
     note: "提尔与[托尔](/entries/thor-norse)同赴巨人Hymir家（提尔的父亲）借酿酒大锅的完整叙事。这是提尔在埃达中最长的独立戏份，暗示其巨人血统"
   - type: manuscript
-    title: Lokasenna（洛基的口角）·37-40节
-    author: 佚名
+    title: "Lokasenna（洛基的口角）·37-40节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Lokasenna
     access: open
     note: "洛基指提尔为独手神并挑衅其与Fenrir的关系。是Fenrir束缚叙事在《诗体埃达》中的重要旁证"
   - type: manuscript
-    title: Sigrdrífumál·6节
-    author: 佚名
+    title: "Sigrdrífumál·6节"
+    author: "佚名"
     year: 1270
     language: is
     url: https://heimskringla.no/wiki/Sigrdrífumál
     access: open
     note: "女武神Sigrdrífa教Sigurd卢恩符文——胜利之符要刻，若你想要胜利，刻在剑柄上……并两次呼唤Týr 是提尔作为胜利-战争之神的最重要文本证据"
   - type: book
-    title: Gylfaginning（吉尔法欺骗·25章）
-    author: Snorri Sturluson
+    title: "Gylfaginning（吉尔法欺骗·25章）"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "还有一位阿萨名Týr，他最勇敢无畏，掌管战斗中的胜利。战士们向他祈求。他被称为最智慧者，因此说：智如Týr。……他右手曾被Fenrir狼咬断，所以他不被称为和平缔造者。 提尔神格的完整整理"
   - type: book
-    title: Gylfaginning·34章
-    author: Snorri Sturluson
+    title: "Gylfaginning·34章"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "Fenrir束缚叙事最完整文本——诸神铸就魔缎Gleipnir让Fenrir试戴，Fenrir要求诸神中一位将手放入我口中作担保。除提尔外无神敢应。Fenrir挣扎不脱后咬断提尔手腕。是北欧神话中荣誉自我牺牲最经典的场景"
   - type: book
-    title: Skáldskaparmál·9章
-    author: Snorri Sturluson
+    title: "Skáldskaparmál·9章"
+    author: "Snorri Sturluson"
     year: 1220
     language: is
     url: https://sagadb.org/snorra_edda
     access: open
     note: "如何称呼Týr？可称独手Ás、Fenrir之食、战神、Hymir之子。 提尔的kenning隐喻体系"
   - type: archive
-    title: Tacitus《Germania》第9章
-    author: Publius Cornelius Tacitus
+    title: "Tacitus《Germania》第9章"
+    author: "Publius Cornelius Tacitus"
     year: 98
     language: la
     url: https://www.thelatinlibrary.com/tacitus/tac.ger.shtml
     access: open
     note: "塔西陀公元98年记载：日耳曼人尊崇的神明中Mars（=Tiwaz/Týr）与Mercury（=Wodan）并列——是提尔在原始日耳曼时代作为主要战神的最重要外部证据"
   - type: archive
-    title: 卢恩字母'ᛏ' Tiwaz
-    author: 元老福瑟卢恩字母
+    title: "卢恩字母ᛏ Tiwaz"
+    author: "元老福瑟卢恩字母"
     year: 200
     language: non
     note: "卢恩字母ᛏ（Tiwaz）就是提尔的名字——是元老福瑟（Elder Futhark）24个字母中直接以神明命名者之一。字母形状（↑）暗示指向天空/北极星。是提尔崇拜早于埃达千年的实物证据"
   - type: archive
-    title: Trundholm太阳战车（丹麦青铜时代）
-    author: 丹麦Trundholm
+    title: "Trundholm太阳战车（丹麦青铜时代）"
+    author: "丹麦Trundholm"
     year: -1400
     language: pie
     note: "丹麦Trundholm出土公元前1400年太阳战车。虽早于历史记载，但部分学者（Andrén）认为反映了印欧天父原始崇拜——是提尔词源前身Dyeus的可能实物证据"
   - type: book
     title: "Gesta Danorum·Book I"
-    author: Saxo Grammaticus
+    author: "Saxo Grammaticus"
     year: 1208
     language: la
     url: https://www.kb.dk/en/gestadanorum
@@ -104,61 +104,61 @@ primary_sources:
 secondary_sources:
   - type: book
     title: "Mitra-Varuna: Essai sur deux représentations indo-européennes de la souveraineté"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1940
     language: fr
     note: "Dumézil印欧比较神话学的奠基作。提出提尔-奥丁构成印欧主权双元（法律主权 vs 魔法主权），对应吠陀 Mitra-Varuna、罗马 Dius Fidius-Jupiter。**是提尔神格研究的核心理论框架**"
   - type: book
     title: "Les Dieux des Germains"
-    author: Georges Dumézil
+    author: "Georges Dumézil"
     year: 1959
     language: fr
     note: "Dumézil日耳曼神话。系统论证提尔是原始日耳曼主神，被后来兴起的奥丁崇拜降格。是理解北欧神谱历时演变的关键"
   - type: book
     title: "Norse Mythology: A Guide"
-    author: John Lindow
+    author: "John Lindow"
     year: 2001
     language: en
     note: "Tyr 条目是当代英语学界最完整的整理"
   - type: book
     title: "Die Religion der Germanen"
-    author: Jan de Vries
+    author: "Jan de Vries"
     year: 1957
     language: de
     note: "德语学界经典。系统整理Tiwaz-Ziu-Týr跨日耳曼语区的名字与崇拜谱系"
   - type: paper
     title: "Týr and the One-Handed God: A Comparative Analysis"
-    author: Emily Lyle
+    author: "Emily Lyle"
     year: 2012
     language: en
     note: "收录于《Ten Gods》。将提尔与凯尔特Nuada（银手王）、罗马Mucius Scaevola（左手英雄）比较——献手换权力母题的印欧比较研究"
   - type: paper
     title: "The Sky-Father in Indo-European Religion"
-    author: Bruce Lincoln
+    author: "Bruce Lincoln"
     year: 1975
     language: en
     note: "论证印欧原始最高神Dyeus在各分支中的降格演化——希腊Zeus保留主神地位，罗马Jupiter保留主神地位，但北欧Týr被奥丁取代"
   - type: paper
     title: "The Binding of Fenrir: An Old Norse Ritual"
-    author: Anders Andrén
+    author: "Anders Andrén"
     year: 2014
     language: en
     note: "收录于《Tracing Old Norse Cosmology》。分析Fenrir束缚叙事是否对应实际的维京时代誓约仪式——手放入嘴中可能是历史誓约手势的神话化"
   - type: book
     title: "The One-Handed Warrior"
-    author: E.O.G. Turville-Petre
+    author: "E.O.G. Turville-Petre"
     year: 1964
     language: en
     note: "收录于《Myth and Religion of the North》第11章。经典专著对提尔的完整分析"
   - type: paper
     title: "テュールとインド・ヨーロッパの主権神"
-    author: 松原國師
+    author: "松原國師"
     year: 1985
     language: ja
     note: "日语学界。松原國師对Dumézil主权双元说在日语学界的引入"
   - type: paper
-    title: "The Sacrifice of Týr's Hand"
-    author: Karen Bek-Pedersen
+    title: "The Sacrifice of Týrs Hand"
+    author: "Karen Bek-Pedersen"
     year: 2011
     language: en
     note: "《The Norns in Old Norse Mythology》专章。将提尔断手与命运神学联系——牺牲不是失败，而是命运编织的必要环节"

@@ -22,33 +22,33 @@ attributes: [白衣白纱, 夜间水边出没, 哀哭"¡Ay, mis hijos!", 杀子�
 
 primary_sources:
   - type: manuscript
-    title: Florentine Codex（佛罗伦萨手抄本）
-    author: Bernardino de Sahagún
+    title: "Florentine Codex（佛罗伦萨手抄本）"
+    author: "Bernardino de Sahagún"
     year: 1577
     language: nah
     location: 卷十二，第1章
     url: https://www.loc.gov/item/2021667828/
     access: open
-    note: 记载1519年征服前夜，特诺奇蒂特兰街头出现哭泣女人的身影——被认为是La Llorona的最早原型。Sahagún记录阿兹特克人将此视为不祥之兆
+    note: "记载1519年征服前夜，特诺奇蒂特兰街头出现哭泣女人的身影——被认为是La Llorona的最早原型。Sahagún记录阿兹特克人将此视为不祥之兆"
   - type: manuscript
-    title: 墨西哥民谣集（Romances de México）
-    author: 佚名
+    title: "墨西哥民谣集（Romances de México）"
+    author: "佚名"
     year: 17世纪
     language: es
-    note: 最早以西班牙语文本记录的"哭泣女人"叙事
+    note: "最早以西班牙语文本记录的哭泣女人叙事"
 
 secondary_sources:
   - type: paper
     title: "La Llorona: Roots, Branches, and the Missing Link from Spain"
-    author: Stephen Winick
+    author: "Stephen Winick"
     year: 2021
     language: en
     url: https://blogs.loc.gov/folklife/2021/10/la-llorona-roots-branches-and-the-missing-link-from-spain/
     access: open
-    note: 美国国会图书馆民俗学部的权威考证，追溯了La Llorona的西班牙与中美洲双重源头
+    note: "美国国会图书馆民俗学部的权威考证，追溯了La Llorona的西班牙与中美洲双重源头"
   - type: book
     title: "La Llorona: Encounters with the Weeping Woman"
-    author: María Herrera-Sobek
+    author: "María Herrera-Sobek"
     year: 2016
     language: en
 
@@ -57,9 +57,9 @@ first_recorded: "1577（Florentine Codex记载的1519年目击）"
 
 parallel_motifs:
   - entry_id: shuigui-china
-    relation: 均为水边女鬼形象——La Llorona因杀子而永世哀泣寻子，中国水鬼因溺亡而寻替身。两者都以"不得安宁的灵魂"为核心，但动机截然不同
+    relation: "均为水边女鬼形象——La Llorona因杀子而永世哀泣寻子，中国水鬼因溺亡而寻替身。两者都以不得安宁的灵魂为核心，但动机截然不同"
   - entry_id: xibalba-maya
-    relation: La Llorona的传说融合了西班牙殖民者带来的"La Malinche"叙事与中美洲本土的冥界女神（如Mictecacihuatl）元素，体现了文化融合
+    relation: "La Llorona的传说融合了西班牙殖民者带来的La Malinche叙事与中美洲本土的冥界女神（如Mictecacihuatl）元素，体现了文化融合"
 
 curator: hector
 review_status: draft

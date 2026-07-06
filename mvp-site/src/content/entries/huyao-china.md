@@ -23,96 +23,96 @@ attributes: [幻化人形, 修炼成仙, 九尾为极, 常化美女, 情义与�
 
 primary_sources:
   - type: book
-    title: 山海经
-    author: 佚名（战国至汉初编纂）
+    title: "山海经"
+    author: "佚名（战国至汉初编纂）"
     year: -300
     language: zh
     location: 南山经·青丘之山
     url: https://ctext.org/shan-hai-jing/nan-shan-jing
     access: open
-    note: 最早记载九尾狐——"青丘之山有兽焉，其状如狐而九尾，其音如婴儿，能食人；食者不蛊"，奠定九尾狐的原型
+    note: "最早记载九尾狐——青丘之山有兽焉，其状如狐而九尾，其音如婴儿，能食人；食者不蛊，奠定九尾狐的原型"
   - type: book
-    title: 玄中记
-    author: 郭璞
+    title: "玄中记"
+    author: "郭璞"
     year: 320
     language: zh
     location: 说狐条
     url: https://ctext.org/wiki.pl?if=gb&res=88976
     access: open
-    note: "东晋志怪，系统提出狐修炼年限说：'狐五十岁能变化为妇人，百岁为美女、为神巫……千岁即与天通，为天狐'——中国狐修理论的奠基文献"
+    note: "东晋志怪，系统提出狐修炼年限说：狐五十岁能变化为妇人，百岁为美女、为神巫……千岁即与天通，为天狐——中国狐修理论的奠基文献"
   - type: book
-    title: 搜神记
-    author: 干宝
+    title: "搜神记"
+    author: "干宝"
     year: 350
     language: zh
     location: 卷十八·阿紫等篇
     url: https://ctext.org/sou-shen-ji
     access: open
-    note: 东晋志怪，"阿紫"篇是中国文学史上第一篇完整的狐女化人叙事
+    note: "东晋志怪，阿紫篇是中国文学史上第一篇完整的狐女化人叙事"
   - type: book
-    title: 太平广记
-    author: 李昉等编
+    title: "太平广记"
+    author: "李昉等编"
     year: 978
     language: zh
     location: 卷四百四十七至四百五十五·狐部（共九卷）
     url: https://ctext.org/taiping-guangji
     access: open
-    note: 收录唐代及以前狐妖故事逾百篇，是中国狐妖文学最集中的一手资料集
+    note: "收录唐代及以前狐妖故事逾百篇，是中国狐妖文学最集中的一手资料集"
   - type: book
-    title: 聊斋志异
-    author: 蒲松龄
+    title: "聊斋志异"
+    author: "蒲松龄"
     year: 1679
     language: zh
     location: 婴宁、青凤、小翠、狐嫁女、辛十四娘、封三娘等数十篇
     url: https://ctext.org/library.pl?if=gb&file=78001
     access: open
-    note: 中国狐妖文学的巅峰。蒲松龄笔下狐女兼具人性、灵性与情义，重塑了狐妖的美学范式
+    note: "中国狐妖文学的巅峰。蒲松龄笔下狐女兼具人性、灵性与情义，重塑了狐妖的美学范式"
   - type: book
-    title: 阅微草堂笔记
-    author: 纪昀
+    title: "阅微草堂笔记"
+    author: "纪昀"
     year: 1798
     language: zh
     location: 全书五种笔记均有大量狐条
     url: https://ctext.org/wiki.pl?if=gb&res=670478
     access: open
-    note: 清代狐妖笔记的另一高峰，与聊斋并立——纪昀记录了大量华北民间狐仙信仰的活态案例，是狐仙从"文学"进入"民俗"的关键节点
+    note: "清代狐妖笔记的另一高峰，与聊斋并立——纪昀记录了大量华北民间狐仙信仰的活态案例，是狐仙从文学进入民俗的关键节点"
 
 secondary_sources:
   - type: book
-    title: 中国狐文化
-    author: 李剑国
+    title: "中国狐文化"
+    author: "李剑国"
     year: 2002
     language: zh
-    note: 南开大学教授，中国狐妖研究的集大成之作，梳理了从先秦到清末的完整脉络
+    note: "南开大学教授，中国狐妖研究的集大成之作，梳理了从先秦到清末的完整脉络"
   - type: book
     title: "Alien Kind: Foxes and Late Imperial Chinese Narrative"
-    author: Rania Huntington
+    author: "Rania Huntington"
     year: 2003
     language: en
-    note: 哈佛燕京学社出版，西方汉学界研究明清狐妖叙事的权威专著
+    note: "哈佛燕京学社出版，西方汉学界研究明清狐妖叙事的权威专著"
   - type: paper
     title: "从祥瑞到妖媚：九尾狐形象的历史流变"
-    author: 王青
+    author: "王青"
     year: 2003
     language: zh
-    note: 追溯九尾狐从汉代祥瑞到明代祸国符号的语义反转
+    note: "追溯九尾狐从汉代祥瑞到明代祸国符号的语义反转"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经》九尾狐）"
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 源头文本——中国狐妖形象的最早文献来自《山海经·南山经》青丘山九尾狐条
+    relation: "源头文本——中国狐妖形象的最早文献来自《山海经·南山经》青丘山九尾狐条"
   - entry_id: east-asian-fox-cult
-    relation: 母题伞形入口——本条是东亚狐信仰跨文化谱系的母体源头
+    relation: "母题伞形入口——本条是东亚狐信仰跨文化谱系的母体源头"
   - entry_id: tamamo-no-mae-japan
-    relation: 妓己故事的日本后传——中国九尾狐妓己叙事被日本文学直接接续，建构出同一只九尾狐穿越三国千年的史诗架构，是东亚妖怪叙事跨文化嵌接的极致案例
+    relation: "妓己故事的日本后传——中国九尾狐妓己叙事被日本文学直接接续，建构出同一只九尾狐穿越三国千年的史诗架构，是东亚妖怪叙事跨文化嵌接的极致案例"
   - entry_id: inari-kitsune-japan
-    relation: 中国狐妖东传日本后升格为神使——从"精怪修练"路径重构为"神明眷属"路径，完成从妖异到神圣的宗教定位反转
+    relation: "中国狐妖东传日本后升格为神使——从精怪修练路径重构为神明眷属路径，完成从妖异到神圣的宗教定位反转"
   - entry_id: gumiho-korea
-    relation: 中国狐妖西传朝鲜半岛后下沉为吐噬型妖异——保留"化美女惑男子"母题，但剥离了修炼成仙与情义色彩。中日韩三国狐信仰构成同一符号在不同文化中的三极分化
+    relation: "中国狐妖西传朝鲜半岛后下沉为吐噬型妖异——保留化美女惑男子母题，但剥离了修炼成仙与情义色彩。中日韩三国狐信仰构成同一符号在不同文化中的三极分化"
   - entry_id: shuigui-china
-    relation: 中国民间信仰内部对照——狐妖代表"精怪修炼"路径（动物→仙），水鬼代表"亡灵未解脱"路径（人→鬼），两者构成中国民间超自然存在的两大源流
+    relation: "中国民间信仰内部对照——狐妖代表精怪修炼路径（动物→仙），水鬼代表亡灵未解脱路径（人→鬼），两者构成中国民间超自然存在的两大源流"
 
 curator: hector
 review_status: draft

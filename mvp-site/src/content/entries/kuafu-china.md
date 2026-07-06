@@ -23,71 +23,71 @@ attributes: [巨人身量, 追日, 饮干河渭, 渴死途中, 手杖化桃林, 
 
 primary_sources:
   - type: book
-    title: 山海经·海外北经
-    author: 佚名（战国至汉初）
+    title: "山海经·海外北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷八·夸父与日逐走条
     url: https://ctext.org/shan-hai-jing/hai-wai-bei-jing
     access: open
-    note: "原文：'夸父与日逐走，入日；渴，欲得饮，饮于河、渭；河、渭不足，北饮大泽。未至，道渴而死。弃其杖，化为邓林。' 是夸父叙事最完整的一次记载"
+    note: "原文：夸父与日逐走，入日；渴，欲得饮，饮于河、渭；河、渭不足，北饮大泽。未至，道渴而死。弃其杖，化为邓林。 是夸父叙事最完整的一次记载"
   - type: book
-    title: 山海经·大荒北经
-    author: 佚名（战国至汉初）
+    title: "山海经·大荒北经"
+    author: "佚名（战国至汉初）"
     year: -300
     language: zh
     location: 卷十七·夸父不量力条
     url: https://ctext.org/shan-hai-jing/da-huang-bei-jing
     access: open
-    note: "'夸父不量力，欲追日景，逮之于禺谷。将饮河而不足也，将走大泽，未至，死于此。应龙已杀蚩尤，又杀夸父……' 提供了'夸父被应龙所杀'的另一版本，暗示夸父可能是黄帝-蚩尤大战中的失败方"
+    note: "夸父不量力，欲追日景，逮之于禺谷。将饮河而不足也，将走大泽，未至，死于此。应龙已杀蚩尤，又杀夸父…… 提供了夸父被应龙所杀的另一版本，暗示夸父可能是黄帝-蚩尤大战中的失败方"
   - type: book
-    title: 列子·汤问
-    author: 列御寇（辑）
+    title: "列子·汤问"
+    author: "列御寇（辑）"
     year: -400
     language: zh
     url: https://ctext.org/liezi/tang-wen
     access: open
     note: "列子中亦载夸父逐日，情节与山海经相合，是战国道家文献对该神话的独立引用"
   - type: book
-    title: 淮南子·地形训
-    author: 刘安等
+    title: "淮南子·地形训"
+    author: "刘安等"
     year: -139
     language: zh
     url: https://ctext.org/huainanzi/di-xing-xun
     access: open
-    note: 汉代对夸父传说的地理化整理，将"邓林"落实到具体方位
+    note: "汉代对夸父传说的地理化整理，将邓林落实到具体方位"
 
 secondary_sources:
   - type: book
-    title: 山海经校注
-    author: 袁珂
+    title: "山海经校注"
+    author: "袁珂"
     year: 1980
     language: zh
-    note: 袁珂详论"夸父"实为**上古巨人氏族名**（夸父族），而非单一人物——这是当代学界的主流观点
+    note: "袁珂详论夸父实为**上古巨人氏族名**（夸父族），而非单一人物——这是当代学界的主流观点"
   - type: book
-    title: 中国神话通论
-    author: 袁珂
+    title: "中国神话通论"
+    author: "袁珂"
     year: 1991
     language: zh
-    note: 袁珂将夸父定位为"悲剧英雄"的中国神话原型，与希腊神话中的普罗米修斯类比
+    note: "袁珂将夸父定位为悲剧英雄的中国神话原型，与希腊神话中的普罗米修斯类比"
   - type: paper
     title: "夸父神话的多重解读——从追日到部落战争"
-    author: 陈建宪
+    author: "陈建宪"
     year: 2003
     language: zh
-    note: 华中师范大学教授的重要论文，提出夸父可能是**上古北方部落联盟首领**，"逐日"实为部落西征的神话化记忆
+    note: "华中师范大学教授的重要论文，提出夸父可能是**上古北方部落联盟首领**，逐日实为部落西征的神话化记忆"
   - type: book
     title: "The Classic of Mountains and Seas"
-    author: Anne Birrell
+    author: "Anne Birrell"
     year: 1999
     language: en
-    note: 英文学界对夸父的标准翻译与阐释
+    note: "英文学界对夸父的标准翻译与阐释"
   - type: paper
     title: "The Chase of the Sun: Kua Fu in Comparative Perspective"
-    author: 收录于 Handbook of Chinese Mythology
+    author: "收录于 Handbook of Chinese Mythology"
     year: 2005
     language: en
-    note: 将夸父与全球其他"追日神话"（阿波罗、赫利俄斯、非洲某些创世神话）作比较研究
+    note: "将夸父与全球其他追日神话（阿波罗、赫利俄斯、非洲某些创世神话）作比较研究"
 
 confidence: attested
 first_recorded: "战国至汉初（《山海经·海外北经》）"
@@ -96,11 +96,11 @@ related_entries: [shan-hai-jing-bestiary]
 
 parallel_motifs:
   - entry_id: shan-hai-jing-bestiary
-    relation: 山海经母题伞形入口——夸父是中国上古"悲剧英雄"原型的最完整叙事
+    relation: "山海经母题伞形入口——夸父是中国上古悲剧英雄原型的最完整叙事"
   - entry_id: draugr-norse
-    relation: 跨文化——夸父与北欧巨人族（约顿）同属"人类文明前的失败巨人"叙事母题，均以毁灭告终却留下神圣遗产
+    relation: "跨文化——夸父与北欧巨人族（约顿）同属人类文明前的失败巨人叙事母题，均以毁灭告终却留下神圣遗产"
   - entry_id: xibalba-maya
-    relation: 与玛雅英雄双子挑战冥界的"英雄悲壮"母题遥相呼应，但夸父的悲剧是**孤身对抗自然极限**，双子则是**智谋战胜冥界**
+    relation: "与玛雅英雄双子挑战冥界的英雄悲壮母题遥相呼应，但夸父的悲剧是**孤身对抗自然极限**，双子则是**智谋战胜冥界**"
 
 curator: hector
 review_status: draft
