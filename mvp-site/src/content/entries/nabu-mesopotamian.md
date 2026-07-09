@@ -2,7 +2,7 @@
 id: nabu-mesopotamian
 name_primary: 那布 书写与智慧的传令神
 name_original: Nabû / 𒀭𒀝
-name_aliases: [Nabu, Nabû, 那布, 尼波(圣经Nebo), Borsippa主神, Marduk之子, 前身Nisaba/Nidaba, 圣经Nebuchadnezzar词源"Nabu守护我的儿子"]
+name_aliases: [Nabu, Nabû, 那布, 尼波(圣经Nebo), Borsippa主神, Marduk之子, 前身Nisaba/Nidaba, 圣经Nebuchadnezzar词源Nabu守护我的儿子]
 name_translations:
   zh: 那布 · 书写与智慧的传令神
   en: Nabu / God of Writing and Wisdom
@@ -21,7 +21,7 @@ geo_region: Borsippa(主圣城,现今Birs Nimrud)/Nineveh Nabu神庙/Kalhu
 
 summary: 巴比伦书写与智慧之神。Debourse (2022) 论其在最后楔形文化新年节的地位。Stevens (2014) 论Antiochus Cylinder中Nabu称号。Hunter (1998) 论Nabu-Nebo在Nebuchadnezzar之名与Isaiah中的批评。Stol (2015) 论苏美尔前身Nisaba女神被男化取代。
 
-attributes: [Marduk与Sarpanit之子, Tashmetu之夫, Borsippa主神, Ezida"真实之屋"神庙, 楔形文字发明者, 手持刀笔+泥板, 骑Mushussu翼龙, 命运板管理者, 巴比伦新年节Marduk的儿子代理, 圣经Nebo/Nabû, Nebuchadnezzar/Nabopolassar/Nabonidus等国王名的守护者, 前身女神Nisaba/Nidaba被男化]
+attributes: [Marduk与Sarpanit之子, Tashmetu之夫, Borsippa主神, Ezida真实之屋神庙, 楔形文字发明者, 手持刀笔+泥板, 骑Mushussu翼龙, 命运板管理者, 巴比伦新年节Marduk的儿子代理, 圣经Nebo/Nabû, Nebuchadnezzar/Nabopolassar/Nabonidus等国王名的守护者, 前身女神Nisaba/Nidaba被男化]
 
 primary_sources:
   - type: book

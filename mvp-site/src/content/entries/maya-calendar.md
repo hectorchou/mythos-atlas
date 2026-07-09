@@ -2,7 +2,7 @@
 id: maya-calendar
 name_primary: 玛雅历法体系
 name_original: Tzolk'in · Haab' · Long Count
-name_aliases: [Tzolk'in, Tzolkin, Haab, Long Count, Calendar Round, 卓尔金历, 哈布历, 长纪历]
+name_aliases: [Tzolkin, Tzolkin, Haab, Long Count, Calendar Round, 卓尔金历, 哈布历, 长纪历]
 name_translations:
   zh: 玛雅历法（卓尔金历/哈布历/长纪历）
   en: Maya Calendar System
@@ -20,7 +20,7 @@ geo_region: 中美洲文化圈全域（玛雅/Zapotec/Mixtec/阿兹特克共享�
 
 summary: 玛雅文明的三大历法系统——260日卓尔金圣历、365日哈布太阳历、长纪历（Long Count）宇宙周期，共同构成新大陆最精密的天文计时系统，长纪历的第13个巴克顿终结日（公元2012年12月21日）曾引发全球末日预言热潮，实际反映了玛雅对时间循环的深刻哲学。
 
-attributes: [卓尔金历260日, 哈布历365日, 历法轮52年, 长纪历5125.36年, 巴克顿=144000日, 十三层天与九层地, 时间循环观, 精确月食金星周期预测, 玛雅王朝纪年基础]
+attributes: [卓尔金历260日, 哈布历365日, 历法轮52年, 长纪历5125.36年, 巴克顿为144000日, 十三层天与九层地, 时间循环观, 精确月食金星周期预测, 玛雅王朝纪年基础]
 
 primary_sources:
   - type: archive

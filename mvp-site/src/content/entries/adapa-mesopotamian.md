@@ -20,7 +20,7 @@ geo_region: Eridu(Enki圣城)/天空之门Anu宫殿
 
 summary: 拒绝不朽的智者原型。Sazonov (2018) 专著奠基。Mazzinghi (2023) 论拥抱智慧却失去生命,与Genesis 1-3并读。Liverani (2004) 权威研究。Milstein (2015) 论Ea智慧意图。Shea (1977) 论Adapa与Adam比较。Assmann (1991) 德语论Zwitterwesen混合存在。
 
-attributes: [Eridu之王, Enki造Apkallū七贤者之一, 半神半人, 渔夫神匠, 洪水前时代, 折断南风翅膀, 被Anu召上天审判, Enki秘密指示"勿吃勿喝Anu给的", Anu给永生食物, Adapa拒绝, 失去人类永生机会, 苏美尔王表列洪水前贤者, 希腊化Oannes(Berossus记载)]
+attributes: [Eridu之王, Enki造Apkallū七贤者之一, 半神半人, 渔夫神匠, 洪水前时代, 折断南风翅膀, 被Anu召上天审判, Enki秘密指示勿吃勿喝Anu给的, Anu给永生食物, Adapa拒绝, 失去人类永生机会, 苏美尔王表列洪水前贤者, 希腊化Oannes(Berossus记载)]
 
 primary_sources:
   - type: book

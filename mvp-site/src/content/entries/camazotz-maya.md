@@ -21,7 +21,7 @@ geo_region: 中美洲文化圈 · 危地马拉/瓦哈卡/恰帕斯洞穴系统
 
 summary: 玛雅Xibalba冥界"蝙蝠屋"（Zotzilaha）的守护神，斩首双子英雄Hunahpu的巨型死亡蝙蝠，Zapotec文化中也是核心神明（Monte Albán城名意为"蝙蝠山"），是中美洲洞穴-冥界-死亡神学的核心，其血腥形象至今在恐怖文化中反复重生（吸血鬼原型之一）。
 
-attributes: [巨型蝙蝠形态, 剃刀般的翼与爪, 剃刀般的鼻子（可斩首）, 手持人头, 血腥红色标识, 居于Xibalba"蝙蝠屋"Zotzilaha, 与Zapotec蝙蝠神Piquete Ziña深层同源, 现代恐怖文化的重要原型]
+attributes: [巨型蝙蝠形态, 剃刀般的翼与爪, 剃刀般的鼻子（可斩首）, 手持人头, 血腥红色标识, 居于Xibalba蝙蝠屋Zotzilaha, 与Zapotec蝙蝠神Piquete Ziña深层同源, 现代恐怖文化的重要原型]
 
 primary_sources:
   - type: book

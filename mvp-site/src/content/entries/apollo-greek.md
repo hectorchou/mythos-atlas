@@ -21,7 +21,7 @@ geo_region: 希腊全域 · Delphi/Delos/Didyma/Claros
 
 summary: 希腊预言、音乐、治愈与瘟疫之神。Buhalis (2021) 概述其为Zeus与Leto之子，多领域复合神。Smogur (2023) 引Giangiulio讨论Delphi神谕去中心化视角。Sönmez (2021) 分析Apollo预言与音乐的深层关联--预言以音乐执行。Long (2018) 引Nietzsche分析Apollo/Dionysus二元。Delphi Pythia女祭司在狂喜中说出神谕。
 
-attributes: [Zeus与Leto之子, Artemis双胞胎兄, Delos出生, Delphi神谕中心, Pythia女祭司, 里拉琴lyre, 弓与箭Silver Bow, 音乐/预言/治愈/瘟疫复合神, Apollo Musagetes缪斯领袖, Apollo Pythios杀Python, Apollo/Dionysus二元(Nietzsche), 晚期太阳神化(=Helios), Delphic Maxims认识你自己]
+attributes: [Zeus与Leto之子, Artemis双胞胎兄, Delos出生, Delphi神谕中心, Pythia女祭司, 里拉琴lyre, 弓与箭Silver Bow, 音乐/预言/治愈/瘟疫复合神, Apollo Musagetes缪斯领袖, Apollo Pythios杀Python, Apollo/Dionysus二元(Nietzsche), 晚期太阳神化(为Helios), Delphic Maxims认识你自己]
 
 primary_sources:
   - type: paper

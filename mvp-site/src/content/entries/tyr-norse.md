@@ -21,7 +21,7 @@ geo_region: 北欧文化圈（原始日耳曼-印欧的最高神残余）
 
 summary: 北欧神话中主司法律、誓约、荣誉战争的独手神，为束缚巨狼Fenrir而将右手献入狼口，词源直接对应印欧最高神Dyeus（宙斯/朱庇特），是印欧原始最高神在北欧的降格残余，也是理解北欧神话如何从'天父主权'转变为'奥丁主权'的关键节点。
 
-attributes: [独手（右手被Fenrir咬断）, 主法律与誓约, 荣誉与勇气, 星期二守护神, 词源=印欧天父Dyeus, 决斗与正义战争, Ragnarök与冥犬Garmr同归于尽]
+attributes: [独手（右手被Fenrir咬断）, 主法律与誓约, 荣誉与勇气, 星期二守护神, 词源为印欧天父Dyeus, 决斗与正义战争, Ragnarök与冥犬Garmr同归于尽]
 
 primary_sources:
   - type: manuscript

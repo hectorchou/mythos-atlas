@@ -21,7 +21,7 @@ geo_region: 爱尔兰·苏格兰高地· Nova Scotia
 
 summary: 爱尔兰芬尼亚循环核心英雄。Hirt (2017) 是Fionn歌曲的历史与音乐学分析奠基作。Ní Mhurchú (2025) 分析芬尼亚循环中的非人类动物。Sumner (2015) 重新评估芬尼亚叙事语料库从7世纪至2000年。Kenna et al. (2023) 用网络科学分析芬尼亚叙事。Velasco López (2000) 将Fionn定位为warrior-seer。食智慧之鲑获预言力，领导Fianna勇士团，养魔法猎犬Bran与Sceolang。巨人堤道传说与其关联。儿子Oisín的Tír na nÓg叙事是异界时间扭曲母题的经典表达。
 
-attributes: [智慧之鲑Salmon of Knowledge, 拇指灼伤获预言力, 本名Demne后改名Fionn(白), Fianna勇士团首领, 魔法猎犬Bran与Sceolang, 巨人之堤Giant's Causeway, warrior-seer双重身份, 父Cumhall母Muirne, 师Finegas, 儿子Oisín诗人, Niamh与Tír na nÓg, Acallam na Senórach对话框架, 跨爱尔兰-苏格兰传统]
+attributes: [智慧之鲑Salmon of Knowledge, 拇指灼伤获预言力, 本名Demne后改名Fionn(白), Fianna勇士团首领, 魔法猎犬Bran与Sceolang, 巨人之堤Giants Causeway, warrior-seer双重身份, 父Cumhall母Muirne, 师Finegas, 儿子Oisín诗人, Niamh与Tír na nÓg, Acallam na Senórach对话框架, 跨爱尔兰-苏格兰传统]
 
 primary_sources:
   - type: book

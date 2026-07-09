@@ -21,7 +21,7 @@ geo_region: 爱尔兰全岛 · Kildare
 
 summary: 凯尔特火焰、诗歌与治愈三相女神。Assunção (2024) 记述其2月1日出生与Imbolc节。Tolen (2008) 分析其三相面向。Lubbe (2009) 研究Imbolc到St. Brigid的基督教化。Silva (2022) 分析其在Wicca中的治愈与转化之火。Crabtree (2023) 将其置于异教二元结构中。Kildare永恒圣火由19名修女守护至16世纪。从异教女神到基督教圣人的转化是凯尔特宗教史最完整的连续性案例。
 
-attributes: [三相女神(火/诗歌/治愈), 永恒圣火Kildare, Imbolc二月一日, 锻造与冶金, 圣布丽吉特Christianization, 19名修女守护圣火, 白牛与乳品关联, 春之前奏, 母亲艺人 patroness, 十字Brigid's Cross, Well崇拜, Brigidine修会, 从女神到圣人的连续性]
+attributes: [三相女神(火/诗歌/治愈), 永恒圣火Kildare, Imbolc二月一日, 锻造与冶金, 圣布丽吉特Christianization, 19名修女守护圣火, 白牛与乳品关联, 春之前奏, 母亲艺人 patroness, 十字Brigids Cross, Well崇拜, Brigidine修会, 从女神到圣人的连续性]
 
 primary_sources:
   - type: paper

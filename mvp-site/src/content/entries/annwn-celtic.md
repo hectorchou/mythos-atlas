@@ -21,7 +21,7 @@ geo_region: 威尔士 · Pembrokeshire/Dyfed
 
 summary: 威尔士凯尔特神话中的异界。Rees (2012) 是马比诺吉昂四大分支中Annwn研究的核心文献。Morgain提供Annwn词源：an(内)+dwfn(深)=极深之处。Anwyl (1969) 指出凯尔特人相信此世之下另有一世界。Mees & Nicholas (2012) 将Annwn与希腊冥界诅咒比较。Šebianová (2015) 用Lévi-Strauss结构主义分析第一分支。Annwn不是死后天堂而是与人间平行且可往返的超自然领域——时间扭曲、永恒春日、无需耕种的食物。Pwyll与Arawn的交换叙事是Annwn与人间交互的经典案例。
 
-attributes: [an+dwfn=极深处, 与人间平行可往返, 时间扭曲(百年如一日), 永恒春日, 无需耕种之食, Caer Sidi旋转城堡, Arawn之王, Pwyll交换叙事, Tylwyth Teg仙女居所, 金碗无尽之饮, mist雾中入口, water水中入口, hill仙丘入口, Preiddeu Annwfn亚瑟王掠夺]
+attributes: [an+dwfn为极深处, 与人间平行可往返, 时间扭曲(百年如一日), 永恒春日, 无需耕种之食, Caer Sidi旋转城堡, Arawn之王, Pwyll交换叙事, Tylwyth Teg仙女居所, 金碗无尽之饮, mist雾中入口, water水中入口, hill仙丘入口, Preiddeu Annwfn亚瑟王掠夺]
 
 primary_sources:
   - type: paper

@@ -2,7 +2,7 @@
 id: kawiil-maya
 name_primary: K'awiil 闪电神
 name_original: K'awiil / God K
-name_aliases: [God K, Bolon K'awiil, Unen K'awiil, Baby K'awiil, Manikin Scepter, 闪电王权之神, 火炬额神]
+name_aliases: [God K, Bolon Kawiil, Unen Kawiil, Baby Kawiil, Manikin Scepter, 闪电王权之神, 火炬额神]
 name_translations:
   zh: 卡维尔 · 闪电王权之神
   en: K'awiil / God K
@@ -21,7 +21,7 @@ geo_region: 中美洲文化圈 · 帕伦克/蒂卡尔/科潘/雅克西兰
 
 summary: 玛雅闪电神与王权象征，Schellhas分类God K。额头燃火炬、一足为蛇的独特形态。古典期玛雅国王即位仪式称为"接受K'awiil"（ch'am K'awiil）——K'awiil既是独立神祇，又是王权scepter的名称本身。Palenque Triad中GII身份的核心。是玛雅神学中"神即权力工具"这一独特概念的集中体现。
 
-attributes: [额头燃烧火炬, 一足为蛇, 王权scepter形态, 闪电=丰饶=王权三位一体, Bolon K'awiil九重形态, 蜈蚣关联, 婴儿形态Unen K'awiil, Palenque Triad GII, ch'am K'awiil即位仪式核心]
+attributes: [额头燃烧火炬, 一足为蛇, 王权scepter形态, 闪电为丰饶为王权三位一体, Bolon Kawiil九重形态, 蜈蚣关联, 婴儿形态Unen Kawiil, Palenque Triad GII, cham Kawiil即位仪式核心]
 
 primary_sources:
   - type: paper

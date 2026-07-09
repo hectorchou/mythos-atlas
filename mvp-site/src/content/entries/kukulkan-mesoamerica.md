@@ -2,7 +2,7 @@
 id: kukulkan-mesoamerica
 name_primary: 库库尔坎 / 羽蛇神
 name_original: Kʼukʼulkan / Gucumatz / Quetzalcōātl
-name_aliases: [Kukulkan, Gucumatz, Quetzalcoatl, Feathered Serpent, Plumed Serpent, Q'uq'umatz, Nine Wind, 羽蛇神]
+name_aliases: [Kukulkan, Gucumatz, Quetzalcoatl, Feathered Serpent, Plumed Serpent, Ququmatz, Nine Wind, 羽蛇神]
 name_translations:
   zh: 库库尔坎 / 古库马兹 / 羽蛇神
   en: Kukulkan / Feathered Serpent

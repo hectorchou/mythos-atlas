@@ -18,7 +18,7 @@ era: 最早文本记载可追溯至1550年代西班牙殖民时期，口传融�
 geo_region: 墨西哥全境，延伸至中美洲及美国西南部
 
 summary: 墨西哥最广为流传的民间女鬼传说——白衣女鬼夜巡水边，哀泣寻找她亲手杀害的孩子，遇见活人则可能将其掳走。
-attributes: [白衣白纱, 夜间水边出没, 哀哭"¡Ay, mis hijos!", 杀子者, 诱拐儿童, 与La Malinche形象关联]
+attributes: [白衣白纱, 夜间水边出没, 哀哭¡Ay, mis hijos!, 杀子者, 诱拐儿童, 与La Malinche形象关联]
 
 primary_sources:
   - type: manuscript

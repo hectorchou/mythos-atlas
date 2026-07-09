@@ -21,7 +21,7 @@ geo_region: 爱尔兰 · 大西洋以西/海底/仙丘
 
 summary: 爱尔兰凯尔特异界，意为Land of the Young。Butler (2015) 定义其为无病无老的光明天堂。Jacobs (2012) 指出Tuatha Dé Danann退入此界。Henmi (1997) 分析时间扭曲--异界3年=人间300年。Barbaro (2017) 将Oisín叙事与日本浦島太郎比较。与Annwn构成凯尔特双岛异界体系。
 
-attributes: [Land of the Young, 无病无老永恒青春, bright paradise, Tuatha Dé Danann退入之地, 时间扭曲(异界3年=人间300年), Oisín与Niamh叙事, 白马跨海, 触地衰老母题, 大西洋以西, 永恒春日, 无需耕种之食, 与Annwn威尔士异界对偶, Voyage of Bran航海叙事, Acallam na Senórach框架]
+attributes: [Land of the Young, 无病无老永恒青春, bright paradise, Tuatha Dé Danann退入之地, 时间扭曲(异界3年为人间300年), Oisín与Niamh叙事, 白马跨海, 触地衰老母题, 大西洋以西, 永恒春日, 无需耕种之食, 与Annwn威尔士异界对偶, Voyage of Bran航海叙事, Acallam na Senórach框架]
 
 primary_sources:
   - type: paper

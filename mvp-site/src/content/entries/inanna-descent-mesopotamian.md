@@ -2,7 +2,7 @@
 id: inanna-descent-mesopotamian
 name_primary: 伊南娜下冥府 死而复生原型
 name_original: Inanna's Descent / 𒀭𒈹𒆠𒂊𒉌𒂊𒀀
-name_aliases: [Inanna's Descent, Ishtar's Descent, 伊南娜下冥府, 伊什塔尔下冥府, 死而复生女神]
+name_aliases: [Inannas Descent, Ishtars Descent, 伊南娜下冥府, 伊什塔尔下冥府, 死而复生女神]
 name_translations:
   zh: 伊南娜下冥府 · 死而复生原型
   en: Inanna's Descent to the Netherworld

@@ -2,7 +2,7 @@
 id: ceiba-maya
 name_primary: 圣木棉 · 玛雅世界树
 name_original: Yaxche' / Wakah-Chan
-name_aliases: [Yaxche, Wakah-Chan, Wakah Chan Te', Ceiba Tree, World Tree, Kapok Tree, 玛雅世界树, 生命之树]
+name_aliases: [Yaxche, Wakah-Chan, Wakah Chan Te, Ceiba Tree, World Tree, Kapok Tree, 玛雅世界树, 生命之树]
 name_translations:
   zh: 圣木棉 / 玛雅世界树 / Yaxche
   en: Ceiba / Sacred World Tree

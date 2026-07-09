@@ -2,7 +2,7 @@
 id: beltane-celtic
 name_primary: 五朔节 夏之始火
 name_original: Beltane / Bealtaine / Beltaine
-name_aliases: [Beltane, Bealtaine, Beltaine, 五朔节, Cétshamhain, 夏之始火, May Day前驱, Bel's Fire, Calein Mai]
+name_aliases: [Beltane, Bealtaine, Beltaine, 五朔节, Cétshamhain, 夏之始火, May Day前驱, Bels Fire, Calein Mai]
 name_translations:
   zh: 五朔节 · 夏之始火
   en: Beltane / Festival of the Summer Beginning

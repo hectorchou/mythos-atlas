@@ -19,7 +19,7 @@ geo_region: 尼罗河下游(下埃及Memphis-Heliopolis)/尼罗河中游(上埃�
 
 summary: 埃及神话最具系统的三大宇宙起源纲领。Van Dijk (1995) Oxford奠基论述神话构造。Assmann (2001) 论一神论探索。Hart (2005) 神谱辞典。Lambert-Oshima风格的Lambert埃及学同侪Hornung与Assmann构建现代范式。三神学—Heliopolis(Atum九柱神)/Memphis(Ptah言语造物)/Thebes(Amun隐匿至高神)。
 
-attributes: [三大宇宙起源(Heliopolitan/Memphitic/Theban), 九柱神(Ennead:Atum-Shu-Tefnut-Geb-Nut-Osiris-Isis-Seth-Nephthys), 八神组(Ogdoad:Hermopolis四对原初力量), 神圣王权(Pharaoh为Horus地上化身), 太阳循环(Ra昼行夜穿冥界), Ma'at宇宙秩序原则, 死后审判与Duat冥府, 木乃伊化与灵魂五重结构(Ba/Ka/Akh/Ren/Shut), 象形文字作为神圣书写, 前3100年至公元394年菲莱神庙关闭四千年连续传统]
+attributes: [三大宇宙起源(Heliopolitan/Memphitic/Theban), 九柱神(Ennead:Atum-Shu-Tefnut-Geb-Nut-Osiris-Isis-Seth-Nephthys), 八神组(Ogdoad:Hermopolis四对原初力量), 神圣王权(Pharaoh为Horus地上化身), 太阳循环(Ra昼行夜穿冥界), Maat宇宙秩序原则, 死后审判与Duat冥府, 木乃伊化与灵魂五重结构(Ba/Ka/Akh/Ren/Shut), 象形文字作为神圣书写, 前3100年至公元394年菲莱神庙关闭四千年连续传统]
 
 primary_sources:
   - type: paper

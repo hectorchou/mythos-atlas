@@ -22,7 +22,7 @@ geo_region: 夏威夷群岛 · Makahiki节巡游路线 · 各岛农业神庙
 
 summary: 夏威夷农业与和平之神，四大神之一（Kane/Ku/Lono/Kanaloa）。在毛利对应Rongo——Rangi与Papa之子中的农业之神。Lono的核心制度是Makahiki节日——每年约4个月的和平季节，战事暂停，Lono神像巡游全岛征收贡品。Gill et al. (2015) 发现Makahiki与昴宿星团（Pleiades）的升起精确对应——天文-宗教-农业日历的三位一体。Lono与Cook船长的争议（Sahlins vs Obeyesekere）是20世纪人类学最著名的学术辩论之一——Cook是否被夏威夷人视为Lono化身？
 
-attributes: [Makahiki节日核心, 昴宿星团升起标志, 贡品征收巡游, 战争暂停制度, 农业丰收守护, 与Ku的季节性交替, Cook=Lono争议, 毛利Rongo对应, 雨水与云之神, 和平季节政治功能]
+attributes: [Makahiki节日核心, 昴宿星团升起标志, 贡品征收巡游, 战争暂停制度, 农业丰收守护, 与Ku的季节性交替, Cook为Lono争议, 毛利Rongo对应, 雨水与云之神, 和平季节政治功能]
 
 primary_sources:
   - type: book

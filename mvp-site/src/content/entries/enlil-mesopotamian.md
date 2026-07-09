@@ -2,7 +2,7 @@
 id: enlil-mesopotamian
 name_primary: 恩利尔 大气之主与命运之王
 name_original: Enlil / Ellil / 𒀭𒂗𒀸
-name_aliases: [Enlil, Ellil, 恩利尔, 苏美尔至高神, Kur-gal(大山), Illil, Bel(晚期阿卡德"主"), Nippur主神]
+name_aliases: [Enlil, Ellil, 恩利尔, 苏美尔至高神, Kur-gal(大山), Illil, Bel(晚期阿卡德主), Nippur主神]
 name_translations:
   zh: 恩利尔 · 大气之主与命运之王
   en: Enlil / Lord of Air and Destiny
@@ -21,7 +21,7 @@ geo_region: Nippur(Enlil圣城,苏美尔宗教中心)/Ekur神庙
 
 summary: 苏美尔至高神与命运之主。Espak (2015) 论Enlil在诸神会议中的核心地位。Flynn (2012) 论其与YHWH王权神学的比较。Corrente (2012) 西班牙语综合Enlil-Ninlil神话。Behrens (1980) 德语奠基Enlil与Ninlil神话。Mackenzie (1915) 早期综述'雾之主/权力之主'词源。Maier (2018) 论Nippur作为苏美尔宗教中心。Romain (2019) 论Nanna归Nippur的月神仪式与Enlil地位。Shehata (2009) 论Nippur音乐仪式。
 
-attributes: [Anu之子, Ninlil之夫, Ninurta/Nanna之父, Nippur主神, Ekur"山之屋"主庙, 命运板持有者(前期), 大气与风之神, 决定诸神与人类命运, Enlil强奸Ninlil传说, 洪水决策发起者, 后被Marduk/Ashur取代, Bel"主"晚期通称]
+attributes: [Anu之子, Ninlil之夫, Ninurta/Nanna之父, Nippur主神, Ekur山之屋主庙, 命运板持有者(前期), 大气与风之神, 决定诸神与人类命运, Enlil强奸Ninlil传说, 洪水决策发起者, 后被Marduk/Ashur取代, Bel主晚期通称]
 
 primary_sources:
   - type: book

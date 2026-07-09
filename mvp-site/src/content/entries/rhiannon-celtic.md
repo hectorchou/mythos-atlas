@@ -21,7 +21,7 @@ geo_region: 威尔士 · Dyfed/Arberth
 
 summary: 马比诺吉昂第一分支核心女性角色。Anwyl (1901/2019) 系统分析Rhiannon-cycle。Morgain 将其定位为woman of power。French (1990) 分析其性别角色。Rodway (2018) 将其置于马比诺吉昂中凯尔特神话的阴影中。名字Rigantona意为Great Queen（大女王）--与高卢Epona（马神）可能同源。骑白马缓缓而行无人能追上，与Pwyll相遇结婚，被诬杀子后受罚背人入城如马，后洗清冤屈。鸟之歌使时间停滞。是威尔士传统中最核心的sovereignty goddess。
 
-attributes: [Rigantona=Great Queen, 白马缓缓不可追, 与Pwyll相遇Arberth, Pryderi之母, 被诬杀子, 背人如马惩罚, 洗清冤屈, 鸟之歌Bird Song时间停滞, Epona高卢马神关联, sovereignty goddess, 马比诺吉昂第一分支核心, Annwn关联(Arawn王国边缘), 七年退隐]
+attributes: [Rigantona为Great Queen, 白马缓缓不可追, 与Pwyll相遇Arberth, Pryderi之母, 被诬杀子, 背人如马惩罚, 洗清冤屈, 鸟之歌Bird Song时间停滞, Epona高卢马神关联, sovereignty goddess, 马比诺吉昂第一分支核心, Annwn关联(Arawn王国边缘), 七年退隐]
 
 primary_sources:
   - type: paper

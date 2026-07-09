@@ -2,7 +2,7 @@
 id: dumuzi-tammuz-mesopotamian
 name_primary: 杜穆兹与搭模斯 死而复生的牧羊神
 name_original: Dumuzi / Tammuz / 𒀭𒌉𒍣
-name_aliases: [Dumuzi, Tammuz, 杜穆兹, 搭模斯, 苏美尔Dumuzi("忠子"), 阿卡德Tammuz, 希伯来搭模斯, 希腊Adonis前身, 波斯Siyavush同源]
+name_aliases: [Dumuzi, Tammuz, 杜穆兹, 搭模斯, 苏美尔Dumuzi(忠子), 阿卡德Tammuz, 希伯来搭模斯, 希腊Adonis前身, 波斯Siyavush同源]
 name_translations:
   zh: 杜穆兹与搭模斯 · 死而复生的牧羊神
   en: Dumuzi / Tammuz / Dying and Rising Shepherd God

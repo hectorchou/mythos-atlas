@@ -2,7 +2,7 @@
 id: erra-ishum-mesopotamian
 name_primary: 埃拉与伊舜 破坏之诗与夜之守望者
 name_original: Erra and Išum / 𒀭𒀲𒀲
-name_aliases: [Erra, Ishum, Išum, 埃拉, 伊舜, 战神+瘟疫神, 夜巡守望者, Šubu-Erra ('伟大的Erra')]
+name_aliases: [Erra, Ishum, Išum, 埃拉, 伊舜, 战神+瘟疫神, 夜巡守望者, Šubu-Erra (伟大的Erra)]
 name_translations:
   zh: 埃拉与伊舜 · 破坏之诗与夜之守望者
   en: Erra and Ishum / The Song of Destruction
@@ -21,7 +21,7 @@ geo_region: Babylon/Uruk/Kish/Der/Sippar/大苏美尔全域
 
 summary: 巴比伦晚期破坏史诗与政治文学奠基作。George (2013)《The Poem of Erra and Ishum》权威译本与评论。Wisnom (2019) 系统研究其与Anzu、Enuma Elish的互文性。Bodi (1991) 论其对《以西结书》的直接影响。George (2015) 论Išum作为夜之守望者与街灯神。Taylor (2017) 综合宗教文学比较分析。是美索不达米亚最后一部大史诗，反映巴比伦帝国衰落焦虑。
 
-attributes: [Kabti-ilani-Marduk自称是先知,史诗透过梦启示, Erra=战神+瘟疫神, Išum=夜守望者+街灯神+火神, 七名武士Sebitti伴Erra, Marduk暂离王座, Erra席位代理毁灭Babylon, Uruk/Kish/Der/Sippar依次陷落, Išum劝阻Erra停止破坏, Erra平静后恢复秩序, 结尾祝福反复念此史诗者免灾, 前8世纪Kabti-ilani-Marduk署名]
+attributes: [Kabti-ilani-Marduk自称是先知,史诗透过梦启示, Erra为战神+瘟疫神, Išum为夜守望者+街灯神+火神, 七名武士Sebitti伴Erra, Marduk暂离王座, Erra席位代理毁灭Babylon, Uruk/Kish/Der/Sippar依次陷落, Išum劝阻Erra停止破坏, Erra平静后恢复秩序, 结尾祝福反复念此史诗者免灾, 前8世纪Kabti-ilani-Marduk署名]
 
 primary_sources:
   - type: book

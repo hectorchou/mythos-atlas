@@ -2,7 +2,7 @@
 id: hina-polynesia
 name_primary: Hina 月亮女神
 name_original: Hina / Sina / Hina-uri
-name_aliases: [Hina, Sina, Hina-uri, Hina-te-iwa, Hina-ahu-one, Hina-puku-i'a, Ina, Hina-the-Tapa-Beater, 月之女, 树皮布之母]
+name_aliases: [Hina, Sina, Hina-uri, Hina-te-iwa, Hina-ahu-one, Hina-puku-ia, Ina, Hina-the-Tapa-Beater, 月之女, 树皮布之母]
 name_translations:
   zh: 希娜 · 月亮女神
   en: Hina / Moon Goddess

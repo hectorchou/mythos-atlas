@@ -2,7 +2,7 @@
 id: huracan-maya
 name_primary: 胡拉坎
 name_original: Juraqan
-name_aliases: [Huracán, Hurakan, Heart of Sky, Corazón del Cielo, U-K'ux Kaj, One Leg]
+name_aliases: [Huracán, Hurakan, Heart of Sky, Corazón del Cielo, U-Kux Kaj, One Leg]
 name_translations:
   zh: 胡拉坎 · 心之天神
   en: Huracán / Heart of Sky
@@ -21,7 +21,7 @@ geo_region: 中美洲文化圈 · 天空
 
 summary: 基切玛雅《波波尔·乌》中'心之天神'的三位一体创造者神格，掌管风暴、闪电与创世改造，是四次创世中降下大洪水毁灭木人的执行者，也是英语'hurricane（飓风）'一词的直接词源——一个玛雅神明的名字进入了全球日常语言。
 
-attributes: [独腿, 三位一体, Kaqulja Juraqan闪电胡拉坎, Ch'ipi Kaqulja新生闪电, Raxa Kaqulja雷霆闪电, 降下大洪水, 与Gucumatz共同创世, 词源→英语hurricane]
+attributes: [独腿, 三位一体, Kaqulja Juraqan闪电胡拉坎, Chipi Kaqulja新生闪电, Raxa Kaqulja雷霆闪电, 降下大洪水, 与Gucumatz共同创世, 词源→英语hurricane]
 
 primary_sources:
   - type: book

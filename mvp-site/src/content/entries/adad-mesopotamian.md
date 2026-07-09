@@ -2,7 +2,7 @@
 id: adad-mesopotamian
 name_primary: 阿达德 风暴与雷电之神
 name_original: Adad / Iškur / 𒀭𒅎
-name_aliases: [Adad, Hadad, Ishkur, Iškur, 阿达德, 哈达, 迦南Hadad, Ba'al-Hadad, Ramman, 雷神]
+name_aliases: [Adad, Hadad, Ishkur, Iškur, 阿达德, 哈达, 迦南Hadad, Baal-Hadad, Ramman, 雷神]
 name_translations:
   zh: 阿达德 · 风暴与雷电之神
   en: Adad / Storm and Thunder God
@@ -21,7 +21,7 @@ geo_region: Aleppo(叙利亚Hadad圣城)/Assur/Kurba'il/Babylon Ishtar Gate
 
 summary: 美索不达米亚风暴与雷电之神。Roberts (2012) 论其与地震的关联。Ornan (2005) 论其视觉符号狮龙+闪电+公牛。van Dijk-Coombes (2018) 论其与公牛意象的关联。Pongratz-Leisten (2011) 论其在亚述帝国政治宗教中的角色。Grobler (2015) 论象牙工艺中的Adad图像学。是圣经Hadad-Rimmon与迦南Ba'al的源头。
 
-attributes: [苏美尔Iškur/阿卡德Adad/迦南Hadad, Anu之子(一说Enlil之子), 分叉闪电bolt, 公牛象征, 狮龙坐骑, Aleppo圣城, Ishtar Gate黄金浮雕之一, 风暴+雷电+暴雨+洪水+地震, Assyria帝国神, 与Ashur合流, 圣经Hadad-Rimmon源头, 迦南Ba'al原型]
+attributes: [苏美尔Iškur/阿卡德Adad/迦南Hadad, Anu之子(一说Enlil之子), 分叉闪电bolt, 公牛象征, 狮龙坐骑, Aleppo圣城, Ishtar Gate黄金浮雕之一, 风暴+雷电+暴雨+洪水+地震, Assyria帝国神, 与Ashur合流, 圣经Hadad-Rimmon源头, 迦南Baal原型]
 
 primary_sources:
   - type: paper

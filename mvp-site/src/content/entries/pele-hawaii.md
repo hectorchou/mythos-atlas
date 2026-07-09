@@ -20,7 +20,7 @@ geo_region: 夏威夷大岛（Hawaii Island）/ 基拉韦厄火山（Kilauea）/
 
 summary: 夏威夷火山女神，居住在基拉韦厄火山的Halemaumau火山口中。Pele既是毁灭者也是创造者——她的岩浆摧毁一切但同时也创造新的土地。她是夏威夷神话中最具个性的神祇，以激情/嫉妒/报复和慷慨/创造的双重性格著称。与妹妹Hi'iaka的叙事是波利尼西亚最长的连续史诗之一（Emerson 1915 记录的Pele and Hi'iaka cycle）。Pele崇拜至今活态延续——夏威夷原住民在火山喷发时向Pele献祭，是当代原住民信仰与地质科学共存的核心个案。
 
-attributes: [Halemaumau火山口居住, 岩浆=毁灭与创造双重性, 与妹妹Hiiaka的史诗循环, 激情嫉妒报复性格, 从塔希提航行至夏威夷的迁徙叙事, 红色Pohaku石头献祭, 白狗形态, 与雪神Poliahu的对抗, 当代活态信仰延续, 地质学与神话的共存]
+attributes: [Halemaumau火山口居住, 岩浆为毁灭与创造双重性, 与妹妹Hiiaka的史诗循环, 激情嫉妒报复性格, 从塔希提航行至夏威夷的迁徙叙事, 红色Pohaku石头献祭, 白狗形态, 与雪神Poliahu的对抗, 当代活态信仰延续, 地质学与神话的共存]
 
 primary_sources:
   - type: book

@@ -2,7 +2,7 @@
 id: change-china
 name_primary: 嫦娥
 name_original: 嫦娥 / 姮娥
-name_aliases: [姮娥, 恒娥, 常娥, Chang'e]
+name_aliases: [姮娥, 恒娥, 常娥, Change]
 name_translations:
   zh: 嫦娥
   en: Chang'e / Moon Goddess

@@ -21,7 +21,7 @@ geo_region: 印度河-恒河流域/伊朗Avesta同源变体/东亚佛教扩散
 
 summary: 吠陀宇宙律法与誓约之神。Macdonell (1897) 论Varuna作为rta秩序的最高守护。Heckaman论rta概念。Kuiper论Varuna作为原初asura。Debroy论其与Mitra对偶的Mitra-Varuna二神组。吠陀早期至高神,与Mitra共统rta,后被Indra取代。持pasha绳索捆恶人,千眼监视,与埃及Ma'at/巴比伦kittu-mīšaru对偶。伊朗Ahura Mazda可能同源。
 
-attributes: [吠陀早期至高神(前1500-1200年), rta宇宙秩序守护者, Mitra-Varuna二神组(誓约+律法), 持pasha绳索(捆缚违约者), 千眼监视一切, 骑Makara海怪(后期), 阿修罗Asura(吠陀早期正面义,不同于印度教恶魔), 与月神Soma关联(月亮是Varuna之眼), 后期降为水神(佛教水天), 与伊朗Ahura Mazda可能同源, 与埃及Ma'at/美索kittu-mīšaru对偶]
+attributes: [吠陀早期至高神(前1500-1200年), rta宇宙秩序守护者, Mitra-Varuna二神组(誓约+律法), 持pasha绳索(捆缚违约者), 千眼监视一切, 骑Makara海怪(后期), 阿修罗Asura(吠陀早期正面义,不同于印度教恶魔), 与月神Soma关联(月亮是Varuna之眼), 后期降为水神(佛教水天), 与伊朗Ahura Mazda可能同源, 与埃及Maat/美索kittu-mīšaru对偶]
 
 primary_sources:
   - type: book
