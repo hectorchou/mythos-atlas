@@ -65,6 +65,14 @@ primary_sources:
     access: open
     note: "Souza & Klingbeil论美索不达米亚父神图像。Enki出生于天神与Nammu(海洋)的性关系--父性作为宇宙起源"
   - type: book
+    title: "Ancient Mesopotamian Religion and Mythology (Lambert collected essays)"
+    author: "W.G. Lambert, ed. Takayoshi Oshima"
+    year: 2021
+    language: en
+    url: https://doi.org/10.1628/978-3-16-160604-5
+    access: paywall
+    note: "Lambert一生亚述学论文集成(Oshima编),Mohr Siebeck出版。含An/Anu宇宙起源与神谱重构,亚述学前沿奠基参考集"
+  - type: book
     title: "Myths of Babylonia and Assyria (An etymology)"
     author: "Donald A. Mackenzie"
     year: 1915

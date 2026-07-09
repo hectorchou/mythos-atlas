@@ -73,6 +73,22 @@ primary_sources:
     access: open
     note: "Nooraddin论美索不达米亚建筑与政治权利。王有权建造大型城门与神庙,建筑是王权的物质纲领"
   - type: paper
+    title: "An archaeomagnetic study of the Ishtar Gate, Babylon"
+    author: "Anita Di Chiara, Lisa Tauxe, Helen Gries, Barbara Helwing, Matthew D. Howland, Erez Ben-Yosef"
+    year: 2024
+    language: en
+    url: https://doi.org/10.1371/journal.pone.0293014
+    access: open
+    note: "Di Chiara et al. 2024 PLOS ONE最新考古磁学研究。通过琉璃砖磁性重构烧制年代与地磁场,精确校正Nebuchadnezzar II建造年代。Allouf-Gries-Radujkovic琉璃研究亦被引"
+  - type: paper
+    title: "A Study of the Composition of Nebuchadnezzar II Royal Inscriptions"
+    author: "Peerapat Ouysook"
+    year: 2021
+    language: en
+    url: https://doi.org/10.17863/CAM.77295
+    access: open
+    note: "Ouysook 2021剑桥博士论文。系统研究Nebuchadnezzar II王室铭文,揭示Marduk-Nabu-Nergal是新巴比伦期最重要三神,与Ishtar Gate视觉纲领形成对话"
+  - type: paper
     title: "The Tower of Babel Revisited (Neo-Babylonian architecture and Ishtar Gate)"
     author: "Mohammadreza Karimi"
     year: 2019

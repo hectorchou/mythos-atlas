@@ -81,6 +81,22 @@ primary_sources:
     access: open
     note: "Maier 2018论古巴比伦Atrahasis与苏美尔Ziusudra传统的关系。两个传统并行独立发展,后被融合"
   - type: paper
+    title: "古代两河流域洪水故事传统及其流变"
+    author: "陈飞"
+    year: 2025
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper/chenfei-liuhe-2025
+    access: open
+    note: "陈飞 2025最新中文综述。系统论证Ziusudra洪水故事可能早在前3千纪已出现,Atrahasis与Utnapishtim则在古巴比伦时期先后出现。三代流变的最新中文学术重构"
+  - type: paper
+    title: "From Cuneiform Texts to Ancient Authors: Berossos (Berossos and Xisouthros)"
+    author: "Ercüment Yıldırım"
+    year: 2022
+    language: en
+    url: https://doi.org/10.48122/amisos.1119199
+    access: open
+    note: "Yıldırım 2022土耳其学者论文。系统重构Berossos将Utnapishtim/Ziusudra希腊化为Xisouthros的传承,以及正典典故诖释史"
+  - type: paper
     title: "Folk Motifs of the Flood in Turkish and Near Eastern Traditions"
     author: "Ayşe Kızılöz"
     year: 2020

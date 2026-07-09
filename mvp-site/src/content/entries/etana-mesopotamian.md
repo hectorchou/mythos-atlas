@@ -71,6 +71,14 @@ primary_sources:
     url: https://archive.org/details/etana-legend
     access: open
     note: "Sayce早期综述Etana传说。首批将楔形文字残片重构为连贯叙事的英语学者"
+  - type: paper
+    title: "Visions of Gods and Monsters: Levantine and Mesopotamian Iconographies of Divine Combat"
+    author: "Madadh Pyrene Richey"
+    year: 2019
+    language: en
+    url: https://doi.org/10.6082/UCHICAGO.1955
+    access: open
+    note: "Richey 2019芝加哥大学博士论文。神战图像学谱系,含Etana骑鹰-鹰蛇之战的Levant-Mesopotamian视觉传承"
   - type: book
     title: "神话史论(鹰蛇二元结构)"
     author: "朱大可"
