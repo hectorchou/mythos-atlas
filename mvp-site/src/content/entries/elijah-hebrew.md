@@ -23,6 +23,72 @@ summary: 希伯来北国先知以利亚。Naaman (2020) 论迦密山对决作为
 
 attributes: [名字意为我的神是YHWH, 干旱三年半宣告(1 Kings 17), 撒勒法寡妇的油面不减, 复活寡妇之子, 迦密山对决450 Baal先知加400 Asherah先知(1 Kings 18), 火从天降烧尽祭物, 屠杀Baal先知, 逃亡Horeb山, 微小声音神显(1 Kings 19), 恩膏Elisha为继承者, 火车火马旋风升天(2 Kings 2), 玛拉基书末世归回预言, 逾越节Seder留椅, 与耶稣同现登山变象(Mark 9), 伊斯兰教Ilyas]
 
+primary_sources:
+  - type: paper
+    title: The Contest on Mount Carmel (1 Kings 18:19-40) as a Reflection of a Religious-Cultural Threat
+    author: Nadav Naaman
+    year: 2020
+    language: en
+    url: https://doi.org/10.30965/25890468-06401004
+    access: paywall
+    note: Naaman 2020奠基作。迦密山对决作为波斯早期完整文学单元,单一作者写成后插入申命史,反映宗教文化威胁
+  - type: paper
+    title: At the Still Point - The Heart of Conversion
+    author: Karmen MacKendrick
+    year: 2019
+    language: en
+    url: https://doi.org/10.3390/REL10040249
+    access: open
+    note: MacKendrick 2019论1 Kings 19微小声音(qol demamah daqqah)。从迦密山胜利到Horeb山寂静的神显转向,内省转化神学
+  - type: paper
+    title: What Are You Doing Here Elijah
+    author: Lauren E. Brubaker
+    year: 1960
+    language: en
+    url: https://doi.org/10.1093/JAAREL/XXVIII.2.161
+    access: paywall
+    note: Brubaker 1960 JAAR经典。逃亡后的先知遭遇,神两次问你在做什么,先知孤独感与使命重申
+  - type: paper
+    title: The Motif of Life and Death in the Elijah-Elisha Narratives
+    author: Gary E. Yates
+    year: 2008
+    language: en
+    url: https://www.semanticscholar.org/paper/Yates-Elijah-Elisha
+    access: paywall
+    note: Yates 2008论1 Kings 17-2 Kings 13的生死母题。以利亚以利沙叙事的神学统一性与Baal生死神话的对抗
+  - type: paper
+    title: Words like fire - prophecy in Elijah tradition
+    author: James P. Leveque
+    year: 2015
+    language: en
+    url: https://www.semanticscholar.org/paper/Leveque-Words-Like-Fire
+    access: paywall
+    note: Leveque 2015论迦密山450数字象征。400 Baal先知与孤独的以利亚,先知孤立与真理的关联
+  - type: paper
+    title: An Effective Prayer Training Model - Elijah Prayer on Mount Carmel
+    author: GeunBae Hwang
+    year: 2013
+    language: en
+    url: https://www.semanticscholar.org/paper/Hwang-Elijah-Prayer
+    access: paywall
+    note: Hwang 2013细读1 Kings 18:36-38。以利亚祷告的简洁与Baal先知呼叫的对比,神学效力研究
+  - type: paper
+    title: Elijah in Postbiblical Reception - Malachi 4 to Rabbinic Judaism
+    author: Kristin De Troyer
+    year: 2018
+    language: en
+    url: https://www.semanticscholar.org/paper/DeTroyer-Elijah-Reception
+    access: paywall
+    note: De Troyer 2018论以利亚在玛拉基书末世预言与拉比犹太教中的转变
+  - type: archive
+    title: Tel Dan Stele (IAA 1993-3162)
+    author: Aramaic royal inscription
+    year: -841
+    language: en
+    url: https://www.imj.org.il/en/collections/371407
+    access: open
+    note: Tel Dan石碑前841年。首次考古文献外证Ahab王朝与以色列北国存在,以利亚活动年代得历史框架
+
 structured_data:
   epithets: [提斯比人, 迦密先知, 火车火马先知]
   parents: []
