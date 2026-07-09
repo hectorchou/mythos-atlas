@@ -1,4 +1,5 @@
 ---
+
 id: lugh-celtic
 name_primary: 鲁格 全技艺之神
 name_original: Lugh / Lúgh / Lugus / Lleu Llaw Gyffes
@@ -88,111 +89,12 @@ academic_insight: |
   Hily (2007) 是Lugus研究的奠基性著作——系统分析Lugus在三个凯尔特文化区域的不同面貌：
 
   | 区域 | 名号 | 面貌 |
-  |------|------|------|
-  | 爱尔兰 | Lugh | 全技艺英雄，Tuatha Dé Danann之王 |
-  | 威尔士 | Lleu Llaw Gyffes | 巧手Lleu，马比诺吉昂第四分支主角 |
-  | 高卢/大陆 | Lugus | 铭文记载的神名，与罗马Mercury融合 |
-
-  Hily指出Lugus是前基督教凯尔特宗教中最复杂的人物——功能众多到无法归入任何单一类别。三地面貌的差异不是"同一神的不同版本"而是"同一神性原则在不同文化语境中的表达"。
-
-  **极光与领土**。Hily (2009) 揭示了一个被忽视的维度——Lugus与极光（aurore boréale）的关联及其在领土组织中的角色。Lugh的光不仅是太阳光而是极光——一种变幻莫测的、与地理空间关联的光。这一发现将Lugh从"太阳神"的简单定位解放出来，重新定位为"光与空间的神圣化"。
-
-  **三功能全能神**。在Dumézil的印欧三功能系统中，Lugh是罕见的同时具备三重功能的全能神：
-
-  | 功能 | Lugh的体现 |
-  |------|-----------|
-  | 第一功能（祭司/主权） | 诗歌/魔法/医术 |
-  | 第二功能（武力） | 投石击杀Balor/战时领袖 |
-  | 第三功能（丰饶） | 农耕技艺/Lughnasadh丰收节 |
-
-  Yoshida (1977) 将日本神祇归入同一三功能系统——建御雷神为第二功能(martial)。Lugh的不同之处在于他**同时**占据三个功能位——这使他在凯尔特万神殿中具有独一无二的地位。
-
-  **网络分析中的核心地位**。Fumanal-Idocin et al. (2021) 的网络分析证实——Lugh在凯尔特神话的社会网络中具有最高的语义亲和值。"Lugh"与"Danaans"和"Stone"构成最强关联——这一定量结果支持Hily的定性分析：Lugh是凯尔特神话网络的中心节点。
-
-evolution_timeline:
-  - period: 铁器时代
-    event: "高卢Lugus铭文——大陆凯尔特对Lugus的崇拜。与罗马Mercury融合"
-  - period: 罗马时代
-    event: "Lugdunum（今里昂）以Lugus命名——城市命名中的神名痕迹"
-  - period: 9世纪
-    event: "Cath Maige Tuired文本——Lugh击杀Balor的完整叙事"
-  - period: 11世纪
-    event: "Lebor Gabála Érenn定本——Lugh作为Tuatha Dé Danann之王的系统化"
-  - period: 11-13世纪
-    event: "马比诺吉昂第四分支——Lleu Llaw Gyffes的威尔士叙事"
-  - period: 2007-2021
-    event: "Hily (2007/2009) Lugus三地比较与极光分析。Fumanal-Idocin (2021) 网络量化"
-
+  |
 confidence: documented
+created_at: "2026-07-07"
+updated_at: "2026-07-07"
 curator: hector
 review_status: draft
 llm_assisted: true
-created_at: "2026-07-07"
-updated_at: "2026-07-07"
 ---
 
-## 鲁格：全技艺之神、三功能全能者
-
-### 名号与词源
-
-**鲁格**（Lugh / Lugus）——词根*leug-（发光/闪烁）。爱尔兰Lugh、威尔士Lleu Llaw Gyffes（巧手Lleu）、高卢Lugus为同一神性原则在三地的表达。绰号Samildánach（全技艺者）——simultaneously（同时）+dán（技艺/才能）。另一绰号Lámhfhada（长臂者）——指其投石击杀Balor时使用的投掷臂。
-
-### 全技艺者：进入Tara
-
-Lugh到达Tara（Tuatha Dé Danann的统治中心）时，守门人拒绝他进入——除非他拥有一技之长。Lugh逐一展示：
-
-| 技艺 | 守门人回应 |
-|------|-----------|
-| 木工 | "我们已有" |
-| 冶金 | "我们已有" |
-| 诗歌 | "我们已有" |
-| 魔法 | "我们已有" |
-| 医术 | "我们已有" |
-| 音乐 | "我们已有" |
-| 棋艺 | "我们已有" |
-| 锻造 | "我们已有" |
-
-Lugh问："你们是否有一人**同时**掌握所有这些技艺？"守门人沉默。Lugh被获准进入——并很快成为Tuatha Dé Danann的战时领袖。
-
-这一叙事的核心不在于Lugh掌握某一技艺——而在于他掌握**全部**技艺。Samildánach的"全"不是量的叠加而是质的跨越——全技艺者超越任何单一功能的局限。
-
-### 击杀Balor
-
-第二次Moytura战役的高潮——Lugh用投石击杀Fomorians首领Balor的独眼：
-
-1. **Balor的独眼**——睁开时毁灭一切所见之物
-2. **预言**——Balor将被自己的孙子杀死
-3. **Lugh的身份**——Balor女儿Ethniu之子，Balor的外孙
-4. **投石**——Lugh用投石器将石块射入Balor独眼
-5. **预言应验**——Balor倒下，Fomorians溃败
-
-这一叙事实现了"弑亲预言"母题——与北欧Odin-Baldr、希腊Zeus-Kronos的预言-弑亲结构平行。
-
-### 三功能全能神
-
-在Dumézil的印欧三功能系统中，Lugh同时占据三个功能位：
-
-- **第一功能（祭司/主权）**——诗歌、魔法、医术
-- **第二功能（武力）**——投石击杀Balor、战时领袖
-- **第三功能（丰饶）**——农耕技艺、Lughnasadh丰收节
-
-大多数印欧神祇仅占据一个功能位——Thor为第二功能，Freyr为第三功能。Lugh的三功能全能性在印欧万神殿中极为罕见——唯一可比较的是北欧Odin（兼具第一和第二功能）。
-
-### Lughnasadh：丰收节
-
-Lughnasadh（8月1日）是凯尔特四大节日之一，以Lugh命名——Lugh为养母Tailtiu举办葬礼运动会而设立。Tailtiu为开垦爱尔兰农田而精疲力竭而死——Lughnasadh既是丰收庆典也是对土地之母的哀悼。
-
-四大凯尔特节日中，Lughnasadh是唯一以神名命名的——这一定位暗示Lugh与农业丰饶的深层关联。
-
-### 威尔士对应：Lleu Llaw Gyffes
-
-马比诺吉昂第四分支（Math fab Mathonwy）叙述Lleu Llaw Gyffes的传奇——Lleu是Lugh的威尔士对应：
-
-- **出生**——由Gwydion用魔法孕育
-- **命名**——受诅咒不得取名，Gwydion以诡计绕过诅咒
-- **武装**——受诅咒不得持武器，Gwydion以诡计绕过
-- **妻子**——受诅咒不得娶人类女子，Gwydion用花造Blodeuwedd
-- **背叛**——Blodeuwedd背叛Lleu，Lleu变为鹰
-- **复活**——Gwydion将Lleu变回人形
-
-Lleu的叙事比Lugh更为阴暗——英雄被诅咒、背叛、变形、复活。Hily (2007) 认为两者不是"同一神的不同版本"而是"同一神性原则在不同文化语境中的表达"。
