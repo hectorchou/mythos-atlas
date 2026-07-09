@@ -109,7 +109,7 @@ structured_data:
   epithets: [Shuruppak最后一王, 找到永生者, Enki之友, Dilmun居住者, 洪水的幸存者]
   parents: [Ubar-tutu(苏美尔王表载父,Shuruppak王)]
   successor: [无(洪水中断王朝)]
-  savior: [Enki(Ea)---通过芦苇墙秘密警告]
+  savior: [Enki(Ea)通过芦苇墙秘密警告]
   temple: [Dilmun乐园(诸神赐居)]
   timeline:
     - 前4千纪: 晚Uruk期印章图像已出现洪水母题(Bauer 2000)
