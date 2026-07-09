@@ -82,7 +82,7 @@ primary_sources:
     note: "Beinorius论Varuna与Vac女神在言语神学中的连接。Varuna作为rta守护者与Vac作为神圣言语共同构成吠陀'秩序-言语'神学"
 
 structured_data:
-  epithets: [rta的守护者, Asura(前印度教期正面义), 千眼之神, Pasha持有者, 誓约之王, 水与河流之主(后期), 夜之王(Mitra=昼)]
+  epithets: [rta的守护者, Asura(前印度教期正面义), 千眼之神, Pasha持有者, 誓约之王, 水与河流之主(后期), 夜之王(Mitra为昼)]
   parents: [Aditi无限女神(与其他Adityas兄弟)]
   consort: [Varuni]
   siblings: [Mitra(密切孪生兄弟) · Aryaman · Bhaga等Adityas]
