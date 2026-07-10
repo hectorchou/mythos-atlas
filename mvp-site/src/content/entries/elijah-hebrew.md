@@ -25,7 +25,7 @@ attributes: [名字意为我的神是YHWH, 干旱三年半宣告(1 Kings 17), �
 
 primary_sources:
   - type: paper
-    title: The Contest on Mount Carmel (1 Kings 18:19-40) as a Reflection of a Religious-Cultural Threat
+    title: "The Contest on Mount Carmel (1 Kings 18:19-40) as a Reflection of a Religious-Cultural Threat"
     author: Nadav Naaman
     year: 2020
     language: en
