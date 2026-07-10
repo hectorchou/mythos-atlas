@@ -23,7 +23,7 @@ attributes: [创造大地与山川河流, 化身为兔子偷火种, 教导人类
 
 primary_sources:
   - type: book
-    title: The Manitous: The Spiritual World of the Ojibway
+    title: "The Manitous: The Spiritual World of the Ojibway"
     author: Basil Johnston
     year: 2001
     language: en
@@ -31,7 +31,7 @@ primary_sources:
     access: open
     note: 奠基作。Johnston系统整理Nanabozho相关的全部manitou叙事,确立其在Ojibwe精神世界中的核心地位
   - type: book
-    title: Dancing on Our Turtles Back: Stories of Nishnaabeg Re-Creation, Resurgence and a New Emergence
+    title: "Dancing on Our Turtles Back: Stories of Nishnaabeg Re-Creation, Resurgence and a New Emergence"
     author: Leanne Betasamosake Simpson
     year: 2011
     language: en
@@ -54,7 +54,7 @@ primary_sources:
     url: https://doi.org/10.3167/SIB.2016.150103
     access: open
     note: Podruchny论述Nanabozho作为唯一trickster兼culture hero的双重角色及其教诲功能
-  - type: thesis
+  - type: paper
     title: An Anishinaabe ethno-ornithology of Wabaseemoong Independent Nations
     author: Zachary Rempel
     year: 2019
@@ -63,7 +63,7 @@ primary_sources:
     access: open
     note: Rempel从民族鸟类学视角分析Nanabozho故事中与鸟类的互动关系,揭示其作为生态知识载体的功能
   - type: paper
-    title: Visions of the Great Mystery: Grounding the Algonquian manitow concept
+    title: "Visions of the Great Mystery: Grounding the Algonquian manitow concept"
     author: Clinton N Westman and Tara L Joly
     year: 2017
     language: en
@@ -71,7 +71,7 @@ primary_sources:
     access: open
     note: Westman与Joly讨论Algonquian语系manitow概念的跨部落实证,涵盖Nanabozho作为manitow的神性维度
   - type: paper
-    title: Ontologies of Welcoming: Anishinaabe Narratives of Relationality
+    title: "Ontologies of Welcoming: Anishinaabe Narratives of Relationality"
     author: Nicole Inees-Nash
     year: 2021
     language: en
