@@ -1,61 +1,135 @@
+// Mythos Atlas 质量门禁
+// 用法: node validate.cjs
+// 检查: (1) summary长度  (2) hero_image对应文件存在  (3) YAML title冒号  (4) 必填字段
+// 独立于Astro schema,更严格的报告
+
 const fs = require('fs');
+const path = require('path');
 const matter = require('gray-matter');
-const { z } = require('zod');
 
-const sourceSchema = z.object({
-  type: z.enum(['book', 'paper', 'manuscript', 'inscription', 'oral_record', 'news', 'archive']),
-  title: z.string(),
-  author: z.string().optional(),
-  year: z.union([z.number(), z.string()]).optional(),
-  language: z.string().optional(),
-  location: z.string().optional(),
-  url: z.string().url().optional(),
-  access: z.enum(['open', 'paywall', 'offline']).optional(),
-  retrieved_at: z.string().optional(),
-  note: z.string().optional(),
-});
+const ENTRIES = path.join(__dirname, 'src/content/entries');
+const IMAGES = path.join(__dirname, 'public/images/entries');
 
-const entrySchema = z.object({
-  id: z.string(),
-  name_primary: z.string(),
-  name_original: z.string(),
-  name_aliases: z.array(z.string()).optional(),
-  name_translations: z.record(z.string()).optional(),
-  hero_image: z.string().optional(),
-  hero_image_alt: z.string().optional(),
-  hero_image_credit: z.string().optional(),
-  culture_path: z.string(),
-  entity_type: z.enum(['deity', 'creature', 'spirit', 'event', 'place', 'ritual', 'motif']),
-  era: z.string().optional(),
-  geo_region: z.string().optional(),
-  geo_coords: z.tuple([z.number(), z.number()]).optional(),
-  summary: z.string().max(280),
-  attributes: z.array(z.string()).optional(),
-  related_entries: z.array(z.string()).optional(),
-  parallel_motifs: z.array(z.object({entry_id: z.string(), relation: z.string()})).optional(),
-  primary_sources: z.array(sourceSchema).min(1),
-  secondary_sources: z.array(sourceSchema).optional(),
-  confidence: z.enum(['attested', 'documented', 'folk', 'speculative']),
-  first_recorded: z.string().optional(),
-  created_at: z.string(),
-  updated_at: z.string(),
-  curator: z.string(),
-  review_status: z.enum(['draft', 'in_review', 'published', 'archived']),
-  llm_assisted: z.boolean(),
-});
+const files = fs.readdirSync(ENTRIES).filter(f => f.endsWith('.md'));
 
-const base = 'C:/Users/Hector/Documents/lingxi-claw/20260704-13-50-36-390/mythos-atlas/mvp-site/src/content/entries';
-const files = ['sanhun-qipo-daoist', 'fengshui-daoist', 'neidan-daoist', 'fengdu-daoist', 'tiangong-daoist'];
+const errors = [];
+const warnings = [];
+const stats = {
+  total: files.length,
+  missing_hero: 0,
+  summary_over_280: 0,
+  summary_over_320: 0,
+  missing_required: 0,
+  duplicate_id: 0,
+};
+
+const requiredFields = ['id', 'name_primary', 'culture_path', 'entity_type', 'summary', 'primary_sources', 'confidence', 'created_at', 'updated_at', 'curator', 'review_status'];
+const seenIds = new Map();
+
 for (const f of files) {
-  const content = fs.readFileSync(base + '/' + f + '.md', 'utf-8');
-  const parsed = matter(content);
-  const result = entrySchema.safeParse(parsed.data);
-  if (result.success) {
-    console.log(f + ': PASS');
-  } else {
-    console.log(f + ': FAIL');
-    for (const issue of result.error.issues) {
-      console.log('  -> ' + issue.path.join('.') + ': ' + issue.message);
+  const filepath = path.join(ENTRIES, f);
+  const content = fs.readFileSync(filepath, 'utf-8');
+
+  let parsed;
+  try {
+    parsed = matter(content);
+  } catch (e) {
+    errors.push(`${f}: YAML parse error - ${e.message}`);
+    continue;
+  }
+  const d = parsed.data;
+
+  // 必填字段
+  for (const rf of requiredFields) {
+    if (d[rf] === undefined) {
+      errors.push(`${f}: missing required field '${rf}'`);
+      stats.missing_required++;
     }
   }
+
+  // ID重复
+  if (d.id) {
+    if (seenIds.has(d.id)) {
+      errors.push(`${f}: duplicate id '${d.id}' (also in ${seenIds.get(d.id)})`);
+      stats.duplicate_id++;
+    } else {
+      seenIds.set(d.id, f);
+    }
+    // ID与文件名对应
+    const expectedId = f.replace(/\.md$/, '');
+    if (d.id !== expectedId) {
+      warnings.push(`${f}: id '${d.id}' does not match filename '${expectedId}'`);
+    }
+  }
+
+  // summary长度
+  if (d.summary) {
+    if (d.summary.length > 320) {
+      errors.push(`${f}: summary too long (${d.summary.length} > 320)`);
+      stats.summary_over_320++;
+    } else if (d.summary.length > 280) {
+      warnings.push(`${f}: summary long (${d.summary.length} > 280)`);
+      stats.summary_over_280++;
+    }
+  }
+
+  // hero_image存在性
+  if (d.hero_image) {
+    const heroName = d.hero_image.replace(/^\//, '').replace('images/entries/', '').replace('mythos-atlas/', '');
+    const heroFile = path.basename(heroName);
+    const heroPath = path.join(IMAGES, heroFile);
+    if (!fs.existsSync(heroPath)) {
+      warnings.push(`${f}: hero_image file missing: ${heroFile}`);
+      stats.missing_hero++;
+    }
+  } else {
+    // 无hero_image字段
+    const expectedHero = path.join(IMAGES, f.replace(/\.md$/, '.jpg'));
+    if (fs.existsSync(expectedHero)) {
+      warnings.push(`${f}: no hero_image field but ${f.replace(/\.md$/, '.jpg')} exists`);
+    } else {
+      stats.missing_hero++;
+    }
+  }
+
+  // primary_sources校验
+  if (d.primary_sources && Array.isArray(d.primary_sources)) {
+    if (d.primary_sources.length < 1) {
+      errors.push(`${f}: primary_sources empty`);
+    }
+    d.primary_sources.forEach((src, i) => {
+      if (!src.title) errors.push(`${f}: primary_sources[${i}] missing title`);
+      if (!src.type) errors.push(`${f}: primary_sources[${i}] missing type`);
+    });
+  }
 }
+
+// 输出
+console.log('='.repeat(60));
+console.log('Mythos Atlas Quality Report');
+console.log('='.repeat(60));
+console.log(`Total entries:        ${stats.total}`);
+console.log(`Missing hero image:   ${stats.missing_hero}`);
+console.log(`Summary > 280 chars:  ${stats.summary_over_280}`);
+console.log(`Summary > 320 chars:  ${stats.summary_over_320}`);
+console.log(`Missing required:     ${stats.missing_required}`);
+console.log(`Duplicate IDs:        ${stats.duplicate_id}`);
+console.log();
+console.log(`Errors:   ${errors.length}`);
+console.log(`Warnings: ${warnings.length}`);
+console.log();
+
+if (errors.length > 0) {
+  console.log('--- ERRORS ---');
+  errors.slice(0, 30).forEach(e => console.log('  ' + e));
+  if (errors.length > 30) console.log(`  ... and ${errors.length - 30} more`);
+  console.log();
+}
+
+if (warnings.length > 0 && process.argv.includes('--verbose')) {
+  console.log('--- WARNINGS ---');
+  warnings.slice(0, 50).forEach(w => console.log('  ' + w));
+  if (warnings.length > 50) console.log(`  ... and ${warnings.length - 50} more`);
+}
+
+process.exit(errors.length > 0 ? 1 : 0);

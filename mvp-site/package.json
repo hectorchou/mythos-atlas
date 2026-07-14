@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "validate": "node validate.cjs",
+    "validate:verbose": "node validate.cjs --verbose",
+    "check": "npm run validate && npm run build"
   },
   "dependencies": {
     "astro": "^4.15.0"
