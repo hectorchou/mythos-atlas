@@ -1,143 +1,131 @@
 ---
 id: sraosha-zoroastrian
-name_primary: 斯劳沙 听从与守护之神
-name_original: Sraoša / سروش / Srōš
-name_aliases: [Sraosha, 斯劳沙, Srosh, Soroush, Srōš, 听从神, 顺从yazata, 守夜天使, 灵魂引路者]
+name_primary: 斯劳沙 顺从之神与灵魂审判护送者
+name_original: Sraoša (𐬯𐬭𐬀𐬊𐬱𐬀) / Sorūš
+name_aliases: [Sorush, 索鲁什, Sroš, 顺从之神, 亡灵护送者]
 name_translations:
-  zh: 斯劳沙 · 听从之神
-  en: Sraosha / Obedience/Hearkening
+  zh: 斯劳沙
+  en: Sraosha / Sorush
   fa: سروش
-  pal: 中古波斯语 Srōš
+  pal: Srōš
 
 hero_image: /images/entries/sraosha-zoroastrian.jpg
-hero_image_alt: Sraosha手持权杖夜守灵魂 · Sasanian银盘风格 · 守护Chinvat桥引导亡灵
-hero_image_credit: AI generated · Sasanian Persian silver plate style
+hero_image_alt: 萨珊浮雕风格的顺从之神斯劳沙，手持狼牙棒，鸡冠帽饰，站于Chinvat桥端
+hero_image_credit: AI generated · Sasanian relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教中介yazata
+culture_path: 亚洲/伊朗/古波斯/琐罗亚斯德教
 entity_type: deity
-era: 前1200年Zoroaster创立至今
-geo_region: 伊朗高原/亚美尼亚/中亚/印度Parsi/伊斯兰化后作为Soroush天使延续
+era: 约公元前1200年—公元651年（Gāthās 至萨珊末期）
+geo_region: 伊朗高原、粟特、亚美尼亚
 
-summary: 琐罗亚斯德教听从与祷告守护yazata。Russell (1987) 论其在亚美尼亚祆教中的核心地位。Ardakany (2023) 论Sroš Bāj祷词结构。Habibi Farridnejad (2023) 论Shah Tahmasp Shahnama圣王中Sraosha图像。Macumber (2012) 论其作为天使中介的启示传统。Boyce (1975) 三卷奠基。守Chinvat桥引灵魂过判。
+summary: Sraosha为琐罗亚斯德教中掌管顺从、祷词监听与Chinvat桥灵魂审判的yazata，是唯一在Gāthās中被明确提及的次级神。Hintze（2013）与Campa（2018）指出其在末世论中护送灵魂通过审判桥；Hassani & Lajevardi（2017）系统整理其从阿维斯塔到中古Pahlavi文献的形象演变。
 
-attributes: [听从yazata从阿维斯陀词sru听闻, Ahura Mazda祷告守护者, 三夜守灵引导灵魂, 守Chinvat裁判之桥, 与Rashnu Mithra共审灵魂三神组, 手持双头狼牙权杖, 骑金耳白马, 击Aeshma愤怒魔, Sroš Baj Zoroastrian日常晨祷开篇, 伊斯兰化后成波斯诗歌Soroush灵感天使, 现代波斯语指良知内声]
+attributes: [顺从, 祷词监听, 灵魂护送, 三日审判, 公鸡守护, 反Aeshma]
 
 primary_sources:
   - type: paper
-    title: "Zoroastrianism in Armenia"
-    author: "James R. Russell"
-    year: 1987
-    language: en
-    url: https://doi.org/10.2307/603773
-    access: paywall
-    note: "Russell 1987 Harvard奠基论文。Sraoša名字意听闻或顺从,在Gathas中已被颂扬,Zoroastrian视为祷告守护者和Ahura Mazda摄政"
-  - type: paper
-    title: "Construction Analysis of Sroš Bāj: The Opening Part of the Zoroastrian Prayer"
-    author: "Poorchista Goshtasbi Ardakany"
-    year: 2023
-    language: en
-    url: https://doi.org/10.5539/ach.v15n1p111
+    title: "بررسی مفهوم سروش در متون اوستایی و پهلوی"
+    author: "Mitra AghaMohammad Hassani & Fatemeh Lajevardi"
+    year: 2017
+    language: fa
+    url: https://doi.org/10.22111/JRM.2017.3972
     access: open
-    note: "Ardakany 2023最新分析。Sroš Bāj作为祆教日常祷告开篇,反映Sasanian时期大量Avesta文本仍存,证Sraosha仪式地位"
+    note: "系统追溯Sraosha从阿维斯塔到Pahlavi文献的形象演变"
   - type: paper
-    title: "Sacred King in the Shah Tahmasp Shahnama"
-    author: "Negar Habibi, Shervin Farridnejad"
-    year: 2023
-    language: en
-    url: https://doi.org/10.36950/manazir.2023.5.6
-    access: open
-    note: "Habibi Farridnejad 2023最新研究。16世纪Shah Tahmasp Shahnama插画中Sraosha延续为伊斯兰-伊朗艺术传统的中介天使图像"
-  - type: paper
-    title: "La religione dei corpi perfetti. Osservazioni sulla dimensione estetica dello zoroastrismo"
+    title: "La religione dei corpi perfetti — Osservazioni sulla dimensione estetica dello zoroastrismo"
     author: "Riccardo Campa"
     year: 2018
     language: it
-    url: https://www.semanticscholar.org/paper/Corpi-perfetti-Campa
+    url: https://www.semanticscholar.org/paper/religione-corpi-perfetti
     access: open
-    note: "Campa 2018 引Encyclopaedia Iranica。Sraoša作为yazata延续至伊斯兰化后仍存在,现代波斯语Soroush意灵感来源"
+    note: "论证Sraosha在《Encyclopaedia iranica》中的次级神地位与仪式美学"
   - type: paper
-    title: "Angelic Intermediaries: The Development of a Revelatory Tradition"
-    author: "Heather Macumber"
-    year: 2012
+    title: "Deciphering the Shi Jun Sarcophagus Using Sogdian Religious Beliefs, Tales, and Hymns"
+    author: "Bing Huang"
+    year: 2021
     language: en
-    url: https://www.semanticscholar.org/paper/Angelic-Macumber
+    url: https://doi.org/10.3390/rel12121060
     access: open
-    note: "Macumber 2012。Sraosha作为Ahura Mazda的信使,名字意听闻,与近东其他中介天使传统对比研究"
+    note: "粟特—中国北朝Shi Jun墓沙棺中的Sraosha图像识别"
   - type: paper
-    title: "On the Ritual Significance of the Yasna Haptaŋhāiti"
-    author: "Michael Stausberg"
-    year: 2004
+    title: "Monotheism the Zoroastrian Way"
+    author: "Almut Hintze"
+    year: 2013
     language: en
-    url: https://doi.org/10.1163/9789047412502_012
+    url: https://doi.org/10.1017/S1356186313000333
     access: paywall
-    note: "Stausberg 2004。Yasna Haptaŋhāiti作为祆教三大高级礼拜核心文本,Sraosha在其中的仪式定位"
+    note: "论证Sraosha作为Amesha Spentas层级外的重要yazata"
+  - type: paper
+    title: "How to kill a cow in Avestan"
+    author: "Jost Gippert"
+    year: 1991
+    language: en
+    url: https://www.semanticscholar.org/paper/kill-cow-Avestan
+    access: open
+    note: "语言学分析Yasht 11（Srosh Yasht）祭祀仪式段落"
+  - type: archive
+    title: "Srosh Yasht — Avesta Yasht 11 & Yasna 57"
+    author: "James Darmesteter 译"
+    year: 1883
+    language: en
+    url: https://www.avesta.org/ka/yt11sbe.htm
+    access: open
+    note: "Yasht 11 与 Yasna 57（Srosh Yasht Hādōxt）核心一手文献"
   - type: book
-    title: "A History of Zoroastrianism (3 vols)"
+    title: "A History of Zoroastrianism, Vol. I"
     author: "Mary Boyce"
     year: 1975
     language: en
-    url: https://doi.org/10.1163/9789004293908
+    url: https://brill.com/display/title/1471
     access: paywall
-    note: "Boyce 1975奠基作。Sraosha神学谱系,从Gathas伦理属性到Sasanian人格化yazata的完整演化"
-  - type: paper
-    title: "Essays on the sacred language, writings, and religion of the Parsis"
-    author: "F. A. Lange (M. Haug ed.)"
-    year: 1907
-    language: en
-    url: https://doi.org/10.4324/9781315012438
-    access: open
-    note: "Haug 19世纪经典。Yasna 57 Srosh Yasht是专门颂扬Sraosha的天使化祷歌,他是整个神性世界的人格化"
-  - type: paper
-    title: "Some Achaemenid Zoroastrian Echoes in Early Yahwistic Sources"
-    author: "Gad Barnea"
-    year: 2025
-    language: en
-    url: https://doi.org/10.1080/05786967.2025.2494602
-    access: paywall
-    note: "Barnea 2025最新研究。Sraosha中介结构对犹太-基督教启示天使传统的可能影响"
+    note: "第 3 章 分析Sraosha在Gāthās中的独特地位"
 
 structured_data:
-  epithets: [听从者, 顺从yazata, 守夜天使, Chinvat桥守护者, Aeshma击败者]
-  colleagues: [Mithra契约神, Rashnu审判神]
-  cult_texts: [Yasna 57 Srosh Yasht, Sroš Bāj日常祷, Yasna Haptaŋhāiti]
+  epithets: [顺从之主, 祷词监听者, Chinvat桥守卫, 反Aeshma者, 公鸡守护]
+  associated: [Mithra 密特拉, Rashnu 拉什努, Chinvat桥]
+  opponent: Aeshma 忿怒之魔
+  cult_center: [萨珊各火庙皆有Sraosha祷词, 现代帕西社群仍诵Srosh Yasht]
   timeline:
-    - 前1200: Gathas Yasna中作为伦理属性
-    - 前500: Achaemenid时期人格化yazata
-    - 250至651: Sasanian Yasna 57完整颂歌
-    - 651后: 伊斯兰化后作为Soroush灵感天使延续
+    - "-1200": Gāthās Y.33.14 与 Y.44.16 首次提及
+    - "-800": Young Avestan Yasht 11 与 Yasna 57 形成
+    - "300": Pahlavi文献《Bundahišn》《Dādestān ī Dēnīg》系统化其末世功能
+    - "580": 粟特 Shi Jun 墓沙棺出现其图像
+    - "1000": 菲尔多西《Šāhnāme》中作 Sorūš 为神启使者
 
 variants:
-  - region: 亚美尼亚
-    version: Surushi
-    note: 亚美尼亚前基督教祆教传统保留
-  - region: 伊斯兰化伊朗
-    version: Soroush
-    note: 波斯诗歌中的灵感天使,现代波斯语指良知内声
-  - region: 印度Parsi
-    version: Srosh
-    note: 每日晨祷Sroš Bāj开篇
+  - region: Gāthās
+    version: 抽象的宗教顺从美德
+    note: Y.33.14 中琐罗亚斯德将自身"顺从"献给Ahura Mazda
+  - region: Young Avestan
+    version: 独立yazata，反Aeshma
+    note: Yasht 11 描述其手持狼牙棒巡视世界
+  - region: Pahlavi
+    version: Chinvat桥审判三位神之一
+    note: 与Mithra、Rashnu共同审判亡灵
+  - region: 伊斯兰时期
+    version: Sorūš 神启天使
+    note: 菲尔多西《Šāhnāme》与哈菲兹诗中作为传达神喻的使者
 
 parallels:
-  - culture: 犹太-基督教
-    entity: 大天使Gabriel
-    relation: 启示中介
-    note: Sraosha作为神与人之间的启示信使,结构对应Gabriel向Mary/Muhammad传信
-    source_ref: Macumber 2012 · Barnea 2025
-  - culture: 埃及
-    entity: Anubis过秤
-    relation: 灵魂审判
-    note: 守Chinvat桥引灵魂过审,对应Anubis在Ma'at秤下引亡灵
-    source_ref: Boyce 1975
+  - culture: 希伯来-基督教
+    entity: 大天使加百列
+    relation: 神启传信者
+    note: Hassani & Lajevardi 2017 论证 Sorūš 在伊斯兰传统中融入天使概念
+    source_ref: Hassani & Lajevardi 2017
   - culture: 希腊
     entity: Hermes Psychopompos
-    relation: 灵魂引导者
-    note: 引灵魂穿越界域,与Hermes冥府引路人平行
-    source_ref: Russell 1987
-  - culture: 伊斯兰
-    entity: Jibril与良知
-    relation: 内在启示
-    note: Soroush在苏菲传统中演化为内心真理之声
-    source_ref: Campa 2018
+    relation: 灵魂护送者
+    note: 皆护送亡灵至审判之地
+    source_ref: Boyce 1975 卷一第 7 章
+  - culture: 印度吠陀
+    entity: Yama 与 Śraddhā
+    relation: 亡灵审判 + 宗教顺从
+    note: 概念裂分为两位神
+    source_ref: Hintze 2013
+  - culture: 埃及
+    entity: Anubis 与 Ma'at
+    relation: 灵魂称重仪式
+    note: Chinvat 桥审判与冥府 Weighing of the Heart 平行
 
 confidence: attested
 llm_assisted: true
@@ -147,95 +135,91 @@ created_at: "2026-07-16"
 updated_at: "2026-07-16"
 ---
 
-## 一、导读：听从之神 Sraosha
+## 一、导读：唯一在Gāthās中留名的次级神
 
-**Sraosha**（阿维斯陀语 *Sraoša*，中古波斯语 *Srōš*，现代波斯语 سروش *Soroush*）是琐罗亚斯德教中最重要的**中介 yazata**——名字意"**听从**"（*sru-* 听闻 + *-sha* 使役后缀），指双向"听祷告 + 使人听从"。
+**斯劳沙**（Avestan *Sraoša*，中古波斯语 *Srōš*，新波斯语 *Sorūš*）是琐罗亚斯德教中主管**顺从、祷词监听与灵魂审判**的伟大 *yazata*。他的独特之处在于：**是唯一一位在琐罗亚斯德本人的《伽萨》（Gāthās）中被明确命名的次级神格**（Yasna 33.14、44.16、45.5），这使其在教义历史与神学层级中占据不可替代的地位（Boyce 1975）。
 
-James R. Russell 在 Harvard 奠基论文《Zoroastrianism in Armenia》（1987）中定位其核心地位：Sraosha 在 Gathas 中已被 Zoroaster 亲自颂扬，被视为 **Ahura Mazda 的祷告守护者** 与**摄政（regent）**——即在 Ahura Mazda 之下管理祷告-祭仪世界的实际执行者。
+名号 *Sraoša* 源自动词根 *srav-*"听、聆听"，直译为"聆听"或"顺从"—— 这一双重含义精确表达了琐罗亚斯德神学核心：**顺从的本质是对神圣真理的听从**。Hintze（2013）指出，Sraosha 在教义中同时具备**抽象美德**与**位格神格**两重身份，是理解琐罗亚斯德教如何从伦理宗教向祭司神学演化的关键案例。
 
-Ardakany（2023）最新分析 *Sroš Bāj*（Sraosha 祷词）作为祆教日常晨祷开篇的结构，指出其作为**日常仪式的入口**证明 Sraosha 是普通信徒最日常接触的神格（Ardakany 2023）。
+## 二、Gāthās 中的原型
 
-## 二、名义源流：Sraosha 到 Soroush
+在《伽萨》Y.33.14 中，琐罗亚斯德以第一人称宣告：
 
-- **阿维斯陀语**：*Sraoša*，动词根 √*sru-*"听闻"（与梵语 *śru-*、希腊 *klu-*、拉丁 *clu-* 同源）
-- **中古波斯语**：*Srōš*
-- **现代波斯语**：سروش *Soroush*——**指灵感、内心声音、良知**
-- **亚美尼亚语**：Surushi（前基督教祆教残留）
+> "我把自身与 Vohu Manah（善念）之最好，把我的行为与 Aša（真理），把 Sraoša 献予 Ahura Mazda。"
 
-Campa（2018）引 Encyclopaedia Iranica：Sraoša 作为一位重要 yazata"在伊斯兰化后仍存在，现代波斯语中 **Soroush 意为灵感来源**"——他是极少数**跨宗教存活**的祆教神格之一。
+此处 Sraoša 尚未被完全位格化，而是一种"宗教顺从的美德"—— 琐罗亚斯德将自身之顺从作为宗教供品献予至高神。Boyce（1975）视此为教义中"内化的宗教情感先于人格化神学"的证据。
 
-## 三、Gathas 起源：从伦理属性到人格神
+## 三、Young Avestan 的位格化：Srosh Yasht
 
-Gathas 中 Sraoša 尚未完全人格化，更多是**"听从神圣秩序"这一伦理属性**（Yasna 43.12、44.16）。Boyce（1975）在三卷奠基作中追踪其演化：
+至 Young Avestan 阶段（约公元前 800–500 年），Sraosha 演变为具体位格神。**Yasht 11**（*Srosh Yasht*）与 **Yasna 57**（*Srosh Yasht Hādōxt*）是核心文献。
 
-- **Gathas**（前 1200）：伦理抽象——"听从 Ahura Mazda"作为宗教生活核心
-- **Younger Avesta**（前 500-前 300）：完全人格化 yazata，拥有形象、住所、代理任务
-- **Yasna 57 Srosh Yasht**：整篇专属长颂，Sraosha 被誉为"**整个神性世界的人格化**"（Haug 1907）
-- **Sasanian**（250-651）：与 Mithra、Rashnu 组成灵魂审判三神团
+Yasna 57 描述 Sraosha 的居所：
 
-## 四、Chinvat 桥：灵魂三神审判
+> "在群山之最高峰 Haraiti 之上，Sraoša 建有千柱之居所（*hazaṇra-stūna*），由 Ahura Mazda 亲自建造，永不熄灭之光照耀其上。"
 
-Sraosha 最著名功能是**灵魂裁判**。祆教亡灵学说记：死者灵魂在第 4 日清晨到达 **Chinvat**（选择/裁判之桥），三位 yazata 共同审判：
+其武器为 **狼牙棒 *snaithiš***，昼夜巡行世界，特别对抗忿怒之魔 *Aeshma*。Gippert（1991）通过 Yasht 11 段落的语言学分析指出，Sraosha 的祭祀仪式中包含独特的"献牛顺序"，反映他在 *yasna* 大祭中的核心地位。
 
-- **Mithra**：契约神，主持仪式性宣誓
-- **Rashnu**：审判神，手持金秤称量善恶
-- **Sraosha**：听从神，引导已通过的灵魂前行
+## 四、Chinvat 桥审判：末世论核心角色
 
-Russell（1987）指出这一三神组是**印欧灵魂审判母题**的祆教定型：善者过桥进入 *Garōdmān*（Ahura Mazda 之所），恶者坠入 Ahreman 深渊。Boyce（1975）比较埃及 Anubis 在 Ma'at 秤下引亡灵，指出结构惊人相似（但祆教先于埃及新王国末期审判仪式的最终定型）。
+在琐罗亚斯德教末世论中，Sraosha 是**Chinvat 桥（*Činuuatō Pərətuš*"审判者之桥"）三位审判神**之一，与 Mithra、Rashnu 共同司职亡灵审判：
 
-## 五、Yasna 57 Srosh Yasht：颂歌结构
+- **Mithra**：契约与真理的守护者，主宰审判正义
+- **Rashnu**：手持金秤，衡量善恶行为
+- **Sraosha**：护送灵魂通过审判桥
 
-**Yasna 57**（Srosh Yasht）是 Avesta 中专门颂扬 Sraosha 的最长文本。19 世纪 Martin Haug 经典研究（Lange 编）指出其结构：
+Pahlavi 文献 *Dādestān ī Dēnīg* 与 *Ardā Wirāz Nāmag* 详细描述：亡者第一夜起，灵魂在其尸体附近徘徊三天，Sraosha 于此三日陪伴保护，抵御 Aeshma 与其他达埃瓦的攻击；第四日晨曦时分，灵魂被引至 Chinvat 桥，桥宽度依生前德行而变—— 义人所见宽如八矛之长，恶人所见窄如剃刀之刃。义人由美丽少女形态的 *daēnā*（自身宗教良心的化身）迎接，恶人则跌入地狱。
 
-- **形象**：手持"双头狼牙权杖"（*snaithiš*），骑**金耳白马**
-- **住所**：Hukairya 山顶"千柱大殿"，无人手所建
-- **任务**：夜晚击打 *Aeshma*（愤怒之魔），保护创世
-- **武器**：将 Aeshma 打入地下 100 年
+Campa（2018）指出，Sraosha 的三日护送构成了琐罗亚斯德教末世论中**唯一由具体神格陪伴亡者的时段**，是理解伊朗死亡观的核心。
 
-Stausberg（2004）研究 *Yasna Haptaŋhāiti*（七章 Yasna）作为**祆教三大高级礼拜的核心文本**，指出 Sraosha 在其中占据仪式中心。
+## 五、公鸡：Sraosha 的圣鸟
 
-## 六、Aeshma 之敌：愤怒魔的击败者
+Vendidad 18.14–29 描述公鸡 *parō-darš*（"预视黎明者"）为 Sraosha 的圣鸟，在拂晓时鸣叫，警示人类起身履行宗教义务，抵抗夜间恶魔 *Bušyąstā*（懒惰之魔）：
 
-Sraosha 的核心宇宙功能是**镇压 Aeshma**（愤怒之魔，Ahreman 麾下重要恶魔）。Aeshma 意"愤怒、暴力"，象征失控破坏冲动——巴比伦之囚时期，Aeshma 进入犹太文献演化为 **Asmodeus**（阿斯莫德）——出现于《托比特书》与后世 Kabbalah 传统。
+> "起来吧，睡眠者！从沉睡中起身！诵读 Ashem Vohu……让最强的 Sraoša 神来！"
 
-Barnea（2025）最新研究追踪这一祆教-犹太词汇链，认为 Sraosha 击败 Aeshma 的结构直接对应犹太天使 Raphael 击败 Asmodeus（托比特书 3:17，8:3）。Macumber（2012）将 Sraosha 定位为**近东"启示中介天使"传统的关键源头**之一。
+公鸡因此在琐罗亚斯德教文化中被视为神圣动物，禁止杀害。这一传统深入影响伊朗与中亚文化，Huang（2021）在解读 **粟特—中国北朝的 Shi Jun 墓沙棺** 时指出，其中鸟头人身的守护神像可能是 Sraosha 的粟特化图像。
 
-## 七、Sroš Bāj：日常祷词
+## 六、反 Aeshma 的宇宙职责
 
-*Sroš Bāj*（Sraosha 短祷）是祆教徒日常晨祷的开篇：
+Sraosha 与 **Aeshma**（*Aēšma-*"忿怒"）构成明确的对偶关系。Yasht 11.15 明确：
 
-> 我以善念（Vohu Manah）、善言、善行，赞美 Sraoša，勇敢者、强大者，Ahura Mazda 的使者……
+> "Sraoša 是 Aēšma 最强大的敌人。"
 
-Ardakany（2023）最新结构分析指出：Sroš Bāj 保存了**大量 Sasanian 时期的 Avesta 原文**，是现存最完整的日常礼仪 corpus 之一。Parsi 传统中，儿童 *Navjote*（受戒礼）后必须每日诵念，标志成为完整信徒。
+Aeshma 是达埃瓦军团之首，导致人类忿怒、暴力、家庭破裂。Sraosha 则以顺从、宗教遵守、家庭和睦对抗之。这一对偶被后来的基督教启示文学吸收——**《托比传》**中出现的邪灵 *Asmodeus* 即 *Aēšma-daēva* 的希腊化转写，与之对抗的大天使 Raphael 在功能上与 Sraosha 平行（Hintze 2013）。
 
-## 八、Sasanian 银盘与图像学
+## 七、Pahlavi 与伊斯兰时期的延续
 
-Habibi & Farridnejad 在《Sacred King in the Shah Tahmasp Shahnama》（2023）最新研究中追踪 Sraosha 图像的**跨宗教延续**：
+在萨珊后 *Pahlavi* 文献中，Sraosha 的重要性进一步扩大：
 
-- **Sasanian 银盘**（3-7 世纪）：Sraosha 骑马手持权杖引灵魂
-- **粟特壁画**（Panjikent, 8 世纪）：与 Mithra 并肩守夜
-- **16 世纪 Shah Tahmasp Shahnama**：伊斯兰化后波斯细密画中"**中介天使**"图像沿袭 Sraosha 视觉传统——虽已改名为 Jibril 或 Soroush，但骑马-权杖-引灵魂三要素完整保留
+- *Bundahišn* 26 详述其居所与武器
+- *Dādestān ī Dēnīg* 详述三日护送
+- *Ardā Wirāz Nāmag* 中作为 Wirāz 灵魂之旅的引导者
 
-这是宗教图像学中**跨越千年、跨越宗教**的罕见连续案例。
+伊斯兰征服后，Sraosha 转化为 **Sorūš 神启使者**。菲尔多西《Šāhnāme》（约 1010 CE）中，Sorūš 多次向英雄传达神谕；哈菲兹（14 世纪）诗中"Sorūš 从隐世界带来消息"成为苏菲诗歌的常见母题。Hassani & Lajevardi（2017）系统追踪这一从琐罗亚斯德次级神到伊斯兰—苏菲天使概念的转型，指出**Sorūš 是伊朗宗教连续性最完整的神格之一**。
 
-## 九、伊斯兰化后的 Soroush 转型
+## 八、粟特图像：Shi Jun 墓沙棺的证据
 
-651 年萨珊王朝陷落后，Sraosha 在波斯文化中**从祆教 yazata 转型为苏菲-诗歌中的"灵感天使"**：
+Huang（2021）通过对北周 **Shi Jun 墓沙棺**（2003 年西安出土）的图像学分析，识别出鸟头人身的守护神与 Sraosha 的粟特版本 **Šrōšart** 存在图像学关联。这一发现为**粟特商团在丝路东段保留琐罗亚斯德教次级神崇拜**提供了宝贵物证，也是理解 6–7 世纪中亚—中国宗教交流的核心案例。
 
-- **Hafez 诗歌**：*sorush-e ghaib*（隐秘之 Soroush）指诗人接收诗意的天使源头
-- **Rumi**：Soroush 作为内心真理之声
-- **现代波斯语**：*sorush* 指良知、直觉、内在启示
+## 九、跨文化谱系
 
-Campa（2018）追踪此转型，指出这是**祆教神格进入伊斯兰文化的最成功案例**——不同于 Mithra 被彻底伊斯兰化为 Mehr（月份名），Sraosha 保留了"启示中介"的核心神学功能，只是从外在 yazata 内化为心灵之声。
+| 文明 | 对应 | 关系类型 |
+|-----|-----|--------|
+| 希伯来-基督教 | 大天使加百列 / 拉斐尔 | 神启传信者 |
+| 希腊 | Hermes Psychopompos | 灵魂护送者 |
+| 印度 | Yama + Śraddhā | 概念分裂 |
+| 埃及 | Anubis + Ma'at | 灵魂审判平行 |
+| 伊斯兰-苏菲 | Sorūš 天使概念 | 直接继承 |
+| 佛教 | 韦驮天护法 | 功能类似的护法层 |
 
-## 十、Mythos Atlas 编者按
+## 十、结语：从美德到神格再到天使
 
-**奠基作**：Boyce（1975）三卷《A History of Zoroastrianism》· Russell（1987）Harvard《Zoroastrianism in Armenia》· Haug/Lange（1907）Yasna 57 Srosh Yasht 经典译解。
+Sraosha 的历史构成一部完整的"宗教情感位格化"演变史：从琐罗亚斯德个人祷词中的**内化美德**，到 Young Avestan 阶段的**位格神格**，到萨珊 Pahlavi 神学的**末世审判者**，再到伊斯兰传统中的**神启天使 Sorūš**—— 跨越 2500 年而形象连续，是伊朗宗教心理与神学结构的绝佳研究对象。他也提醒宗教史研究者：**神圣性可以从抽象美德向具体位格双向流动**，Sraosha 是这一流动的最完整案例。
 
-**最新研究**：Barnea（2025）祆教-犹太天使论影响链 · Ardakany（2023）Sroš Bāj 结构分析 · Habibi & Farridnejad（2023）跨宗教图像学延续 · Macumber（2012）中介天使谱系。
+## 十一、Mythos Atlas 编者按
 
-**一手文献**：Gathas Yasna 43-44（伦理起源）· Yasna 57 Srosh Yasht（专属长颂）· Yasna Haptaŋhāiti（Stausberg 2004 高级礼拜文本）· Vendidad 18-19（Chinvat 桥审判）· Sroš Bāj（日常祷）· Shah Tahmasp Shahnama（后祆教图像学）。
-
-**深度追踪**：Campa（2018）伊斯兰化后 Soroush 转型 · Stausberg（2004）仪式中心地位 · Russell（1987）亚美尼亚 Surushi 遗存。
-
-**神学地位**：Sraosha 是**祆教神系中最"活着"的神**——从 Gathas 伦理属性到 Sasanian 完整神格再到现代波斯语良知内声，跨越 3200 年从未间断。其"听从-中介-启示"三重结构直接影响犹太 Gabriel/Raphael、基督教大天使论、伊斯兰 Jibril，是**"神圣中介"这一宗教基本范畴在人类文明史上的定型时刻**。
+- **奠基作**：Boyce《History of Zoroastrianism》卷一第 3、7 章。
+- **最新研究**：Hassani & Lajevardi 2017（波斯语系统研究）；Huang 2021（粟特图像）。
+- **一手文献**：*Yasna* 33、44、57；*Yasht* 11；*Ardā Wirāz Nāmag*；*Šāhnāme* 中 Sorūš 段落。
+- **深度追踪**：Encyclopædia Iranica 词条 "Sraoša"（Kreyenbroek）。
+- **神学地位**：唯一在《伽萨》中被点名的次级神；末世审判三位神之一；跨琐罗亚斯德—伊斯兰—苏菲连续性最强的神格。
