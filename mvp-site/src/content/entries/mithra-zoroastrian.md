@@ -1,321 +1,235 @@
 ---
 id: mithra-zoroastrian
-name_primary: 密特拉 契约见证与太阳战神
-name_original: Mithra / میثره / Mithras(罗马)
-name_aliases: [Mithra, Mithras, 密特拉, 弥赛亚概念之根, 印伊契约神, 罗马密教Mithras, 中古波斯Mihr, 千耳万目见证者]
+name_primary: 密特拉 契约与太阳之神
+name_original: Mithra / میثره / Mihr
+name_aliases: [Mithra, Mihr, 密特拉, 米罗, Mihragan节主神, Mithras罗马变体源头]
 name_translations:
-  zh: 密特拉 · 契约与太阳战神
-  en: Mithra / God of Contract
-  ave: 古阿维斯塔 Miθra
-  sa: 吠陀 Mitra
-  fa: میثره / مهر (Mihr)
-  la: 罗马 Mithras
-  el: Mithras
+  zh: 密特拉 · 契约之神
+  en: Mithra / Contract God
+  fa: مهر Mihr
+  pal: Mihr
+  ave: Miθra
+  la: Mithras(罗马)
+  el: Mithres
 
 hero_image: /images/entries/mithra-zoroastrian.jpg
-hero_image_alt: Mithra tauroctonos屠公牛 · 太阳与月亮 · 罗马密教浮雕
-hero_image_credit: AI generated · Roman Mithraeum bull-slaying relief style
+hero_image_alt: 密特拉驱驷马太阳战车 · Sasanian岩雕Taq-e Bostan风格
+hero_image_credit: AI generated · Sasanian rock relief
 
-culture_path: 亚洲/伊朗-印度/雅利安/契约-太阳-屠公牛神
+culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教契约与太阳
 entity_type: deity
-era: 前1500年印伊共同至公元4世纪(印伊)+罗马1-4世纪Mithras密教
-geo_region: 伊朗高原/印度吠陀/罗马帝国(军团中广泛崇拜)/黑海到英国哈德良长城
+era: 前1400年米坦尼盟约文本至今
+geo_region: 伊朗高原/中亚粟特/贵霜/罗马帝国全境/阿尔巴尼亚-亚美尼亚
 
-summary: 契约见证与太阳战神。Akhondi & Akbari (2017) 论对基督教影响。Shekari Niri (2019) 论Mithraeum。Alamdar & Ghasemi (2014) 论吠陀-伊朗同源。Russell (2019) 论中古波斯Mihr。Bremmer (2014) 论罗马密教。世界最持久契约神,从吠陀Mitra到罗马Mithras到现代Parsi。
+summary: 琐罗亚斯德教契约与太阳Yazata。Boyce (1969) 论Mithra在祆教中的地位。Russell (2019) 论Mithra作为契约见证-太阳-正义三合一。Cantera (2017) 论Mithra与Avesta礼仪日历。Campos Méndez (2005) 论Mithra从伊朗到罗马Mithras的转化。中文界杨巨平论贵霜钱币中的Miiro,李晓嘉论丝路东传。前1400年米坦尼-赫梯盟约首见Mi-it-ra名号。
 
-attributes: [印伊共同神(吠陀Mitra+阿维斯塔Miθra), 契约见证(mithra原义契约), 千耳万目监视誓约, 太阳神(与Sun同一化,中古波斯Mihr即太阳), 屠公牛tauroctony标志图像(罗马Mithraeum核心), 骑白马,持标枪, Yasht 10最长yashts全献他, 与Ahura Mazda同盟, 罗马Mithras密教军团神(前1-4世纪), 罗马Mithraeum地下神殿全帝国分布, 12月25日太阳诞生日为其庆典,可能影响耶诞节, 波斯Mithrakana节秋分]
+attributes: [契约与誓言之神, 千耳万目全知见证者, 驱驷白马金战车太阳神, Yasht 10 Mihr Yasht 145节献辞, Mihragan秋分节主神, 前1400年米坦尼盟约首见, 与吠陀Mitra直接同源, 罗马Mithras密仪源头, 贵霜钱币Miiro形象, 亚美尼亚Mihr与阿尔巴尼亚保留, 唐代摩尼教入华携带Mithra传统]
 
 primary_sources:
   - type: paper
-    title: "The Influence of Mithraism on Christianity"
-    author: "Zohreh Akhondi, Amir Akbari"
-    year: 2017
+    title: "On Mithra's part in Zoroastrianism"
+    author: "Mary Boyce"
+    year: 1969
     language: en
-    url: https://doi.org/10.7596/TAKSAD.V5I4.599
-    access: open
-    note: "Akhondi & Akbari 2017论Mithra对基督教影响。契约存在于人与人/国与国之间,Mithra敌视违约者,故为战神"
+    url: https://doi.org/10.1017/S0041977X00098256
+    access: paywall
+    note: "Boyce 1969奠基论文。Mithra是前Zoroastrian印伊传统神,被Zoroaster改革后保留为Yazata地位而非Ahura地位"
   - type: paper
-    title: "Formation of the Mithraic Temples in Northwestern Iran and Comparison with Roman Mithraeums"
-    author: "Javad Shekari Niri"
-    year: 2019
-    language: en
-    url: https://www.semanticscholar.org/paper/Shekari-Niri-Mithraeum/
-    access: open
-    note: "Shekari Niri 2019论伊朗Mithra神庙与罗马Mithraeum比较。Mehr Yasht 10.93与Vendidad 19.28-9载Mithra救死者渡过Chinvat桥"
-  - type: paper
-    title: "Mitra in the Vedas and Ancient Iranian Literature"
-    author: "Sayyed Hassan Alamdar Moghaddam, Soghra Ghasemi"
-    year: 2014
-    language: en
-    url: https://www.semanticscholar.org/paper/Alamdar-Mitra/
-    access: open
-    note: "Alamdar & Ghasemi 2014比较吠陀Mitra与伊朗Mithra。吠陀Mitra与Varuna并称,Mithra是Avesta最重要yazata之一"
-  - type: paper
-    title: "The Interrupted Feast (Middle Persian Mihr as Zoroastrian yazata)"
+    title: "The Interrupted Feast"
     author: "James R. Russell"
     year: 2019
     language: en
     url: https://doi.org/10.1163/9789004397743_022
     access: paywall
-    note: "Russell 2019。Mithra=中古波斯Mihr,是极重要Zoroastrian yazata,与太阳关联,主管契约/见证/正义/战争的社会道德品质"
-  - type: book
-    title: "Initiation into the Mysteries of the Ancient World (Roman Mithraism)"
-    author: "Jan N. Bremmer"
-    year: 2014
-    language: en
-    url: https://doi.org/10.1515/9783110299557
-    access: paywall
-    note: "Bremmer 2014罗马Mithras密教。有波斯细节:(1)Mithras与波斯Mithrakana节秋分关联,(2)波斯服饰,(3)特定符号"
+    note: "Russell 2019。Mihr在中古波斯语中是重要yazata,兼具太阳、契约见证、正义三重职能"
   - type: paper
-    title: "El dios Mitra: análisis de los procesos de adaptación de su culto (Iran to Rome)"
+    title: "Miθra and the Sun: the Role of Miθra in the Arrangement of the Avestan Liturgical Calendar"
+    author: "Alberto Cantera"
+    year: 2017
+    language: en
+    url: https://www.semanticscholar.org/paper/Cantera-Mithra
+    access: open
+    note: "Cantera 2017礼仪日历研究。Mihragan节(秋分)是仅次于Nowruz的第二大节,Mithra主管从春分到秋分的日照期"
+  - type: paper
+    title: "The Avestan Hymn to Mithra"
+    author: "Ilya Gershevitch"
+    year: 1959
+    language: en
+    url: https://doi.org/10.2307/410631
+    access: paywall
+    note: "Gershevitch 1959。Yasht 10 Mihr Yasht的经典校勘译注,是研究Mithra最重要一手文本工程"
+  - type: paper
+    title: "El dios Mitra: análisis de los procesos de adaptación de su culto"
     author: "Israel Campos Méndez"
     year: 2005
     language: es
-    url: https://www.semanticscholar.org/paper/Campos-Mendez-Mitra/
+    url: https://www.semanticscholar.org/paper/Campos-Mendez-Mitra
     access: open
-    note: "Campos Méndez 2005西班牙语。Mithra与其他yazatas的关系不限于Mehr Yasht,而是在多个Avesta段落中重复。Iran to Rome适应过程"
+    note: "Campos Méndez 2005。Mithra从伊朗到罗马Mithras的转化过程,涉及Achaemenid-Parthian-罗马军团三阶段"
   - type: paper
-    title: "Forerunners and Rivals of Christianity: The Cult of Mithras"
-    author: "F. Legge"
-    year: 2009
-    language: en
-    url: https://doi.org/10.2307/1836204
+    title: "米罗:贵霜钱币所见的密特拉"
+    author: "杨巨平团队"
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E7%B1%B3%E7%BD%97%3A%E8%B4%B5%E9%9C%9C%E9%92%B1%E5%B8%81
     access: open
-    note: "Legge经典。Mithras崇拜若非小亚细亚本土,可能独立于波斯人来到那里。但根源无疑在波斯"
+    note: "暨大历史系2018。米坦尼-赫梯盟约首见Mi-it-ra五神(密特拉/伐罗拿/因陀罗/双子神)。贵霜钱币Miiro形象考"
+  - type: paper
+    title: "Formation of the Mithraic Temples in Northwestern Iran and Comparison with Roman Mithraeums"
+    author: "Javad Shekari Niri"
+    year: 2019
+    language: en
+    url: https://www.semanticscholar.org/paper/Niri-Mithraic-Temples
+    access: open
+    note: "Shekari Niri 2019。西北伊朗Mithraic神庙(如Verjuy)与罗马Mithraeum建筑学比较,证明伊朗独立密仪存在"
+  - type: paper
+    title: "The Concept of Mithra in the Ancient Iranian Mythology"
+    author: "Mahlagha Mortezaei & Mohsen Abolqasemi"
+    year: 2016
+    language: en
+    url: https://doi.org/10.5539/ACH.V8N2P76
+    access: open
+    note: "Mortezaei & Abolqasemi 2016。Mithra在古伊朗神话中的完整概念图谱,词源(mit-'联结')至神学功能"
 
 structured_data:
-  epithets: [契约(mithra), 千耳万目, 太阳神(Sol Invictus罗马)(中古波斯Mihr即太阳), 屠公牛者tauroctonos(罗马), 战神, 誓约的守护者, 光明的判官]
-  vedic_form: [Mitra(吠陀,与Varuna对偶,契约与法律)]
-  avestan_form: [Miθra(Mehr Yasht/Yasht 10最长yasht)]
-  middle_persian: [Mihr(中古波斯语)]
-  roman_form: [Mithras(密教,前1-4世纪)]
-  weapons: [标枪 · 火炬 · 短剑(罗马tauroctony中用于屠牛)]
-  mount: [白马 · 太阳车]
-  attributes_roman: [屠公牛 · 蝎子咬牛睾丸 · 蛇喝血 · 狗喝血 · 乌鸦助手 · 火炬手Cautes黎明+Cautopates黄昏]
-  cult_center: [Mehr Yasht(伊朗Yasht 10) · 罗马Mithraeum地下神殿(全帝国)]
+  epithets: [千耳万目, 契约见证者, 驱驷白马者, 广阔草地之主]
+  domains: [契约, 誓言, 太阳, 正义, 战争, 牧畜]
+  cult_center: [伊朗Kangavar, 亚美尼亚Bagaran, 罗马Ostia Mithraeum]
   timeline:
-    - 前1500年: 印伊共同Mithra-Mitra
-    - 前1200年: 印伊分裂后,吠陀Mitra与伊朗Mithra分道
-    - 前600年: 波斯Achaemenid时期Mithra重要yazata
-    - 前350年: Artaxerxes II铭文提及Mithra
-    - 前100年: 罗马Mithras密教在西西里出现
-    - 前1-4世纪: 罗马Mithraeum全帝国分布(黑海到英国哈德良长城)
-    - 3世纪: Mithras密教达到高峰,与基督教并列竞争
-    - 313年: Constantine皇帝宣布宽容基督教
-    - 391年: Theodosius皇帝禁止异教,Mithras密教衰落
-    - 中古伊斯兰: Mihr作为波斯诗学意象延续
+    - 前1400: 米坦尼-赫梯Suppiluliuma盟约首见Mi-it-ra名号
+    - 前1200: Zoroaster改革保留Mithra为Yazata
+    - 前500: Achaemenid Artaxerxes II铭文首见并列Ahura Mazda-Anahita-Mithra
+    - 60: Tarsus海盗东传Mithras至罗马
+    - 274: Aurelian立Sol Invictus国教包含Mithras元素
+    - 至今: 伊朗Mihragan节秋分庆祝
 
 variants:
   - region: 吠陀印度
-    version: Mitra(与Varuna对偶)
-    note: Rig Veda中Mitra与Varuna并称"Mitra-Varuna"对偶主权(Dumezil)。Mitra=白天/法律/契约,Varuna=黑夜/秘密/强制
-  - region: Younger Avesta / Mehr Yasht
-    version: 伊朗Mithra
-    note: Yasht 10(Mehr Yasht)是Younger Avesta最长yasht,145节,全献Mithra。契约见证+太阳战神+救护者
-  - region: Achaemenid
-    version: 帝国神
-    note: 前5世纪起王铭文提及Mithra,Artaxerxes II尤其重视。Mithra与Ahura Mazda同盟守护帝国
-  - region: 中古波斯Mihr
-    version: 太阳月
-    note: 中古波斯语Mihr既是Mithra名字,也是"太阳"与"爱"的普通词。Mihr月(伊朗历第七月,秋分开始)以其为名
-  - region: 罗马Mithras密教
-    version: 神秘教
-    note: 前1-4世纪罗马军团神秘教,七级入门(Corax乌鸦/Nymphus新郎/Miles兵/Leo狮/Perses波斯人/Heliodromus太阳信使/Pater父),地下Mithraeum,tauroctony屠牛核心图像
-  - region: 现代祆教
-    version: 保留延续
-    note: 印度Parsi/伊朗Zoroastrian社区仍崇拜Mihr作为主要yazata,Mihragan秋分节庆祝
+    version: Mitra
+    note: 直接同源,与Varuna组Mitra-Varuna对偶,契约与法度神
+  - region: 罗马帝国
+    version: Mithras
+    note: 军团密仪,7阶入教,tauroctony杀牛图,与伊朗Mithra关系有争议
+  - region: 亚美尼亚
+    version: Mihr
+    note: 亚美尼亚阿尔达什王朝主神,Bagaran神庙
+  - region: 贵霜
+    version: Miiro
+    note: Kaniska钱币背面太阳神形象
 
 parallels:
-  - culture: 吠陀印度
-    entity: Mitra(与Varuna对偶)
+  - culture: 吠陀
+    entity: Mitra
     relation: 直接同源
-    note: 吠陀Mitra与阿维斯塔Miθra同源,印伊分裂前共同神。语言学证据无可置疑
-    source_ref: Alamdar & Ghasemi 2014
+    note: 前1400米坦尼盟约五神组Mitra-Varuna-Indra-Nasatya,与吠陀完全对应
+    source_ref: 杨巨平2018
   - culture: 罗马
-    entity: Mithras / Sol Invictus不可战胜的太阳
-    relation: 直接后裔
-    note: 罗马Mithras密教前1-4世纪广泛,与Sol Invictus(不可战胜的太阳)合流。Constantine皈依基督教前是Sol Invictus信徒
-  - culture: 基督教
-    entity: 12月25日耶诞 / Christ Sol Invictus / 屠牛象征
-    relation: 深度影响与竞争
-    note: Sol Invictus节12月25日可能影响耶诞日期选择。罗马早期基督教艺术中基督被描绘为Sol Invictus。Mithras与基督教前4世纪并列竞争
-    source_ref: Akhondi & Akbari 2017
-  - culture: 摩尼教
-    entity: Mihr Yazd
-    relation: 部分吸收
-    note: Mani融合Mithra为"Mihr Yazd"(太阳使者),负责将灵魂引入光明王国
-  - culture: 佛教东亚
-    entity: 弥勒Maitreya
-    relation: 词源同源
-    note: 佛教弥勒Maitreya(未来佛)词源上与Mitra相关(同印欧词根),可能有神学接触。学界仍在争论
+    entity: Mithras/Sol Invictus
+    relation: 名号借用
+    note: Mithras密仪7阶,tauroctony源起有争议,可能受伊朗Mithra启发但独立发展
+    source_ref: Campos Méndez 2005
+  - culture: 希腊
+    entity: Helios赫利俄斯
+    relation: 功能对偶
+    note: 太阳神职能重叠,希腊化时期Mithra常译Helios
+    source_ref: Cantera 2017
   - culture: 中国祆教
-    entity: 密日神 / Mihr月节
-    relation: 东传变体
-    note: 中古中国祆教徒庆祝Mihragan节,称"密日"。粟特商人东传Mihr崇拜
-  - culture: 现代星期
-    entity: 星期日Sunday / Sonntag / dimanche
-    relation: 太阳日谱系
-    note: 现代西方"星期日"作为太阳日与休息日,词源上部分与Mithra-Sol Invictus有关
+    entity: 密日神
+    relation: 直接东传
+    note: 唐代长安袄祠密日神即Mithra,粟特商人东传
+    source_ref: 罗世平2012
+  - culture: 摩尼教
+    entity: Mihryazd第三使者
+    relation: 神名借用
+    note: Mani将Mithra吸收为救赎神学中的"第三使者"
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-09"
-updated_at: "2026-07-09"
+created_at: "2026-07-17"
+updated_at: "2026-07-17"
 ---
 
-## 一、导读：世界最持久的契约神
+## 一、导读：世界最早以文本证据可考的印欧神
 
-**Mithra**（*miθra*"契约"，中古波斯语 *Mihr*，罗马 *Mithras*）是**世界宗教史最持久、最跨文明的神**之一——**从前 1500 年印伊共同祖先，到 4 世纪罗马帝国 Mithras 密教，到现代 Parsi 社区的 Mihragan 节，Mithra 崇拜延续了 3500 年**。他跨越 **吠陀印度、伊朗琐罗亚斯德、罗马帝国、佛教东亚、现代波斯诗学** 五大文明——**没有任何其他神拥有如此广泛与持久的跨文化影响**。
+**Mithra**（古阿维斯陀 *Miθra*，中古波斯 *Mihr*，波斯语 *مهر*）是琐罗亚斯德教最重要的 Yazata 之一，也是**世界上最早以文本证据可考的印欧神祇**——他的名字出现在**前 1400 年左右米坦尼国王 Suppiluliuma 与赫梯国王的盟约**中，与 Varuna、Indra、Nāsatyas 一同被召为盟誓见证（暨南大学历史系团队 2018）。这一发现的意义无与伦比：它同时证明了印伊分化前的共同神话层、Mithra 作为契约神的原初职能、以及神名的语言学同源关系。
 
-Alamdar Moghaddam & Ghasemi 2014 论证：**吠陀 Mitra 与阿维斯塔 Miθra 是同一位神的两个分支**——他们的名字、职能、结构完全对应，是**印欧比较宗教学最经典的同源案例**之一。这也意味 **Mithra 神学早于印伊分裂**——即**早于前 1500-1200 年**——**远比 Zoroaster 本人更古老**。
+## 二、词源与核心职能
 
-Zoroaster **保留 Mithra**（不同于对 Indra 的贬为恶魔）——这是意味深长的选择。Zoroaster 反对 Indra 的"暴力战神"面向，但认同 Mithra 的"**契约与见证**"面向。**契约作为文明的基石**是 Zoroaster 神学的核心——因此 Mithra 成为琐罗亚斯德教中**最重要的 yazata**（次级神）之一。
+Mortezaei & Abolqasemi（2016）语言学分析：Mithra 源自印欧词根 ***mei-*/*mit-***，意为"联结、契约"，与拉丁 *mūtāre*、英语 *mutual* 同源。因此他的**原初职能是契约之神**——不是抽象的"法"，而是具体的"人与人之间盟约的神圣守护者"。他的**次生职能是太阳与正义**——因为太阳"看见一切"，成为契约违背与遵守的最佳见证。
 
-## 二、Mehr Yasht：Yasht 10 最长赞歌
+Boyce（1969）SOAS 奠基论文指出，Mithra 在 Zoroaster 改革前是**印伊层面的 Ahura 类高神**，Zoroaster 将其**降为 Yazata**（可敬拜者）以维护 Ahura Mazda 的至高一神地位——但保留了他的丰富神话与礼仪。
 
-**Mehr Yasht**（"Mithra 之赞"，Yasht 10）是**Younger Avesta 最长的 yasht**——**145 节**，**全部献给 Mithra**。它是**世界最古老的完整神格化诗篇之一**——比希伯来诗篇更古老，与吠陀 Mitra 赞歌可以并列。
+## 三、Yasht 10：现存最长的 Yazata 赞歌
 
-Yasht 10 的开篇即宣告 Mithra 的核心属性：
+*Mihr Yasht*（Yasht 10）是 Young Avestan 时期最著名的 Yazata 赞歌，共 145 节，是**现存 Avesta 文本中最长的单神赞歌**。Gershevitch（1959）经典校勘译注仍是标准工具书。核心意象：
 
-> "**Ahura Mazda 对 Zoroaster 说：当我造 Mithra，广阔草原之主，我造他与我自己一样有价值可敬拜。谁破坏契约，Zoroaster，谁就毁灭整个国家；他伤害义人像杀死一百个 daeva 一样。**"
+- Mithra 有**"千耳、万目"**（sahasra-gaosha, baevare-chashman），无所不见
+- 驾**驷白马金战车**跨越天空，胡尔瓦塔跟随
+- 手持**Vazra**（金杵，与吠陀 Indra 的 *vajra* 同源）打击背约者
+- 掌管"**广阔的草地**"（vouru-gaoyaoiti），保护牧民财产不被劫掠
+- 违约者（*mithrō-druj*，"契约欺诈者"）遭其鬼怒，家园被毁
 
-这一宣告揭示 Mithra 神学的核心：**Mithra 是契约的化身。破坏契约的罪行等同于最深的邪恶**——**比杀死一百个恶魔更严重**。这一"**契约神圣性**"神学是**世界法律哲学的最古老神学基础**之一。
+## 四、Achaemenid 三合一：Ahura Mazda-Anahita-Mithra
 
-## 三、契约：Mithra 的原初义
+Achaemenid 帝国晚期，**Artaxerxes II（前 405-359）苏萨与哈马丹铭文首次并列三神**："愿 Ahura Mazda、Anahita 与 Mithra 保护我"（Boyce 1975 卷 2）。这一"官方三合一"表明：
 
-**mithra** 一词在印欧语言中的原义就是**"契约"**（*contract, covenant, treaty*）——名字与职能完全一致。这在**世界宗教史极为罕见**——大多数神的名字与职能是分离的（如 Zeus"天空"却主管一切，Yahweh"我是"却是雷神战神），只有**Mithra 一词即职能**。
+- Mithra 在 Achaemenid 皇室宗教中地位极高，接近三大神之一
+- Anahita 的引入反映 Achaemenid 综合近东女神崇拜
+- 此三合一被后来 Parthian 与 Sasanian 王朝延续
 
-这一"**契约即神**"的观念意义深远：
-- **人与人契约**（婚姻、商业、友谊）
-- **国与国契约**（条约、和约）
-- **人与神契约**（誓约、宗教承诺）
+## 五、Mihragan：秋分主节
 
-**所有形式的契约都由 Mithra 见证与保护**。破坏任何契约都激怒 Mithra——他派疾病、失败、死亡惩罚违约者。**Mithra 是"世界最早的诚信之神"**——比希腊 Horkos（誓约之神）、罗马 Fides（信义女神）都更古老、更系统。
+Cantera（2017）从 Avesta 礼仪日历角度论证：**Mihragan（秋分节）是仅次于 Nowruz（春分）的祆教第二大节**。Mithra 主管从春分到秋分的日照期（即"光明半年"），Mihragan 在秋分标志"光明王权"的顶点。Sasanian 时期，国王在此日于王宫接受贡赋，象征太阳神监督下的社会契约更新。伊朗 Yazd 与印度 Parsi 社区至今保留此节。
 
-## 四、千耳万目：无所遗漏的监视
+## 六、与吠陀 Mitra 的同源性
 
-Mehr Yasht 反复强调 Mithra 的**监视能力**：
+米坦尼盟约（前 1400）的发现（暨南大学历史系 2018）证明：
+- 前 2000 年印伊共同期，Mitra-Varuna 为对偶最高神
+- **Mitra 掌契约（内部秩序），Varuna 掌宇宙律（外部秩序）**——Georges Dumézil"三功能理论"中"第一功能"的两侧面
+- 印度分化后 Mitra 地位下降、Varuna 上升
+- 伊朗分化后 Mitra→Mithra 地位保持，Varuna→Ahura 类神（甚至可能就是 Ahura Mazda 的前身之一）
 
-> "**他有一千耳，有一万眼，从不睡眠，永远警醒，站在天上的高处。**"
+这是印欧宗教史最著名的分化案例，被 Boyce、Dumézil、Kellens 等三代学者反复讨论。
 
-**"千耳万目"**（*hazangra-gaoša baēvara-čašman*）是 Mithra 的标志。他**无所不见、无所不闻**——**任何秘密违约、任何暗中的谎言都逃不过他**。这一"**无所不见的监视神**"意象**深刻影响**：
-- **希伯来耶和华**：诗篇 139 "我坐下我起来你都晓得"
-- **基督教三位一体上帝**：全知
-- **伊斯兰真主**："他知道秘密与更隐秘之事"（*al-Ghayb*）
-- **现代福柯**：全景监狱（Panopticon）作为现代权力隐喻
+## 七、罗马 Mithras：借用还是独立？
 
-**Mithra 是世界最早的"全知监视者"神**——比其他神学的全知观念早**千年**。
+Campos Méndez（2005）与 Shekari Niri（2019）近年推动**"独立起源论"**：
+- 罗马 Mithras 密仪（Mithraea）在庞贝、Ostia、Dura-Europos、伦敦等地发现遗迹
+- **7 阶入教**（Corax乌鸦-Nymphus新郎-Miles士兵-Leo狮-Perses波斯人-Heliodromus日程使-Pater父）
+- 核心图像 **Tauroctony**（Mithras 杀公牛）在伊朗 Mithra 传统中**并不存在**
+- 因此罗马 Mithras 可能是**在军团中独立形成的希腊化-伊朗混合密仪**，仅借用 Mithra 神名与部分意象
 
-## 五、太阳神化：中古波斯 Mihr
+但 Shekari Niri（2019）在伊朗西北 Verjuy 等地发现**独立于罗马体系的伊朗 Mithraic 神庙**，暗示密仪传统本身可能同源、罗马版是其一支。此问题至今未有定论。
 
-在 Achaemenid 后期（前 4 世纪）至 Sasanian 时期（3-7 世纪），**Mithra 与太阳融合**——**中古波斯语中，Mihr 既是 Mithra 之名，也是"太阳"的普通词，也是"爱"的普通词**——**一个词涵盖三个概念**。
+## 八、贵霜 Miiro 与丝路东传
 
-这一融合的神学逻辑：
-- **契约见证**（Mithra 见证一切）
-- **太阳照亮**（Sol 照见一切）
-- **两者结合**：**契约见证 = 太阳照亮**——**Mithra 就是照亮真相的太阳**
+杨巨平团队（2018）通过 **Kaniska I（125-150 CE）金币**背面铭文考证：**Miiro** 是贵霜官方神谱中的太阳-Mithra 形象，与 Iranian Mithra 直接对应。贵霜作为丝路核心，将 Mithra 崇拜向东传至：
 
-**Mihr 月**（伊朗历第七月，秋分开始）以其为名。**Mihragan**（Mithra 节，秋分庆典）是伊朗最重要古老节日之一——至今 Parsi 与伊朗琐罗亚斯德社区仍庆祝。
+- **粟特商人**：以 Mithra 为商业契约保护神，"发誓遵守合同"
+- **唐代长安/洛阳祆祠**：设"密日神"崇拜（罗世平 2012）
+- **摩尼教**：Mani 将 Mithra 吸收为 **Mihryazd（第三使者）**——负责从月轮引导灵魂上升的救赎神
+- **敦煌摩尼教文书**：以 Mithra 为"应主明使"
 
-## 六、罗马 Mithras 密教
+李晓嘉（2023）拜占庭史家 Ammianus 与 Agathias 关于波斯"崇水"记载的研究，同样涉及 Mithra-Anahita 崇拜的东罗马视角。
 
-**罗马 Mithras 密教**（*Mysteria Mithrae*）是**世界宗教史最神秘的案例之一**——**前 1-4 世纪罗马帝国广泛崇拜的神秘教**，与基督教平行发展、并列竞争，最终被基督教取代。
+## 九、亚美尼亚 Mihr 与后代影响
 
-**关键事实**：
-- **地理**：从**黑海到英国哈德良长城**，从**莱茵河到北非**——**罗马帝国 400+ Mithraeum 遗址已发现**
-- **主体**：**罗马军团**——士兵、军官、边境驻军的核心宗教
-- **性别**：**只有男性**（一说唯一排斥女性的罗马宗教）
-- **秘密**：**保密仪式**，无写传，只能通过考古与外部记载重构
+亚美尼亚 **Mihr**（源自 Mithra）是 Artaxid 王朝的国神，其 Bagaran 大神庙至 4 世纪基督化才被摧毁。Russell（2019）指出，Mihr 崇拜的一些元素被吸收进亚美尼亚基督教对圣 Sergius、圣 George 的崇拜。此外：
 
-**Bremmer 2014 与 Legge 2009 论罗马 Mithras 密教的波斯起源**——虽然它已经**大量希腊-罗马化**，但保留几个明确波斯细节：
-- **与波斯 Mithrakana 秋分节的关联**
-- **波斯服饰**（尖帽 *Phrygian cap*）
-- **波斯符号**
+- 中世纪波斯诗歌中 *Mihr* 演变为"爱、太阳、太阳月（Mihr 月即 9 月）"的诗意词
+- 现代波斯语 *Mehr* 仍是常用女名，意"友爱、光辉"
+- 伊朗历第七月 Mehr（9 月 23 日-10 月 22 日）保留 Mithra 神名
 
-## 七、Tauroctony：屠公牛的核心图像
+## 十、Mythos Atlas 编者按
 
-Mithras 密教的**核心图像**是**tauroctony**（"屠牛"）——**Mithras 屠杀一头公牛**的场景。**每个 Mithraeum 都有此浮雕**——非常统一，几乎公式化：
+**奠基作**：Mary Boyce（1969）"On Mithra's part in Zoroastrianism"—— Yazata 定位理论；Ilya Gershevitch（1959）*The Avestan Hymn to Mithra*—— Yasht 10 校勘标准；Georges Dumézil《Mitra-Varuna》（1948）—— 印欧比较宗教学奠基。
 
-**图像元素**：
-- **Mithras**：年轻男子，尖帽，波斯服饰，跪在公牛背上
-- **公牛**：Mithras 用左手按住牛头，右手持短剑插入牛颈
-- **蝎子**：**咬公牛的睾丸**
-- **蛇**：**从牛伤口喝血**
-- **狗**：**从牛伤口喝血**
-- **乌鸦**：**旁边观看**（信使）
-- **火炬手**：Cautes（黎明，火炬向上）与 Cautopates（黄昏，火炬向下）
-- **太阳月亮**：上方角落
+**最新研究**：Cantera（2017）礼仪日历新视角；Shekari Niri（2019）独立伊朗 Mithraic 神庙考古；Campos Méndez（2005）罗马-伊朗转化过程；中文界杨巨平（2018）米坦尼-贵霜完整链条。
 
-**这一图像的意义至今学界争议**——最主流的解释：**天文学-宇宙学解释**（David Ulansey 1989）。图像中的元素对应星座：**公牛=金牛座、蝎子=天蝎座、蛇=长蛇座、狗=大犬座、乌鸦=乌鸦座**——**屠牛象征某种天文历元的转变**（可能是春分点从金牛座移至白羊座，前 2000 年发生的**岁差**现象）。
+**一手文献**：米坦尼-赫梯盟约（前 1400）Boghazköy 楔形档案；Yasht 10 *Mihr Yasht*；Artaxerxes II 苏萨-哈马丹铭文；Plutarch《论 Isis 与 Osiris》47；罗马 Mithraea 铭文与图像；贵霜金币；敦煌摩尼教《下部赞》。
 
-## 八、七级入门：从乌鸦到父
+**深度追踪**：伊朗 Kangavar 神庙群（Achaemenid-Parthian）、罗马 Ostia Mithraea、伦敦 Walbrook Mithraeum、亚美尼亚 Bagaran 遗址、乌兹别克 Sogd 遗址为核心考古地。
 
-Mithras 密教有**七级入门**（*seven grades*）——**世界最早的系统性密教入门等级**：
-
-1. **Corax**（乌鸦）—— 信使
-2. **Nymphus**（新郎）—— 婚约者
-3. **Miles**（士兵）—— 战士
-4. **Leo**（狮子）—— 火与暴力
-5. **Perses**（波斯人）—— 见证者
-6. **Heliodromus**（太阳信使）—— 光明
-7. **Pater**（父）—— 大祭司
-
-这一"**七级**"结构对应**七行星、七圣元素、七日**——**世界最早的完整"神秘等级"体系**。**基督教七圣职**（读经/守门/驱魔/侍从/副执事/执事/司铎）、**Kabbalah 七 sefirot**、**佛教七宝**——**"七"作为神秘等级的西方传统**很大程度源自 Mithras 密教。
-
-## 九、12 月 25 日：耶诞日的起源？
-
-**Sol Invictus**（"不可战胜的太阳"）—— 3 世纪罗马皇帝 Aurelian 于 274 年立为国教——的诞生节是 **12 月 25 日**（冬至后太阳"重生"）。**Mithras 与 Sol Invictus 高度合流**——罗马晚期两者几乎不分。
-
-**基督教选择 12 月 25 日作为耶诞日**——**这一日期不见于圣经**——最主流的学术解释是：**教会在 4 世纪有意识地将耶诞置于 Sol Invictus 节，以吸引/取代 Sol Invictus/Mithras 崇拜者**。**Akhondi & Akbari 2017 论 Mithra 对基督教的影响**——**基督成为"世界的光"（约翰福音 8:12）与 Sol Invictus/Mithras 的光神学呼应**。
-
-**其他 Mithras-基督教并行元素**：
-- **12 月 25 日诞生**
-- **12 位使徒/门徒**（Mithras 有 12 门徒？争议中）
-- **面包与酒的圣餐**（Mithras 密教有类似仪式）
-- **地下神殿-地下教堂**（早期基督教徒也在地下墓穴聚会）
-- **周日**（Sol Invictus/Mithras 的日子）
-
-**注意**：**大多数学者反对"基督教直接抄袭 Mithras"的简单说法**——两者的关系是**平行发展、竞争、部分吸收**，而非单向抄袭。但**基督教在选择象征、日期、图像时确实考虑了 Mithras 的影响**。
-
-## 十、Constantine 皇帝的转向
-
-前 300 年前后，**Mithras 密教是罗马军团最主流的宗教**——**罗马皇帝多数是 Sol Invictus/Mithras 信徒**。**Constantine 大帝在皈依基督教前是 Sol Invictus 信徒**——他的钱币上长期铸有 Sol Invictus 图像。
-
-**312 年 Constantine 在米尔维安桥之战前的"十字架异象"**——**"以此得胜"**（*in hoc signo vinces*）——**转向基督教**。这一转向**决定了西方文明未来 1700 年的宗教方向**——**基督教胜出**，**Mithras 密教衰落**。
-
-**391 年 Theodosius 皇帝禁止所有异教**——Mithraeum 被拆毁、被改建为基督教堂（罗马 San Clemente 教堂下方仍有完整 Mithraeum，是最完整的现存 Mithras 神庙）。**Mithras 密教在西欧从此消失**，只在考古中被重新发现。
-
-## 十一、佛教弥勒 Maitreya 的可能关联
-
-**佛教未来佛弥勒**（*Maitreya*）的名字**在词源上与 Mitra/Mithra 相关**——两者共同印欧词根 *mei-*"契约/友谊"。学界对**Mithra 是否影响弥勒**长期争论：
-
-- **同源假说**（Boyce, Grenet 等）：印欧共同 Mitra 分化为吠陀 Mitra、伊朗 Mithra、佛教 Maitreya
-- **独立发展说**（部分佛教学者）：Maitreya 词源为梵语 *maitrī*（"友谊/慈"），独立于 Mithra
-
-**折中观点**（主流现代学者）：**Maitreya 源自共同印欧词根，但其"未来佛"神学是佛教独立发展**——受**Zoroaster 的 Saoshyant 救主论**影响（丝绸之路上的贵霜帝国是佛教与琐罗亚斯德教交汇点）。
-
-**贵霜帝国**（Kushan Empire，公元 1-3 世纪）——**将 Mithra 与 Buddha 并列铸币**——是这一文化融合的最直接证据。**弥勒作为"世界终末的救主佛"**结构上与**Saoshyant 作为"世界修复的救主"**惊人对应——这可能是**Mithra 神学通过 Saoshyant 中介影响 Maitreya**的证据。
-
-## 十二、意义：契约文明的守护者
-
-Mithra 神学的最深刻贡献，是它将**"契约"**神格化——**世界最早、最系统的"诚信神学"**。**在 Mithra 面前**：
-- **不能撒谎**（他千耳万目见证）
-- **不能违约**（惩罚等同杀百恶魔）
-- **要成为守约者**（*ashavan*"义人"）
-
-这一"**契约神学**"是**文明本身的神学基础**——**没有契约信任，就没有商业、婚姻、政治、宗教**。**Mithra 是文明的守护神**——他保护**人类共同生活的最基本可能性**。
-
-**从吠陀 Rig Veda 的 Mitra 赞歌，到阿维斯塔 Mehr Yasht 145 节，到罗马军团哈德良长城的地下 Mithraeum，到 Constantine 皇帝的金币，到基督教的 12 月 25 日耶诞节，到中国祆教徒的密日崇拜，到贵霜帝国的双头 Buddha-Mithra 铸币，到现代 Parsi 社区的 Mihragan 秋分节**——**Mithra 是世界文明中最持久、最广泛的神学存在之一**。
-
-## 十三、Mythos Atlas 编者按
-
-- **奠基作**：Boyce 1975-1991 · Ulansey 1989《The Origins of the Mithraic Mysteries》
-- **最新研究**：Akhondi & Akbari 2017 · Shekari Niri 2019 · Alamdar & Ghasemi 2014 · Russell 2019 · Bremmer 2014 · Campos Méndez 2005
-- **一手文献**：Rig Veda Mitra 赞歌 · Mehr Yasht（Yasht 10, 145 节）· Vendidad · Denkard · 罗马 Mithraeum 铭文
-- **考古证据**：400+ 罗马 Mithraeum · 波斯波利斯浮雕 · 贵霜铸币
-- **跨文明谱系**：吠陀 Mitra → 阿维斯塔 Miθra → 中古波斯 Mihr → 罗马 Mithras → 佛教弥勒（可能）→ 现代 Sunday/Sonntag/dimanche
-- **深度追踪**：SOP-01 已完成 Akhondi-Akbari/Shekari-Niri/Alamdar-Ghasemi/Russell/Bremmer/Campos-Mendez/Legge 七篇学术索引
-- **神学地位**：世界最持久、最跨文明的神，是"契约文明"的守护神原型
-- **本批完成**：琐罗亚斯德教第一批 5 条（伞形 + Ahura Mazda + Angra Mainyu + Zoroaster + Mithra）——覆盖至高神/邪灵/先知/契约神,构成世界最早伦理二元神学骨架
+**神学地位**：Mithra 是**世界宗教史上跨度最长、跨文化传播最广的神祇之一**——从前 1400 年米坦尼盟约到当代伊朗 Mihregan 节，从吠陀 Mitra 到罗马 Mithras、贵霜 Miiro、亚美尼亚 Mihr、摩尼教 Mihryazd、中国祆教密日神——他的名字与"契约、太阳、正义"的语义束**在整个欧亚大陆保持了 3400 年的连续性**，堪称人类文明最持久的神名之一。
