@@ -1,218 +1,194 @@
 ---
 id: hittite-mythology-corpus
-name_primary: 赫梯-胡里特神话体系 安纳托利亚青铜时代诸王与神权
-name_original: Hattili / Hurrian Cuneiform Corpus
-name_aliases: [赫梯神话, Hittite Religion, 安纳托利亚青铜时代宗教, Anatolian Bronze Age Religion]
+name_primary: 赫梯神话综论 千神之国的青铜时代宗教
+name_original: Hittite Mythology / Ḫattuša Pantheon / DINGIRMEŠ LIM
+name_aliases: [赫梯宗教, 安纳托利亚青铜时代宗教, 千神之国, Ḫatti Religion]
 name_translations:
-  zh: 赫梯-胡里特神话与宗教体系
-  en: Hittite-Hurrian Mythology and Religion
+  zh: 赫梯神话综论
+  en: Hittite Mythology Corpus
+  de: Hethitische Religion
+  tr: Hitit Mitolojisi
 
 hero_image: /images/entries/hittite-mythology-corpus.jpg
-hero_image_alt: 哈图沙城狮门与 Yazılıkaya 岩龛十二神行列浮雕
-hero_image_credit: AI generated · Hittite orthostat relief style
+hero_image_alt: 安纳托利亚Yazılıkaya岩石圣所浮雕众神列队场景
+hero_image_credit: AI generated · Hittite rock relief / Yazılıkaya style
 
-culture_path: 亚洲/安纳托利亚/赫梯
+culture_path: 亚洲/西亚/安纳托利亚/赫梯帝国
 entity_type: motif
-era: 约公元前1650年—前1180年
-geo_region: 安纳托利亚高原、北叙利亚
+era: 约公元前1650年—前1180年（古王国—帝国期）
+geo_region: 安纳托利亚中部（Ḫattuša 今土耳其Boğazkale）至叙利亚北部
 
-summary: 赫梯宗教以哈图沙皇家档案馆楔形文字泥板为主要来源（CTH catalog, Laroche 1971），融合安纳托利亚土著哈梯传统与胡里特神系。Piotr Taracha（2009）系统重建了赫梯万神殿的层级结构；Volkert Haas（1994）的奠基性手册覆盖仪式、节日与神谱。Gary Beckman（1989）编订了赫梯神话文本集。Kumarbi-诸王在天循环经Christian Zgoll（2021）确认为赫梯-胡里特神权更迭的核心叙事。
+summary: 赫梯帝国以"千神之国"（DINGIRMEŠ LIM）自称，融合哈梯、卢维、胡里安、美索不达米亚多重传统，由Hoffner（2025新版）、Beckman、Taracha（2009）、Schwemer等确立为近东宗教史核心研究对象。
 
-attributes: [cuneiform archive, state cult, syncretism, Hattic-Hurrian fusion, storm god supremacy, Yazilikaya relief, purulli festival, AN.TAH.SUM festival, royal ritual, panku assembly]
+attributes: [多神融合, 千神之国, 消失神主题, 屠龙神话, 王后神学, 洁净仪式, 岩石圣所, 楔形文字祷文]
 
 primary_sources:
   - type: book
-    title: "Religions of Second Millennium Anatolia"
-    author: "Taracha, P."
+    title: "Hittite Myths, Second Edition"
+    author: "Harry A. Hoffner Jr."
+    year: 2025
+    language: en
+    url: https://doi.org/10.2307/jj.25577264
+    access: paywall
+    note: "SBL Writings from the Ancient World 系列奠基作最新修订版，赫梯神话文本翻译标准"
+  - type: book
+    title: "Religions of Second Millennium Anatolia in the Hittite Period"
+    author: "Piotr Taracha"
     year: 2009
     language: en
-    access: offline
-    note: 当代赫梯宗教研究奠基之作，系统重建万神殿层级结构、节日历法与祭司制度，取代Haas成为首选手册
-  - type: book
-    title: "Geschichte der hethitischen Religion"
-    author: "Haas, V."
-    year: 1994
-    language: de
-    access: offline
-    note: 赫梯宗教的百科全书式手册，覆盖哈梯底层、胡里特影响、仪式文本与地方崇拜，至今为最全面的参考
-  - type: book
-    title: "Hittite Myths"
-    author: "Hoffner, H. A."
-    year: 1998
-    language: en
-    url: https://www.sbl-site.org/publications/Books.aspx
+    url: https://www.harrassowitz-verlag.de/
     access: paywall
-    note: 赫梯神话文本的标准英文译注集，涵盖Illuyanka、Kumarbi Cycle、Telipinu失踪等核心叙事
-  - type: book
-    title: "Catalogue des Textes Hittites"
-    author: "Laroche, E."
-    year: 1971
-    language: fr
-    access: offline
-    note: 赫梯楔形文字泥板的标准目录系统（CTH编号），所有赫梯学研究的基础工具
-  - type: book
-    title: "Hittite Diplomatic Texts"
-    author: "Beckman, G."
+    note: "赫梯帝国宗教通史，划分哈梯层、卢维层、胡里安层三重传统"
+  - type: paper
+    title: "Two Festivals Celebrated by a Hittite Prince (CTH 647.I and II–III)"
+    author: "Piotr Taracha"
+    year: 2020
+    language: en
+    url: https://doi.org/10.7817/jaos.140.4.2020.rev073
+    access: paywall
+    note: "北中安纳托利亚地方崇拜新证据，补强哈梯宗教遗存"
+  - type: paper
+    title: "The tongue is a bridge — Communication between humans and gods in Hittite Anatolia"
+    author: "Gary Beckman"
     year: 1999
     language: en
-    access: offline
-    note: 赫梯条约与外交文书标准译本，包含神誓证人序列，反映万神殿等级
-  - type: book
-    title: "The Hittite 'Theogony' or Song of Going Forth (CTH 344): Stratification of Mythical Traditions"
-    author: "Zgoll, C."
-    year: 2021
-    language: en
-    url: https://doi.org/10.1163/15692124-12341324
-    access: paywall
-    note: 系统分析赫梯神谱文本的层累结构，确认Kumarbi叙事中的胡里特与本土安纳托利亚传统交织
+    url: https://www.semanticscholar.org/paper/Beckman-tongue-bridge
+    access: open
+    note: "赫梯人神沟通模式，献祭、祷文、消失神仪式的功能分析"
   - type: paper
-    title: "Celestial Aspects of Hittite Religion: An Investigation of the Rock Sanctuary Yazılıkaya"
-    author: "Zangger, E.; Gautschy, R."
-    year: 2019
+    title: "Stealing the Enemy's Gods — Godnap in Ancient Western Asia"
+    author: "Erika Diane Johnson"
+    year: 2011
     language: en
-    url: https://doi.org/10.1558/JSA.37641
-    access: paywall
-    note: 提出Yazılıkaya岩龛十二神行列为天文历法象征体系
-  - type: book
-    title: "The Splintered Divine: A Study of Istar, Baal, and Yahweh Divine Names and Divine Multiplicity in the Ancient Near East"
-    author: "Allen, S. L."
-    year: 2015
+    url: https://www.semanticscholar.org/paper/Johnson-godnap
+    access: open
+    note: "赫梯征服区'神像掳掠'政策促成万神殿扩张的机制研究"
+  - type: paper
+    title: "Onomasticon of the Hittite Pantheon"
+    author: "B. H. L. van Gessel"
+    year: 1998
     language: en
-    url: https://doi.org/10.5325/bullbiblrese.25.4.0549
+    url: https://doi.org/10.2307/3268214
     access: paywall
-    note: 比较语境中分析赫梯-胡里特神祇的识别与融合机制
-  - type: book
-    title: "Royal Hittite Instructions and Related Administrative Texts"
-    author: "Miller, J. L."
-    year: 2013
-    language: en
-    url: https://doi.org/10.2307/j.ctt5hjgsb
-    access: paywall
-    note: 赫梯国王指令中的宗教制度证据，揭示神庙管理与人神契约的执行机制
+    note: "赫梯神名总汇工具书，两卷本1069页"
+  - type: paper
+    title: "O Santuário de Yazılıkaya — um demarcador da etnicidade em Hatti"
+    author: "Batista & Selvatici"
+    year: 2016
+    language: pt
+    url: https://doi.org/10.5151/SOSCI-XISEPECH-GT21_266
+    access: open
+    note: "Puduḫepa王后主持万神殿整合改革的族群政治意涵"
 
 structured_data:
-  epithets: [dUTU URUtuli-na, dU NIR.GAL, 万神之王, king of the gods]
-  cult_center: [Hattusa, Nerik, Arinna, Aleppo, Samuha, Yazilikaya]
+  cult_center: [Ḫattuša, Arinna, Nerik, Tarḫuntašša, Yazılıkaya]
   timeline:
-    - c.1650 BCE: Old Kingdom时期国家宗教形成
-    - c.1450 BCE: 胡里特神系大规模融入
-    - c.1274 BCE: 新王国时期宗教制度达到顶峰
-    - c.1180 BCE: 帝国崩溃，宗教传统中断
+    - 约前1650: 古王国 Ḫattušili I 迁都 Ḫattuša 万神殿初步整合
+    - 约前1400: 中王国 引入胡里安神系（Teššub/Ḫebat）
+    - 约前1250: Ḫattušili III/Puduḫepa 完成万神殿神学改革
+    - 约前1180: 海上民族入侵 帝国崩溃 万神殿转入卢维新赫梯诸邦
+
+variants:
+  - region: 中安纳托利亚
+    version: 哈梯底层
+    note: Taru（风暴）、Ištanu/Eštan（太阳）本土名
+  - region: 南安纳托利亚/叙利亚北
+    version: 卢维层
+    note: Tarḫunt/Tarḫunza 之名支配新赫梯诸邦
+  - region: 东南部
+    version: 胡里安层
+    note: Teššub-Ḫebat 组合成为帝国官方神学核心
 
 parallels:
   - culture: 美索不达米亚
-    entity: Enlil / Marduk
-    relation: functional parallel
-    note: 赫梯风暴神Teshub与恩利勒/马尔杜克同为万神殿首席，均通过诛龙确立主权（Illuyanka vs Tiamat）（Beckman 1982）
-    source_ref: "Beckman 1982"
-  - culture: 希腊
-    entity: Kronos / Zeus
-    relation: structural parallel
-    note: Kumarbi（咬下阿努生殖器）与克洛诺斯（阉割乌拉诺斯）的对应关系自Güterbock（1948）以来已被广泛讨论（Zgoll 2021; Kelly-Zanon 2020）
-    source_ref: "Güterbock 1948; Zgoll 2021"
-  - culture: 迦南/乌加里特
-    entity: El / Baal
-    relation: typological parallel
-    note: 胡里特-赫梯神系中Kumarbi-El的对应，以及Teshub-Baal在风暴神功能上的重合（Allen 2015; Rutherford 2018）
-    source_ref: "Allen 2015"
-  - culture: 印度吠陀
-    entity: Indra / Vrtra
-    relation: motif parallel
-    note: Indra诛Vrtra与Teshub诛Illuyanka共享印欧龙战母题（Watkins 1995; Miller 2014）
-    source_ref: "Watkins 1995; Miller 2014"
+    entity: Adad/Iškur
+    relation: 风暴神对应
+    note: 赫梯楔形文本以 DU/DIŠKUR 符号书写 Tarḫunna
+    source_ref: Schwemer 2008
+  - culture: 迦南
+    entity: Baal 屠 Yam
+    relation: 屠龙母题共享
+    note: Illuyanka 与 Baal-Yam 神话同属近东 Chaoskampf 传统
+    source_ref: Wikander 2017
+  - culture: 印欧
+    entity: Indra 屠 Vritra
+    relation: 印欧屠龙诗学
+    note: Watkins 论 *gwhen- 屠龙公式贯通赫梯-希腊-吠陀
+    source_ref: Watkins 1995
+  - culture: 希伯来
+    entity: YHWH 战 Leviathan
+    relation: 混沌斗争
+    note: Day 论旧约屠龙意象源自迦南-安纳托利亚共同基底
+    source_ref: Day 1985
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-16"
-updated_at: "2026-07-16"
+created_at: "2026-07-17"
+updated_at: "2026-07-17"
 ---
 
-## 导读：安纳托利亚青铜时代的宗教图景
+## 一、导读：千神之国的地缘神学
 
-赫梯宗教是古代安纳托利亚高原上最为体系化的国家宗教之一，其文献来源主要来自哈图沙（Hattusa，今土耳其Boğazköy）皇家档案馆出土的数万块楔形文字泥板，以**CTH编号系统**（Laroche 1971）为分类标准。与美索不达米亚或埃及的一元主导不同，赫梯宗教呈现**三层融合结构**：底层是安纳托利亚土著哈梯（Hatti）的本地神祇与仪式；中层是印欧语赫梯人带来的自然崇拜；上层是公元前15世纪后大规模渗入的胡里特（Hurrian）神系（Taracha 2009, 1-28）。
+赫梯人自称其国为"千神之国"（*DINGIRMEŠ LIM*），这不是修辞夸张而是政治现实。Hoffner（2025 新版《Hittite Myths》）在导论中强调，赫梯万神殿并非一次成型的宗教结构，而是三百余年间通过征服、联姻、"神像掳掠"（*godnap*，Johnson 2011）与官方神学整合的层积产物。Taracha（2009）将其解剖为三层：**哈梯（Hattian）底层**——安纳托利亚原住民所奉的 Taru、Ištanu、Telipinu；**卢维（Luwian）中层**——印欧语系的 Tarḫunt、Runtiya、Šanta；**胡里安（Hurrian）上层**——由 Ḫattušili III 与王后 Puduḫepa 引入的 Teššub-Ḫebat 官方组合。
 
-这种融合的直接后果是：赫梯万神殿中出现了大量**对等神等式**（*Gleichsetzung*）——哈梯的风暴神Taru被等同为胡里特的Teshub，再被等同为苏美尔语的IM（风暴神限定词）。这种神名翻译机制不仅出现在宗教文本中，更深刻地嵌入国家条约的神誓序列中（Beckman 1999, 2-15）。
+这套堆叠结构在 Yazılıkaya 岩石圣所的浮雕中被永久固定：胡里安名字用卢维象形文字书写在赫梯的圣所墙壁上，Batista & Selvatici（2016）称之为"族群性的空间标定器"。
 
-## 核心文本与档案系统
+## 二、文献物质：楔形文字档案的规模
 
-赫梯宗教知识的重建完全依赖皇家档案。哈图沙遗址（自1906年德国东方学会发掘以来）已出土约3万块泥板或碎片，其中约三分之二为宗教内容（Haas 1994, 1-20）。这些泥板可分为五大类：
+Ḫattuša 宫廷档案约存 30000 块泥板碎片，其中约 10% 直接涉及仪式与神话。Karasu（1997）梳理档案系统时指出，赫梯人使用**分类目录**（*Sammeltafel* 与 CTH 编号，Emmanuel Laroche 建立）——这在近东文明中是罕见的图书馆学水准。神话文本仅是庞大祷文（CTH 371–389）、节庆手册（CTH 591–724）与治病仪式（CTH 390–500）语料的一小部分。
 
-**神话叙事**（mythological narratives）：包括Illuyanka龙战神话、Kumarbi诸王在天循环、Telipinu失踪神话、太阳神与牛的对话等。标准英译本见Hoffner（1998）。
+Hoffner 的分类系统被后续学者沿用：**Anatolian myths**（Illuyanka、Telipinu 等本土起源）、**Foreign myths**（Kumarbi 循环等胡里安输入）与**Hymns/Prayers**（Muršili II 瘟疫祷文等）。
 
-**仪式文本**（ritual prescriptions）：详述各种净化、替代、咒术仪式的步骤，尤其是"替代王"（*šar pūhi*）仪式和军事仪式。
+## 三、哈梯底层：本土的消失神传统
 
-**节日日历**（festival calendars）：描述国家节日的日程与仪轨，最重要的有**春季purulli节**、**AN.TAH.SUM节**（秋季）和**nuntarriyasha节**。
+哈梯人（非印欧、语系孤立）是赫梯之前安纳托利亚中部的主体族群。他们贡献了赫梯宗教最独特的**"消失神"母题**（*Verschwundene Gottheit*）：Telipinu、Ḫannaḫanna、太阳神、风暴神都可能因怒离席，导致宇宙秩序崩坏。Beckman（1999）指出，此母题不同于埃及/希腊的死亡-复活神话——**神并未死，只是缺席**，需通过洁净仪式、蜜蜂寻访、语言劝解将其请回。
 
-**祷文与誓言**（prayers and vows）：国王与王后的个人祷文，如Mursili II的瘟疫祷文和Puduhepa女王的誓言文本。
+Külahlı（2022）追踪"炉灶"（*ḫašša-*）一词，发现消失神仪式的空间锚点始终是家户中央的火炉，暗示这一神话源于新石器/铜石并用时代的家庭崇拜。
 
-**神谕与预兆**（oracles and omens）：赫梯人发展出独特的肉签（*extispicy*）、鸟卜（*augury*）和梦卜系统。
+## 四、卢维中层：印欧词根的显影
 
-## 万神殿层级结构
+卢维语属印欧语系安纳托利亚支。风暴神之名 **Tarḫunt/Tarḫunza** 出自原始印欧语 *terh₂- "征服、越过"，字面即"征服者"。Simon（*Weather in Indo-European*, 2023 论文集）为该词提出新词源方案，并与吠陀 Indra 的谓词 *tara-* 相联。
 
-Piotr Taracha（2009）基于条约神誓序列、节日文献和献祭清单，重建了赫梯万神殿的三层结构：
+新赫梯时期（前 1180–前 700）铁器时代诸邦——Karkemish、Malatya、Karatepe——继承的是卢维层，其石刻铭文（象形卢维文字）成为帝国崩溃后 anatolia 宗教连续性的唯一见证（Demir 2021 论 Karatepe *Tarḫunza Usanuwami*）。
 
-**第一层**：帝国层面的最高神，包括风暴神Teshub（dU）、太阳女神Hepat/Arinna（dUTU URUtuli-na）、以及他们的子嗣Sarruma。
+## 五、胡里安上层：Puduḫepa 的神学改革
 
-**第二层**：地方性大神，如Nerik的风暴神（dU URUNerik）、Zippalanda的太阳神（dUTU URUIštanuwa）、Kanesh的 goddess Katahhha。
+胡里安人来自东南 Kizzuwatna（今 Adana 平原）。Ḫattušili III 娶 Kizzuwatna 女祭司 **Puduḫepa** 为后，她主持了赫梯史上最大规模的**神学同一化**（*syncretism*）：将 Arinna 太阳女神与胡里安 Ḫebat 等同，将风暴神 Tarḫunna 与 Teššub 等同，将两方的次级神一一对偶。Elsayed（2024）从 Ramses II-Ḫattušili III 和平条约的印章分析中，重构了 Puduḫepa 印玺"太阳女神-Ḫebat 二相"的图像神学。
 
-**第三层**：职能性次级神和人格化概念，如Telipinu（农业）、Inara（野外）、Hannahanna（祖母神）、以及大量山神、河神、泉神。
+Yazılıkaya A 室浮雕（约前 1250）即此改革的空间产物：左侧男神列队（Teššub 为首），右侧女神列队（Ḫebat 为首），在中央相遇。
 
-这一结构的核心特征是**双神最高制**——风暴神与太阳女神并列作为国家最高保护者，这在古代近东宗教中较为罕见（Taracha 2009, 78-92）。
+## 六、王权神学：王为"我的太阳"
 
-## 胡里特化：公元前15世纪的宗教转型
+赫梯国王在文本中被称为 *dUTU-ŠI*——"我的太阳陛下"（*My Sun*）。Smith（2004）指出，赫梯王权由 **Arinna 太阳女神与风暴神共同授予**："她（太阳女神）规范王权与后权"（Suppiluliuma-Šattiwaza 条约）。此双重授权模式与美索不达米亚（单一至高神授权）、埃及（法老即神）都不同——它是**双头制**的：男神管战争与雷雨，女神管公义与王位。
 
-赫梯宗教史上最重要的事件是胡里特神系的大规模融入。这一过程始于Thudhaliya I/II时期（约公元前1430年），在Suppiluliuma I（约公元前1350年）征服北叙利亚后达到顶峰。胡里特化的核心载体是**Kumarbi Cycle**——一系列关于诸神王权更迭的叙事诗，包括《诸王在天》（*Kingship in Heaven*，CTH 344）、《Ullikummi之歌》（*Song of Ullikummi*，CTH 345）、《银神》（*Silver*，CTH 346）等（Hoffner 1998, 40-80）。
+Taggar-Cohen（2023）分析 CTH 714/738 王后仪式文本，证明王后（*Tawananna*，非王的配偶而是母系继承的宗教职衔）在崇拜中角色不亚于国王。
 
-这些文本与赫梯本土神话共存并逐步取代其位置，尤其是在新王国时期（约公元前1400-1180年）的国家宗教仪式中。然而，在地方节日和民间仪式层面，哈梯传统的底层神祇与仪式持续存在（Haas 1994, 200-245）。
+## 七、消失神仪式的语言技术
 
-Christian Zgoll（2021）通过对CTH 344文本的层累分析，揭示了这一文本实际上融合了**至少三个传统层面**：胡里特的Kumarbi-神权叙事、安纳托利亚本土的代际冲突母题、以及晚期编辑者的政治神学修正。
+Telipinu 类型的消失神文本呈现**仪式-叙事嵌套**结构（Weeden 2013）：巫师念诵神话讲述 Telipinu 如何消失、蜜蜂如何找到他、如何用桦枝、羊毛与蜂蜜安抚他——**同时**在场景中实际操演这些动作（放蜂蜜、烧桦枝）。Pilavcı（2017）称之为"神话的表演-指涉性"——语言与物质动作在仪式中同一化。
 
-## Purulli节：年复一年的宇宙更新
+这种技术为后世比较文学提供了关键范式：Frazer《金枝》"垂死之神"框架在很大程度上是对赫梯消失神材料的过度普适化。
 
-Purulli节是赫梯宗教中最重要的年度仪式之一，在春季举行，庆祝风暴神战胜Illuyanka。这个节日在北方圣城Nerik尤为隆重，需要32块泥板记录其仪轨（D'Agostino-Orsi-Torri 2015, 45-78）。
+## 八、屠龙循环：Illuyanka 与印欧诗学
 
-节日的核心戏剧是**重演龙战神话**：风暴神（由国王代表）与Illuyanka蛇龙（由神庙人员扮演）的象征性战斗，最终风暴神获胜，确保新的一年中宇宙秩序的延续。这一模式与美索不达米亚的akitu节（马尔杜克诛Tiamat）和迦南的Baal-Yamm战斗共享深层结构（Beckman 1982; Miller 2014）。
+Illuyanka 神话（CTH 321）有两个版本：**Nerik 版**风暴神先败后胜，靠人类 Ḫupašiya 与女神 Inara 用宴席灌醉巨蛇；**较晚版**风暴神被夺心与眼，靠其子娶蛇女索回。Beckman（1982）是标准版本学奠基作。
 
-Demirel（2016）将purulli节置于赫梯节日历法的整体框架中，指出其与春季农耕周期和军事远征季节的同步关系。
+Watkins（*How to Kill a Dragon*, 1995）以此为出发点重构印欧"屠龙公式" *HERO SLAY (*gwhen-) SERPENT*，该公式贯通吠陀 Indra-Vritra、希腊 Zeus-Typhon、日耳曼 Thor-Jörmungandr、伊朗 Θraētaona-Aži Dahāka。Cotro（2022）进一步指出 Illuyanka 与《启示录》屠龙意象的谱系联系。
 
-## 国王的神学角色
+## 九、Kumarbi 循环：希腊神谱的近东原型
 
-在赫梯宗教中，国王（LUGAL = Labarna / Tabarna）是风暴神在人间的代理。这种神权关系通过**国王誓言**和**条约神誓**制度化。国王主持最重要的国家节日，在Yazılıkaya岩龛的浮雕中，国王Tudhaliya IV被描绘在风暴神Teshub的庇护之下（Zangger-Gautschy 2019）。
+来自胡里安传统的 **Kumarbi 循环**（CTH 344 阉神之歌、CTH 345 Ullikummi 之歌）被 Güterbock（1946）识别为赫西俄德《神谱》"三代神王"叙事——Anu-Kumarbi-Teššub 与 Ouranos-Kronos-Zeus——的直接原型。Anu 被 Kumarbi 咬去生殖器、精血落地生神的桥段与 Kronos 阉割 Ouranos 结构完全对应。这是**近东-希腊神话谱系传递**最坚实的证据链之一（吴雅凌 2009 中文学界亦有回应）。
 
-同时，赫梯国王也承担祭司长（*šalli našalli*）的角色，监督神庙经济和管理宗教地产。Burgin（2016）通过对新王国晚期宗教行政文本的研究，揭示了神庙网络如何成为帝国经济体系的核心支柱。
+## 十、编者按：奠基作 · 最新研究 · 一手文献
 
-Yazılıkaya岩龛（位于哈图沙东北约2公里）是赫梯宗教建筑的最高成就。A号厅室的十二神行列被Zangger和Gautschy（2019）解读为天文历法的象征编码，将神祇序列与太阳年、月球周期和行星位置对应。
+**奠基作** 首推 Hoffner《Hittite Myths》1990 初版、1998 二版、**2025 第二版重印本**（含增订评注）为文本翻译权威；Taracha 2009 为宗教史通史；Beckman 系列论文为仪式研究骨架；van Gessel 1998《Onomasticon》为神名工具书；Schwemer《Wettergottgestalten》两卷（2001/2008）为风暴神百科。
 
-## 仪式与魔法：净化与替代
+**最新研究** Simon 2023（Tarḫunna 词源）、Elsayed 2024（Puduḫepa 印章）、Castellano 2023（Tarḫunza 与葡萄酒）、Taggar-Cohen 2023（王后仪式）、Demirel 2022（蜂在消失神仪式）代表本领域进行时。
 
-赫梯仪式文献的一个重要类别是**净化仪式**（*šalli ištananaš*），用于处理污染（*papratar*）——可能是实际的疾病、军事失败或梦魇。其中最著名的是**替代王仪式**（*šar pūhi*），当预兆显示国王有生命危险时，一名替代者被加冕并最终牺牲（或流放），以转移神的愤怒。
+**一手文献** CTH（Catalogue des Textes Hittites, Laroche）编号系统 + Konkordanz 数字化项目（Mainz 大学 hethiter.net）已全面开放楔形文本转写。
 
-女性仪式专家在赫梯宗教中扮演了显著角色。女王Puduhepa（Hattusili III之妻）的誓言文本和祷文显示她直接参与神学决策，将Kizzuwatna地区的胡里特仪式传统引入赫梯国教（Taracha 2009, 87-94; Taggar-Cohen 2023）。
+**深度追踪** 建议同步阅读 Yazılıkaya 建筑学（Seeher 2011）、Kumarbi 循环最新校本（Rutherford 2020）与新赫梯象形卢维铭文集（Hawkins 2000）。
 
-## 跨文化谱系：从安纳托利亚到爱琴海
-
-赫梯-胡里特神话对希腊神话的影响是20世纪比较神话学最引人注目的发现之一。1948年，Hans Gustav Güterbock发表了对Kumarbi叙事的完整研究，指出其与赫西俄德《神谱》中乌拉诺斯-克洛诺斯-宙斯继承神话的结构性对应。此后，**Kumarbi = Kronos**、**Teshub = Zeus**的等式成为学界共识（Zgoll 2021; Kelly-Zanon 2020）。
-
-Illuyanka龙战神话也在印欧比较框架中占据关键位置。Calvert Watkins（1995）在*How to Kill a Dragon*中系统论证了从赫梯的Illuyanka到吠陀的Vrtra、再到希腊的Typhon的神话语言连续性，建立了**龙战母题**的印欧词源学基础。Miller（2014）进一步扩展了这一比较框架，将迦南的Lotan和希伯来的Leviathan纳入。
-
-## 赫梯宗教的终结与遗产
-
-约公元前1180年，赫梯帝国在"海上民族"入侵和内部分裂的双重打击下崩溃。哈图沙被遗弃，楔形文字写作传统中断。然而，赫梯宗教的遗产并未完全消失：
-
-在北叙利亚的新赫梯城邦（如Karkemish、Malatya）中，卢维象形文字传统延续了部分赫梯宗教概念。风暴神Teshub以Tarhunzas的名字继续被崇拜，直至亚述征服（约公元前8世纪）。更间接地，通过胡里特-赫梯中介，部分安纳托利亚宗教元素进入古希腊宗教（Rutherford 2018; d'Alfonso-Lovejoy 2020）。
-
-## 意义总结
-
-赫梯-胡里特宗教体系代表了古代近东宗教融合的典型案例。它不是一个单一原创的神话系统，而是一个**开放体系**——在保持安纳托利亚底层传统的同时，不断吸收、翻译和重组来自美索不达米亚、胡里特和叙利亚的神学元素。这种"宗教翻译"（religious translation）机制使赫梯宗教成为研究古代文化接触与身份建构的绝佳案例。
-
-## Mythos Atlas 编者按
-
-**奠基作**：Laroche（1971）的CTH目录为赫梯文本研究提供了不可替代的基础架构；Haas（1994）的百科全书式手册仍是单卷本最全面的参考；Taracha（2009）的专题研究在万神殿结构分析上取代了Haas的地位。
-
-**最新研究**：Zgoll（2021）对CTH 344的层累分析代表了赫梯神话文本研究的最新方法论方向；Zangger-Gautschy（2019）的Yazılıkaya天文学解读开辟了赫梯宗教的新维度；Steitler（2023）对赫梯太阳神地下面向的研究深化了我们对神祇多面性的理解。
-
-**一手文献**：Hoffner（1998）的英译本是神话文本的首要参考；Beckman（1999）的条约译本提供了神誓序列证据；Miller（2013）的国王指令文本揭示了宗教制度的行政维度。
-
-**神学地位**：赫梯宗教是唯一一个将**双神最高制**（风暴神+太阳女神）制度化的大规模古代宗教体系，其神名翻译机制为古代近东宗教融合研究提供了方法论范例。
+**神学地位** 赫梯宗教是近东青铜时代宗教史的"枢纽结构"——向西通迈锡尼/希腊，向南通乌加里特/迦南，向东通胡里-米坦尼，向北通哈梯本土。理解它是理解**近东轴心以前世界**的必要环节。

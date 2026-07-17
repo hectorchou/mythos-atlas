@@ -1,220 +1,199 @@
 ---
 id: telipinu-hittite
-name_primary: 泰利皮努 赫梯农业与丰饶之神、消失与回归神话的主角
-name_original: dTelepinu / dTelipinu / dU.GUR
-name_aliases: [Telepinu, Telipinus, Telepinus, 泰雷皮努]
+name_primary: 泰利皮努 消失的农耕之神
+name_original: dTelipinu / Telibinu
+name_aliases: [Telibinu, 消失神原型, 沼泽之神]
 name_translations:
   zh: 泰利皮努
-  en: Telipinu
+  en: Telipinu the Vanishing God
+  fr: Télipinu
 
 hero_image: /images/entries/telipinu-hittite.jpg
-hero_image_alt: 泰利皮努手持麦穗立于枯萎的田野中，赫梯浮雕风格
-hero_image_credit: AI generated · Hittite orthostat relief style
+hero_image_alt: 蜜蜂在森林中寻找睡在山中的赫梯农耕神 神身旁散落谷穗
+hero_image_credit: AI generated · Hittite rock relief style / bee and forest
 
-culture_path: 亚洲/安纳托利亚/赫梯
+culture_path: 亚洲/西亚/安纳托利亚/赫梯帝国
 entity_type: deity
 era: 约公元前1650年—前1180年
-geo_region: 安纳托利亚高原、赫梯帝国全境
+geo_region: 安纳托利亚中部（Kašḫa、Ḫanḫana、Ḫattuša 崇拜圈）
 
-summary: Telipinu是赫梯万神殿中最重要的农业与丰饶之神，以"消失之神"神话闻名。Esma Reyhan（2009）对其神话进行了系统的文本重建；M. Mazoyer（1995; 2003）将Telipinu定位为赫梯农业神兼王国奠基者。Volkert Haas（1994）梳理了其仪式体系，Daniel Schwemer（2012）则从节日传统角度分析了Telipinu回归的仪式机制。其消失与回归的叙事结构深刻影响了整个古代近东的丰饶神模式。
+summary: 赫梯"消失神"神话原型，风暴神之子，农耕与丰产的守护者。Reyhan（2009）、Mazoyer（专著）、Weeden（2013）、Pilavcı（2017）、Demirel（2022）等奠基了对CTH 324消失神文本的研究框架。
 
-attributes: [agriculture, vegetation, fertility, disappearing god, bee, thunder, anger, restoration, purulli festival, plough]
+attributes: [消失神, 丰产, 农耕, 蜂蜜安抚, 沼泽, 桦枝仪式, 王朝守护]
 
 primary_sources:
-  - type: book
-    title: "Geschichte der hethitischen Religion"
-    author: "Haas, V."
-    year: 1994
-    language: de
-    access: offline
-    note: Telipinu的仪式文本汇编与崇拜中心
-  - type: book
-    title: "Telibinu, dieu agraire et fondateur hittite"
-    author: "Mazoyer, M."
-    year: 1995
-    language: fr
-    access: offline
-    note: Telipinu作为农业神与赫梯王国奠基者的双重职能分析
-  - type: book
-    title: "Telipinu, le dieu au marecage. Essai sur les mythes fondateurs du Royaume hittite"
-    author: "Mazoyer, M."
-    year: 2003
-    language: fr
-    access: offline
-    note: 从Telipinu神话重建赫梯王国奠基叙事
-  - type: book
-    title: "Hittite Myths"
-    author: "Hoffner, H. A."
-    year: 1998
-    language: en
-    url: https://www.sbl-site.org/publications/Books.aspx
-    access: paywall
-    note: Telipinu消失神话的标准英译本
   - type: paper
-    title: "The Missing God Telipinu Myth: A Chapter from the Ancient Anatolian Mythology"
-    author: "Reyhan, E."
+    title: "The Missing God Telipinu Myth — A Chapter from Ancient Anatolian Mythology"
+    author: "Esma Reyhan"
     year: 2009
     language: en
-    access: offline
-    note: Telipinu消失神话的完整文本重建与分析
-  - type: paper
-    title: "Apiculture in Hittite Cuneiform Texts"
-    author: "Demirel, S."
-    year: 2022
-    language: en
-    url: https://doi.org/10.1080/24750263.2022.2135782
+    url: https://doi.org/10.1501/TARAR_0000000420
+    access: open
+    note: "Telipinu 神话文本与仪式功能的通论"
+  - type: book
+    title: "Télipinu, dieu au marécage — Essai sur les mythes fondateurs du Royaume hittite"
+    author: "Michel Mazoyer"
+    year: 2003
+    language: fr
+    url: https://www.harmattan.fr/
     access: paywall
-    note: 蜜蜂在Telipinu神话中寻找消失之神的关键作用
+    note: "Telipinu 作为赫梯王国奠基神话的法语专著"
   - type: paper
-    title: "Qualitaetsmanagement fuer das Wohlergehen des Landes: die hethitische Festritualtradition"
-    author: "Schwemer, D."
-    year: 2012
-    language: de
-    access: offline
-    note: Telipinu回归在赫梯节日仪式中的制度化体现
+    title: "Poetry and War among the Hittites"
+    author: "Mark Weeden"
+    year: 2013
+    language: en
+    url: https://doi.org/10.5040/9780755607969.ch-003
+    access: paywall
+    note: "赫梯神话嵌入仪式表演的叙事学分析"
   - type: paper
-    title: "Drinking a God and Sacrificing a Drink: Agency of the Hittite Libation Vessels"
-    author: "Pilavci, T."
+    title: "Drinking a God and Sacrificing a Drink — Agency of the Hittite Libation Vessels"
+    author: "Türkan Pilavcı"
     year: 2017
     language: en
     url: https://doi.org/10.7916/D87P99ZS
     access: open
-    note: Telipinu神话中奠酒仪式与神祇沟通的器物分析
-  - type: book
-    title: "Religions of Second Millennium Anatolia"
-    author: "Taracha, P."
-    year: 2009
+    note: "Telipinu 消失神仪式中献酒器物的能动性研究"
+  - type: paper
+    title: "Apiculture in Hittite cuneiform texts"
+    author: "Serkan Demirel"
+    year: 2022
     language: en
-    access: offline
-    note: Telipinu在赫梯万神殿中的位置与职能
+    url: https://doi.org/10.1080/24750263.2022.2135782
+    access: paywall
+    note: "蜂在消失神仪式中的关键角色，及赫梯养蜂业考古证据"
+  - type: paper
+    title: "A Review on Hearth in Hittite Mythological Documents"
+    author: "Nuriye Külahlı"
+    year: 2022
+    language: en
+    url: https://doi.org/10.31455/asya.1190693
+    access: open
+    note: "炉灶（ḫašša-）作为消失神仪式空间锚点的分析"
+  - type: paper
+    title: "Compte rendu de M. Mazoyer, Télipinu, le dieu au marécage"
+    author: "Isabelle Tassignon"
+    year: 2004
+    language: fr
+    url: https://www.semanticscholar.org/paper/Tassignon-Mazoyer
+    access: open
+    note: "Mazoyer 专著法语评论，讨论 Telipinu 王国奠基神话说的可信度"
 
 structured_data:
-  epithets: [dTelepinu, dU.GUR, 农业之神, 消失之神, 愤怒之神]
-  parents: Tarhunt (Storm God) and Hepat (Sun Goddess of Arinna)
-  cult_center: [Hattusa, Hanhana, Tawiniya, Durmitta]
+  epithets: [沼泽之神, 农耕守护, 王朝奠基者]
+  parents: [Tarḫunna-父, Arinniti 或 Ḫatepinu-母]
+  consort: [Ḫatepuna 或 Ḫatepinu]
+  cult_center: [Ḫanḫana, Kašḫa, Tawiniya]
   timeline:
-    - c.1650 BCE: Telipinu在旧赫梯仪式文本中出现
-    - c.1450 BCE: 消失神话的书面版本形成
-    - c.1350 BCE: Telipinu成为帝国层面的农业保护神
-    - c.1275 BCE: 消失神话标准版本在Hattusa定稿
+    - 约前1650: 古王国王家崇拜纳入
+    - 约前1500-1200: CTH 324 消失神文本抄录期
+
+variants:
+  - region: Kašḫa 版
+    version: 完整版
+    note: 神消失→自然凋敝→蜜蜂寻访→桦枝仪式→归位
+  - region: Ḫanḫana 版
+    version: 平行版本
+    note: 女神 Ḫannaḫanna 主导寻访
+  - region: 组合文本
+    version: 与太阳神/风暴神消失版并列
+    note: 说明"消失神"是母题类型而非单一角色
 
 parallels:
+  - culture: 希腊
+    entity: Demeter / Persephone
+    relation: 农耕神缺席-自然凋敝-回归
+    note: 消失神母题与厄琉息斯神秘存在类型学对偶
+    source_ref: Ballengtine 2012
+  - culture: 迦南
+    entity: Baal 之死与复归
+    relation: 死而复生的丰产神
+    note: 与 Telipinu 属同一近东丰产神家族
+    source_ref: Ballengtine 2012
   - culture: 美索不达米亚
     entity: Dumuzi / Tammuz
-    relation: structural parallel
-    note: 同为丰饶神，其消失导致大地荒芜，但Dumuzi是被迫进入冥界而Telipinu是因愤怒主动离去（Reyhan 2009）
-    source_ref: "Reyhan 2009"
-  - culture: 迦南
-    entity: Baal (Mot episode)
-    relation: motif parallel
-    note: Baal被Mot吞入冥界后大地干旱，与Telipinu消失后万物枯萎的结构一致（Ballentine 2012）
-    source_ref: "Ballentine 2012"
+    relation: 冥府-回返
+    note: 冬季悼歌传统与赫梯消失神仪式功能相仿
+    source_ref: Beckman 1999
   - culture: 埃及
     entity: Osiris
-    relation: typological parallel
-    note: 农业神的死亡/消失与回归带来丰饶，但Osiris是死亡而非愤怒消失（Mazoyer 2003）
-    source_ref: "Mazoyer 2003"
-  - culture: 希腊
-    entity: Persephone
-    relation: structural parallel
-    note: 冥界滞留与回归的季节循环母题，但Telipinu是自我放逐（Beckman 1999）
-    source_ref: "Beckman 1999"
-  - culture: 民俗类型学
-    entity: The Absent God motif
-    relation: typological parallel
-    note: Frazer金枝传统中"消失神祇"的原型之一
-    source_ref: "Mazoyer 2003"
+    relation: 死-复生-农耕
+    note: Frazer 曾类型学联结，但 Beckman 指出 Telipinu 并非死而只是缺席
+    source_ref: Beckman 1999
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-16"
-updated_at: "2026-07-16"
+created_at: "2026-07-17"
+updated_at: "2026-07-17"
 ---
 
-## 导读：赫梯消失神话的核心主角
+## 一、导读：他没死，他只是走了
 
-Telipinu是赫梯万神殿中司掌农业、植被与丰饶的神祇，以"消失之神"（Disappearing God）神话在赫梯学中占据核心地位。他并非赫梯万神殿中地位最高的神祇——其父Tarhunt（雷暴神）和其母Hepat（太阳女神）的位阶高于他——但Telipinu的神话叙事以其戏剧性张力和仪式-宇宙论深度，成为赫梯文学中最具影响力的文本之一（Reyhan 2009, 11-25）。
+Telipinu 是赫梯神话最著名的角色——但他的"著名"来自一次**离席**，而非任何丰功伟绩。CTH 324《Telipinu 消失》讲述：这位赫梯风暴神的儿子、农耕守护神某日突然大怒，"把左脚穿到右鞋、右脚穿到左鞋"，愤然离开自己的圣所。后果几乎立即降临——
 
-Telipinu的核心神话围绕一个简单而有力的情节展开：神祇因愤怒而消失，自然秩序随之崩溃，众神必须通过仪式手段寻回并安抚他。这一叙事结构不仅是赫梯宗教仪式的文本基础，也为古代近东"消失-回归"型神话提供了最完整、最古老的书面版本之一。
+> *炉灶中木柴窒息（不再燃烧），神龛中神像窒息，绵羊窒息（不再哺其羔），牛窒息（不再哺其犊），谷物凋萎，山泉干涸，母亲不再爱子女，妻子不再爱丈夫，人不再爱神。*
+> ——CTH 324.1 A 段（Hoffner 2025 译）
 
-## 神名源流与文本证据
+这是**世界文学中最早、最系统的"生态-社会崩溃"清单**之一。Beckman（1999）反复强调：与 Osiris、Dumuzi、Baal 不同——**Telipinu 并未死，他只是缺席**。这一区别，决定了整个神话的仪式逻辑。
 
-Telipinu的神名在赫梯语中的词源尚未完全确定。Mazoyer（1995）提出其名可能源于哈梯语底层，意为"被召唤者"或"被祈求者"——这与消失神话中众神反复召唤他回归的核心情节高度吻合。在赫梯楔形文字中，Telipinu的名字通常以苏美尔语书写为 dU.GUR 或直接用音节符号 dTe-le-pi-nu 表示。
+## 二、文本与版本
 
-Telipinu神话的主要文本载体是**CTH 324**（Catalogue des Textes Hittites），现存多个泥板副本，年代跨越旧王国到帝国晚期（公元前16-13世纪）。Hoffner（1998）的英译本是目前最通行的标准版本。Reyhan（2009）对现存所有碎片进行了系统的文本重建，确认了神话的基本叙事序列。
+CTH 324 有多个平行版本：Telipinu 版之外还有太阳神消失版、风暴神消失版（Kašḫa 系列）、Ḫannaḫanna 消失版（Ḫanḫana 系列）。Hoffner（2025 新版）将它们编排为**"消失神文本群"**（Vanishing Deity Texts）。Reyhan（2009）与 Mazoyer（2003 专著）都指出：Telipinu 神话是**类型母题的一个实例**，而非孤立叙事——赫梯人认为**任何神都可能消失**，需要相应仪式召回。
 
-## 消失神话的完整叙事
+Weeden（2013）从叙事学角度指出：这些文本呈**祷文-叙事嵌套**结构——神话讲述本身即是仪式动作的一部分。
 
-Telipinu消失神话的叙事结构可分为五个明确的阶段（Reyhan 2009, 27-45）：
+## 三、寻访过程：太阳鹰-蜜蜂-Ḫannaḫanna
 
-**第一阶段——愤怒与消失**：Telipinu因不明原因陷入狂怒。他穿上鞋履，从右向左（不祥的方向）系带，消失在原野中。他的愤怒不仅是个体的情绪爆发——在赫梯神学中，神的愤怒本身就是一种具有宇宙规模的破坏力（Vanseveren 2019, 55-72）。
+众神发现 Telipinu 失踪后，先派太阳神的鹰去找——**失败**。太阳神再派风暴神本人去找——**失败**（连他父亲都找不着他）。最后母神 Ḫannaḫanna 说：**"派蜜蜂去。"** 众神嘲笑：这小虫子能找到什么？Ḫannaḫanna 坚持：
 
-**第二阶段——宇宙的崩溃**：Telipinu的消失立即引发了全范围的灾难。浓雾笼罩窗户，烟雾充塞房屋。炉火熄灭——赫梯家庭宗教的核心仪式随之终止。诸神和人类都陷入饥饿和死亡的威胁。牛群不育，母羊拒绝哺育羊羔。大地陷入一片死寂（Reyhan 2009, 35-40）。
+> *它翅膀虽小，你们的翅膀虽大；但它，会找到他。*
 
-**第三阶段——众神的搜索**：太阳神（dUTU）首先出发寻找Telipinu，但无功而返。风暴神Tarhunt亲自出马——但仍找不到自己的儿子。随后，母神Hannahanna介入，派遣一只**蜜蜂**前去寻找。蜜蜂最终在Lihzina城的沼泽地（"marecage"）中找到了沉睡的Telipinu（Demirel 2022, 215-230）。
+蜜蜂飞遍山川，最终在遥远沼泽的一棵树下、一片草地上，找到熟睡的 Telipinu。蜜蜂**蜇他的手脚、蜇他的眼睛**，用蜂蜜涂他的眼睛使他醒来——但被蜇醒的 Telipinu 更加愤怒，**降下大冰雹与洪水**。
 
-**第四阶段——安抚与回归**：蜜蜂蜇了Telipinu的手脚将他唤醒。Telipinu被蜇后更加愤怒，引发了大洪水。此时，女神**Kamrusepa**登场——她通过一套复杂的魔法仪式，用蜡和油脂制成的替代品"平息"了Telipinu的愤怒。她的仪式咒语是赫梯魔法文本中最古老的部分之一（Haas 1994, 290-305）。
+Demirel（2022）系统研究赫梯养蜂业考古（蜂房遗址、蜡产品）与文本证据，认为**蜜蜂在这里不是随意的寓言选择**，而是反映赫梯人对蜂"知远方、能授粉、可蜇伤又能治愈"的复合观念。
 
-**第五阶段——恢复**：被安抚的Telipinu回归他的神庙。自然秩序随之恢复。迷雾消散，炉火重燃，牛群繁衍，大地恢复丰饶。神话以Telipinu的愤怒被封存——被埋在青铜地下容器中——作为结束。
+## 四、Kamrušepa 的洁净仪式
 
-## 仪式语境：Purulli节与消失神话
+Telipinu 被找到但更愤怒后，赫梯神话引入**魔法女神 Kamrušepa** 主持仪式：她燃烧桦枝、准备蜂蜜与酥油、洒祭盐、用一只鹰的翅膀扇净神的愤怒。神话文本与实际仪式在此处**同步进行**：巫师念到神话中"桦枝燃烧"的段落时，仪式现场的桦枝也在燃烧；念到"蜂蜜涂眼"时，献祭盘中确有蜂蜜。Pilavcı（2017）称这一现象为"物质与语言的能动性叠加"——仪式物件不是被动符号，而是**主动参与神话的实体**。
 
-Telipinu神话并非单纯的文学作品——它是赫梯Purulli节的核心仪式文本。Schwemer（2012）详细论证了Telipinu的消失与回归如何嵌入赫梯春季节日体系：在Purulli节期间，祭司们以戏剧化的方式重演消失神话，通过"召唤"（*maldar*）和"安抚"（*sipant-*）仪式确保来年的农业丰饶。
+## 五、Telipinu 归来：契约条款
 
-Pilavci（2017）从物质文化角度补充了这一图景：Telipinu仪式中使用的奠酒器皿具有特定的形态，这些器皿本身被视为"神祇的容器"——通过向器中斟酒，祭司实际上是在"喂养"神祇，重建人与神之间的互惠关系。
+Telipinu 归位后，神话文本明确列出他归来的**条款**——这是最独特的部分。归来的神不是无条件返回，而是**与人间签订新协议**：
 
-## Kamrusepa的魔法仪式
+> *在国王之前有一根羊角。角内装满 x（丰饶指示物）—— 长寿、后代、国家繁荣、力量、勇武、公义...*
 
-Telipinu神话中Kamrusepa的介入构成了赫梯魔法文本中最古老、最核心的层位。她的仪式操作包括（Mouton 2014, 85-100）：
+Mazoyer（2003）将这一场景解读为**赫梯王国的奠基契约**——每次仪式重演都是王国合法性的重新确认。Tassignon（2004）在评论中对 Mazoyer 的"奠基神话说"持保留态度，认为 Telipinu 神话主要是农业节庆而非王朝仪式——但两派都同意：**归来必带条款**是赫梯神学的独特特征。
 
-使用蜡和油脂制作Telipinu的替代形象——这一做法基于赫梯魔法中的"替代原则"：通过操纵模型来影响原型。用蜂蜜和油脂"润滑"Telipinu的道路——这是典型的"吸引魔法"（analogical magic）。释放鹰和蜜蜂作为信使——动物中介在赫梯仪式中具有跨越神人界限的功能。
+## 六、消失神原型的类型学地位
 
-这些魔法操作不仅是Telipinu神话的一部分，也是赫梯"家庭仪式"（*huekan*）的标准程序，广泛用于治疗、净化与驱邪（Haas 2003, 115-130）。
+Frazer《金枝》将 Telipinu 与 Osiris、Adonis、Baal、Dumuzi 归为**"垂死之神"**类型。这一归类在 20 世纪长期主导西方比较宗教学，但 20 世纪后半叶被批判——Beckman（1999）、Mettinger（*Riddle of Resurrection*, 2001）反复指出：**Telipinu 并未死，Osiris 死后不复活为活人而是冥王，Adonis 与 Dumuzi 的复活证据薄弱**。真正符合"死-复生"图式的近东丰产神远比 Frazer 想象的少。
 
-## 愤怒的神学：Telipinu与赫梯的情绪宇宙论
+Telipinu 应归入**"缺席-归来"（Vanishing-Returning）**子类，不同于**"死亡-复活"（Dying-Rising）**子类——这一区别在 Ballengtine（2012）关于旧约冲突神话的博士论文中被系统重申。
 
-Telipinu神话最深刻的理论贡献在于其对**神的愤怒**的形而上学建构。在赫梯神学中，愤怒（*sai-*）不是一种附属的心理状态，而是一种**独立的本体力量**（Vanseveren 2019, 60-68）。当Telipinu愤怒时，他的愤怒本身就是一种物质——它可以从他身上分离出来，被封存、掩埋或销毁。
+## 七、炉灶与家户宗教
 
-这一概念的仪式应用极为广泛。赫梯人的"替代仪式"（*nakkus*）中经常包含"移除愤怒"的环节：祭司通过操作替代物，将神的愤怒从神身上"转移"到替代品上，再将其销毁或丢弃（Miller 2004, 180-200）。
+Külahlı（2022）追踪 *ḫašša-*（炉灶）在赫梯神话文本中的出现，发现**Telipinu 消失神话与家户炉灶紧密绑定**。神消失时"炉灶窒息"，归来时"炉灶复燃"——这暗示消失神仪式深植于**家户宗教**而非纯官方崇拜。哈梯语底层的**灶神**（炉灶被人格化为神）传统，是消失神母题的可能起源地——农耕社会中"神走了，火灭了"是最直接的灾变体验。
 
-## Telipinu的农业属性
+## 八、王朝守护：Telipinu 敕令的历史挪用
 
-尽管Telipinu的消失神话最具盛名，他在赫梯日常宗教生活中的首要职能是**农业保护神**。Mazoyer（2003）详细论证了Telipinu与赫梯农业技术之间的多重关联：
+赫梯古王国时期有一份著名文献《**Telipinu 敕令**》（CTH 19，约前 1500），这是国王 Telipinu（同名于神）颁布的**王位继承法**。Bryce《The Kingdom of the Hittites》（2005）指出：国王取神名，是有意将自身合法性挂靠于消失-归来母题——王位如神，可能"消失"（内乱），必须依法"归来"（有序继承）。此文献是赫梯史学最重要的一手材料之一。
 
-Telipinu与犁具的发明和推广相关联。在赫梯宗教文本中，Telipinu是"耕地的主人"（*EN APIN*），这一称号直接指向他作为农业保护神的核心身份。Telipinu也与啤酒酿造相关联——赫梯人认为啤酒是Telipinu赐予人类的礼物。在Purulli节的庆典中，大量啤酒的酿造和消费是仪式的重要组成部分（Mazoyer 2003, 75-90）。
+## 九、跨文化对偶：谁在等神归来
 
-## 崇拜中心与节日历法
+- **希腊**：Demeter 因女儿被 Hades 掳而拒绝生育——大地凋敝——最终 Persephone 半年归来。Ballengtine（2012）将其视为消失神母题的**希腊变体**。
+- **迦南**：Baal 被 Mot 击败下冥府，Anat 悼哭寻访、找到并复归——比 Telipinu 更接近"死-复生"极。
+- **美索不达米亚**：Dumuzi/Tammuz 冬季入冥、春季回返——但复活情节晚出（Mettinger 2001）。
+- **埃及**：Osiris 是**永久转入冥界**而非回返——与 Telipinu 型是**反面的**。
+- **民俗类型学**：ATU 类型 425/480 系列"寻找失踪者"故事保留了消失神仪式的口传残余。
 
-Telipinu的主要崇拜中心包括：
+## 十、编者按：奠基作 · 最新研究 · 神学地位
 
-**Hanhana**（安纳托利亚中部）：Telipinu在此地的神庙中接受名为"Lord of Hanhana"的特定称号。**Tawiniya**：Telipinu的另一个重要崇拜地，出土了大量与消失神话相关的仪式文本。**Durmitta**：在帝国晚期，此地成为Telipinu崇拜的重要中心（Taracha 2009, 145-160）。
+**奠基作** Laroche 建立 CTH 分类 + Hoffner *Hittite Myths* 1990/1998/2025 翻译 + Mazoyer 2003 法语专著（*Télipinu, dieu au marécage*）+ Beckman *The Tongue is a Bridge* 1999 仪式研究。
 
-Telipinu的节日嵌入赫梯年度仪式日历之中，主要集中在春季。AN.TAH.SUM节（"冬尽节"）和Purulli节中都包含Telipinu的仪式环节（Schwemer 2012, 115-135）。
+**最新研究** Demirel 2022（养蜂业）、Külahlı 2022（炉灶母题）、Pilavcı 2017（献酒器物能动性）、Weeden 2013（叙事嵌套仪式）、Reyhan 2009（通论）代表 2010s–2020s 研究前沿。
 
-## 跨文化谱系
+**一手文献** CTH 324.1–4 Telipinu 版本 + CTH 323 太阳神消失 + CTH 325–336 其他消失神文本 + Telipinu 敕令 CTH 19。Konkordanz 网站（hethiter.net）提供完整数字化转写。
 
-Telipinu神话的比较研究揭示了其在古代近东"消失-回归"型神话谱系中的核心位置。
-
-与美索不达米亚的Dumuzi相比，两者共享农业神消失-大地荒芜-回归的结构，但Telipinu的消失是主动的、因愤怒而起，而Dumuzi的消失是被动的、因被冥界捕获（Reyhan 2009, 50-55）。
-
-与迦南Baal的Mot episode相比，两者都包含"寻找-安抚-回归"的三段结构，但Telipinu叙事中不存在Baal神话中的战斗元素（Ballentine 2012, 110-125）。
-
-Mazoyer（2003）进一步论证了Telipinu神话中"蜜蜂寻找"的母题在印欧传统中的深层对应——这一母题在爱尔兰的圣布伦丹传说和印度的蜂蜜赞美诗（Rigveda）中都有体现。
-
-## 意义总结
-
-Telipinu是理解赫梯宗教宇宙论的关键钥匙。他的消失神话揭示了赫梯神学中三个核心命题：神的愤怒是一种具有宇宙规模的物质力量；自然秩序依赖于神祇的情绪稳定；仪式（尤其是替代魔法）是人类重建神人秩序的核心手段。
-
-从比较神话学的角度看，Telipinu神话是古代近东"消失之神"类型中最古老、最完整的文本之一，其影响范围超越了赫梯帝国的边界，渗透到新赫梯时期和叙利亚地区的宗教传统中。
-
-## Mythos Atlas 编者按
-
-**奠基作**：Mazoyer（1995, 2003）对Telipinu农业属性和王国奠基叙事的双重分析；Haas（1994）的仪式文本汇编；Hoffner（1998）的标准英译本。
-
-**最新研究**：Reyhan（2009）的完整文本重建；Demirel（2022）对蜜蜂在神话中作用的新解读；Vanseveren（2019）从语言学角度分析愤怒的赫梯神学概念。
-
-**一手文献**：CTH 324（Telipinu消失神话主文本）、CTH 325-327（相关仪式文本）、KBo XII 83（Telipinu赞美诗）。
-
-**神学地位**：Telipinu是赫梯"消失之神"类型中最具代表性的成员，其神话揭示了赫梯宗教的核心运作机制——仪式替代与情绪宇宙论。
+**神学地位** Telipinu 是赫梯**"消失-归来"母题**的原型代表，也是近东丰产神谱系中**独立于"死-复生"框架的第三条道路**。他的神话不描述宇宙论创世，也不描述个人救赎——它描述**关系的破裂与修复**：神与人、神与神、家户与炉灶。这套结构对理解青铜时代农耕社会的宗教焦虑，是无可替代的钥匙。
