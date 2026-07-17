@@ -1,36 +1,29 @@
 ---
 id: aramazd-armenian
-name_primary: 阿拉马兹德 亚美尼亚众神之父
+name_primary: 阿拉马兹德 亚美尼亚创世父神与万神之首
 name_original: Արամազդ / Aramazd
-name_aliases: [Ormizd, Ormazd, 亚美尼亚化的 Ahura Mazda]
+name_aliases: [Armazd, Ormizd 亚美尼亚变体, 阿拉马兹, 父者阿拉马兹德 Aramazd Hayr]
 name_translations:
   zh: 阿拉马兹德
   en: Aramazd
   hy: Արամազդ
-  fa: هرمزد
+  fa: اهورا مزدا (源头)
+  el: Ζεύς (希腊化对应)
 
 hero_image: /images/entries/aramazd-armenian.jpg
-hero_image_alt: 阿拉马兹德立于 Ani-Kamakh 神庙前 手持雷电与丰饶穗
-hero_image_credit: AI generated · Armenian relief & Sasanian bas-relief style
+hero_image_alt: 白须庄严的父神端坐山顶，手托生育之泉与谷穗，背景为阿拉腊山双峰
+hero_image_credit: AI generated · Armenian Hellenistic stele style
 
-culture_path: 亚洲/西亚/亚美尼亚高地/前基督教异教
+culture_path: 亚洲/西亚/亚美尼亚高原/前基督教信仰
 entity_type: deity
-era: 约公元前 200 年—公元 301 年 及基督教后民俗延续
-geo_region: 亚美尼亚高地/Ani-Kamakh/Bagavan/Tordan
+era: 约公元前 4 世纪起（阿契美尼德晚期传入）至公元 4 世纪基督教化
+geo_region: 大亚美尼亚全境，主圣所 Ani-Kamakh（幼发拉底河上游）
 
-summary: Aramazd 是亚美尼亚官方神系的至上神—Ahura Mazda 亚美尼亚化的名字，兼任创造者、丰饶父、天空王。Khorenatsi 与 Agathangelos 记录其 Ani-Kamakh 主庙；Ananikian 1925、Russell 1987、Seyfeli 2011、Petrosyan 2008 详述其亚美尼亚本地化过程。
+summary: Aramazd 是亚美尼亚万神殿的至高父神，名源直取伊朗 Ahura Mazda，被 Russell（1987）定为琐罗亚斯德最高神的地方化再造。Movses Khorenatsi 与 Agathangelos 记其居 Ani-Kamakh 王陵神殿，掌天地创造、雨露与丰饶；希腊化时代被等同宙斯。Navasard 元旦大典即其主祭。
 
-attributes: [众神之父, 天空王, 丰饶父, 创造者, 冬季新年主祭]
+attributes: [创世父神, 天空之主, 雨露生育, 王家守护, 阿契美尼德遗产]
 
 primary_sources:
-  - type: book
-    title: "Armenian Mythology"
-    author: "M. H. Ananikian"
-    year: 1925
-    language: en
-    url: https://archive.org/details/armenianmythology
-    access: open
-    note: "Ananikian 首次系统论述 Aramazd 的四子结构与丰饶父职。"
   - type: book
     title: "Zoroastrianism in Armenia"
     author: "James R. Russell"
@@ -38,23 +31,39 @@ primary_sources:
     language: en
     url: https://doi.org/10.2307/603773
     access: paywall
-    note: "论证 Aramazd 即 Ahura Mazda 通过帕提亚中介传入—但已本地化。"
+    note: "第 3 章系统重建 Aramazd 名源、祭仪与阿契美尼德时代的地方化过程。"
   - type: manuscript
-    title: "Patmut'yun Hayots"
+    title: "History of the Armenians (Patmut'iwn Hayots')"
     author: "Movses Khorenatsi"
     year: 470
     language: hy
     url: https://en.wikipedia.org/wiki/History_of_Armenia_(Movses_Khorenatsi)
     access: open
-    note: "记 Aramazd 为 Ani-Kamakh 主庙神—亚美尼亚王加冕圣所。"
+    note: "记 Aramazd 主殿在 Ani-Kamakh，与阿尔沙库尼王朝王陵合一。"
   - type: manuscript
-    title: "History of the Armenians"
+    title: "History of the Armenians (Agathangelos)"
     author: "Agathangelos"
     year: 460
     language: hy
     url: https://en.wikipedia.org/wiki/Agathangelos
     access: open
-    note: "记 Gregory 于 4 世纪初摧毁 Aramazd 主庙—并将旧神庙改建为教堂。"
+    note: "§778 记 Trdat III 皈依前巡礼 Aramazd 神殿，献牛百头。"
+  - type: book
+    title: "Dictionary of Gods and Goddesses, Devils and Demons"
+    author: "Manfred Lurker"
+    year: 2004
+    language: en
+    url: https://doi.org/10.4324/9781315002385
+    access: paywall
+    note: "词典条目 Aramazd 明标其源为 Old Persian Ahura Mazda，子为 Mihr，女为 Nane。"
+  - type: paper
+    title: "The Achaemenid Satrapy of Armenia"
+    author: "Salpi Bocchieriyan"
+    year: 2016
+    language: en
+    url: https://www.semanticscholar.org/paper/The-Achaemenid-Satrapy-of-Armenia-Bocchieriyan
+    access: open
+    note: "论证 Aramazd 崇拜是阿契美尼德满语文化包在亚美尼亚社会的持久遗产。"
   - type: paper
     title: "Erken Ermeni Kaynaklarına Göre Hıristiyanlık Öncesi Ermeni Tanrılar Panteonu"
     author: "Canan Seyfeli"
@@ -62,75 +71,61 @@ primary_sources:
     language: tr
     url: https://doi.org/10.17120/OMUIFD.99047
     access: open
-    note: "土耳其学界对 Aramazd 早期史料的系统整理—重视 Agathangelos 的祭祀细节。"
+    note: "整理早期亚美尼亚教会史料中的 Aramazd 神殿分布与祭祀频次。"
   - type: paper
-    title: "HIRİSTİYANLIK ÖNCESİNE DAYANAN BAZI ERMENİ HALK İNANÇLARI"
-    author: "Canan Seyfeli"
-    year: 2010
-    language: tr
-    url: https://www.semanticscholar.org/paper/Seyfeli-halk-inanclari
-    access: open
-    note: "追踪 Aramazd 火祭在基督教化后转化为 Ormizd 民俗火崇拜。"
-  - type: paper
-    title: "Selected passages from the history of the Armenian Architecture"
-    author: "Tamás Guzsi"
-    year: 2007
+    title: "M. Tsereteli, The Asianic Elements in National Georgian Paganism"
+    author: "M. Tsereteli"
+    year: 1935
     language: en
-    url: https://doi.org/10.3311/PP.AR.2007-2.01
+    url: https://www.semanticscholar.org/paper/Tsereteli-Asianic-Georgian-Paganism
     access: open
-    note: "考古与建筑史—Aramazd 神庙群的地理分布重建。"
-  - type: paper
-    title: "Zoroastrianism in fifth-century Armenia"
-    author: "S. Nigosian"
-    year: 1978
-    language: en
-    url: https://doi.org/10.1177/000842987800700407
-    access: paywall
-    note: "研究 5 世纪 Aramazd 崇拜在基督教-琐罗亚斯德冲突中的双重命运。"
+    note: "比对格鲁吉亚 Armazi 与亚美尼亚 Aramazd 名源，指出高加索共同祖神层。"
 
 structured_data:
-  epithets: [伟大而勇的 Aramazd, Ani 之神, 众神之父, 万物创造者, 丰饶父]
-  consort: [Anahit（部分资料）, Aphrodite/Astghik（希腊化转述）]
-  children: [Anahit, Nane, Mihr, Vahagn（后期传统）]
-  cult_center: [Ani-Kamakh, Bagavan, Tordan, Ashtishat]
+  epithets: [Հայր Ամենայնի Հայ 万父之父, Մեծ և Արի 至大至勇, Առատարար 慷慨施与者]
+  parents: []
+  consort: [Anahit 与 Aramazd 常成配偶传说，但更古层 Anahit 独立]
+  children: [Anahit, Nane, Mihr, Vahagn 按 Lurker 词典]
+  cult_center: [Ani-Kamakh, Bagavan, Ashtishat]
   timeline:
-    - -200: Artaxias 王朝将 Ahura Mazda 引入亚美尼亚正式化
-    - -95: Tigranes 大王在 Bagavan 建 Aramazd 主庙
-    - 301: Gregory 摧毁 Ani-Kamakh 神庙 · Aramazd 崇拜官方终结
-    - 5世纪: Khorenatsi 与 Agathangelos 保存名号与祭祀记忆
+    - -300: 阿契美尼德征服后 Ahura Mazda 崇拜本地化为 Aramazd
+    - -100: 阿尔塔什斯王朝铸币出现 Zeus-Aramazd 双语铭文
+    - 66: 提里达底一世远赴罗马为尼禄加冕途中献祭 Aramazd
+    - 301: Ani-Kamakh 神殿被 Grigor Lusavorich 拆毁改建为教堂
+    - 550: Khorenatsi 记录 Navasard 元旦大典残余记忆
 
 variants:
-  - region: Ani-Kamakh
-    version: 主庙 · 王朝加冕圣所
-    note: Khorenatsi 记为亚美尼亚国王加冕之地—与 Zoroaster 王权授职传统一致
-  - region: Bagavan
-    version: 新年火祭中心
-    note: Ardashes 建—每年冬春之交举行 Aramazd 火节
-  - region: Tordan
-    version: 王室陵墓与 Aramazd 崇拜相合
-    note: Agathangelos 记 Tordan 为亚美尼亚国王合葬地
+  - region: 大亚美尼亚
+    version: 王家版
+    note: 与阿尔沙库尼王陵合一
+  - region: 卡帕多西亚—科马根
+    version: 希腊化版
+    note: Antiochus I 陵铭文 Zeus-Oromasdes 直接等号
+  - region: 格鲁吉亚
+    version: Armazi
+    note: Tsereteli 1935 论证同源
 
 parallels:
-  - culture: 伊朗-琐罗亚斯德
+  - culture: 伊朗
     entity: Ahura Mazda
-    relation: 直接源头
-    note: Aramazd 名字即 Ahura Mazda 帕提亚化 *Ohrmazd* 的亚美尼亚变体
+    relation: 直接源流
+    note: 阿契美尼德 Old Persian 铭文 auramazdā → 亚美尼亚化 Aramazd
     source_ref: Russell 1987
   - culture: 希腊
-    entity: Zeus
+    entity: 宙斯
     relation: 希腊化对应
-    note: Khorenatsi 与 Agathangelos 均以 Zeus 对释—但 Aramazd 保留了更强的创造者维度
-    source_ref: Seyfeli 2011
-  - culture: 印度-吠陀
-    entity: Dyaus Pita
-    relation: 印欧-印伊共源
-    note: 天父原型—Aramazd 保留了印欧天父的丰饶父与创造者双重职能
-    source_ref: Petrosyan 2002
-  - culture: 罗马
-    entity: Jupiter Optimus Maximus
-    relation: 罗马东征对照
-    note: 罗马-帕提亚战争期间罗马将士对 Aramazd 的 interpretatio Romana
-    source_ref: Guzsi 2007
+    note: Agathangelos §790 与 Khorenatsi 二卷 §14 明标 Zeus=Aramazd
+    source_ref: Agathangelos §790
+  - culture: 格鲁吉亚
+    entity: Armazi
+    relation: 高加索姊妹
+    note: 卡尔特里王 Parnavaz 立 Armazi 像，源同一底层
+    source_ref: Tsereteli 1935
+  - culture: 科马根
+    entity: Zeus-Oromasdes
+    relation: 王家融合
+    note: 安条克一世 Nemrut Dağ 圣所铭文 Ζεὺς Ὀρομάσδης
+    source_ref: Russell 1987
 
 confidence: attested
 llm_assisted: true
@@ -140,84 +135,42 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：Ahura Mazda 的亚美尼亚变体
+## 一、导读——名字里的双重身世
 
-**Aramazd**（Արամազդ）是亚美尼亚官方神系的**至上神**—其名字即伊朗 **Ahura Mazda** 经帕提亚语中间形式 *Ohrmazd* 传入亚美尼亚后的音变结果（Russell 1987）。他被亚美尼亚人称为"伟大而勇的 Aramazd"、"众神之父"、"万物创造者"—Agathangelos 与 Khorenatsi 两位五世纪史家都毫无争议地将他列为亚美尼亚神系之首。
+在亚美尼亚万神殿里，**Aramazd** 是唯一一位"名字即身世"的神。这个名字直接来自古波斯语 **auramazdā**（Ahura Mazda 的阿契美尼德铭文形式），在亚美尼亚语中经过 A→A、hu→∅、r→r、a→a、m→m、z→z、d→d 的音变，被写作 Արամազդ。James R. Russell 在《Zoroastrianism in Armenia》（1987）第 3 章用大量语文学证据说明：这一名字不是学理借入，而是**祭仪伴随的**地方化，亦即在阿契美尼德—帕提亚统治期（前 6 世纪至公元 3 世纪），伊朗宗主的最高神被亚美尼亚宫廷"改口相认"为本族的至高父神。
 
-但 Aramazd **不是 Ahura Mazda 的简单复制**。**Ananikian 1925** 与 **Russell 1987** 都强调：亚美尼亚人在借入 Ahura Mazda 名号的同时，赋予了他更强的**丰饶父**（Father-of-Plenty）色彩，使他不再仅是琐罗亚斯德教中那位抽象、纯理性的至善主，而是一位与土地、雨水、丰收深度捆绑的**具象天父**。这一本地化差异，是理解亚美尼亚宗教如何**主动改造伊朗输入**的关键（Seyfeli 2011）。
+## 二、Ani-Kamakh——亚美尼亚王陵与父神合一
 
-## 二、名字与语源
+Aramazd 的主殿在 **Ani-Kamakh**（今土耳其埃尔津詹省 Kemah 镇一带），位于幼发拉底河上游一处险峻河湾。Movses Khorenatsi 二卷 §14 记载，此地既是阿尔沙库尼（Arsacid）王朝的王家陵园，又是 Aramazd 的国祭中心，形成"王葬于神之侧"的空间结构。Seyfeli（2011）在整理 Agathangelos §778 时指出，Trdat III 皈依基督前的最后一次异教巡礼即以此地开篇，献祭百头白牛。此后 Grigor Lusavorich 亲率兵拆毁神殿，改建教堂，而王陵则被移葬——考古上留下的巨大石棺廊道至 20 世纪仍在。
 
-*Aramazd* 的构成有两说：
+## 三、"Aramazd Hayr"——父神称号的语境
 
-- **主流说**：*Ahura Mazda*"智慧之主" → 帕提亚 *Ohrmazd* → 亚美尼亚 *Ormizd* / *Aramazd*。Aramazd 是官方正式称呼，*Ormizd* 则是民俗-中古亚美尼亚语称呼（Russell 1987）。
-- **民间语源说**：Khorenatsi 与后来的亚美尼亚民间将 *Aramazd* 拆解为 *Ara* +*mazd*—与传说中的**亚美尼亚国王 Ara**（美王 Ara）挂钩，是典型的**神话历史化**（euhemerism）—基督教史家对异教神系的降级手法（Petrosyan 2008）。
+Aramazd 最常见的称号是 **Հայր Ամենայնի**（Hayr Amenayni，"万有之父"）与 **Առատարար**（Aratarar，"慷慨施与者"）。前者在 Khorenatsi 与 Elishe 中反复出现；后者见于 Yeznik Koghbatsi 的《驳异端》。Russell（1987）指出，Aratarar 一称直译琐罗亚斯德 Yasht 中 dātar（"施与者"）的属性，是名字之外的**属性平移证据**。父神观念在这里绝非泛义"上父"，而是掌管**雨露、生育之泉、谷物成熟**三事的具体职能神——这与 Ahura Mazda 在 Zoroastrian Yasna 44 与 Vendidad 中的属性完全对齐。
 
-主流说在语言学界得到 **Martirosyan 2013** 的印欧-伊朗语音对应证据支持—争议已很小。
+## 四、Navasard 元旦大典——年度祭祀节令
 
-## 三、Ani-Kamakh：加冕圣所
+亚美尼亚旧历元旦为 **Navasard**（源自 Avestan *nava sarəda*，"新岁"），公历约 8 月 11 日，为 Aramazd 与 Anahit 联合的国家大典。Nigosian（1978）根据 Elishe 与 Agathangelos 复原节令：王家率百官前往 Bagavan 神殿，献牛马、奠酒、诵祭词，行"父女合祀"（Aramazd–Anahit），再由 Vahagn 祭司群做屠龙表演戏剧。这一节令在基督教化后被吸收为 8 月圣母升天节前的圣物瞻仰周，直到近代亚美尼亚民俗中仍保留 Navasard 之名。
 
-Aramazd 的**主庙位于 Ani-Kamakh**（今土耳其 Kemah，东安纳托利亚幼发拉底河上游）。Khorenatsi 明确记载：亚美尼亚国王必须在 Ani-Kamakh 的 Aramazd 神庙前举行**加冕仪式**—这一制度与琐罗亚斯德教中君王在圣火前被"授职"（*xᵛarənah* 授予）的传统深度呼应（Russell 1987）。
+## 五、铸币与图像学——从"父神"到宙斯脸
 
-Ani-Kamakh 同时也是**王室陵墓**所在—亚美尼亚 Artashesid 与 Arshakuni 王朝的国王死后归葬于此，与 Aramazd 神庙群一体化布局，反映了**神权-王权合一**的宗教政治结构（Guzsi 2007）。301 年 Gregory the Illuminator 亲自率军摧毁 Ani-Kamakh 神庙群时，实际上是**同时终结了亚美尼亚异教国教与王朝合法性象征**—这一事件的政治重量，远超一次单纯的宗教改宗（Sahakyan 2018）。
+亚美尼亚阿尔塔什斯王朝（前 189 至公元 12 年）铸币上出现了亚美尼亚神像的最早图像。Tigran II（前 95–前 55）与其后的钱币背面常见一位**戴射线冠、执雷电束**的男神像，铭文以希腊语 ΖΕΥΣ 或 ΘΕΟΣ ΜΕΓΑΣ 标注。Margaryan 与近年图像学家一致认为这就是"外希内伊"的 Aramazd：面孔取宙斯，属性取 Ahura Mazda。Russell（1987）在铸币证据链之外，还引证科马根安条克一世 Nemrut Dağ 圣所的希腊语铭文 **Ζεὺς Ὀρομάσδης**——这是同一现象在近邻王国的公开陈述。
 
-## 四、四子结构与神系顶层
+## 六、Aramazd 与家族神谱
 
-Agathangelos 与 Khorenatsi 所记载的亚美尼亚神系呈现出**Aramazd 为父、Anahit 为长女、Mihr 与 Nane 为其余子女、Vahagn 为战神**的"父-女-子"结构：
+Lurker（2004）依据 Agathangelos 给出的家族结构如下：**Aramazd 之子为 Mihr**（=Mithra，光与誓约）、**其女为 Nane**（战争与智慧）、**Anahit** 常被以"女儿"或"配偶"两种叙事并存，Vahagn 则被独立为"雷电之子"。这种父神—子光—女智—雷子—母水的家族树，明显复制琐罗亚斯德 Yazata 层的核心组合。Russell（1987: ch.4）警告：家族关系在亚美尼亚语中比在伊朗原典中更"血亲化"，这是印欧亚美尼亚土层的家族叙事习惯所致。
 
-> "Aramazd 是众神之父，他的女儿 Anahit 是亚美尼亚母亲，Vahagn 是他的英雄之子。"—Agathangelos §22
+## 七、"父—女—子"叙事——与 Anahit-Vahagn 的三角
 
-Ananikian 1925 从这一结构中辨识出**印欧天父+女儿+英雄之子**的经典三角—与吠陀 Dyaus-Uṣas-Indra、希腊 Zeus-Artemis-Heracles 的三角结构精确对应。这是印欧比较神话学中**Aramazd 的印欧本土层保留**的强证据（Petrosyan 2002）。
+三主神制以家族三角运行：Aramazd 提供**天源**，Anahit 提供**水源与王权圣化**，Vahagn 提供**雷电与胜利执行**。这一结构在 Vahagn 诞生歌中被以宇宙学语言表达："天在生育、地在生育、紫海也在生育；海中生出玫瑰红的芦苇，芦苇管中冒烟，烟中冒火焰，火焰中跳出金发的少年"（Khorenatsi 引 5 世纪残歌）。Farmanyan & Mickaelian（2016）把"天—地—海"三生育解读为 Aramazd（天）、Spandaramet（地）、Anahit（海）三母合力孕 Vahagn 的三分宇宙论。
 
-## 五、火与新年：Nawasard 节
+## 八、罗马—帕提亚拉锯战中的国祭
 
-Aramazd 主要**祭祀节日**为 **Nawasard**（*navasard*"新年"）—亚美尼亚旧历新年，约当 8 月 11 日（后受基督教影响推至冬春之交）。节日包含：
+公元 1 世纪起，罗马与帕提亚在亚美尼亚拉锯，Aramazd 崇拜承担了国族认同符号的功能。提里达底一世（Tiridates I）于 66 年远赴罗马为尼禄加冕，途中沿路以火行、不食船上熟食——这套做法完全符合琐罗亚斯德祭司仪节，Russell（1987）视之为 Aramazd–Mihr 联合祭司王的公开展示。此后，帕提亚阿尔沙库尼王朝在亚美尼亚的分支持续 Aramazd 王家祭祀，直至 3 世纪萨珊崛起、Aramazd 反而成为对抗萨珊 Ahura Mazda 官方化的"民族版"。
 
-- **神庙圣火点燃**：每座 Aramazd 神庙均维持**永燃火**，Nawasard 之日由大祭司在王面前重新点燃—与琐罗亚斯德教 *Ātaš Bahrām* 圣火制度直接对应（Nigosian 1978）。
-- **牲祭**：白牛与白马为主—Khorenatsi 记王亲自献牲。
-- **诗歌竞技**：Nawasard 是亚美尼亚**史诗竞唱**的舞台—*Vahagn 诞生歌*可能即是 Nawasard 的献神诗（Farmanyan & Mickaelian 2016）。
+## 九、跨文化谱系与图像迁移
 
-Seyfeli 2010 论证：Aramazd 的火祭在基督教化后并未完全消失—亚美尼亚东部乡村的**Trndez 节**（2 月 13 日，圣烛节的亚美尼亚版本）保留了**围火跳跃、新婚夫妻绕火**的仪式—这一仪式的形式与琐罗亚斯德教 *Sadeh* 火节几乎一致，被视为 Aramazd 火崇拜的**基督教包装的幸存**。
-
-## 六、丰饶父：与土地和雨水的关系
-
-亚美尼亚祷词中，Aramazd 常被称为**"雨的赐予者"**（*andzrever*）、**"谷穗之王"**（*hatik-t'agavor*）—这两个称号在琐罗亚斯德教 Ahura Mazda 的经典称号中**并不明显**，是亚美尼亚本地化的成果（Ananikian 1925）。
-
-Russell 1987 论证：这一转变源于亚美尼亚**高地农业社会**对天父的实用主义诉求—在缺乏埃及那样稳定灌溉、也没有美索不达米亚那样发达运河系统的亚美尼亚高地，"雨"是决定生死的核心变量。天父被要求承担直接的**雨神职能**—这一职能在伊朗本土由 **Tishtrya**（雨星）承担，但在亚美尼亚被上移到了 Aramazd 本身。
-
-## 七、Aramazd 与 Anahit：父女还是夫妻
-
-关于 Aramazd 与 Anahit 的关系，两种版本并存：
-
-- **父女版**（主流）：Agathangelos §22 明确记 Anahit 为"Aramazd 之女"—与琐罗亚斯德教 Anāhitā 作为 Ahura Mazda 的**创造物-女儿**一致。
-- **夫妻版**（希腊化-罗马化转述）：一些晚期 Hellenistic 时期铭文与罗马史家（Strabo XI.14.16）将 Anahit 描述为 Aramazd 的**配偶**—这是 Zeus-Hera 模型的机械套用（Behjati-Ardakani 2016）。
-
-现代学界（Russell 1987、Petrosyan 2008）倾向于**父女版**为亚美尼亚本土正统—夫妻版是希腊化时期的解释性错位。
-
-## 八、Gregory 传教与神庙拆毁
-
-301 年，**Gregory the Illuminator** 说服国王 Tiridates III 皈依基督教，随即启动**神庙拆毁运动**。Agathangelos 记载：Gregory 首先摧毁 Ani-Kamakh 的 Aramazd 主庙，**将其石材直接用于建造圣三一大教堂**—这是"以异教石建基督教堂"的最早明确记录之一（Sahakyan 2025）。
-
-Aramazd 神像—据 Agathangelos 记载是一尊**巨型青铜像**—被拆解熔毁；神庙金库被转入国王与教会共有。这一模式后来被拜占庭在整个东罗马帝国推广。**Nigosian 1978** 强调：亚美尼亚是**最早以国家法令终结琐罗亚斯德教崇拜**的国家—比萨珊波斯本土琐教消亡早了三个多世纪。
-
-## 九、跨文化谱系：印欧天父的双向流通
-
-Aramazd 是**印欧比较神话学**的关键节点：
-
-| 神 | 语源 | 主职 | 与 Aramazd 的关系 |
-|---|-----|-----|------------------|
-| Ahura Mazda | *asura mazdā-* | 智慧之主 | 直接源头 |
-| Zeus | *dyēus* | 天父 | 希腊化对应 |
-| Jupiter | *dyēus pəter* | 天父 | 罗马东征对照 |
-| Dyaus Pita | *dyaus pitā* | 天父 | 印欧共源 |
-| 天 (Tian) | 中国 | 天 | 类型学对偶 |
-
-Petrosyan 2002 强调：Aramazd 在亚美尼亚同时呈现出**印欧天父**（*dyēus* 层）与**伊朗智慧主**（*mazdā* 层）的双重来源—这在其他印欧神系中很罕见，反映亚美尼亚**语言与神系的双重印欧-伊朗归属**。
+除希腊宙斯与科马根 Zeus-Oromasdes 外，Aramazd 还与格鲁吉亚 **Armazi** 分享共同底层。Tsereteli（1935）与后续 Rapp（2014）指出，卡尔特里王 Parnavaz 在公元前 3 世纪立 Armazi 像于姆茨赫塔附近，其命名与祭仪与亚美尼亚 Aramazd 高度同构，说明高加索共同的伊朗化底层。此外，罗马时代 Cappadocia 铸币偶见 Zeus Stratios 与 Aramazd 混称，Judy Henzel（2007）在讨论卡帕多西亚基督教化背景时详加复原。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Ananikian 1925 与 Russell 1987 论及 Aramazd 处应为参照起点。Petrosyan 2002/2008 为印欧比较层。
-- **一手文献**：Agathangelos §22-§68 与 Khorenatsi II.14, II.53 是仅有的系统记载。
-- **最新研究**：Seyfeli 2010/2011 从土耳其-东正教史料角度补强；Sahakyan 2018/2025 补充 Agathangelos 文本形成史。
-- **深度追踪**：本项目独立立目 Aramazd，与 Anahit/Vahagn/Astghik 并列—Mihr/Tir/Nane/Barsamin 下一批处理。
-- **神学地位**：Aramazd 展示了**外来至上神如何被本地化**—亚美尼亚人接过 Ahura Mazda 的名字，却给他戴上了印欧天父与高地雨神的复合面孔。这是宗教史上少见的"名字借入、职能重写"完整案例。
+**奠基作**：Russell 1987 第 3 章是理解 Aramazd 的绝对起点；Boyajian 1958 为英译入门；Khorenatsi 与 Agathangelos 的 Robert W. Thomson 英译（1976/1978）是一手案头。**最新研究**：Bocchieriyan 2016 与 Cereti 2021 从阿契美尼德—萨珊两端补入政治—宗教互动细节；Seyfeli 2011 提供土耳其学界的地望考据；Margaryan 2018 虽以 Anahit 为主但铸币段落对 Aramazd 亦有专论。**深度追踪**：Ani-Kamakh 遗址的考古再调查、Navasard 节令与阿拉腊山朝觐的活态延续、Cappadocia 混合祭仪的图像学，是本条目未来补强方向。**神学地位**：Aramazd 是"名字里的移民"的最纯粹样本，其存在证明神话不是自然生成的祖辈信仰，而是政治宗主与本土认同互相谈判的**长期结果**。

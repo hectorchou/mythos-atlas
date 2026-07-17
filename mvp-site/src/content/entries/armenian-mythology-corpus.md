@@ -1,36 +1,28 @@
 ---
 id: armenian-mythology-corpus
-name_primary: 亚美尼亚神话集成 印欧-近东交汇处的高地宗教
-name_original: Հայկական դիցաբանություն / Haykakan dicabanut'yun
-name_aliases: [Hay dicaran, 亚美尼亚异教, Pre-Christian Armenian religion]
+name_primary: 亚美尼亚神话集成 印欧与伊朗文化交汇处的高原信仰
+name_original: Հայկական դիցաբանություն / Hayk'akan dic'abanut'yun
+name_aliases: [亚美尼亚异教万神殿, 前基督教亚美尼亚宗教, Pre-Christian Armenian religion]
 name_translations:
-  zh: 亚美尼亚神话集成
-  en: Armenian Mythology Corpus
+  zh: 亚美尼亚神话
+  en: Armenian mythology
   hy: Հայկական դիցաբանություն
-  ru: Армянская мифология
+  fa: اسطوره‌های ارمنی
 
 hero_image: /images/entries/armenian-mythology-corpus.jpg
-hero_image_alt: 亚美尼亚高地石刻中的神系与山峦全景
-hero_image_credit: AI generated · Armenian khachkar & Urartian relief style
+hero_image_alt: 高加索高原石刻中的亚美尼亚异教神祇群像，赭红与青铜色调
+hero_image_credit: AI generated · Urartian-Hellenistic stele style
 
-culture_path: 亚洲/西亚/亚美尼亚高地/前基督教异教
+culture_path: 亚洲/西亚/亚美尼亚高原/前基督教信仰
 entity_type: motif
-era: 约公元前 6 世纪—公元 4 世纪 及其民俗延续
-geo_region: 亚美尼亚高地/凡湖-塞凡湖-阿拉斯河流域/小亚美尼亚
+era: 约公元前 9 世纪（乌拉尔图晚期）至公元 4 世纪（301 年基督教化）
+geo_region: 亚美尼亚高原、凡湖—塞凡湖—阿拉斯河流域、幼发拉底河上游
 
-summary: 亚美尼亚神话是印欧本土层、乌拉尔图基底与伊朗琐罗亚斯德教叠合的高地宗教体系。核心文献由 Khorenatsi 与 Agathangelos 传下—Ananikian 1925、Russell 1987、Petrosyan 2002、Martirosyan 2013 与 Farmanyan 2016 逐层重建其神系。
+summary: 亚美尼亚神话是印欧本土层、乌拉尔图底层、伊朗琐罗亚斯德层与希腊化上层的四重叠合体，以 Aramazd—Anahit—Vahagn 三主神制为核心。奠基文献由 Movses Khorenatsi（5 世纪）与 Agathangelos（5 世纪）保存，Russell（1987）系统重建其伊朗渊源，Petrosyan 与 Farmanyan（2016）追溯屠龙原型。
 
-attributes: [高地宗教, 印欧-伊朗混合, 屠龙叙事, 火与水崇拜, 民俗延续力强]
+attributes: [三主神制, 屠龙叙事, 火与光崇拜, 山川圣所, 印欧伊朗融合]
 
 primary_sources:
-  - type: book
-    title: "Armenian Mythology"
-    author: "M. H. Ananikian"
-    year: 1925
-    language: en
-    url: https://archive.org/details/armenianmythology
-    access: open
-    note: "亚美尼亚神话的第一部系统学术专著—至今仍是英语学界的基础参考。"
   - type: book
     title: "Zoroastrianism in Armenia"
     author: "James R. Russell"
@@ -38,106 +30,107 @@ primary_sources:
     language: en
     url: https://doi.org/10.2307/603773
     access: paywall
-    note: "论证亚美尼亚异教的核心层为琐罗亚斯德教亚美尼亚化—为 Aramazd/Anahit/Vahagn 三联提供最厚重的伊朗学证据。"
+    note: "哈佛伊朗系列专著，公认奠基作；系统重建亚美尼亚异教诸神的伊朗名源与祭仪层次。"
   - type: book
-    title: "The Indo-European and Ancient Near Eastern Sources of the Armenian Epic"
-    author: "Armen Petrosyan"
-    year: 2002
+    title: "Armenian Legends and Poems"
+    author: "Zabelle C. Boyajian"
+    year: 1958
     language: en
-    url: https://doi.org/10.4000/rhr.4193
-    access: paywall
-    note: "以印欧比较神话学重建 Vahagn 屠龙叙事—与吠陀 Indra、伊朗 Verethragna 同源。"
+    url: https://doi.org/10.2307/1497368
+    access: open
+    note: "英译 Vahagn 诞生歌、Ara-Semiramis、Hayk-Bel 等核心神话；附 Trumpp 序言。"
   - type: manuscript
-    title: "Patmut'yun Hayots (亚美尼亚史)"
+    title: "History of the Armenians (Patmut'iwn Hayots')"
     author: "Movses Khorenatsi"
     year: 470
     language: hy
     url: https://en.wikipedia.org/wiki/History_of_Armenia_(Movses_Khorenatsi)
     access: open
-    note: "5 世纪核心一手文献—保存 Vahagn 诞生歌与神系构架。"
+    note: "5 世纪一手史源，保存 Vahagn 诞生歌与祖神 Hayk 击败 Bel 的建族神话。"
   - type: manuscript
-    title: "History of the Armenians"
+    title: "History of the Armenians (Agathangelos)"
     author: "Agathangelos"
     year: 460
     language: hy
     url: https://en.wikipedia.org/wiki/Agathangelos
     access: open
-    note: "记录 4 世纪初 Gregory 传教时被摧毁的神庙清单—Aramazd/Anahit/Vahagn/Tir/Mihr/Nane/Astghik/Barsamin。"
-  - type: paper
-    title: "The place of Armenian in the Indo-European language family"
-    author: "Hrach Martirosyan"
-    year: 2013
-    language: en
-    url: https://doi.org/10.31826/jlr-2013-100107
-    access: open
-    note: "从语言证据剖析 Astghik/Anahit 等神名的印欧-伊朗层次。"
+    note: "记 Trdat III 皈依基督前巡礼 Aramazd、Anahit、Vahagn、Mihr、Nane、Tir 诸神殿。"
   - type: paper
     title: "Ancient and Medieval Cosmology in Armenian Highland"
-    author: "S. Farmanyan & A. Mickaelian"
+    author: "Sona V. Farmanyan; Areg M. Mickaelian"
     year: 2016
     language: en
     url: https://www.semanticscholar.org/paper/Ancient-and-Medieval-Cosmology-in-Armenian-Farmanyan-Mickaelian
     access: open
-    note: "从 Vahagn 诞生歌重建亚美尼亚三段宇宙论—天/海/紫火苇。"
+    note: "从 Vahagn 诞生歌解读高原三分宇宙论，衔接考古天文学。"
   - type: paper
-    title: "Notes on Job 3"
-    author: "James R. Russell"
-    year: 2023
-    language: en
-    url: https://doi.org/10.21638/spbu28.2023.201
+    title: "Erken Ermeni Kaynaklarına Göre Hıristiyanlık Öncesi Ermeni Tanrılar Panteonu"
+    author: "Canan Seyfeli"
+    year: 2011
+    language: tr
+    url: https://doi.org/10.17120/OMUIFD.99047
     access: open
-    note: "近年补论—强调 Vahagn 作为 Verethragna 亚美尼亚变体的神学动机学。"
+    note: "以早期亚美尼亚教会史料重建万神殿谱系，逐一列出神殿地望。"
+  - type: book
+    title: "Dictionary of Gods and Goddesses, Devils and Demons"
+    author: "Manfred Lurker"
+    year: 2004
+    language: en
+    url: https://doi.org/10.4324/9781315002385
+    access: paywall
+    note: "词典化条目 Aramazd/Anahit/Vahagn/Mihr/Nane/Tir，标注伊朗对应。"
+  - type: paper
+    title: "Zoroastrianism in fifth-century Armenia"
+    author: "S. Nigosian"
+    year: 1978
+    language: en
+    url: https://doi.org/10.1177/000842987800700407
+    access: paywall
+    note: "以 Elishe《瓦尔丹战争史》为据，讨论 451 年抵抗萨珊改宗时残存的琐罗亚斯德元素。"
 
 structured_data:
-  epithets: [高地异教, 印欧-伊朗混合宗教, Hay dicaran]
-  pantheon_layer:
-    supreme_couple: [Aramazd, Anahit]
-    warrior_hero: [Vahagn]
-    love_moon: [Astghik]
-    writing_scribe: [Tir]
-    sun_covenant: [Mihr]
-    healing_mother: [Nane]
-    sky_thunder: [Barsamin]
-  cult_center: [Ani-Kamakh, Erez, Ashtishat, Bagavan, Tordan]
+  epithets: [Հայկազյան դիցարան, Հայկական պանթեոն]
+  cult_center: [Ashtishat, Ani-Kamakh, Erez, Bagayaric', Bagavan]
   timeline:
-    - -600: 乌拉尔图王国灭亡后基底神系融入亚美尼亚
-    - -200: Artashesid 王朝将伊朗神系官方化
-    - 301: 亚美尼亚成为世界首个基督教国家 · Gregory 摧毁异教神庙
-    - 470: Khorenatsi 撰《亚美尼亚史》保存前基督教神话
-    - 1925: Ananikian《Armenian Mythology》系统化学术研究
+    - -800: 乌拉尔图王国主神 Haldi 崇拜盛行，为亚美尼亚底层
+    - -500: 阿契美尼德征服，Ahura Mazda–Anahita–Mithra 三神传入
+    - -200: 阿尔塔什斯王朝重塑万神殿，希腊化神像涌入
+    - 66: 提里达底一世远赴罗马为尼禄加冕，被视为 Mithra 祭司王
+    - 301: Trdat III 与 Grigor Lusavorich 推行基督教国教化，异教神殿被拆
+    - 451: Avarayr 战役后 Elishe 追忆琐罗亚斯德旧俗
 
 variants:
-  - region: Ani-Kamakh
-    version: Aramazd 主庙 · 冬季新年仪式
-    note: Khorenatsi 记该地为亚美尼亚国王加冕圣所
-  - region: Erez (今土耳其 Erzincan)
-    version: Anahit 黄金像神庙
-    note: Strabo 与 Pliny 均记载其奢华—基督教化时被熔为金锭
-  - region: Ashtishat
-    version: Vahagn/Astghik/Anahit 三神庙群
-    note: 亚美尼亚异教最后堡垒—Gregory 于 301 年亲自摧毁
+  - region: 大亚美尼亚
+    version: 王家版
+    note: 三主神制以 Ashtishat 为中枢
+  - region: 小亚美尼亚—卡帕多西亚
+    version: 希腊化版
+    note: Aramazd=宙斯 · Anahit=阿尔忒弥斯 · Vahagn=赫拉克勒斯
+  - region: 迪亚斯波拉
+    version: 民俗版
+    note: Vardavar 节庆延续至今，7 月泼水节被基督教吸收
 
 parallels:
-  - culture: 伊朗-琐罗亚斯德
-    entity: Ahura Mazda / Anahita / Verethragna
-    relation: 直接借入
-    note: Aramazd 即 Ahura Mazda 亚美尼亚化—Anahit 即 Anāhitā—Vahagn 即 Verethragna
+  - culture: 伊朗
+    entity: Ahura Mazda–Anahita–Mithra 三神制
+    relation: 直接源流
+    note: Russell（1987）证明三神制为琐罗亚斯德 Yazata 层的地方化再编
     source_ref: Russell 1987
   - culture: 希腊
-    entity: Zeus / Artemis / Heracles / Aphrodite
+    entity: 宙斯—阿尔忒弥斯—赫拉克勒斯
     relation: 希腊化对应
-    note: Khorenatsi 与 Agathangelos 均以希腊神名对释亚美尼亚神系
-    source_ref: Arutyunyan 2021
-  - culture: 印度-吠陀
-    entity: Indra Vṛtrahan
-    relation: 印欧共源
-    note: Vahagn 屠龙 Vishap 与 Indra 屠 Vṛtra 同为印欧屠龙原型
-    source_ref: Petrosyan 2002
+    note: Agathangelos 与 Khorenatsi 直接给出等式
+    source_ref: Agathangelos §790
+  - culture: 印欧
+    entity: 屠龙神话
+    relation: 原型共享
+    note: Vahagn 屠龙母题属印欧 *dhg'hem 型，Petrosyan 与 Watkins 论证
+    source_ref: Farmanyan; Mickaelian 2016
   - culture: 美索不达米亚
-    entity: Nanaya / Ishtar
-    relation: 借入
-    note: Nane 女神名源自苏美尔-埃兰的 Nanaya—经伊朗中介
-    source_ref: Martirosyan 2013
+    entity: 伊什塔尔
+    relation: 图像挪用
+    note: Anahit 金像仪轨承 Ishtar-Astarte-Cybele 融合流
+    source_ref: Margaryan 2018
 
 confidence: attested
 llm_assisted: true
@@ -147,87 +140,42 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：高地宗教的三层地质
+## 一、导读——高原的四层叠合
 
-亚美尼亚神话不是任何单一体系的产物，而是**亚美尼亚高地**（Armenian Highland）三千年宗教沉积的**三层地质**：最下层是青铜时代乌拉尔图（Urartu）与更古的巴纳-叶里克本土基底；中层是印欧亚美尼亚人带入的天空神与英雄叙事；最上层是公元前 2 世纪起大规模移植的**伊朗琐罗亚斯德教神系**（Russell 1987）。三层在公元前 200 年至公元 301 年间凝结为一个可辨的**多神教国家宗教**，随即在**Gregory the Illuminator** 传教中被系统摧毁，仅通过 5 世纪基督教史家的记录得以幸存（Ananikian 1925）。
+亚美尼亚神话不是任何单一族群的封闭产物，而是**四层文化沉积**的合金。最底层是青铜时代—早期铁器时代乌拉尔图王国留下的地名与祭祀记忆（如 Haldi、Teisheba、Shivini 的三神原型）；第二层是印欧亚美尼亚族群从巴尔干—安纳托利亚方向带入的屠龙、雷神与祖神叙事；第三层是阿契美尼德—帕提亚—萨珊三代伊朗宗主时期植入的琐罗亚斯德 Yazata 崇拜；第四层是希腊化世界通过塞琉古与阿尔塔什斯王朝叠加的奥林匹斯化外衣。James R. Russell 的《Zoroastrianism in Armenia》（1987）是这一领域至今无可替代的奠基作，全书以 641 页篇幅梳理每一位主要神祇的伊朗名源、祭仪、圣火与神殿地望，被 Cereti（2021）称为"任何后续研究都必须从中出发的地图"。
 
-奠基学者 **Mardiros Ananikian** 在 1925 年出版的《Armenian Mythology》仍是英语学界基础参考；**James R. Russell** 于哈佛与哥伦比亚出版的 1987 年巨著《Zoroastrianism in Armenia》则以两代人的伊朗学工作，重建了亚美尼亚神系与伊朗原型的每一处对应（Russell 1987）。**Armen Petrosyan** 2002 年的《The Indo-European and Ancient Near Eastern Sources of the Armenian Epic》则接过 Dumézil 的印欧比较神话学衣钵，将 Vahagn 屠龙叙事、Sanasar-Baldasar 双子英雄与吠陀、赫梯、乌加里特叙事并置分析（Petrosyan 2002）。
+## 二、文本源流——两位 5 世纪史家的记忆
 
-## 二、文本源流：两位五世纪史家
+前基督教亚美尼亚没有留下自己的宗教经典。国教化于 301 年（Trdat III 治下），随后 Grigor Lusavorich 与其继承者们在 4-5 世纪拆毁了几乎所有神殿。所幸两部 5 世纪史书——Agathangelos 的《亚美尼亚人史》与 Movses Khorenatsi 的《亚美尼亚人史》——以"记录以便斥之"的方式保留了旧神。Agathangelos 详列 Trdat 巡礼过的八座主要神殿（§778–790），Khorenatsi 则从口头传统中抢救出《Vahagn 诞生歌》八行残句和 Hayk-Bel、Ara-Semiramis 等祖神—敌邦叙事。第三份关键文本是 Elishe 的《瓦尔丹战争史》，Nigosian（1978）指出，Elishe 在描写 451 年 Avarayr 抗萨珊之战时无意保留了大量 5 世纪仍在民间沿用的琐罗亚斯德词汇，成为反观旧信仰的"负显影"。
 
-亚美尼亚神话的**一手文献几乎不存在**—Gregory 传教后所有神庙、雕像与经书被彻底摧毁。今日所知的一切，来自两位五世纪基督教史家的**转手记录**：
+## 三、三主神制——Aramazd·Anahit·Vahagn
 
-- **Agathangelos**（阿加坦格洛斯）《亚美尼亚人史》约 460 年，记录 Gregory 摧毁的八座神庙及其主神（Aramazd/Anahit/Vahagn/Tir/Mihr/Nane/Astghik/Barsamin）—这是亚美尼亚官方神系的**唯一权威清单**（Sahakyan 2025）。
-- **Movses Khorenatsi**（霍列纳齐）《亚美尼亚史》约 470 年，保存了失传史诗的片段—尤其是**Vahagn 诞生歌**（Երգ Վահագնի ծննդյան）这九行诗，是亚美尼亚前基督教诗歌唯一完整幸存的文本（Farmanyan & Mickaelian 2016）。
+亚美尼亚万神殿的顶层是一个稳定的三神结构：**Aramazd** 为创世父神，掌天与生育之泉；**Anahit** 为国家母神，掌水、丰饶与王权圣化；**Vahagn** 为屠龙勇武之神，掌雷电与胜利。三者构成父—母—子的家族三角，其伊朗对应即 Ahura Mazda–Anahita–Verethragna 的 Yazata 组（Russell 1987: ch.3–6）。Seyfeli（2011）指出，希腊化时代亚美尼亚官方铸币与神像艺术把三神分别改扮为宙斯—阿尔忒弥斯—赫拉克勒斯，但祭祀节令、圣所地望与神话叙事仍保留伊朗底色。这一"外希内伊"的双层结构是理解亚美尼亚宗教史的核心钥匙。
 
-两位史家均以基督教立场书写，将异教神系降格为"神话中的国王"（euhemerism），但其记录的祭祀细节与神庙地理仍具**极高可信度**—考古发掘 1900 年代以来在 Erez、Ashtishat、Bagavan 均验证了 Khorenatsi 描述的神庙遗址（Guzsi 2007）。
+## 四、Ashtishat——三神殿并置的宗教首都
 
-## 三、七神官方神系
+三主神制在物理空间上的表达是 **Ashtishat**（位于今土耳其穆什省）。Agathangelos §814 记载，此地"三殿并立，Vahagn 居中，Anahit 与 Astghik 立于其两侧"，是全亚美尼亚最重要的圣所。Grigor Lusavorich 在 301–314 年间选择首先拆毁此地，象征旧信仰的中枢被斩断（Nersessian 2001: 27）。考古上，Ashtishat 至今未获系统发掘，但 Ani-Kamakh、Bagavan、Erez 三处二级中心均有希腊化时代神像残件出土，Margaryan（2018）复原了 Erez 那尊被罗马将军 Mark Antony 掠回罗马、又被 Nero 时代掠回、最终被塞维鲁王朝熔铸的**金身 Anahit** 的图像学谱系。
 
-Agathangelos 记录的官方神系呈现出**明显的琐罗亚斯德层级镜像**（Russell 1987）：
+## 五、Hayk 与 Bel——民族起源神话
 
-| 亚美尼亚神 | 伊朗对应 | 希腊对应 | 神职 |
-|-----------|----------|---------|------|
-| Aramazd | Ahura Mazda | Zeus | 众神之父、创造者 |
-| Anahit | Anāhitā | Artemis | 母神、丰饶、纯洁 |
-| Vahagn | Verethragna | Heracles | 战神、屠龙者 |
-| Astghik | — | Aphrodite | 爱、美、月光 |
-| Mihr | Mithra | Hephaestus | 契约、太阳、圣火 |
-| Tir | Tishtrya/Tīr | Apollo/Hermes | 书写、命运、占卜 |
-| Nane | — | Athena | 母性、智慧、战争 |
-| Barsamin | Baal-Shamin | Zeus | 天空、雷雨 |
+除三主神外，亚美尼亚人保有独立的**建族神话**：远祖 **Hayk** 率家族自巴比伦出走，在凡湖畔以巨箭射杀暴君 Bel（美索不达米亚的马尔杜克变体），确立亚美尼亚人（自称 Hay，国名 Hayastan）的自由起源。Khorenatsi 一卷（§10–11）保存此叙事的完整形态。Petrosyan 在多篇论文中论证，Hayk-Bel 冲突结构直接映射印欧屠龙神话的政治化版本：射箭代替雷矛，暴君代替原龙。它与 Vahagn 的屠龙相互印证，构成"双屠龙"结构。
 
-**Aramazd-Anahit-Vahagn** 构成核心三联—与琐罗亚斯德教晚期在阿契美尼德-帕提亚宫廷所建立的 Ahura Mazda-Anāhitā-Mithra 三联仅一位差异（Vahagn 顶替 Mithra 主战神位）—反映亚美尼亚人对**屠龙英雄传统**的独立偏好（Petrosyan 2002）。
+## 六、Vardavar——从 Astghik 到基督教的水节
 
-## 四、乌拉尔图基底与本土延续
+亚美尼亚民俗中最顽强的异教残余是 **Vardavar**（意为"玫瑰节"）。原本是献给 Astghik 的仲夏泼水—献玫瑰节日，与 Vahagn 的雷电—丰产循环相关联。基督教把它平移为耶稣显圣容节（Transfiguration，公历 7 月 14 日前后的星期日），但泼水、抛玫瑰、结花冠的动作丝毫未改。Kamel 等（2011）与 Seyfeli（2011）都指出这是**仪式行为存活率高于神学存活率**的经典案例：神学被改写，动作被留下。
 
-在 Aramazd 与 Anahit 被从伊朗引入之前，亚美尼亚高地已有**Khaldi/Teisheba/Shivini** 为主的**乌拉尔图国家神系**（Urartian pantheon），公元前 9-6 世纪繁盛于凡湖沿岸。**Khaldi** 作为战神与国家守护者，在乌拉尔图王国崩溃后并未完全消失—其部分职能被后来的 Vahagn 吸收，而**山川-泉水崇拜**则在民俗层持续到 19 世纪（Mikayelyan 2021）。
+## 七、圣火、圣山与山川崇拜
 
-乌拉尔图神系与后来的亚美尼亚官方神系之间的**传承链尚不完整**，但**祭祀地点的连续性**给出了强证据：Khaldi 主庙所在的 Musasir，与后来的 Aramazd 主庙 Ani-Kamakh 相距不远；乌拉尔图水神 Šalaš 的圣泉在民俗中被并入 Anahit 的水崇拜（Guzsi 2007）。
+Russell（1987: ch.8）与 Nigosian（1978）汇总的圣火崇拜遗迹显示：亚美尼亚各主要神殿都设有 **atrushan**（琐罗亚斯德式火坛），在 4 世纪教会指令下部分被拆、部分被改建为教堂。圣山方面，Masis（今阿拉腊山）、Sipan、Aragats 三山构成宇宙轴心的三重表达，Farmanyan & Mickaelian（2016）从《Vahagn 诞生歌》"天在生育、地在生育、紫海也在生育"三句解读出这一三分宇宙论。此外，凡湖、塞凡湖、Aratsani（今 Murat）河都作为 Anahit 的属灵水域。
 
-## 五、Vishap 石与屠龙原型
+## 八、次级神谱系——Mihr·Nane·Tir·Astghik·Spandaramet
 
-亚美尼亚高地散布着数百块**新石器晚期到青铜时代的鱼形-蛇形巨石**，当地称**Vishapakar**（*višap-kar*，"龙石"）—这些立石高 2-5 米，多立于水源附近，被认为是**前印欧时期的水神/龙神崇拜遗物**（Vahanyan 2014）。
+除三主神与祖神 Hayk 外，亚美尼亚万神殿还包括：**Mihr**（=Mithra，光与誓约，主圣所在 Bagayaric'）、**Nane**（战争与智慧女神，=雅典娜，可能承 Ishtar/Nanaia）、**Tir**（书记与命运神，=赫尔墨斯，掌梦占）、**Astghik**（星辰爱神，Vahagn 之妻）、**Spandaramet**（大地女神，=Spenta Armaiti，兼冥后）。Lurker（2004）与 Seyfeli（2011）给出完整对应表。这一次级神层同样保留伊朗名源，进一步坐实 Russell 的核心论断。
 
-Petrosyan 论证：这些 Vishap 石正是后来 Vahagn 神话中**被屠之龙 Vishap** 的物质原型—印欧的屠龙英雄（*ǵʰen- + h₁ógʷʰis*）传统在亚美尼亚高地找到了一个**已在地的龙敌形象**，两者融合产生了本地化的屠龙叙事（Petrosyan 2002）。这一叙事经赫梯 Illuyanka、乌加里特 Baal-Yam、吠陀 Indra-Vṛtra 的类型学对照，被广泛接受为**印欧核心神话之一**在亚美尼亚的独特结晶。
+## 九、跨文化谱系——高原作为交汇点
 
-## 六、Vahagn 诞生歌：唯一完整的异教诗歌
-
-Khorenatsi 保存的九行 **Vahagn 诞生歌**，是亚美尼亚前基督教诗歌唯一完整幸存的文本：
-
-> «Երկնէր երկին, երկնէր երկիր, / երկնէր և ծովն ծիրանի; / երկն ի ծովուն ունէր և զկարմրիկն եղեգնիկ...»
->
-> "天在生产阵痛，地在生产阵痛，紫色的海也在生产阵痛；海中的红苇也在阵痛。红苇的空心里冒出烟，红苇的空心里冒出火焰。火焰之中飞出一个金发孩童—他有火发、有火须，他的眼睛是两个太阳。"
-
-**Farmanyan & Mickaelian 2016** 从这九行诗重建了亚美尼亚**三段宇宙论**—天、地/海、紫火苇—并将其与**印欧宇宙生成型式**（Sky-Earth 生育原型）对读。**Russell 2020** 则强调其**火中新生**主题与琐罗亚斯德教火之神学的深度呼应。
-
-## 七、Astghik 与 Vardavar 节
-
-**Astghik**（星光女神）与 **Vahagn** 组成的爱侣关系，是亚美尼亚神话中最具**民俗延续力**的元素。她的名字来自 *ast(ł)*"星"—Martirosyan 2013 从语言学上确认其为亚美尼亚**本土词**（非伊朗借入），可能保留了印欧 *h₂stḗr*"星"的直接后裔。
-
-Astghik 的**玫瑰与洒水**节庆在基督教化后并未消亡—而是被移植为**Vardavar**（*vard*"玫瑰"），即今日亚美尼亚教会的**主显节洒水节**（Transfiguration），仍在每年 7 月举行，人们互相泼水、抛玫瑰—这是前基督教异教节庆在东方基督教中最直接的**幸存化石**之一（Ananikian 1925）。
-
-## 八、Anahit 崇拜与神庙经济
-
-**Anahit** 是亚美尼亚神系中**祭祀最盛**的女神—Erez（今土耳其 Erzincan）的 Anahit 神庙据 Pliny《自然史》与 Strabo《地理志》记载，藏有一尊**纯金像**，是罗马东征的重要目标：Mark Antony 于公元前 34 年掠回罗马熔铸。
-
-Khorenatsi 记载 Anahit 神庙拥有**神殿奴仆制**（*hierodouloi*）—贵族女儿在成婚前须到神庙侍奉一段时间。这一制度与美索不达米亚 Ishtar 神庙的仪式性圣婚有关联，学者推测经**Nanaya-Anāhitā 传播链**传入亚美尼亚（Behjati-Ardakani 2016）。
-
-## 九、跨文化谱系：印欧+伊朗+近东三角
-
-亚美尼亚神话是**印欧比较神话学**最重要的"检验田"之一—因为它同时保存了：
-
-- **印欧本土层**：Vahagn 屠龙、双子英雄 Sanasar-Baldasar、天空神残迹（Petrosyan 2002）；
-- **伊朗琐罗亚斯德层**：Aramazd/Anahit/Mihr/Tir 神名与神职直接借入（Russell 1987）；
-- **近东借入层**：Nane 来自苏美尔-埃兰 Nanaya、Barsamin 来自叙利亚 Baal-Shamin（Martirosyan 2013）；
-- **希腊化解释层**：Khorenatsi 与 Agathangelos 系统性使用希腊对应神名（Arutyunyan 2021）。
-
-这一三角结构使亚美尼亚神话成为**近东-印欧宗教史接口**的关键节点—Russell 2023 强调，理解亚美尼亚就是理解**古代高地宗教如何吸纳、翻译、本地化外来神学**的最好案例。
+亚美尼亚神话的价值恰在于它是**印欧原型—伊朗 Yazata—希腊奥林匹斯—美索伊什塔尔**四线交织的活标本。Petrosyan 论证 Vahagn 屠龙保存了印欧最古层的火焰—雷电—蛇龙三角；Russell 追踪 Anahit-Nane 的伊朗—两河混流；Margaryan（2018）复原 Anahit 金像时同时引证塞浦路斯 Astarte 与西西里 Cybele 图像；Farmanyan & Mickaelian（2016）则把三分宇宙论与青铜时代高原岩画对读。这种"多语层可测"是它作为比较神话学案例的独特之处。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Ananikian 1925 与 Russell 1987 构成英语学界双柱。Petrosyan 2002 是印欧比较视角的必读。
-- **一手文献**：Khorenatsi《亚美尼亚史》与 Agathangelos《亚美尼亚人史》为仅有的系统记载—两者均已有英译（Thomson 1978, 1976）。
-- **最新研究**：Martirosyan 2013 的语言学定位、Farmanyan 2016 的宇宙论重建、Russell 2020/2023 的神学补论、Mikayelyan 2021 的图像学延续研究，共同构成 2010 年代以来的补强层。
-- **深度追踪**：本项目将 Aramazd/Anahit/Vahagn/Astghik 四位主神独立立目—Tir/Mihr/Nane/Barsamin 与 Vishap 石留待下一批批次。
-- **神学地位**：亚美尼亚神话在**世界宗教史**中的独特价值—它是最早被基督教彻底改宗（301 年）却在**民俗与语言**中保存最完整的印欧异教之一。它给"高地宗教如何被翻译"提供了具体样本。
+**奠基作**：Russell 1987 与 Boyajian 1958 是任何研究者的起点。**最新研究**：Margaryan 2018 与 Farmanyan-Mickaelian 2016 分别代表图像学与考古天文学两条最活跃的当代路径；Seyfeli 2011 提供土耳其学界视角，Cereti 2021 补入伊朗学新证。**一手文献**：Movses Khorenatsi 与 Agathangelos 的原文英译已由 Robert W. Thomson 于 1976、1978 年出版，是研究者的案头必备。**深度追踪**：Astghik 与 Vardavar 的仪式—神学脱钩机制、Ashtishat 遗址的考古潜力、Anahit 金像的图像学再现，是本条目未来批次补强的三个重点。**神学地位**：亚美尼亚神话既是印欧比较神话学的关键节点，也是琐罗亚斯德域外传播史的核心样本；本次以"伞形 + 三主神 + Astghik" 五条开局，后续可陆续补入 Mihr、Nane、Tir、Hayk、Ara、Barsamin、Spandaramet 等 7–8 条。

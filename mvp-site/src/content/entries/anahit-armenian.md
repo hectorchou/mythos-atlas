@@ -1,37 +1,29 @@
 ---
 id: anahit-armenian
-name_primary: 阿娜希特 亚美尼亚母亲与黄金女神
+name_primary: 阿娜希特 亚美尼亚母神与王权圣化的金身女神
 name_original: Անահիտ / Anahit
-name_aliases: [Anahita, Oksemayr（黄金之母）, Tikin（贵妇）, Armenian Artemis]
+name_aliases: [Anahita 亚美尼亚变体, Great Lady, 金母 Voskemayr, 母土之光]
 name_translations:
   zh: 阿娜希特
   en: Anahit
   hy: Անահիտ
-  fa: آناهیتا
-  el: Ἀναῖτις
+  fa: آناهیتا (源头)
+  el: Ἄρτεμις (希腊化对应)
 
 hero_image: /images/entries/anahit-armenian.jpg
-hero_image_alt: 阿娜希特身着长袍立于 Erez 神庙前 手持水罐与麦穗
-hero_image_credit: AI generated · Hellenistic-Armenian bronze statue style
+hero_image_alt: 金身女神端坐水泉旁，双手托月与谷穗，衣袍缀星，背景为幼发拉底河畔神殿
+hero_image_credit: AI generated · Hellenistic-Armenian gold statue style
 
-culture_path: 亚洲/西亚/亚美尼亚高地/前基督教异教
+culture_path: 亚洲/西亚/亚美尼亚高原/前基督教信仰
 entity_type: deity
-era: 约公元前 200 年—公元 301 年 及基督教后民俗延续
-geo_region: 亚美尼亚高地/Erez/Ashtishat/Artashat
+era: 约公元前 5 世纪起（阿契美尼德晚期传入）至公元 4 世纪基督教化
+geo_region: 大亚美尼亚，主圣所 Erez（今埃尔津詹省，阿拉斯河—幼发拉底交汇上游）
 
-summary: Anahit 是亚美尼亚国母神—Anāhitā 的亚美尼亚本地化 兼母神/丰饶/水与纯洁 Erez 神庙藏纯金像被 Antony 掠回罗马。Russell 1987、Nersessian 2001、Javadi 2016、Murdock 2011、Martirosyan 2013 论述其伊朗-希腊-本地三重叠层。
+summary: Anahit 是亚美尼亚母神、水与丰饶之神、王权圣化的执行者。名源直取伊朗 Aredvi Sura Anahita，被 Russell（1987）与 Margaryan（2018）视为琐罗亚斯德 Anahita 崇拜的亚美尼亚"金像化"高峰。Erez 神殿供奉全金铸像，Strabo 与 Pliny 均有记载；希腊化时被等同阿尔忒弥斯。
 
-attributes: [亚美尼亚母亲, 黄金女神, 水与丰饶, 纯洁与治愈, 神庙侍女制]
+attributes: [母神, 水与丰饶, 金身像, 王权圣化, 战争护佑]
 
 primary_sources:
-  - type: book
-    title: "Armenian Mythology"
-    author: "M. H. Ananikian"
-    year: 1925
-    language: en
-    url: https://archive.org/details/armenianmythology
-    access: open
-    note: "系统整理 Anahit 神庙经济与祭祀细节—包括神庙侍女制。"
   - type: book
     title: "Zoroastrianism in Armenia"
     author: "James R. Russell"
@@ -39,104 +31,109 @@ primary_sources:
     language: en
     url: https://doi.org/10.2307/603773
     access: paywall
-    note: "论证 Anahit 神庙群跨伊朗-亚美尼亚-小亚细亚—是伊朗女神在西亚最持久的化身。"
-  - type: book
-    title: "Treasures from the Ark: 1700 Years of Armenian Christian Art"
-    author: "Vrej Nersessian"
-    year: 2001
+    note: "第 4 章长篇讨论 Anahit 名源、Erez 神殿与阿契美尼德改革的关系。"
+  - type: paper
+    title: "The golden statue of the goddess Anahit in the context of the artistic culture of ancient Armenia"
+    author: "H. Margaryan"
+    year: 2018
     language: en
-    url: https://doi.org/10.5860/choice.39-4982
-    access: paywall
-    note: "追踪 Anahit 神庙遗址与基督教艺术的转化—Erez 遗址的圣母崇拜可视为 Anahit 的转化。"
+    url: https://doi.org/10.32028/ajnes.v12i2.908
+    access: open
+    note: "系统复原 Erez 金像的图像学谱系、被罗马掠回与后续熔铸史。"
+  - type: paper
+    title: "Investigating the Anahita Myth in Ancient Iran and Armenia"
+    author: "Shohreh Javadi; Ali Nikoei"
+    year: 2016
+    language: en
+    url: https://doi.org/10.7456/1060JSE/057
+    access: open
+    note: "对比伊朗 Anahita 与亚美尼亚 Anahit 的祭仪—图像双轨演化。"
   - type: manuscript
-    title: "Patmut'yun Hayots"
+    title: "History of the Armenians (Agathangelos)"
+    author: "Agathangelos"
+    year: 460
+    language: hy
+    url: https://en.wikipedia.org/wiki/Agathangelos
+    access: open
+    note: "§786 记 Trdat III 巡礼 Erez Anahit 神殿，称其为'亚美尼亚生命之母'。"
+  - type: manuscript
+    title: "History of the Armenians (Patmut'iwn Hayots')"
     author: "Movses Khorenatsi"
     year: 470
     language: hy
     url: https://en.wikipedia.org/wiki/History_of_Armenia_(Movses_Khorenatsi)
     access: open
-    note: "记 Anahit 为亚美尼亚母亲—国家的守护者。"
+    note: "二卷 §12–14 记 Erez、Ashtishat、Ani-Kamakh 三处 Anahit 神殿地望。"
   - type: paper
-    title: "INVESTIGATING THE ANAHITA MYTH IN ANCIENT IRAN AND ARMENIA"
-    author: "Shohreh Javadi & Ali Nikoei"
-    year: 2016
-    language: en
-    url: https://doi.org/10.7456/1060JSE/057
+    title: "Անահիտ դիցուհու պաշտամունքն ու պատկերագրությունը Հայաստանում"
+    author: "Ժ. Դ. Խաչատրյան"
+    year: 1985
+    language: hy
+    url: https://www.semanticscholar.org/paper/Anahit-worship-iconography-in-Armenia
     access: open
-    note: "从图像学与文献双维度对比伊朗-亚美尼亚 Anahit 崇拜—强调其在亚美尼亚的独立化。"
+    note: "亚美尼亚学界经典论文，梳理 Anahit 与 Ma、Cybele、Ishtar、Astarte 的融合层。"
   - type: paper
-    title: "An Evaluation of the Historical Importance of Fertility and Its Reflection in Ancient Mythology"
-    author: "Z. Behjati-Ardakani et al."
-    year: 2016
-    language: en
-    url: https://www.semanticscholar.org/paper/behjati-fertility-anahita
-    access: open
-    note: "从生殖医学史角度看 Anahita/Anahit 的丰饶职能—强调其精液纯化与乳汁循环神学。"
-  - type: paper
-    title: "The place of Armenian in the Indo-European language family"
-    author: "Hrach Martirosyan"
-    year: 2013
-    language: en
-    url: https://doi.org/10.31826/jlr-2013-100107
-    access: open
-    note: "从印欧语系确认 Anahit 神名的伊朗借入—但其祭祀本地化程度极高。"
-  - type: paper
-    title: "Was the Persian Goddess Anahita the Pre-Christian Virgin Mother of Mithra?"
-    author: "D.M. Murdock"
+    title: "Erken Ermeni Kaynaklarına Göre Hıristiyanlık Öncesi Ermeni Tanrılar Panteonu"
+    author: "Canan Seyfeli"
     year: 2011
-    language: en
-    url: https://www.semanticscholar.org/paper/murdock-anahita-mithra
+    language: tr
+    url: https://doi.org/10.17120/OMUIFD.99047
     access: open
-    note: "追踪 Anahit 与米特拉的母子关系传说—讨论其对早期基督教圣母崇拜的影响。"
+    note: "对比 Agathangelos、Khorenatsi 与 Yeznik 三源对 Anahit 的记述差异。"
+  - type: book
+    title: "Dictionary of Gods and Goddesses, Devils and Demons"
+    author: "Manfred Lurker"
+    year: 2004
+    language: en
+    url: https://doi.org/10.4324/9781315002385
+    access: paywall
+    note: "词典条目 Anahit，标示与 Aramazd、Vahagn 的家族关系。"
 
 structured_data:
-  epithets: [亚美尼亚母亲, Oksemayr 黄金之母, Tikin 贵妇, 纯洁女神, 治愈女神]
-  father: [Aramazd]
-  cult_center: [Erez, Ashtishat, Artashat, Astghi-Blur]
+  epithets: [Ոսկեմայր 金母, Մեծ Տիկին 至大之夫人, Ամենա生育者, 亚美尼亚生命之母]
+  parents: [Aramazd 按 Lurker 词典 一说独立]
+  consort: []
+  children: []
+  cult_center: [Erez, Ashtishat, Ani-Kamakh, Artaxata]
   timeline:
-    - -200: Artaxias 王朝将 Anāhitā 崇拜官方化
-    - -34: Mark Antony 攻陷 Erez 神庙 · 掠走纯金像熔铸
-    - 301: Gregory 摧毁 Ashtishat 神庙群
-    - 5世纪: Anahit 铜像的碎片仍在民间被珍藏
-    - 19世纪: 亚美尼亚民俗中 Anahit 名字被用于圣母 Astvatsatsin 的祈祷
+    - -400: 阿尔塔薛西斯二世铭文首次并列 Ahura Mazda–Anahita–Mithra
+    - -100: Erez 神殿全金 Anahit 像铸成
+    - -34: 马克·安东尼东征掠 Erez 金像至罗马熔为战利品
+    - 66: 提里达底一世归国后重铸 Anahit 圣像
+    - 301: Grigor Lusavorich 拆毁 Erez 与 Ashtishat 神殿
 
 variants:
-  - region: Erez (Erzincan)
-    version: 主庙 · 纯金像
-    note: Pliny 与 Strabo 均记载—Antony 34 BC 熔铸
-  - region: Ashtishat
-    version: 三神庙群之一
-    note: 与 Vahagn/Astghik 共祀—301 年被 Gregory 摧毁
-  - region: Astghi-Blur (星山)
-    version: 小型山顶神庙
-    note: 与月神 Astghik 共享—反映 Anahit-Astghik 边界模糊
+  - region: 大亚美尼亚—Erez
+    version: 金像版
+    note: 全金铸像，Strabo《地理志》11.14.16 记载
+  - region: 卡帕多西亚—科马根
+    version: 希腊化版
+    note: 与阿尔忒弥斯、赛勒涅、Ma、Cybele 混祀
+  - region: 民俗版
+    version: 圣母替代
+    note: 基督教化后其属性被吸收为 Sourb Astvatzatzin（圣母）
 
 parallels:
-  - culture: 伊朗-琐罗亚斯德
-    entity: Anāhitā
-    relation: 直接源头
-    note: Anahit 即 Aredvi Sura Anāhitā 的亚美尼亚化—但已本地化
+  - culture: 伊朗
+    entity: Aredvi Sura Anahita
+    relation: 直接源流
+    note: Yasht 5 的水—丰饶—王权三属性完整平移
     source_ref: Russell 1987
   - culture: 希腊
-    entity: Artemis
+    entity: 阿尔忒弥斯与 Ma
     relation: 希腊化对应
-    note: Khorenatsi 与 Agathangelos 均以 Artemis 对释—但 Anahit 保留了更强的母性维度
-    source_ref: Arutyunyan 2021
-  - culture: 罗马
-    entity: Diana Nemorensis
-    relation: 罗马东征对照
-    note: 罗马史家将 Erez Anahit 称为"东方 Diana"—反映其治愈与生育职能
-    source_ref: Nersessian 2001
-  - culture: 苏美尔-埃兰
-    entity: Inanna/Nanaya
-    relation: 类型学与神庙侍女制的可能借入
-    note: Erez 神庙侍女制与 Ishtar 神庙圣婚制有直接可比性
-    source_ref: Behjati-Ardakani 2016
-  - culture: 亚美尼亚基督教
-    entity: Astvatsatsin（圣母）
-    relation: 基督教化转生
-    note: Anahit 的诸多称号（Oksemayr、Tikin）被移植到圣母崇拜中
-    source_ref: Murdock 2011
+    note: Agathangelos §786 直标 Artemis=Anahit；Ma 崇拜与之混祀
+    source_ref: Agathangelos §786
+  - culture: 美索不达米亚
+    entity: 伊什塔尔与 Astarte
+    relation: 图像挪用
+    note: Erez 金像的手持—仪态取伊什塔尔—Astarte 图像谱
+    source_ref: Margaryan 2018
+  - culture: 弗里吉亚
+    entity: Cybele
+    relation: 母神融合
+    note: Ma-Cybele 母神层在小亚细亚与 Anahit 交织
+    source_ref: Khachatryan 1985
 
 confidence: attested
 llm_assisted: true
@@ -146,91 +143,52 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：亚美尼亚的国母神
+## 一、导读——金身与河水
 
-**Anahit**（Անահիտ）是亚美尼亚神系中**祭祀最盛、民俗延续力最强**的女神。Khorenatsi 称她为**"亚美尼亚母亲"**（*mayr Hayastani*），Agathangelos 记她为**"亚美尼亚国家的荣耀与守护者"**—这两个五世纪的官方称号，把 Anahit 定位为国家宗教的**女性至上神**（Ananikian 1925）。
+在亚美尼亚万神殿中，**Anahit** 是唯一被古典世界作家反复描述的女神。Strabo《地理志》11.14.16 记载 Erez 神殿"全境最富，殿中金像巨大，祭祀狂热，贵族之女须于殿中献身若干年方可婚嫁"（虽此细节存学界争议）；Pliny《博物志》33.24 提到马克·安东尼东征掠此像至罗马熔铸；Cassius Dio 51.13 又追记奥古斯都时期该像的下落。**Anahit 是有金身像的神**——这是她在整个前基督教亚美尼亚宗教中最鲜明的物证特征。Margaryan（2018）以整整一篇论文重构了这尊金像的图像学谱系、被掠—重铸—熔毁的三段命运，被亚美尼亚学界称为"金像史"的定本。
 
-Anahit 的名字来自伊朗 **Aredvi Sura Anāhitā**（"湿润的、强大的、无玷的"）—但亚美尼亚的 Anahit **远比伊朗原型丰满**。**Russell 1987** 论证：正是在亚美尼亚，Anahit 从琐罗亚斯德教中一个相对次要的水神/生殖女神，被上升为**女性至上神**，与至上神 Aramazd 平起平坐。这一擢升是亚美尼亚宗教对伊朗输入**主动改造**的典型样本（Javadi & Nikoei 2016）。
+## 二、名源与阿契美尼德改革
 
-## 二、Erez 神庙：黄金像与罗马劫掠
+Anahit 之名直取伊朗 **Aredvi Sura Anahita**（"湿润—强大—无垢者"），Yasht 5 的核心咒诗。学界普遍接受一个关键节点：**阿契美尼德阿尔塔薛西斯二世**（Artaxerxes II, 前 405–前 359）在其铭文中首次将 Ahura Mazda–Anahita–Mithra 并列为帝国三大官方神，并在苏萨、埃克巴塔纳、巴克特里亚、达马斯库斯、萨迪斯、亚美尼亚等地为 Anahita 立像（Berossos apud Clemens Alex.）。Russell（1987: ch.4）与 Javadi & Nikoei（2016）都指出，亚美尼亚 Anahit 崇拜的"金像化"正是这一政策的直接产物：在伊朗本土 Anahita 保持较抽象的水—丰饶属性，而在亚美尼亚被以**具体金身**的形式立国祭。
 
-Anahit 主庙位于**Erez**（今土耳其东部 Erzincan，Ekełeats' 省），是古典世界最著名的东方女神庙之一。**Strabo《地理志》XI.14.16** 与 **Pliny《自然史》XXXIII.24** 都用惊叹口吻记载：
+## 三、Erez 神殿——亚美尼亚的"圣母之堂"
 
-> "在亚美尼亚 Ekełeats' 省有 Anahit 神庙，藏一尊**纯金像**—亚美尼亚贵族全家在她面前奉献女儿的贞洁。"
+Anahit 的主殿在 **Erez**（今土耳其埃尔津詹省埃里兹附近），位于阿拉斯河（Aratsani）—幼发拉底交汇上游一处丰饶河谷。Movses Khorenatsi 与 Agathangelos 都以最庄重的笔调记此地。Margaryan（2018）依据 Strabo、Pliny、Cassius Dio 与亚美尼亚教会史料复原：金像高 2–3 米，双手托月与谷穗，头戴星冠，身缀花冠与鹰隼。Erez 是亚美尼亚版图上仅次于 Ashtishat 的宗教中心，与 Ashtishat 的"三神并置"不同，Erez 是**单一女神主导**的圣所——这在整个近东是罕见格局。
 
-公元前 34 年，**Mark Antony** 在帕提亚战役期间攻陷 Erez 神庙，将金像**熔铸为金锭**运回罗马—这是亚美尼亚宗教史上第一次**大规模宗教艺术劫掠**（Nersessian 2001）。金像熔毁后，亚美尼亚人重新铸造了替代像，Gregory 于 301 年再次摧毁—Ananikian 1925 强调：Anahit 神庙经历了两次毁灭仍未消失，直到基督教彻底吸收其功能才最终消退。
+## 四、Voskemayr——"金母"称号
 
-## 三、神庙侍女制
+Anahit 在亚美尼亚民间最常见的称号是 **Ոսկեմայր**（Voskemayr，"金母"）。这不仅指她的金身像，更指她作为"生育金珍—谷物金穗—王权金冠"三重母源的属性。Agathangelos §786 称之为"整个亚美尼亚人生命的母亲，一切国王与国民之荣耀"。Khachatryan（1985）从图像学证据出发论证：这一称号在亚美尼亚民俗中的顽强延续促成了 4 世纪后 **Sourb Astvatzatzin**（圣母，字面"神之母"）崇拜的极端兴盛——基督教并未替代 Anahit，而是把她的位置无缝转让给了圣母玛利亚，节令、圣所、朝觐路线几乎原样保留。
 
-Erez 神庙的**神庙侍女制**（*hierodouloi*）是亚美尼亚宗教史最富争议的现象之一。Strabo 明确记载：
+## 五、王权圣化——加冕与誓言
 
-> "亚美尼亚最显赫的家族将女儿献于 Anahit 神庙—她们在婚前于神庙服务一段时间，为神接待来访者。这些女儿嫁后被认为**更受尊敬**，而非蒙羞。"
+Anahit 除了母神—丰饶属性外，还担负**王权圣化**的政治职能。Russell（1987）与 Bocchieriyan（2016）都强调：亚美尼亚王在 Erez 加冕，向 Anahit 献誓，掷金币入圣泉，接受女祭司递上的圣火与谷穗，方被认作合法之王。Tigran II 与 Artaxias II 的铸币背面出现的坐姿女神像，学界普遍认为即 Anahit 圣化王权的图像化表达。她与 Ahura Mazda–Aramazd 的**父—女双面**功能（父神授天命，女神授国土），构成亚美尼亚君主制的宗教基础。
 
-这一制度与美索不达米亚 **Ishtar 神庙的圣婚仪式**（*qadištu*）有直接可比性—**Behjati-Ardakani 2016** 从生殖医学史角度论证：Anahit 的核心神学职能是**"净化男性精液、修饰女性子宫、循环母亲乳汁"**，这与 Erez 侍女制的仪式功能一致。学界主流认为，此制度经 **Nanaya-Anāhitā 传播链**（苏美尔 Inanna → 埃兰 Nanaya → 波斯 Anāhitā → 亚美尼亚 Anahit）传入亚美尼亚。
+## 六、金像的三段命运
 
-## 四、纯洁与丰饶的悖论
+Margaryan（2018）以历史文献学方法复原金像命运的三段史：
 
-Anahit 同时承担**两个看似矛盾的神学职能**：
+1. **前 34 年**：马克·安东尼东征帕提亚，途中掠 Erez 金像至罗马，熔铸为战利品。Pliny《博物志》33.24 记此事，并提到奥古斯都后期罗马贵族家中仍有"以 Anahit 金铸的手"作为镇宅之物。
+2. **公元 1 世纪**：提里达底一世重建 Erez 神殿，重铸新像（可能仅镀金而非全金）。
+3. **301 年**：Grigor Lusavorich 与 Trdat III 联合下令拆毁全国主要神殿，Erez 金像被熔为国库储备，遗址改建为圣母教堂。
 
-- **纯洁女神**（*anāhita-*"无玷的"）—与琐罗亚斯德教 Aredvi Sura Anāhitā 一致
-- **丰饶女神**—母神、生育守护者、乳汁与谷物赐予者
+这三段命运使 Anahit 成为**唯一一位在古典世界与本土教会史双重记载中反复出场**的亚美尼亚神。
 
-**Javadi & Nikoei 2016** 强调：这一悖论并非亚美尼亚独创—早在阿契美尼德时期，Anāhitā 就已在**"处女的丰饶"**神学中融合两职。但**亚美尼亚将这一悖论推到极致**，最终在基督教时代**直接为圣母 Astvatsatsin（Θεοτόκος 的亚美尼亚版本）** 的"处女生子"神学做了铺垫（Murdock 2011）。
+## 七、Anahit 的属灵水域
 
-## 五、Oksemayr 与 Tikin：民俗称号
+Anahit 是水神，其属灵水域包括：**阿拉斯河**（Aratsani，今 Murat 河）、**幼发拉底河上游**、**凡湖**、**塞凡湖**。每年 Navasard 元旦大典之前，王家须先赴 Erez 献牺，再遣特使向诸水域抛掷金饰——Nigosian（1978）从 Elishe 的负记载中复原此仪。此外，Anahit 与 Astghik（她的"妹妹"或"随侍女神"）在 Vardavar 泼水节中协同——七月泼水节至今是亚美尼亚民间最盛大的节日，Kamel 等（2011）与 Seyfeli（2011）都追至 Anahit-Astghik 的水—月—丰饶三合一神学。
 
-在民俗层面，Anahit 有两个**广泛使用的称号**：
+## 八、Ma-Cybele-Ishtar——图像层的多源融合
 
-- **Oksemayr**（*oskemayr*"黄金之母"）—强调其 Erez 金像的物质记忆
-- **Tikin**（"贵妇/女主"）—亚美尼亚普通话语中对贵族妇女的敬称，被移植到女神身上
+尽管名字来自伊朗，Anahit 的**图像**却明显吸收了小亚细亚母神层。Khachatryan（1985）与 Margaryan（2018）都指出：Erez 金像的坐姿、鹰隼、狮子随侍、花冠等元素，源于弗里吉亚 Cybele 与吕底亚 Ma 的图像谱；她手托月与谷穗则融合伊什塔尔—Astarte。这解释了为什么 Agathangelos 一处记她为"Artemis=Anahit"，另一处又称她"如同 Ma"——早期教会史家在描述这尊神像时不得不同时借用希腊与安纳托利亚两套语汇。
 
-**Ananikian 1925** 指出：这两个称号在 20 世纪初的亚美尼亚农村调查中仍在**民间口传祷词**中出现—尤其是妇女在生育、疾病、婚礼时向"Oksemayr"祈祷。这些祷词在形式上已完全基督教化（呼求圣母 Astvatsatsin），但**称号本身泄露了 Anahit 的底层结构**（Nersessian 2001）。
+## 九、跨文化谱系
 
-## 六、Astghi-Blur：与月神的边界模糊
-
-在 Erez 之外，Anahit 与月神 **Astghik** 共享数座山顶神庙—尤其是**Astghi-Blur**（"星山"，今亚美尼亚 Aragats 山南麓）。这两位女神在**神职上有明显重叠**：
-
-- 两者都是"纯洁/爱/月光"的女神
-- 两者都以水源与山顶为祭祀地
-- 两者都在 Vardavar 节被祭祀
-
-**Martirosyan 2013** 从语言学上确认：Astghik 是**亚美尼亚本土女神**（名源印欧 *h₂stḗr*"星"），Anahit 是**伊朗借入**—两者在祭祀实践中的融合，是外来神与本土神**共祀共生**的典型样本。这一现象在世界宗教史中并不少见（如古埃及 Hathor 与 Isis 的融合），但亚美尼亚的例子保存了**完整的语言学与祭祀学证据链**。
-
-## 七、Anahit 与国王：加冕神学
-
-Khorenatsi 记载：亚美尼亚国王在加冕后必须**"感谢 Aramazd 与 Anahit"**—Anahit 与至上神 Aramazd 并列成为**王权授职者**。这一现象在伊朗琐罗亚斯德教中并不存在—Ahura Mazda 才是唯一的授职神，Anāhitā 只是水神。
-
-**Russell 1987** 论证：亚美尼亚将 Anahit 上升到**王权授职者**地位，反映了亚美尼亚社会**双元王权观**—国王同时向天父与地母负责。这一观念与更古老的**Anatolia 双元王权**（Hepat + Teshub 于赫梯）存在类型学延续—可能是**乌拉尔图-亚美尼亚基底**的一部分（Petrosyan 2008）。
-
-## 八、基督教化：圣母 Astvatsatsin 的转生
-
-亚美尼亚是**世界最早的基督教国家**（301 年），因此 Anahit 崇拜是**世界最早被基督教吸收**的女神崇拜之一。**Murdock 2011** 与 **Nersessian 2001** 追踪的转化模式：
-
-- Erez 神庙原址上建**圣母教堂**—基督教直接**继承神庙地点**
-- Anahit 称号 Oksemayr、Tikin 被**移植到圣母 Astvatsatsin**
-- Vardavar 洒水节保留—但被移到主显节
-- Anahit 治愈神学转化为**"圣母治愈圣像"**（*bžškagorc surb patker*）传统
-
-这一转化如此深度，以至 19 世纪的亚美尼亚农村妇女在生育时向"Oksemayr"祈祷—她们说的是圣母，但称号是 Anahit（Nersessian 2001）。这是宗教史上**神系名字保留、神学身份彻底转移**的极致案例。
-
-## 九、跨文化谱系：伊朗-希腊-罗马-闪族四方汇流
-
-Anahit 是**Anatolia 女神崇拜的核心节点**，她的神职受到四个文化系统的持续投射：
-
-| 文化 | 投射的对应神 | 投射的核心属性 |
-|-----|-------------|--------------|
-| 伊朗-琐罗亚斯德 | Anāhitā | 名字与丰饶职能 |
-| 希腊-希腊化 | Artemis | 处女与狩猎 |
-| 罗马 | Diana Nemorensis | 治愈与森林 |
-| 苏美尔-埃兰-闪族 | Inanna/Nanaya | 神庙侍女制与圣婚 |
-| 亚美尼亚本土 | 与 Astghik 共祀 | 山顶泉水崇拜 |
-
-Russell 1987 强调：Anahit 是**"东方跨文化女神"**（trans-cultural goddess of the East）的最完整实例—她的每一处神学元素都能追溯到具体的外来源头，同时又形成了**独特的亚美尼亚整体**。
+- **伊朗 Aredvi Sura Anahita**（Russell 1987）：直接源流，水—丰饶—王权三属性完整平移；
+- **希腊阿尔忒弥斯**（Agathangelos §786）：希腊化对应，主要针对"处女猎神"面；
+- **弗里吉亚 Cybele**、**吕底亚 Ma**（Khachatryan 1985）：小亚细亚母神层，主要针对"金像—狮随"图像；
+- **美索不达米亚 Ishtar 与 Astarte**（Margaryan 2018）：更古图像层，主要针对"手托月—星冠"造型；
+- **基督教 Sourb Astvatzatzin**（Nersessian 2001）：功能继承者，节令与圣所被无缝接管。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Ananikian 1925 关于神庙侍女制、Russell 1987 关于伊朗层次—两者必读。
-- **一手文献**：Strabo XI.14.16、Pliny NH XXXIII.24、Agathangelos §22、Khorenatsi II.14, II.53、II.60 是所有具体细节的来源。
-- **最新研究**：Javadi & Nikoei 2016 的伊朗-亚美尼亚对比、Behjati-Ardakani 2016 的生殖医学神学、Murdock 2011 的圣母转化研究、Martirosyan 2013 的语言学定位。
-- **深度追踪**：本条目与 Aramazd/Vahagn/Astghik 平行—Nane、Tir、Mihr 下一批处理。
-- **神学地位**：Anahit 是**"外来女神本地化"的最完整案例**—伊朗名字、亚美尼亚职能、希腊化解释、闪族仪式、基督教吸收—五重叠层在同一个女神身上并存。这是女神研究的**标本级材料**。
+**奠基作**：Russell 1987 第 4 章与 Boyajian 1958 序诗集是入门二书；Movses Khorenatsi 与 Agathangelos 的 R. W. Thomson 英译（1976/1978）为一手案头。**最新研究**：Margaryan 2018 是金像史的定本，Javadi & Nikoei 2016 提供伊朗—亚美尼亚双端比较，Bocchieriyan 2016 补入阿契美尼德时期的政治宗教关联；Cereti 2021 反照 Paikuli 铭文对 Anahit 名号的萨珊时期沿用。**一手图像**：Erez 铸币（Tigran II、Artaxias II）与 Metsamor 遗址的 3–1 世纪陶像，为研究者的关键物证。**深度追踪**：Anahit—Astghik 关系的水—月—星三神学、Vardavar 节的活态遗产、圣母 Sourb Astvatzatzin 接管过程的文本考证，是本条目未来补强重点。**神学地位**：Anahit 是"名字入亚美尼亚—图像入小亚细亚—功能被基督教接管"的三重跨文化案例，为比较宗教研究提供了极其难得的多层测样点。

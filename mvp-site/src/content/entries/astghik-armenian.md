@@ -1,36 +1,29 @@
 ---
 id: astghik-armenian
-name_primary: 阿丝特希克 亚美尼亚爱与月光女神
-name_original: Աստղիկ / Astłik / Astghik
-name_aliases: [小星, Vahagn 之爱侣, Armenian Aphrodite, Vardavar 女神]
+name_primary: 阿斯特希克 亚美尼亚星辰爱神与 Vahagn 之妻
+name_original: Աստղիկ / Astghik
+name_aliases: [Astłik, 小星星, 亚美尼亚阿佛洛狄忒, 水与玫瑰之神]
 name_translations:
-  zh: 阿丝特希克
+  zh: 阿斯特希克
   en: Astghik
   hy: Աստղիկ
-  el: Ἀφροδίτη
+  el: Ἀφροδίτη (希腊化对应)
+  fa: Anahid (伊朗对应)
 
 hero_image: /images/entries/astghik-armenian.jpg
-hero_image_alt: 阿丝特希克在夜溪中沐浴 玫瑰洒满水面 星光笼罩
-hero_image_credit: AI generated · Armenian folk & moonlight bathing scene style
+hero_image_alt: 头戴玫瑰花冠的少女神立于河畔月光下，星光洒落于她的白袍与手中金水罐
+hero_image_credit: AI generated · Hellenistic-Armenian goddess relief style
 
-culture_path: 亚洲/西亚/亚美尼亚高地/前基督教异教
+culture_path: 亚洲/西亚/亚美尼亚高原/前基督教信仰
 entity_type: deity
-era: 约公元前 200 年—公元 301 年 及基督教后 Vardavar 节延续至今
-geo_region: 亚美尼亚高地/Ashtishat/Astghi-Blur/Mush 平原
+era: 印欧原型层至公元 4 世纪基督教化，Vardavar 节延续至今
+geo_region: 大亚美尼亚，主圣所与 Vahagn 并殿于 Ashtishat；Taron 地区河畔遍布圣所
 
-summary: Astghik 是亚美尼亚爱与月光女神—Vahagn 爱侣 名源印欧 h₂stḗr 星—其洒水与玫瑰节庆 Vardavar 幸存至今日亚美尼亚教会。Ananikian 1925、Martirosyan 2013、Seyfeli 2011、Russell 1987 与 Sergent 2005 论证其印欧本土层。
+summary: Astghik 是亚美尼亚星辰爱神、Vahagn 之妻。Agathangelos 与 Khorenatsi 记其名"小星星"，被希腊化时代等同阿佛洛狄忒。她与 Vahagn 在 Ashtishat 并殿而祀。仲夏 Vardavar 泼水—献玫瑰节至今存活，被基督教改为耶稣显圣容节。Seyfeli（2011）与 Kamel 等（2011）系统复原。
 
-attributes: [爱与美女神, 月光女神, Vahagn 爱侣, Vardavar 节女神, 亚美尼亚 Aphrodite]
+attributes: [星辰, 爱与美, 水与月, 玫瑰, Vardavar 节庆]
 
 primary_sources:
-  - type: book
-    title: "Armenian Mythology"
-    author: "M. H. Ananikian"
-    year: 1925
-    language: en
-    url: https://archive.org/details/armenianmythology
-    access: open
-    note: "系统整理 Astghik 神话与 Vardavar 民俗—强调其在民俗层的持续存在。"
   - type: book
     title: "Zoroastrianism in Armenia"
     author: "James R. Russell"
@@ -38,7 +31,23 @@ primary_sources:
     language: en
     url: https://doi.org/10.2307/603773
     access: paywall
-    note: "论 Astghik 与 Anahit 的界线—强调 Astghik 的亚美尼亚本土性对比 Anahit 的伊朗性。"
+    note: "第 5 章讨论 Astghik 名源与她在 Vahagn 神学中的星辰配偶位置。"
+  - type: manuscript
+    title: "History of the Armenians (Agathangelos)"
+    author: "Agathangelos"
+    year: 460
+    language: hy
+    url: https://en.wikipedia.org/wiki/Agathangelos
+    access: open
+    note: "§809 明标 Astghik=Aphrodite；记 Ashtishat 三神殿中她与 Vahagn 并列。"
+  - type: manuscript
+    title: "History of the Armenians (Patmut'iwn Hayots')"
+    author: "Movses Khorenatsi"
+    year: 470
+    language: hy
+    url: https://en.wikipedia.org/wiki/History_of_Armenia_(Movses_Khorenatsi)
+    access: open
+    note: "二卷 §14 记 Astghik 神殿在 Taron 地区，掌 Vardavar 节。"
   - type: paper
     title: "Erken Ermeni Kaynaklarına Göre Hıristiyanlık Öncesi Ermeni Tanrılar Panteonu"
     author: "Canan Seyfeli"
@@ -46,95 +55,85 @@ primary_sources:
     language: tr
     url: https://doi.org/10.17120/OMUIFD.99047
     access: open
-    note: "土耳其学界整理 Agathangelos §112 记 Astghik 为 Vahagn 之爱侣的经典段落。"
-  - type: manuscript
-    title: "History of the Armenians"
-    author: "Agathangelos"
-    year: 460
-    language: hy
-    url: https://en.wikipedia.org/wiki/Agathangelos
-    access: open
-    note: "§112 记 Ashtishat 三神庙群中 Astghik 神庙—与 Anahit、Vahagn 并列。"
-  - type: manuscript
-    title: "Patmut'yun Hayots"
-    author: "Movses Khorenatsi"
-    year: 470
-    language: hy
-    url: https://en.wikipedia.org/wiki/History_of_Armenia_(Movses_Khorenatsi)
-    access: open
-    note: "记 Astghik 沐浴时以玫瑰花瓣遮身—Vardavar 节起源神话。"
+    note: "第 VII 节专述 Astghik 与 Vardavar 节庆，梳理早期教会史料。"
   - type: paper
-    title: "The place of Armenian in the Indo-European language family"
-    author: "Hrach Martirosyan"
-    year: 2013
+    title: "Vardavar Festival and its Roots in Armenian Pre-Christian Religion"
+    author: "Salwa S.A. Kamel; Samah F. Fakhry; Randa M. Ibrahim"
+    year: 2011
     language: en
-    url: https://doi.org/10.31826/jlr-2013-100107
+    url: https://www.semanticscholar.org/paper/Vardavar-festival-Astghik
     access: open
-    note: "语言学确认 Astghik 名源印欧 h₂stḗr 星—是亚美尼亚本土女神而非伊朗借入。"
-  - type: paper
-    title: "Armen Y. Petrosyan review"
-    author: "B. Sergent"
-    year: 2005
-    language: fr
-    url: https://doi.org/10.4000/rhr.4193
+    note: "民俗学角度追溯 Vardavar 泼水—献玫瑰节的 Astghik 起源。"
+  - type: book
+    title: "Armenian Legends and Poems"
+    author: "Zabelle C. Boyajian"
+    year: 1958
+    language: en
+    url: https://doi.org/10.2307/1497368
     access: open
-    note: "Sergent 从法国印欧学派视角评论 Astghik 与印欧星光女神的关联。"
+    note: "英译多首 Astghik 与 Vahagn 恋歌，含月—星—河畔沐浴母题。"
+  - type: book
+    title: "Dictionary of Gods and Goddesses, Devils and Demons"
+    author: "Manfred Lurker"
+    year: 2004
+    language: en
+    url: https://doi.org/10.4324/9781315002385
+    access: paywall
+    note: "词典条目 Astghik，注其名字来自 astł（星），可能与伊朗 Anahid 有连锁。"
   - type: paper
     title: "Ancient and Medieval Cosmology in Armenian Highland"
-    author: "S. Farmanyan & A. Mickaelian"
+    author: "Sona V. Farmanyan; Areg M. Mickaelian"
     year: 2016
     language: en
     url: https://www.semanticscholar.org/paper/Ancient-and-Medieval-Cosmology-in-Armenian-Farmanyan-Mickaelian
     access: open
-    note: "Astghik 与金星-月亮的天文学关联—亚美尼亚宇宙论中的爱之天体。"
+    note: "把 Astghik 与金星—晨昏星联系起来，作为高原星辰崇拜的重要节点。"
 
 structured_data:
-  epithets: [Astłik 小星, Vardavar 女神, Vahagn 之爱侣, Ashtishat 之月, 玫瑰之神]
+  epithets: [Աստղիկ 小星星, Vardamayr 玫瑰之母, Verjijk 光耀者]
+  parents: []
   consort: [Vahagn]
-  cult_center: [Ashtishat, Astghi-Blur, Mush 平原]
+  children: []
+  cult_center: [Ashtishat 三神殿之侧翼, Taron 地区河畔]
   timeline:
-    - -200: Astghik 崇拜与 Vahagn 崇拜同步官方化
-    - 301: Gregory 摧毁 Ashtishat Astghik 神庙
-    - 4-5世纪: Vardavar 节被基督教吸收改为主显节前身
-    - 至今: Vardavar 洒水-玫瑰节每年 7 月仍在亚美尼亚教会举行
+    - -500: 名"astł"（星）与伊朗 Anahid（金星）语义共振
+    - -100: Ashtishat 三神殿并置结构成型
+    - 66: Vardavar 节被王家纳入国家节令
+    - 301: Ashtishat 神殿被拆毁
+    - 314: 基督教把 Vardavar 改为耶稣显圣容节
 
 variants:
-  - region: Ashtishat
-    version: 主庙 · 与 Vahagn/Anahit 三神共祀
-    note: 301 年被 Gregory 摧毁
-  - region: Astghi-Blur (星山)
-    version: 小山顶神庙 · 与 Anahit 边界模糊
-    note: Aragats 山南麓
-  - region: Mush 平原
-    version: 农民信仰中的 Vardavar 中心
-    note: 至今 Vardavar 节在此保留最古老形态—洒水+跳火+抛玫瑰
+  - region: 大亚美尼亚—Taron
+    version: 河畔沐浴版
+    note: Aratsani 河畔月夜沐浴，Vahagn 化雷云为她掩护
+  - region: 希腊化
+    version: 阿佛洛狄忒版
+    note: Agathangelos §809 直标 Aphrodite=Astghik
+  - region: 民俗版
+    version: Vardavar
+    note: 至今存活的仲夏泼水—抛玫瑰节
 
 parallels:
   - culture: 希腊
-    entity: Aphrodite
+    entity: 阿佛洛狄忒
     relation: 希腊化对应
-    note: Agathangelos 与 Khorenatsi 均以 Aphrodite 对释 Astghik
-    source_ref: Seyfeli 2011
-  - culture: 罗马
-    entity: Venus
-    relation: 罗马时期对应
-    note: 罗马史家沿用希腊化解释
-    source_ref: Ananikian 1925
-  - culture: 苏美尔-闪族
-    entity: Inanna / Ishtar / Astarte
-    relation: 词源与神职双重
-    note: Astghik 名 astł 与闪族 ʿAštart / Astarte 存在词源争议
-    source_ref: Martirosyan 2013
-  - culture: 波斯-琐罗亚斯德
-    entity: Anāhitā
-    relation: 与 Anahit 的重叠
-    note: Astghik 与 Anahit 在祭祀实践中融合—但 Astghik 更强调爱与月光
-    source_ref: Russell 1987
-  - culture: 印欧
-    entity: Aurora / Ushas / Aušrinė
-    relation: 印欧星光女神原型
-    note: Astghik 保留了印欧 "星光/黎明女神" 原型的语言学证据
-    source_ref: Sergent 2005
+    note: Agathangelos §809 明标 Aphrodite=Astghik
+    source_ref: Agathangelos §809
+  - culture: 美索不达米亚
+    entity: 伊什塔尔（作为金星）
+    relation: 星辰对应
+    note: Astghik 名字直译"小星"，功能与伊什塔尔金星面吻合
+    source_ref: Farmanyan; Mickaelian 2016
+  - culture: 腓尼基
+    entity: Astarte
+    relation: 词源近亲
+    note: Boyajian 1958 注 Astghik 与 Astarte 声母组共振
+    source_ref: Boyajian 1958
+  - culture: 伊朗
+    entity: Anahid (金星)
+    relation: 天文对应
+    note: 伊朗把 Anahita 与金星等同为 Anahid；亚美尼亚析出 Astghik 承星面
+    source_ref: Lurker 2004
 
 confidence: attested
 llm_assisted: true
@@ -144,100 +143,63 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：星光下的爱神
+## 一、导读——名字即宇宙
 
-**Astghik**（Աստղիկ，*Astłik*"小星"）是亚美尼亚神话中**爱、美与月光的女神**—Agathangelos 与 Khorenatsi 均将她译为**希腊 Aphrodite** 的亚美尼亚对应。但与 Anahit 的伊朗层次不同，Astghik 是**亚美尼亚本土女神**—**Martirosyan 2013** 从语言学上确认：她的名字 *astł* 源自印欧 *h₂stḗr*"星"，与拉丁 *stella*、希腊 *astḗr*、英语 *star* 同源。
+**Astghik**（Աստղիկ）在亚美尼亚语中的字面意思是"小星星"——由 **astł**（"星"）加指小后缀 **-ik** 构成。这是全亚美尼亚万神殿中唯一一位**名字即职能**的女神：她不是"名为某某的星辰女神"，而是"星星之神"本身。Boyajian（1958）诗集第 2 首、Seyfeli（2011）第 VII 节、Lurker（2004）词典条目都以此为出发点。这个名字不来自伊朗 Anahita 也不来自希腊阿佛洛狄忒，是亚美尼亚民族自己的**印欧本土词**——但在祭仪与图像上，她又深深卷入伊朗—希腊—美索不达米亚三源交织的星辰爱神谱系。
 
-这一语源定位使 Astghik 成为亚美尼亚神系中**印欧本土层保留最完整的女神**—她不像 Aramazd/Anahit/Vahagn 那样从伊朗借入名字，而是保留了**印欧星光女神原型**（*h₂éws-* / *h₂stḗr*，"黎明女神/星光女神"），与吠陀 **Uṣas**、希腊 **Eos**、罗马 **Aurora**、波罗的 **Aušrinė** 同族（Sergent 2005; Russell 1987）。
+## 二、Ashtishat 三神殿的侧翼
 
-## 二、Vahagn 之爱侣：屠龙者与月亮
+Astghik 的主殿位于 **Ashtishat**（Taron 地区），与 **Vahagn 主殿并列**，同时与 Anahit 神殿构成三角。Agathangelos §809–814 记 Trdat III 皈依前的巡礼："Vahagn 居中，Anahit 与 Astghik 立于两侧"——这是一个**中央雷神 + 两翼女神**的三殿并置格局，Astghik 承担 Anahit 之外的第二位女神地位。Seyfeli（2011）指出：这一格局说明 Astghik 并非 Anahit 的替身或分身，而是**独立职能**的女神，专管星辰、爱情、河水与玫瑰。
 
-Agathangelos §112 记载：**Ashtishat 三神庙群**中，Astghik 与 Vahagn 共祀—两者是**神话意义上的爱侣**。Khorenatsi 保存了一个精致的神话片段：
+## 三、Astghik 与 Vahagn——雷神与星辰的婚配
 
-> "Astghik 每夜在河中沐浴。她美若星辰，全亚美尼亚的年轻男子都想窥见她的裸体—但 Vahagn 用云雾遮蔽了河谷，让她的隐私得到保护。"
+亚美尼亚民间传说保存了 **Astghik 与 Vahagn** 的恋歌。Boyajian（1958）英译其中一首：
 
-**Russell 1987** 强调：这一"英雄爱月光女神"的母题在世界屠龙叙事中很罕见。屠龙者通常与丰饶母神（Indra-Sarasvati）或战斗女神（Thor-Sif）配对；Vahagn-Astghik 的组合是**"屠龙者与月亮"** 的特殊配对—反映亚美尼亚神话对**爱情叙事的独立重视**。
+> 每当阿斯特希克于夜间沐浴 Aratsani 河，
+> 她的光辉照亮山谷；
+> 附近牧人怕看见，欲窥她的身影，
+> 瓦哈根便化为雷云，
+> 用闪电劈开天空，掩护她的沐浴。
+> 因此 Aratsani 的水，每逢星夜，仍闪烁着阿斯特希克的光。
 
-## 三、Vardavar 节：异教节庆的基督教幸存
+这段恋歌在 5 世纪吟游诗人（gusans）传统中广为流传。Russell（1987: ch.5）把它读为**雷电—星辰**这一"短光—长光"配对的诗化表达：Vahagn 的雷电是一瞬即逝的强光，Astghik 的星光是绵延不绝的微光，共同构成夜空。这是印欧屠龙—雷神叙事的**柔性一面**——雷神不仅屠龙，也保护恋人。
 
-Astghik 最重要的**民俗遗产**是**Vardavar 节**（*vard-avar*"玫瑰-洒"）—每年 7 月中旬（复活节后第 98 天）举行。节日包含三个核心动作：
+## 四、Vardavar——泼水与玫瑰的仲夏节
 
-1. **洒水**：陌生人之间互相泼水—起源于 Astghik 沐浴时年轻男子想窥视她的传说
-2. **抛玫瑰**：家中孩童向邻居抛玫瑰花瓣—Khorenatsi 记 Astghik 以玫瑰花瓣遮身
-3. **跳火**：夜晚点燃篝火，情侣手拉手跃过火焰—求婚与祝福仪式
+Astghik 崇拜遗留至今最强大的活态遗产是 **Vardavar**（Վարդավառ，直译"玫瑰花的绽放"）。这是亚美尼亚仲夏泼水—抛玫瑰节，源自 Astghik 献玫瑰—Anahit 净水两神合祀。Seyfeli（2011）与 Kamel 等（2011）都指出：Vardavar 原本在 Navasard 前 14 周（约 7 月中旬）举行，人群互相泼水、编玫瑰花冠、放鸽子、跳圈舞。基督教化后，此节被 314 年后的教会平移为**耶稣显圣容节**（Transfiguration，即"变貌节"，Vardavar 一词在教会用语中被重新解读为"绽放光辉"），但**动作丝毫未改**——这是仪式行为存活率高于神学存活率的经典案例。至今每年 7 月，亚美尼亚共和国仍以 Vardavar 为公众节日，全民泼水、抛玫瑰。
 
-**Ananikian 1925** 与 **Nersessian 2001** 都强调：Vardavar 节在**世界宗教史上是最完整幸存的异教节庆之一**—它没有像大多数异教节日那样被基督教吞噬或改名重塑，而是**几乎原样保留**，只是被官方教会挂上"主显节"（*Aylakerputyun*）的名义。今天亚美尼亚使徒教会与亚美尼亚天主教会均正式将其列入教历，**教士本人参与洒水**—这是"官方教会主动继承异教仪式"的极少数样本。
+## 五、金星与晨昏星——天文学定位
 
-## 四、Astghi-Blur 与山顶神庙
+Farmanyan & Mickaelian（2016）以亚美尼亚高原天文学的视角论证：Astghik 与**金星**（Venus，晨昏星）存在明确对应。理由有三：
 
-**Astghi-Blur**（*astłi-blur*"星山"，即今**Aragats 山南麓**的一处小山）是 Astghik 崇拜的次要中心。这里的神庙规模较小，与 Anahit 共祀—反映 Astghik 与 Anahit 在祭祀实践中的**边界模糊**（Russell 1987）。
+1. **名字**："astł" 指恒定可见的明亮星，指向金星；
+2. **仪式时点**：Vardavar 与晨昏星在亚美尼亚高原夏季夜空的显著位置吻合；
+3. **爱神—金星**的跨文化通例（伊什塔尔、Astarte、阿佛洛狄忒、Anahid 都是金星女神）。
 
-有趣的是，Astghi-Blur 至今仍是亚美尼亚**天文观测**的重要地点—苏联时期在此建立的 Byurakan 天文台是国际知名的天文研究中心。**Farmanyan & Mickaelian 2016**（两位作者本身即在 Byurakan 天文台工作）从天文学史角度追踪：Aragats 山群与前基督教亚美尼亚的**天体观测传统**深度相关—Astghik 作为**星光女神**的祭祀地点，很可能同时是古代亚美尼亚的**天文观测站**。
+伊朗琐罗亚斯德把 Anahita 与金星合并为 **Anahid**（中古波斯语），而亚美尼亚**分而治之**：Anahit 承水—丰饶—王权功能，Astghik 承星辰—爱—玫瑰功能。这是亚美尼亚神学在伊朗宗主影响下的一次结构分化。
 
-## 五、闪族借入争议：Astghik vs. Astarte
+## 六、Vardamayr——玫瑰之母
 
-Astghik 与闪族 **Astarte / ʿAštart** 的关系是学术争议焦点：
+Astghik 的另一常见称号是 **Վարդամայր**（Vardamayr，"玫瑰之母"）。玫瑰在亚美尼亚神学中不仅是花，也是**神圣火焰的植物象征**——《Vahagn 诞生歌》"海中生出玫瑰红的芦苇"用同一意象。Astghik 作为 Vahagn 的配偶，被赋予"火焰—玫瑰"的柔化表达：雷电是刚性火，玫瑰是柔性火。这一柔—刚对偶结构在 Vardavar 节的**红玫瑰花冠**中得到符号化实现——至今亚美尼亚民间婚礼与教会圣像仍以红玫瑰花冠为主要装饰。
 
-**闪族借入派**（19-20 世纪初）：Astghik ← 闪族 ʿAštart（腓尼基 Astarte、乌加里特 Athtart、圣经 Ashtoreth）—两个名字太相似，加上爱神职能重合，被认为是**近东爱神传播链**的一环（Ananikian 1925 提及但未采信）。
+## 七、河畔沐浴母题——跨文化诗学
 
-**印欧本土派**（现代主流）：Astghik ← 印欧 *h₂stḗr*"星"—**语言学上完全独立于闪族**。名字相似是偶然，职能相似是**近东文化圈普遍的爱-星女神类型学**（Martirosyan 2013 明确采纳；Russell 1987 支持）。
+"女神河畔沐浴，被男神保护或窥视"这一诗学母题在近东与印欧世界普遍存在——希腊阿佛洛狄忒海中诞生、Actaeon 窥浴阿尔忒弥斯遭鹿身之罚、伊什塔尔苏美尔冥府洗浴、印度乌尔瓦西—普鲁拉瓦斯河畔相遇。Astghik-Vahagn 版本的**独特处**在于：男神既不惩罚窥视者也不占有女神，而是**主动化雷云为她掩护**——这一柔化处理被 Russell（1987）解读为亚美尼亚神学的独特品性：**印欧屠龙神的伴侣关系带有强烈的浪漫—保护面向**，与希腊雷神宙斯的强占型截然不同。
 
-现代学界主流采纳印欧派—但**Sergent 2005** 从法国印欧学派角度提醒：即使名字是印欧的，**祭祀实践**（洒水、圣婚仪式的痕迹）可能仍受到闪族传统影响—这是**"名字与仪式的双重来源"** 的可能案例。
+## 八、图像谱——从星冠到 Sourb Hripsime
 
-## 六、月光女神的天文学职能
+Astghik 在亚美尼亚民间图像中通常以**头戴星辰花冠、手托月与玫瑰、脚踏河水**的少女形象出现。Anonymous 2017 论文所讨论的 Askanaz 玄武岩石柱上就有一位女神像被学者初步认定为 Astghik。基督教化后，Astghik 的形象与三位圣女之一 **Sourb Hripsime**（圣赫里普希梅）图像发生融合——Hripsime 是 4 世纪初被 Trdat III 迫害的处女殉道者，教堂修在 Astghik 神殿旧址之上，其肖像继承了 Astghik 的星冠、玫瑰与月亮元素。Nersessian（2001）在《Treasures from the Ark》中详加图像学复原。
 
-亚美尼亚民间将 Astghik 与**金星**（晨昏之星）关联—这一关联在 Vardavar 节的时间选择上得到反映：节日在夏至后的月圆时举行，此时金星与月亮在夜空中同现。**Farmanyan & Mickaelian 2016** 论证：
+## 九、跨文化谱系——星辰爱神的多层身份
 
-- Astghik 的名字 *astł*"星"—泛指星，但民俗中偏指**金星**
-- Vardavar 节的**7 月洒水**—与**Aquarius 水瓶座**的天文学时机吻合
-- 月光的**周期性**—与女性月经-生育周期的关联，使 Astghik 兼有**生育女神**职能
+- **希腊阿佛洛狄忒**（Agathangelos §809）：希腊化对应，主要针对"爱与美"面；
+- **美索不达米亚伊什塔尔**（Farmanyan & Mickaelian 2016）：金星—爱—战三合一的更古层；
+- **腓尼基 Astarte**（Boyajian 1958）：词源近亲，Astghik-Astarte 声母组共振；
+- **伊朗 Anahid**（Lurker 2004）：金星面对应；
+- **基督教 Sourb Hripsime**（Nersessian 2001）：功能与图像继承者。
 
-这一天文学-民俗学-神学三重叠合，使 Astghik 成为亚美尼亚**宇宙论与妇女生活**的连接点。
-
-## 七、Astghik 与 Anahit：两女神的界线
-
-Astghik 与 Anahit 的**神职重叠**是亚美尼亚神话研究的经典难题：
-
-| 维度 | Astghik | Anahit |
-|-----|---------|--------|
-| 语言来源 | 印欧本土 *h₂stḗr* | 伊朗借入 *Anāhitā* |
-| 核心职能 | 爱、美、月光 | 母神、丰饶、水 |
-| 祭祀重心 | Ashtishat, Astghi-Blur | Erez, Ashtishat |
-| 希腊对应 | Aphrodite | Artemis |
-| 民俗延续 | Vardavar 节 | 圣母 Astvatsatsin 转生 |
-| 与国王关系 | 无直接关系 | 加冕神学 |
-
-**Russell 1987** 强调：这两位女神并非重复—而是**亚美尼亚女性神学的两极**：Astghik 代表**私人爱情**（民俗、家庭、婚姻），Anahit 代表**公共母性**（国家、王权、丰饶）。这一分工使亚美尼亚女性神学**远比伊朗琐罗亚斯德教丰富**（伊朗只有 Anāhitā 一位主要女神）。
-
-## 八、基督教化：从异教女神到民俗节
-
-Astghik 神庙 301 年被 Gregory 摧毁，但其**民俗生命**几乎未受影响。**Nersessian 2001** 追踪：
-
-- **Ashtishat 主庙**原址被改建为**基督教修道院**（Ashtishat 修道院至 20 世纪初仍存）
-- **Vardavar 节**被官方教会**收编**（改为主显节 *Aylakerputyun*），但内容全部保留
-- Astghik 名字在民俗中偶尔仍作为**女性人名**（Astghik / Astghi）使用—这是异教女神名幸存的极少数样本
-
-**Seyfeli 2011** 从早期亚美尼亚基督教史料角度补论：教父们对 Vardavar 节的**默许**是罕见的—他们对 Aramazd 神庙火祭、Vahagn 屠龙祭均严厉禁绝，唯独对 Astghik 的 Vardavar 洒水节采取**宽容策略**。可能的原因是：Vardavar 的"洒水"动作与**基督教洗礼**在符号上相容—教会将其重新解释为"主显节洒水"（象征基督在约旦河受洗），从而**收编而非禁绝**。
-
-## 九、跨文化谱系：星光女神的印欧-闪族分界
-
-Astghik 是理解**印欧星光女神传统**的关键节点：
-
-| 女神 | 文化 | 与 h₂stḗr 关系 | 核心职能 |
-|-----|------|----------------|---------|
-| Astghik | 亚美尼亚 | 直接后裔 | 星光、爱、月 |
-| Uṣas | 吠陀 | 印欧 *h₂éws-* 姐妹词根 | 黎明、光 |
-| Eos | 希腊 | 同上 | 黎明 |
-| Aurora | 罗马 | 同上 | 黎明 |
-| Aušrinė | 立陶宛 | 同上 | 晨星 |
-| Ishtar/Astarte | 闪族 | 独立起源 | 爱、金星、战 |
-
-**Sergent 2005** 与 **Martirosyan 2013** 共同论证：Astghik 是**印欧星光女神**在西亚的**独立保留**—她证明了印欧亚美尼亚人在移居高地之前，已经拥有独立的女神神学，而**没有等到伊朗输入才产生女神信仰**。这一保留极大丰富了印欧比较神话学的样本库。
+Astghik 是"名字纯本土 + 图像跨文化 + 节令活态遗产"的三合一样本，在亚美尼亚神学中占据独特的"柔性星辰"位置。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Ananikian 1925（民俗）+ Russell 1987（神系）+ Martirosyan 2013（语言）三者是必读组合。
-- **一手文献**：Agathangelos §112（Ashtishat 三神庙）、Khorenatsi II.13（沐浴玫瑰传说）。
-- **最新研究**：Martirosyan 2013 的印欧定位、Farmanyan 2016 的天文学关联、Seyfeli 2011 的教父史料分析、Sergent 2005 的印欧比较视角。
-- **深度追踪**：本条目完成亚美尼亚首批伞形+四主神的收官—下一批将进入 Mihr/Tir/Nane/Barsamin + Vishap 石考古。
-- **神学地位**：Astghik 是**印欧星光女神在世界宗教史上活得最久的具象女神**—她的 Vardavar 节从公元前 200 年跳到公元 2026 年，形式几乎不变—这是**神话考古学**中"节日作为化石"的最完整案例。
+**奠基作**：Russell 1987 第 5 章、Boyajian 1958 序诗集、Lurker 2004 词典条目为三支入门。**最新研究**：Seyfeli 2011 第 VII 节是当前对 Astghik 最系统的整理；Kamel 等 2011 与 Farmanyan-Mickaelian 2016 分别从民俗与天文学补入活态视角；Anonymous 2017 提供硬核考古证据。**深度追踪**：Vardavar 节的活态延续与其在基督教节令中的转移、Astghik-Vahagn 恋歌的完整版本重构、Sourb Hripsime 图像继承的图像学论证，是本条目未来补强重点。**神学地位**：Astghik 是亚美尼亚神话中"最柔性"的一位神——她的名字纯本土、她的功能纯明亮、她的节令纯欢愉；她与 Vahagn 的雷电—星辰配对，为印欧比较神话学提供了雷神伴侣的一种**保护型**罕见样本。至此本批 5 条覆盖亚美尼亚三主神家族 + 星辰配偶 + 伞形架构，构成开局最紧凑的一次伦理结构。
