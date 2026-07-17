@@ -1,146 +1,134 @@
 ---
 id: sraosha-zoroastrian
-name_primary: 斯劳沙 听从与祷词之神
-name_original: Sraoša / سروش / Srōš
-name_aliases: [Sraosha, Srosh, Soroush, 斯劳沙, 听从之神, 灵魂审判者, 亚美尼亚Surb Sargis]
+name_primary: 斯劳沙 聆听与服从之神
+name_original: Sraoša / Srōš / سروش
+name_aliases: [Srosh, Sorush, Srōš, 苏鲁什, 聆听之神]
 name_translations:
-  zh: 斯劳沙 · 听从之神
-  en: Sraosha / Obedience
+  zh: 斯劳沙
+  en: Sraosha
   fa: سروش
-  pal: Srōš
-  ave: Sraoša
-  arm: Sruša
+  av: Sraoša
 
 hero_image: /images/entries/sraosha-zoroastrian.jpg
-hero_image_alt: 斯劳沙持权杖驱鬼护卫死者灵魂过Chinvat桥 · Sasanian岩雕风格
-hero_image_credit: AI generated · Sasanian relief
+hero_image_alt: 手持狼牙棒守护夜间灵魂通道的斯劳沙——花剌子模壁画风格
+hero_image_credit: AI generated · Chorasmian mural style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教听从神
+culture_path: 亚洲/伊朗高原/古波斯/琐罗亚斯德教
 entity_type: deity
-era: 前1200年Gathas首见至今
-geo_region: 伊朗高原/亚美尼亚/中亚
+era: 约公元前 1000 年 至 今，帕西社群持续崇拜
+geo_region: 伊朗高原—花剌子模—亚美尼亚—印度帕西人社群
 
-summary: 琐罗亚斯德教听从与祷词Yazata。Kryukova (2021) 论Sraosha守夜克鬼职能。Terribili (2022) 论Srōš与基督教圣Sergius跨文化对应。De Jong & Larsson (2021) 论从抽象'听从'到审判者-灵魂引导者的演变。Campa (2018) 论伊斯兰化后sorush作诗性灵感幸存。Yasna 57 Sraosha Yasht 专献。
+summary: 斯劳沙是琐罗亚斯德教中「聆听—服从」之神，中古波斯语称 Srōš。Grenet 与 Minardi（2021）在花剌子模阿克恰罕—卡拉发现其巨型壁画确认图像身份，Kryukova（2021）分析其在 Vīdēvdād 夜间守护的角色，Terribili（2022）比较基督教圣塞尔吉乌斯，Campa（2018）探讨其伊斯兰化后成为苏菲天使 Sorush。
 
-attributes: [听从之神Ath音译听从, Chinvat桥灵魂审判三神之一, Rashnu与Mithra共同审判, Yasna 57 Sraosha Yasht专献, 手持Snaithish权杖打击Daevas, 夜间守护抵御Aeshma愤怒, 击败Aeshma终末英雄, 唯一在祆教死后仍执行使命的yazata, 摩尼教Srōš吸收为救赎接引神, 伊斯兰化后sorush幸存为神圣灵感,鸡为其圣鸟晨鸣驱鬼]
+attributes: [聆听, 服从, 夜间守护, 灵魂引渡, 狼牙棒]
 
 primary_sources:
   - type: paper
+    title: "The Image of the Zoroastrian God Srōsh"
+    author: "F. Grenet and Michele Minardi"
+    year: 2021
+    language: en
+    url: https://doi.org/10.1163/15700577-12341389
+    access: paywall
+    note: "决定性证据——花剌子模阿克恰罕—卡拉巨型壁画确认为 Srōsh 图像，属公元前后琐罗亚斯德神像。"
+  - type: paper
     title: "Sraosha and Night in the Avestan Videvdat"
-    author: "Victoria Kryukova"
+    author: "V. Kryukova"
     year: 2021
     language: en
     url: https://doi.org/10.15407/skhodoznavstvo2021.88.211
     access: open
-    note: "Kryukova 2021。Videvdat中Sraosha守夜克鬼的完整叙事,与Vahagn等英雄神的功能重叠"
+    note: "系统分析《维迭夫达特》中 Sraosha 作为夜间守护者对抗恶灵 Aēšma 的仪式与叙事结构。"
   - type: paper
-    title: "Visitation and Awakening: Cross-Cultural Parallelisms between Sroš and St. Sergius"
+    title: "Visitation and Awakening — Cross-Cultural Parallels between Srōš and St. Sergius"
     author: "Gianfilippo Terribili"
     year: 2022
     language: en
     url: https://doi.org/10.1163/18747167-bja10013
     access: paywall
-    note: "Terribili 2022最新奠基。Sraosha年轻俊美勇武的形象与基督教圣Sergius的跨文化功能对应"
+    note: "论证萨珊末期至早期基督教叙事中 Srōš 与圣塞尔吉乌斯共享唤醒英雄的功能母题。"
   - type: paper
-    title: "The Eclipse of Geo Widengren in the Study of Iranian Religions"
-    author: "A.F. de Jong & G. Larsson"
-    year: 2021
-    language: en
-    url: https://doi.org/10.1163/9789004499386_006
-    access: paywall
-    note: "de Jong & Larsson 2021。Sraosha从抽象'听从'到审判者-灵魂引导者的功能演变"
-  - type: paper
-    title: "La religione dei corpi perfetti"
+    title: "La religione dei corpi perfetti — Osservazioni sulla dimensione estetica dello zoroastrismo"
     author: "Riccardo Campa"
     year: 2018
     language: it
-    url: https://www.semanticscholar.org/paper/Campa-Zoroastrian
+    url: https://www.semanticscholar.org/search?q=religione+corpi+perfetti+zoroastrismo
     access: open
-    note: "Campa 2018。Sraosha在伊斯兰化后作为'sorush'幸存为诗人的神圣灵感,如Ferdowsi《列王纪》"
+    note: "追踪 Sraosha 伊斯兰化后作为苏菲天使 Sorush 的延续，引 Encyclopaedia Iranica 论证。"
   - type: paper
     title: "How to kill a cow in Avestan"
     author: "Jost Gippert"
     year: 1991
     language: en
-    url: https://www.semanticscholar.org/paper/Gippert-Sraosha
-    access: paywall
-    note: "Gippert 1991。Yasna 57 Sraosha献祭文本的语言学分析,'Sraosha getting share of beauty'的精细译解"
-  - type: book
-    title: "Encyclopedia of Ancient Deities"
-    author: "Charles Russell Coulter & Patricia Turner"
-    year: 2000
-    language: en
-    url: https://doi.org/10.4324/9781315063287
-    access: paywall
-    note: "Coulter & Turner 2000。Sraosha终末击败Aeshma的完整神话,与Aka Manah对立的神学结构"
-  - type: book
-    title: "Reclaiming the Faravahar: Zoroastrian Survival in Contemporary Tehran"
-    author: "Navid Fozi"
-    year: 2015
-    language: en
-    url: https://doi.org/10.24415/9789087282141
+    url: https://www.semanticscholar.org/search?q=kill+cow+Avestan+Sraosha
     access: open
-    note: "Fozi 2015。当代德黑兰祆教社区对Sraosha的诠释,Skjærvø译'准备听'的Old Avesta vs 'warrior god'的Young Avesta双重性"
-  - type: book
-    title: "The Bundahišn"
-    author: "Domenico Agostini & Samuel Thrope"
-    year: 2020
+    note: "从《亚什特 11》文本学角度确认 Sraosha 之名「聆听、服从」的语言学基础。"
+  - type: paper
+    title: "Angelic Intermediaries — Development of a Revelatory Tradition"
+    author: "Heather Macumber"
+    year: 2012
     language: en
-    url: https://doi.org/10.1093/oso/9780190879044.001.0001
+    url: https://www.semanticscholar.org/search?q=Angelic+Intermediaries+Sraosha
+    access: open
+    note: "指出 Sraosha 为琐罗亚斯德体系中最著名的中介神，是犹太—基督教大天使加百列的重要原型之一。"
+  - type: paper
+    title: "A New Chorasmian Wall Painting from Akchakhan-kala"
+    author: "Minardi, Betts, Grenet et al."
+    year: 2018
+    language: en
+    url: https://doi.org/10.2307/j.ctv1q26s47.31
     access: paywall
-    note: "Agostini & Thrope 2020。Bundahišn 30章Sraosha在Chinvat桥引导义人灵魂过桥的完整叙事"
+    note: "阿克恰罕—卡拉三神并列壁画首次报告，为后续 Srōš 图像身份确认提供基础。"
+  - type: archive
+    title: "Sraoša Yasht（《阿维斯塔·亚什特 11 与 Yasna 57》）"
+    author: "琐罗亚斯德教团体"
+    year: -500
+    language: av
+    url: https://avesta.org/ka/yt11sbe.htm
+    access: open
+    note: "献给 Sraosha 的核心颂诗，详列他一日五次的守护巡视与对 Aēšma 的持续搏斗。"
 
 structured_data:
-  epithets: [听从者, 具身之祷, 打击Daeva者, Aeshma之死敌, Chinvat桥引路人]
-  triad_of_judgment:
-    - Mithra: 契约见证者
-    - Rashnu: 正义天平持有者
-    - Sraosha: 灵魂接引者
-  sacred_animal: [鸡(晨鸣驱鬼)]
-  cult_moment: [黎明/日落祷告, 死者第四日过桥]
+  epithets: [聆听者, 世界之守卫, 灵魂引渡者, Aēšma 之敌]
+  weapon: 狼牙棒 vazra
+  cult_center: [花剌子模 Akchakhan-kala, Nishapur, 亚兹德, 孟买帕西社群]
   timeline:
-    - 前1200: Gathas Yasna 33/45首见sraosha
-    - 前900: Yasht 11与Yasna 57转为战神-审判者
-    - 800: Pahlavi Bundahišn定型为Chinvat桥三神之一
-    - 中世纪: 伊斯兰化后作sorush幸存
+    - -500: 《斯劳沙·亚什特 11》与《雅斯纳 57》成型
+    - 1: 花剌子模阿克恰罕—卡拉壁画绘制 Srōš 巨像
+    - 500: 萨珊神学定型 Srōš 三日灵魂陪伴角色
+    - 1000: 伊斯兰化后转为苏菲天使 Sorush
 
 variants:
-  - region: 摩尼教
-    version: Srōš/Xradesahr
-    note: 吸收为救赎神,引导选民灵魂上升光明国
-  - region: 亚美尼亚
-    version: Sruša → Surb Sargis(基督化)
-    note: Terribili 2022论其与圣Sergius的功能对应
-  - region: 现代波斯
-    version: Sorush/Soroush
-    note: 保留为"神圣消息"与诗歌灵感,常见男名
+  - region: 花剌子模
+    version: 巨型壁画 Srōš 三神像
+    note: Grenet 与 Minardi 2021 确认
+  - region: 帕西社群
+    version: Srōš baj 每日祷仪
+    note: 至今仍诵读的核心祷词
+  - region: 伊斯兰苏菲
+    version: Sorush 天启使者
+    note: Campa 2018 论证功能延续
 
 parallels:
-  - culture: 基督教
-    entity: 圣Sergius/大天使Michael
-    relation: 功能对偶
-    note: 年轻俊美勇武、灵魂引导者、鸡为圣鸟——多重对应
-    source_ref: Terribili 2022
-  - culture: 犹太教
-    entity: 大天使Michael
-    relation: 类型学
-    note: 战胜恶魔、审判日引导亡魂——与Sraosha终末击败Aeshma对应
-    source_ref: Boyce 1984
-  - culture: 埃及
-    entity: Anubis阿努比斯
-    relation: 功能对偶
-    note: 灵魂过桥/秤心引导者——Chinvat桥与Duat称心的结构性并行
-    source_ref: de Jong & Larsson 2021
-  - culture: 印度
-    entity: 阎摩Yama
-    relation: 功能对偶
-    note: 死后引导者,但Yama是最初的死者,Sraosha为纯粹审判引导神
-    source_ref: Kryukova 2021
+  - culture: 犹太—基督教
+    entity: 大天使加百列
+    relation: 神圣讯息传递者原型
+    note: Macumber 2012 论证琐罗亚斯德中介神学对犹太天使论的塑造
+    source_ref: Macumber (2012)
+  - culture: 基督教圣徒
+    entity: 圣塞尔吉乌斯 St. Sergius
+    relation: 唤醒英雄母题共享
+    note: Terribili 2022 详论两者共享的「访问—唤醒」叙事
+    source_ref: Terribili (2022)
   - culture: 伊斯兰苏菲
-    entity: Sorush天使
-    relation: 神名幸存
-    note: Ferdowsi《列王纪》中sorush作为神圣消息使者出现
-    source_ref: Campa 2018
+    entity: Sorush 天使 / 灵感
+    relation: 直接语言与图像延续
+    note: Campa 2018 论证 Sorush 在波斯诗歌中的天使意象来源
+    source_ref: Campa (2018)
+  - culture: 印度吠陀
+    entity: Sravaṇa 听闻
+    relation: 印欧词根同源
+    note: 语根 *ḱleu- 听闻，与吠陀听闻文化传统同构
 
 confidence: attested
 llm_assisted: true
@@ -150,104 +138,46 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：从"听从"到"灵魂引导者"的抽象升华
+## 一、导读——「聆听」即神圣
 
-**Sraosha**（古阿维斯陀 *Sraoša*，中古波斯 *Srōš*，波斯 *سروش Sorush*；亚美尼亚 *Sruša*）是琐罗亚斯德教中一个**从抽象概念升华为独立神格**的经典案例。Prods Oktor Skjærvø 分析：*sraosha* 词根 *srav-* 意"听"，在**Old Avestan 中意"听从、准备听"**——一种抽象的宗教德性；到 **Young Avestan 与 Pahlavi 时代转变为一位年轻俊美的战神-灵魂引导者**（Fozi 2015 引用）。这一"抽象德性→人格化 Yazata"的过程，是琐罗亚斯德神学最富哲学意味的演化之一。
+斯劳沙（*Sraoša*）之名源于印欧语根 *ḱleu-*「听闻」，Gippert（1991）在文本学考察中指出其含义兼具「聆听神圣讯息」与「服从阿胡拉·马兹达」双重意义。在琐罗亚斯德神学中，Sraosha 是**将神圣秩序传递至人间的中介**——他既是天启之耳，也是人心中的服从倾向。
 
-## 二、词源与双重含义
+## 二、《斯劳沙·亚什特 11》——一日五次巡视
 
-- **Old Avestan**（*Yasna* 33.5, 44.16, 45.5）：*sraoša* 出现在 Gathas 中，作为**抽象概念**：人对神圣祷词的"听从、准备听、专注聆听"。这是 Zoroaster 伦理宗教的核心德性之一——**祷告不仅是"说"，更是"听"**。
-- **Young Avestan**（*Yasht* 11, *Yasna* 57 *Sraosha Yasht*）：Sraosha 已成为**独立 Yazata**，年轻、俊美、勇武（*huraōda-*），"最强、最勇、最速、最令青年畏惧的"（Gippert 1991）。
-- **Pahlavi**（Bundahišn, Dēnkard）：进一步演变为**Chinvat 桥灵魂审判者**与**Aeshma 之死敌**。
+《阿维斯塔·亚什特 11》与《雅斯纳 57》记载 Sraosha 一日五次巡视世界，对抗恶灵 Aēšma（忿怒）。Kryukova（2021）分析《维迭夫达特》文本，指出 Sraosha 特别在**夜间**执勤——当祭火减弱、恶灵活跃时，他挥舞狼牙棒击退攻击。
 
-Terribili（2022）指出，这种"抽象德性人格化"结构在其他 Amesha Spentas（如 Asha 秩序、Vohu Manah 善思）身上更早发生，Sraosha 是最后一个完成此过程的抽象 Yazata。
+## 三、Aēšma 的宿敌
 
-## 三、Yasna 57：Sraosha 献祭仪式的中心
+Sraosha 与 Aēšma 构成琐罗亚斯德恶魔学中最著名的**善—恶对偶**。Aēšma 即狂暴、忿怒、鲁莽；Sraosha 即倾听、克制、服从。Kryukova（2021）视此对偶为**心灵伦理**的宇宙投射：人若聆听 Sraosha 则得救，若从 Aēšma 则堕落。Aēšma 后进入犹太文献成为 *Asmodeus*，但 Sraosha 却始终留在琐罗亚斯德教内部。
 
-*Yasna* 57（*Sraosha Yasht Hadhaokht*）是每日 Yasna 礼拜中献给 Sraosha 的核心章节。Gippert（1991）语言学分析揭示：Sraosha 在**献祭仪式（尤其是屠牛为祭）中处于中心位置**——他"接受祭物美丽的一份"（*srao get share of beauty*）。这反映他作为**祷词-祭祀-听从**三重具身的角色。
+## 四、花剌子模的图像发现
 
-Yasna 57 中关键描述：
-- Sraosha 手持 **Snaithish 权杖**（"打击者"），专攻 Daevas
-- 骑**四匹白马金战车**（与 Mithra 类似）
-- 夜间不眠，**守护七大洲免受 Angra Mainyu 军团夜袭**
-- 通过 **Yatha Ahu Vairyo**（最神圣祷词）获得力量
+Grenet 与 Minardi（2021）在花剌子模阿克恰罕—卡拉遗址壁画上，通过冠冕形制、狼牙棒、雄鸡陪同等图像证据，**决定性地**将三尊巨型神像的中央一位鉴定为 Sraosha。这是当代琐罗亚斯德图像学最重大的发现之一，将 Sraosha 崇拜的视觉形式追溯至公元前后。
 
-## 四、Chinvat 桥：灵魂审判三神之一
+## 五、雄鸡——聆听的活化
 
-祆教死后神学的核心是 **Chinvat Peretu**（"分辨桥"）：死者灵魂在死后第四日黎明来到此桥前，接受审判：
+雄鸡是 Sraosha 的神圣动物——它以晨鸣宣告黎明胜利于黑夜。琐罗亚斯德教徒不得虐待或屠杀雄鸡，因它为 Sraosha 之信使。这一联结解释了为何波斯细密画常在灵性场景中画雄鸡，也是苏菲诗歌「晨鸡啼时」意象的宗教根源。
 
-- **Mithra**：契约见证者，检视此人生前是否违约
-- **Rashnu**：手持**金天平**，称量此人善恶行为
-- **Sraosha**：**引路者**——义人灵魂被引往光明桥面（宽如九支矛长），恶人灵魂桥面变窄如剃刀边缘，堕入 Angra Mainyu 深渊（Agostini & Thrope 2020 Bundahišn 30 章）
+## 六、灵魂引渡——三日陪伴
 
-Sraosha 在此扮演**唯一从生前延续到死后**的 Yazata——他既是生前"听从祷词"的守护者，也是死后"接引灵魂"的引导者。de Jong & Larsson（2021）指出，这一"生死一贯"角色使他成为祆教神谱中**最人格化、最亲近人类**的 Yazata。
+萨珊神学定型 Sraosha 一项独特职能：**死后三日**陪伴灵魂。死者魂魄在裁判之桥 *Činvat* 之前的三个昼夜由 Sraosha、Mithra 与 Rashnu 三神陪同——Sraosha 聆听生前之言，Mithra 检视契约，Rashnu 秉公裁量。此三神合审构成琐罗亚斯德**独有的死后审判结构**。
 
-## 五、夜间守护：抵御 Aeshma 的战神
+## 七、帕西人 Srōš baj 祷仪
 
-Kryukova（2021）"Sraosha and Night in the Avestan Videvdat" 系统整理夜间职能。*Vīdēvdāt*（"反鬼律法"）多章记载：Sraosha 是**夜间世界的守护者**，因为夜是 Angra Mainyu 与 Daevas 最活跃时段。他与 Aeshma（愤怒之魔）形成**终末对偶**——Zand-i Wahman Yasn 与 Bundahišn 34 章预言：Frashokereti 最终之战中，**Sraosha 将击败 Aeshma**，与 Verethragna 击败其他 Daevas 一同完成宇宙净化。
+孟买及古吉拉特帕西社群至今每日诵读的核心祷词即 **Srōš baj**（斯劳沙祷词），包括进食前、如厕后、就寝时。Campa（2018）指出这是琐罗亚斯德教中「宗教身体化」最完整的仪式实践之一——聆听神成为一日之节律。
 
-**鸡是他的圣鸟**（Vendidad 18.15）——公鸡黎明鸣叫被视作 Sraosha 之声，唤醒信众祷告、驱散夜鬼。这一传统在中世纪伊朗仍受尊重，鸡的杀害有严格仪式规定。
+## 八、苏菲遗产——Sorush 天使
 
-## 六、跨文化功能对偶
+Campa（2018）追踪 Sraosha 进入伊斯兰苏菲传统的路径：**Sorush**（سروش）在波斯古典诗歌中成为天启使者——菲尔多西《列王纪》、鲁米《玛斯纳维》均将 Sorush 描绘为将神圣灵感注入诗人耳中的天使。至今波斯语「Sorush」仍是常见男性名。
 
-### 埃及 Anubis / 希腊 Hermes Psychopompos
-灵魂引导者原型在多个古代文明中共享。Chinvat 桥与埃及《亡灵书》Duat 秤心场景**结构惊人相似**——Anubis 引导 + Thoth 称量 + Osiris 审判 ↔ Sraosha 引导 + Rashnu 称量 + Ahura Mazda 终裁。此并行是**古代灵魂论比较研究**最经典案例之一（de Jong & Larsson 2021）。
+## 九、圣塞尔吉乌斯——跨宗教叙事共振
 
-### 摩尼教 Srōš / Xradesahr
-Mani（3 世纪）直接借用 Sraosha 入摩尼教救赎神学——**Srōš 引导选民灵魂穿越三个天界上升光明国**。敦煌摩尼教《下部赞》与《摩尼光佛》文本中 Srōš 保留完整名号。
-
-### 基督教 圣 Sergius / 大天使 Michael
-Terribili（2022）最新奠基论文详细论证：亚美尼亚基督教 **圣 Sergius（Surb Sargis）** 崇拜吸收了大量 Sruša（Sraosha 亚美尼亚形式）元素：
-- 年轻俊美的战士圣人
-- 骑马斩敌形象
-- 二月节日近祆教 Sadeh 火祭
-- 情人节-婚约保护者（继承 Sraosha "契约"面向）
-
-而**大天使 Michael** 与 Sraosha 的对应在于：击败巨龙/魔王、末日引导亡魂、"神军之首"称号——Boyce（1984）视为祆教影响犹太-基督教天使学的直接证据。
-
-## 七、伊斯兰化后：Sorush 的诗性幸存
-
-Campa（2018）研究萨珊灭亡（651）后 Sraosha 在伊斯兰伊朗的**幸存机制**：
-
-- 名号从 **Srōš → Sorush** 转化
-- 从"听从之神"演变为"**神圣消息使者、诗人灵感**"
-- **Ferdowsi《列王纪》**（10 世纪）中 sorush 作为"从至高处降下的灵感之声"出现，指引英雄
-- Rumi、Hafez 等苏菲诗人使用 *sorush* 表达"神性直觉、内在启示"
-- 当代波斯语 **Sorush** 是常见男名，意"神圣消息、灵感"
-
-Fozi（2015）记录德黑兰当代祆教社区对 Sraosha 的双重继承：既保留其古 Avestan 抽象德性（"聆听神圣"），也保留其 Young Avestan 战神形象（"击败 Daevas"）。
-
-## 八、图像学：年轻武士
-
-Sasanian 岩雕与钱币中，Sraosha 的图像稳定为：
-- **年轻俊美男性**，无胡（区别于 Mithra 的成熟形象）
-- 头戴光晕，手持**Snaithish 权杖**
-- 常与鸡（圣鸟）同现
-- Kirmanshah 附近岩雕群中有专属场景
-
-亚美尼亚圣 Sergius 图像沿用了这一年轻武士模板，仅将权杖换为十字架长枪。
-
-## 九、跨文化谱系总结
-
-| 传统 | 对应神 | 关键功能 |
-|---|---|---|
-| 吠陀 | 无直接对应（"听从"未人格化） | — |
-| 埃及 | Anubis | 灵魂引导者 |
-| 希腊 | Hermes Psychopompos | 亡魂使者 |
-| 犹太-基督教 | 大天使 Michael | 神军之首、末日审判引导 |
-| 亚美尼亚基督教 | 圣 Sergius | 年轻武士圣人 |
-| 摩尼教 | Srōš 直接借用 | 救赎接引神 |
-| 印度 | Yama | 死者引导（但为最初死者） |
-| 伊斯兰-苏菲 | Sorush 幸存 | 诗性灵感、神圣消息 |
+Terribili（2022）研究萨珊末期至早期基督教叙事，发现 Srōš 与叙利亚圣徒**圣塞尔吉乌斯（St. Sergius）**共享「深夜访问—唤醒英雄—转授神圣使命」的叙事母题。这种共振显示琐罗亚斯德中介神学对晚期古代地中海—美索不达米亚圣徒传的深层影响。
 
 ## 十、Mythos Atlas 编者按
 
-**奠基作**：Prods Oktor Skjærvø《The Spirit of Zoroastrianism》与他对 Old vs Young Avestan 语义差异的分析；Terribili（2022）"Visitation and Awakening" Sraosha-圣 Sergius 跨文化对应的最新奠基。
-
-**最新研究**：Kryukova（2021）Sraosha 夜间守护职能；Terribili（2022）圣 Sergius 对应；de Jong & Larsson（2021）功能演化研究；Campa（2018）伊斯兰化后 sorush 幸存机制。
-
-**一手文献**：*Yasna* 33/44/45（Old Avestan）、*Yasht* 11、*Yasna* 57 *Sraosha Yasht*、*Vendidad* 18、Bundahišn 30/34、Ardā Wirāz Nāmag（灵魂游历录中 Sraosha 的引导角色）；Ferdowsi《列王纪》中 sorush 段落。
-
-**深度追踪**：伊朗 Kermanshah 附近岩雕群、亚美尼亚圣 Sergius 教堂群（Terribili 田野工作重点）、敦煌摩尼教文书 P.3884《下部赞》中 Srōš 部分——为 Sraosha 跨文化研究关键遗存。
-
-**神学地位**：Sraosha 是**祆教神谱中最"人性化"的 Yazata**——他不是遥远的至高神（Ahura Mazda）、不是抽象的宇宙秩序（Asha）、不是复合的女神（Anahita）、不是全见的太阳契约神（Mithra），而是**每日与每夜守护普通信众、在死亡时刻亲自接引灵魂的守护者**。这种"贴近人"的神学定位使他成为祆教向摩尼教、基督教（圣 Sergius）、伊斯兰（sorush）传递时**最容易被吸收的组件**——因为他不需要复杂的一神论/二元论/终末论包装，只需要"一位守护你的年轻武士，一位引导你灵魂的向导"这一最基本的宗教情感。三千五百年过去，从 Old Avestan Gathas 到当代德黑兰婴儿名 Sorush，Sraosha 从未真正消失。
+- **奠基作**：Boyce《琐罗亚斯德教史》第一—二卷、Kreyenbroek《Sraoša in the Zoroastrian Tradition》（1985）。
+- **最新研究**：Grenet 与 Minardi（2021）图像考古学、Kryukova（2021）夜间守护论、Terribili（2022）跨文化比较、Campa（2018）苏菲遗产。
+- **一手文献**：《斯劳沙·亚什特 11》、《雅斯纳 57》、《维迭夫达特》夜间条款、Srōš baj 帕西祷词。
+- **图像证据**：花剌子模阿克恰罕—卡拉巨型壁画（决定性）、萨珊印章、帕西祭袍纹饰。
+- **神学地位**：琐罗亚斯德次级 yazata 中最重要的中介神，与 Mithra 并列构成人—神联接的双重轴。

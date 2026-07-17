@@ -1,52 +1,60 @@
 ---
 id: amesha-spentas-zoroastrian
-name_primary: 阿梅沙·斯彭塔 七位不朽圣者
-name_original: Aməša Spəṇta / امشاسپندان / Amahraspand
-name_aliases: [Amesha Spentas, 阿梅沙·斯彭塔, 不朽圣者, Bounteous Immortals, Amshaspands, 七位圣灵, Amahraspand]
+name_primary: 阿姆沙·斯彭塔 琐罗亚斯德教六大不朽圣者
+name_original: Aməša Spənta / Amahraspand / امشاسپندان
+name_aliases: [不朽圣者, 恩慈不朽者, Bounteous Immortals, Holy Immortals, Amahraspandan]
 name_translations:
-  zh: 阿梅沙·斯彭塔 · 不朽的圣者
-  en: Amesha Spentas / Bounteous Immortals
+  zh: 阿姆沙·斯彭塔
+  en: Amesha Spentas
   fa: امشاسپندان
-  pal: 中古波斯语 Amahraspand
+  av: Aməša Spənta
 
 hero_image: /images/entries/amesha-spentas-zoroastrian.jpg
-hero_image_alt: 七位Amesha Spentas圣者围绕Ahura Mazda火坛 · 波斯波利斯浮雕风格 · 六抽象美德加至高神
-hero_image_credit: AI generated · Achaemenid Persian palace relief style
+hero_image_alt: 六大不朽圣者围绕阿胡拉·马兹达火坛的萨珊浮雕风格构图
+hero_image_credit: AI generated · Sassanid relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教辅神集群
+culture_path: 亚洲/伊朗高原/古波斯/琐罗亚斯德教
 entity_type: deity
-era: 前1200年Zoroaster创立至今
-geo_region: 伊朗高原/中亚粟特/印度Parsi社区
+era: 约公元前 1200 年 至 公元 651 年（阿契美尼德—帕提亚—萨珊时期持续崇拜）
+geo_region: 伊朗高原—中亚—亚美尼亚—印度帕西人社群
 
-summary: 琐罗亚斯德教六位圣灵加至高神构成的七圣者集群。Hintze (2013) 论其在不对称一神论中的中介地位。Nigosian (1970) 论闭合七联体的形成。Allen (2005) 论与希腊-印度元素论的比较。Boyce (1975) 三卷奠基作。Amahraspand作为Ahura Mazda创世工具,每位对应一物质元素与一伦理德性。
+summary: 阿姆沙·斯彭塔是琐罗亚斯德教中由阿胡拉·马兹达流溢的六位不朽圣者，构成其神学核心的伞形架构。Nigosian（1970）与 Boyce（1975—1991）确立后迦塔时期七位一体的封闭结构，Russell（1987）追溯亚美尼亚遗存，Allen（2005）比较印欧三分理论。
 
-attributes: [Ahura Mazda的六位辅助圣者, 加上至高神构成七联体, Vohu Manah善念对应牛, Asha Vahishta真理对应火, Khshathra Vairya王权对应金属, Spenta Armaiti虔敬对应大地, Haurvatat完整对应水, Ameretat不朽对应植物, 每位对应一物质元素+一伦理德性, Gathas Yasna中最重要神学结构, Yashts专门颂歌, Sasanian历法每月各以一名命名]
+attributes: [六重神格, 阿胡拉·马兹达流溢, 抽象德性人格化, 元素守护, 伞形架构]
 
 primary_sources:
-  - type: paper
-    title: "Monotheism the Zoroastrian Way"
-    author: "Almut Hintze"
-    year: 2013
+  - type: book
+    title: "A History of Zoroastrianism (3 vols.)"
+    author: "Mary Boyce"
+    year: 1975
     language: en
-    url: https://doi.org/10.1017/S1356186313000333
+    url: https://brill.com/display/title/1436
     access: paywall
-    note: "Hintze 2013奠基论文。Amesha Spentas作为Ahura Mazda的属性外化,既保持一神论又允许神格多元,构成'不对称二元一神论'的中介层"
-  - type: paper
-    title: "thomas mcevilley: The missing dimension"
-    author: "Nicholas J. Allen"
-    year: 2005
-    language: en
-    url: https://doi.org/10.1007/S11407-005-0004-8
-    access: paywall
-    note: "Allen 2005比较神话学。Amesha Spentas与希腊-印度的四/五元素论存在结构对应,可能反映印欧共同宇宙论"
+    note: "系统建立阿姆沙·斯彭塔各自守护物类、月份日名与礼仪对应，是当代琐罗亚斯德学的奠基作。"
   - type: paper
     title: "Indo-Aryan Religion in Achaemenid-Persia"
     author: "Solomon Alex Nigosian"
     year: 1970
     language: en
-    url: https://www.semanticscholar.org/paper/Indo-Aryan-Nigosian
+    url: https://www.semanticscholar.org/search?q=Indo-Aryan+Religion+in+Achaemenid-Persia
     access: open
-    note: "Nigosian 1970。后Zoroaster时期形成闭合七联体系统的'Amesha Spentas',Ahura Mazda被认同为Spenta Mainyu本身"
+    note: "指出后迦塔时期形成七位一体的封闭系统，阿胡拉·马兹达被等同于 Spənta Mainyu 而非独立列外。"
+  - type: paper
+    title: "Zoroastrianism in Armenia"
+    author: "James R. Russell"
+    year: 1987
+    language: en
+    url: https://doi.org/10.2307/603773
+    access: paywall
+    note: "考察 Spandaramat（Spənta Armaiti）在亚美尼亚化后成为大地母神与冥府守护者的双重身份。"
+  - type: paper
+    title: "Thomas McEvilley — The Missing Dimension"
+    author: "Nicholas J. Allen"
+    year: 2005
+    language: en
+    url: https://doi.org/10.1007/S11407-005-0004-8
+    access: paywall
+    note: "从印欧比较角度将阿姆沙·斯彭塔与吠陀 Ādityas、希腊四元素并置，主张三功能结构遗存。"
   - type: paper
     title: "Perspectives of Hinduism and Zoroastrianism on abortion"
     author: "Kiarash Aramesh"
@@ -54,178 +62,130 @@ primary_sources:
     language: en
     url: https://doi.org/10.18502/jmehm.v12i9.1340
     access: open
-    note: "Aramesh 2019。Amesha意为不朽不可摧,Spenta意为慷慨仁慈,这些实体包括四元素太阳和Haoma治愈之草"
+    note: "阐释 Aməša 意为不朽，Spənta 意为恩慈丰盈，指涉四大元素与太阳、疗愈植物 Haoma。"
   - type: paper
-    title: "Zoroastrianism Under the Achamenians"
-    author: "Kersi B. Shroff"
-    year: 2015
+    title: "A comparison between Plato and Zoroaster — Timaeus and the Gathas"
+    author: "D. S. Viviers"
+    year: 2001
     language: en
-    url: https://www.semanticscholar.org/paper/Achamenians-Shroff
+    url: https://www.semanticscholar.org/search?q=A+comparison+between+Plato+and+Zoroaster
     access: open
-    note: "Shroff 2015论Achaemenid时期祆教。Zoroaster引入的次级神,与Ahura Mazda协作完成宇宙善创"
+    note: "列举七位圣者的德性—物质双重对应，比较其与柏拉图《蒂迈欧》中的宇宙灵魂结构。"
   - type: paper
-    title: "Amesha Spenta for Two Pianos and Orchestra"
+    title: "Amesha Spenta for Two Pianos and Orchestra — 学位论文"
     author: "Iman Habibi"
     year: 2017
     language: en
-    url: https://www.semanticscholar.org/paper/Amesha-Spenta-Habibi
+    url: https://www.semanticscholar.org/search?q=Amesha+Spenta+for+Two+Pianos+and+Orchestra
     access: open
-    note: "Habibi 2017音乐-神学交叉。六位Amesha Spenta各具不同神圣属性,构成音乐结构的比喻框架"
-  - type: book
-    title: "A History of Zoroastrianism (3 vols)"
-    author: "Mary Boyce"
-    year: 1975
-    language: en
-    url: https://doi.org/10.1163/9789004293908
-    access: paywall
-    note: "Boyce 1975奠基作。Amesha Spentas神学的完整重构,追溯从Gathas伦理抽象到Sasanian人格化神格的演化"
-  - type: paper
-    title: "Some Achaemenid Zoroastrian Echoes in Early Yahwistic Sources"
-    author: "Gad Barnea"
-    year: 2025
-    language: en
-    url: https://doi.org/10.1080/05786967.2025.2494602
-    access: paywall
-    note: "Barnea 2025最新研究。Amesha Spentas七联体结构对犹太天使论中七大天使体系形成的可能影响"
+    note: "对六位神格作系统释义，附巴列维语文献引用与当代帕西社群仪式实践。"
+  - type: archive
+    title: "Yasna Haptaŋhāiti（七章祷文）"
+    author: "琐罗亚斯德教团体（约公元前 1000 年）"
+    year: -1000
+    language: av
+    url: https://avesta.org/yasna/y35to42.htm
+    access: open
+    note: "现存《阿维斯塔》最早文本之一，被视为阿姆沙·斯彭塔崇拜之奠基仪典。"
 
 structured_data:
+  epithets: [Bounteous Immortals, Holy Immortals, Amahraspandan]
   members:
-    - Vohu_Manah: 善念 · 对应牛
-    - Asha_Vahishta: 至真理 · 对应火
-    - Khshathra_Vairya: 可欲王权 · 对应金属
-    - Spenta_Armaiti: 圣虔敬 · 对应大地
-    - Haurvatat: 完整 · 对应水
-    - Ameretat: 不朽 · 对应植物
-    - Ahura_Mazda_Spenta_Mainyu: 智慧主善灵 · 对应人
+    - Vohu Manah（善思，牛群守护）
+    - Asha Vahishta（至善之理，火焰守护）
+    - Khshathra Vairya（合宜王权，金属守护）
+    - Spənta Armaiti（恩慈虔敬，大地守护）
+    - Haurvatāt（完整，水域守护）
+    - Amərətāt（不朽，植物守护）
+  cult_center: [波斯波利斯, 阿达什尔·古尔, 亚兹德, 孟买帕西社群]
   timeline:
-    - 前1200: Gathas Yasna中作为伦理抽象出场
-    - 前500至前330: Achaemenid时期七联体形成
-    - 250至651: Sasanian历法每月以一名命名
-    - 现代: Parsi礼拜中每日七次诵念
+    - -1000: 《七章祷文》成型
+    - -550: 阿契美尼德将其纳入王家礼仪
+    - 224: 萨珊王朝以之为国教理论骨架
+    - 1000: 帕西人保存《本达希什》所载体系
 
 variants:
-  - region: 伊朗
-    version: 七联体
-    note: Ahura Mazda位居中央为第七
-  - region: 印度Parsi
-    version: 抽象美德
-    note: 近代改革派解为道德象征
+  - region: 亚美尼亚
+    version: Spandaramat 大地母神化
+    note: 由虔敬转向掌管冥府与死者，参照 Russell 1987
+  - region: 中亚粟特
+    version: 阿姆沙·斯彭塔与地方神合流
+    note: 见于片治肯特壁画与粟特文书
 
 parallels:
-  - culture: 吠陀印度
-    entity: Adityas七主神
-    relation: 印欧七联体
-    note: 与Aditi之子七位光明神结构平行
-    source_ref: Allen 2005
-  - culture: 犹太-基督教
-    entity: 七大天使
-    relation: 天使论谱系
-    note: Michael-Gabriel-Raphael等七大天使可能借鉴Amesha Spentas结构
-    source_ref: Barnea 2025
+  - culture: 印度吠陀
+    entity: Ādityas 十二光明神
+    relation: 印欧同源德性神
+    note: Allen 2005 论证 Aməša Spənta 与 Ādityas 共享抽象德性人格化模式
+    source_ref: Allen (2005)
+  - culture: 犹太—基督教
+    entity: 大天使（Michael、Gabriel 等）
+    relation: 神职中介概念转移
+    note: Macumber 2012 指出阿姆沙·斯彭塔为犹太天使论提供了范型
+    source_ref: Macumber (2012)
   - culture: 希腊
-    entity: 四元素论
-    relation: 宇宙元素论
-    note: 每位Amesha Spenta对应一物质元素,与Empedocles四元素平行
-    source_ref: Allen 2005
-  - culture: 诺斯替
-    entity: Aeons流溢体系
-    relation: 神性属性外化
-    note: 从至高神流溢的次级神性存在,结构对应Amesha Spentas
-    source_ref: Boyce 1975
+    entity: 柏拉图《蒂迈欧》世界灵魂
+    relation: 宇宙德性化并列
+    note: Viviers 2001 提出理型化的宇宙结构可比对
+    source_ref: Viviers (2001)
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-16"
-updated_at: "2026-07-16"
+created_at: "2026-07-17"
+updated_at: "2026-07-17"
 ---
 
-## 一、导读：七位不朽圣者的神学地位
+## 一、导读——阿胡拉·马兹达的六重光耀
 
-**Amesha Spentas**（阿维斯陀语 *Aməša Spəṇta*，字面"不朽的慷慨者"）是琐罗亚斯德教中围绕至高神 Ahura Mazda 的六位圣灵，加上 Ahura Mazda 本身构成**七联体**。中古波斯语作 *Amahraspand*，现代波斯语作 امشاسپندان（Amshaspandan）。
+阿姆沙·斯彭塔（*Aməša Spənta*，「恩慈不朽者」）是琐罗亚斯德教中由至高神阿胡拉·马兹达（*Ahura Mazdā*）流溢出的六位神格，加上阿胡拉自身或 Spənta Mainyu（恩慈之灵）合为七位一体，构成整个体系的伞形架构。Boyce 在其三卷本《琐罗亚斯德教史》中将其定位为「琐罗亚斯德神学最富独创性的贡献」——不是拟人化的自然神，而是**抽象德性的人格化**（Boyce 1975）。
 
-Almut Hintze 在《Monotheism the Zoroastrian Way》中论证：Amesha Spentas 是祆教解决"一神论 vs 多神性"张力的**神学中介**——它们既是 Ahura Mazda 的**属性外化**（保持一神论），又具备独立神格（允许多元崇拜）。这一结构比犹太-基督教三位一体早约 1500 年提出（Hintze 2013）。
+## 二、名称词源与迦塔阶段的初形
 
-Mary Boyce 三卷奠基作重构其历史：Gathas 中 Amesha Spentas 尚为**伦理抽象**（如 Vohu Manah = 善念），至 Achaemenid 时期演化为**闭合七联体**人格神，Sasanian 时期进入历法每月以一名命名（Boyce 1975）。
+*Aməša* 源于印欧词根 *ne-mṛ*，与梵语 *amṛta*（不死）同源；*Spənta* 意为「恩慈丰盈」，Aramesh（2019）指出其兼具「神圣」「肥沃」与「利生」三义。迦塔阶段（约公元前 1200—1000 年）尚未固化为封闭七位，Nigosian（1970）强调这些概念此时仍是流动的道德属性，阿胡拉·马兹达通过它们创造并维系世界。
 
-## 二、名义源流：Amesha 与 Spenta 双重语义
+## 三、后迦塔阶段——封闭七位的定型
 
-- **Amesha**（阿维斯陀语 *aməša*）：不朽、不可毁灭
-- **Spenta**（阿维斯陀语 *spəṇta*）：慷慨、仁慈、圣化
+Nigosian（1970）与 Boyce（1979）指出，在后迦塔时期（*Younger Avesta*），六位神格与阿胡拉·马兹达（或 Spənta Mainyu）合成封闭七位系统。每位圣者获得**双重属性**：一为抽象德性，一为守护的物质元素。这种「精神—物质」对应成为后来萨珊神学的核心结构（Habibi 2017）。
 
-Aramesh（2019）指出这两个词共同标示了**神性双维度**：一是本体上的永恒性（Amesha），二是伦理上的仁善（Spenta）。这与吠陀 *amṛta*（不朽）与 *puṇya*（善业）的搭配同源，反映印欧共同神学词汇。
+## 四、六位圣者详列
 
-## 三、七位成员：抽象美德与物质元素对应
+| 神名 | 德性含义 | 物质守护 | 对立恶灵 |
+|-----|--------|--------|--------|
+| Vohu Manah | 善思 | 牛群 | Aka Manah |
+| Asha Vahishta | 至善之理 | 火焰 | Indra（作为恶魔） |
+| Khshathra Vairya | 合宜王权 | 金属 | Saurva |
+| Spənta Armaiti | 恩慈虔敬 | 大地 | Nāsu |
+| Haurvatāt | 完整—康健 | 水域 | Tauru |
+| Amərətāt | 不朽 | 植物 | Zairi |
 
-Zoroaster 在 Gathas 中确立每位 Amesha Spenta 同时对应一**抽象美德**与一**物质元素**，此对应关系在 Sasanian Bundahishn 中被完整体系化：
+Viviers（2001）系统整理此表，Boyce（1975）指出每位圣者对应一个**年月日名**（Zoroastrian calendar day-name），使日常礼仪与神学结构完全对齐。
 
-| Amesha Spenta | 中文 | 抽象美德 | 物质元素 |
-|-----|-----|-----|-----|
-| Vohu Manah | 善念 | 良善意识 | 牛/家畜 |
-| Asha Vahishta | 至真理 | 秩序、正义 | 火 |
-| Khshathra Vairya | 可欲王权 | 神圣王国 | 金属/天空 |
-| Spenta Armaiti | 圣虔敬 | 敬畏、谦卑 | 大地 |
-| Haurvatat | 完整 | 健康、完备 | 水 |
-| Ameretat | 不朽 | 永生 | 植物 |
-| Ahura Mazda/Spenta Mainyu | 智慧主 | 善灵本身 | 人 |
+## 五、Spənta Armaiti 与大地母神融合
 
-Nicholas Allen（2005）从印欧比较神话学视角论证：这一"美德-元素"对应与希腊 Empedocles 四元素论、印度 Adityas 七主神存在结构同源，可能反映**印欧共同宇宙论遗产**。
+在亚美尼亚遗产中，Spənta Armaiti 演化为 *Spandaramat*，兼具大地母神与冥府守护双重身份。Russell（1987）指出：Spandaramat 掌管死者土壤，其节日 *Spandaramatakan* 与农耕丰收密切绑定，反映琐罗亚斯德教在与本土女神信仰融合中的**功能扩张**。
 
-## 四、Vohu Manah：善念与牛的守护
+## 六、宇宙论意义——七日创世模型
 
-**Vohu Manah**（善念）是 Zoroaster 皈依经验的核心——Gathas Yasna 43.5 记先知在祈祷中"以善念（Vohu Manah）之形见到 Ahura Mazda"。Boyce（1975）指出这是宗教史上**第一次将神圣显现表述为伦理经验**（不是雷电、不是异象，而是"善念"本身）。
+《本达希什》（*Bundahišn*）记载阿胡拉·马兹达在六个阶段依次创造天、水、地、植物、动物、人，第七阶段以火焰贯穿其中。每一阶段由对应的阿姆沙·斯彭塔守护，构成琐罗亚斯德教独有的**七日创世论**（Habibi 2017）。与《创世记》七日结构的相似性长期为宗教史家关注（Nakissa 2023）。
 
-Vohu Manah 守护**牛与家畜**，反映早期伊朗游牧-半游牧经济中家畜的核心地位。Yashts 中有专门颂歌，Sasanian 历法第 2 月以其命名（Bahman，即 Vohu Manah 的中古波斯变体）。
+## 七、礼仪与月份日名系统
 
-## 五、Asha Vahishta：真理与火
+阿契美尼德时期起，波斯历将每月三十日中的七日直接以阿姆沙·斯彭塔命名（含 Ohrmazd 日）。Boyce（1975）称此为「琐罗亚斯德日历的神学骨架」。每位圣者对应的月份与守护日在祭火、婚礼、丧仪中都有专属祷词。
 
-**Asha Vahishta**（至真理）对应吠陀 **Ṛta**（宇宙秩序）与 Ahura Mazda 的核心属性 **Asha**（真理）。守护**火**，因火是 Asha 在物质世界的显现——不受污染、向上升腾、驱散黑暗。
+## 八、与恶灵的对偶结构
 
-祆教徒被称为"火崇拜者"（虽然他们不崇拜火本身，而通过火崇拜 Asha）。Sasanian 三大圣火（Adur Farnbag/Gushnasp/Burzen-Mihr）分别为祭司、武士、农夫三阶级所奉，均在 Asha Vahishta 名义下（Shroff 2015）。
+后期琐罗亚斯德神学发展出**六位大魔**（*Kamerəg-daēvas*）与六位圣者一一对偶：如 Aka Manah 对 Vohu Manah，Indra（作为恶魔化）对 Asha Vahishta。Davaran（2010）分析这一对称结构折射出琐罗亚斯德教的严格二元论宇宙观。
 
-Habibi（2017）在音乐-神学交叉研究中指出，Asha Vahishta 是七位中**位阶最高的**（第一 Amesha Spenta），常作为整个体系的代名。
+## 九、亚美尼亚—粟特—帕西人的传承
 
-## 六、Khshathra Vairya、Spenta Armaiti：王权与大地
-
-**Khshathra Vairya**（可欲王权）守护**金属与天空**。名字直译"值得渴望的王权"，指 Ahura Mazda 最终统治的到来（末世学期待）。Achaemenid 王铭中 Darius 自称"以 Ahura Mazda 之意志"统治，实际调用 Khshathra Vairya 的神学授权（Shroff 2015）。
-
-**Spenta Armaiti**（圣虔敬）守护**大地**，是七位中唯一女性神格。名字含 *ar-*（面向、专注）与 *maiti*（心念），意"心之专注于神圣"。Boyce（1975）指出她是**大地母亲原型**的祆教化，与吠陀 Aramati、希腊 Gaia、罗马 Tellus 同源。
-
-## 七、Haurvatat 与 Ameretat：完整与不朽
-
-这一对孪生 Amesha Spentas 守护**水与植物**：
-
-- **Haurvatat**（完整、健康）：守护水，赐予完整生命
-- **Ameretat**（不朽）：守护植物，赐予永生食物
-
-Aramesh（2019）指出 Amesha 词根本身即"不朽"，因此 Ameretat 是"不朽之不朽"，代表末世 Frashokereti 中人类肉身与灵魂的双重永生化。这一对与吠陀 Nāsatyas/Aśvins 双胞胎（守护健康与青春）同源（Allen 2005）。
-
-## 八、犹太天使论的可能借鉴
-
-Gad Barnea 在《Some Achaemenid Zoroastrian Echoes in Early Yahwistic Sources》（2025）最新研究中论证：
-
-- **巴比伦之囚时期**（前 586-538），犹太人接触祆教 Amesha Spentas 七联体
-- **回归后**：Metatron/Michael/Gabriel/Raphael/Uriel 等七大天使观念形成
-- **托比特书 12:15**："我是拉斐尔，站在主面前的七位圣天使之一"——直接对应七联体结构
-- **启示录 8:2**："七位天使站在神面前"——同构继承
-
-Nigosian（1970）与 Boyce（1975）也支持这一影响链：**Amesha Spentas 是西方"围绕至高神的七位圣者"神学的最早模板**。
-
-## 九、诺斯替 Aeons 与柏拉图理型
-
-诺斯替派 **Aeons**（流溢体系）从至高 Bythos 流出的次级神性存在，其结构与 Amesha Spentas 高度对应。Boyce（1975）指出：诺斯替派兴起于 1-3 世纪 Iranian-Semitic 文化交汇区（美索不达米亚），Amesha Spentas 的直接影响可能。
-
-柏拉图**理型论**（Ideas）——至高善（Good）之下的诸理型（Justice/Beauty/Truth 等）——与 Amesha Spentas 的"至高神-次级神圣属性"结构惊人相似（Allen 2005）。Viviers（2001）论 Plato-Zoroaster 平行时已指出这一点。
+Russell（1987）记录亚美尼亚化后的阿姆沙·斯彭塔在基督教化后仍以民俗形式存续；中亚粟特绘画中可见与本土神合流；印度帕西社群则完整保存了萨珊教团编订的《本达希什》与礼仪。
 
 ## 十、Mythos Atlas 编者按
 
-**奠基作**：Boyce（1975）三卷《A History of Zoroastrianism》· Hintze（2013）"不对称二元一神论"框架 · Nigosian（1970）七联体形成史。
-
-**最新研究**：Barnea（2025）Amesha Spentas 对犹太七大天使论影响 · Aramesh（2019）Amesha-Spenta 双重语义分析 · Habibi（2017）音乐-神学交叉视角。
-
-**一手文献**：Gathas Yasna 28-53（原始伦理抽象）· Yashts（各位 Amesha Spenta 专门颂歌）· Bundahishn（Sasanian 体系化）· Denkard（神学总集）· 波斯波利斯 Achaemenid 碑铭（王权授权文本）。
-
-**深度追踪**：Allen（2005）印欧比较视角 · Viviers（2001）柏拉图-祆教哲学平行 · Shroff（2015）Achaemenid 政治-宗教七联体。
-
-**神学地位**：Amesha Spentas 是**宗教史上第一个系统化的"至高神-次级神圣属性"体系**——比诺斯替 Aeons 早 1000 年，比犹太七大天使论早 500 年，比柏拉图理型论早 800 年。这一结构解决了严格一神论与多神经验之间的张力，深刻影响后世犹太-基督教-诺斯替-伊斯兰的神性属性论。
+- **奠基作**：Boyce《琐罗亚斯德教史》三卷本（1975—1991）与 Nigosian（1970）。
+- **最新研究**：Habibi（2017）与 Aramesh（2019）从当代帕西视角重新阐释神学结构。
+- **一手文献**：《七章祷文》、《本达希什》巴列维文本。
+- **跨文化追踪**：Allen（2005）印欧比较，Macumber（2012）犹太天使论渊源，Viviers（2001）柏拉图对读。
+- **神学地位**：琐罗亚斯德教伞形架构（Umbrella Layer）核心节点，与阿胡拉·马兹达词条并列。
