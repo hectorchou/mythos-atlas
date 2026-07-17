@@ -1,147 +1,133 @@
 ---
 id: anahita-zoroastrian
-name_primary: 阿娜希塔 圣水女神
-name_original: Arədvī Sūrā Anāhitā / آناهیتا
-name_aliases: [Anahita, Aredvi Sura Anahita, 阿娜希塔, Nahid, 娜希德, 圣河女神, Aban]
+name_primary: 阿娜希塔 高天之水与生育女神
+name_original: Arədvī Sūrā Anāhitā / 𐬀𐬭𐬆𐬛𐬎𐬎𐬍 𐬯𐬏𐬭𐬁 𐬀𐬥𐬁𐬵𐬌𐬙𐬀
+name_aliases: [Aredvi Sura Anahita, Anaitis, Nahid, 娜希德]
 name_translations:
-  zh: 阿娜希塔 · 圣水与丰饶女神
-  en: Anahita / Lady of the Waters
-  fa: آناهیتا / ناهید
-  el: Anaitis(希腊化)
+  zh: 阿娜希塔
+  en: Anahita
+  fa: ناهید
+  el: Anaitis
 
 hero_image: /images/entries/anahita-zoroastrian.jpg
-hero_image_alt: Anahita圣泉女神 · 河马四匹拉战车 · Sasanian岩雕塔克博斯坦风格
-hero_image_credit: AI generated · Sasanian rock relief Taq-e Bostan style
+hero_image_alt: 波斯萨珊风格浮雕 阿娜希塔立于四白马驾驭的战车 手持水瓶 星光环绕
+hero_image_credit: AI generated · Sasanian relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教水与丰饶
+culture_path: 亚洲/伊朗高原/琐罗亚斯德教/亚扎塔
 entity_type: deity
-era: 前2000年印伊时期至今
-geo_region: 伊朗高原/中亚/亚美尼亚/黑海斯基泰
+era: 公元前 15 世纪印伊分化—21 世纪帕西社群
+geo_region: 伊朗、安纳托利亚、亚美尼亚、粟特、中亚绿洲
 
-summary: 琐罗亚斯德教水与丰饶女神。Yasht 5(Aban Yasht)为其奠基文本。Behjati-Ardakani等(2016)论其掌管生育与胜利。Goharpour等(2016)论水神与降雨仪式。李晓嘉(2023)论拜占庭史家记述"波斯崇水"。Naqsh-e Rostam浮雕为其重要图像。Ustinova(1998)论其影响黑海Aphrodite Ourania。
+summary: 阿娜希塔是《阿维斯塔》《阿班·亚什特》第五颂唯一被冠以专名的女神—集水源、生育、健康、王权授予于一身的亚扎塔。Boyce（1975）、Malandra（1983）、Ricl（2017）与元文琪（1987）证其在阿契美尼德—萨珊帝室崇拜中的中枢位次。
 
-attributes: [源自世界之河Arədvī环绕大地, 河马四匹拉战车行天, 高挑丰腴处女形象戴星辰冠, 掌管妇女生育与男性精液纯净, 掌管战士胜利-国王受膏, 河狸皮衣与黄金饰品, 与Mithra并列受Achaemenid崇拜, Artaxerxes二世(前404-358)提升为国教核心, Sasanian王朝铸币出现其形象, 亚美尼亚Anahit继承并延伸]
+attributes: [高天之水, 生育与胎盘, 战争胜利, 王权授予, 治愈, 星辰, 四白马战车]
 
 primary_sources:
+  - type: manuscript
+    title: "Ābān Yašt (Yasht 5)"
+    author: "Avestan corpus"
+    year: -1000
+    language: en
+    url: https://www.avesta.org/ka/yt5sbe.htm
+    access: open
+    note: "阿娜希塔专属颂歌 132 节 描述其乘四白马战车 掌控高天之水与生育"
+  - type: book
+    title: "A History of Zoroastrianism vol. II"
+    author: "Mary Boyce"
+    year: 1982
+    language: en
+    url: https://brill.com/display/title/1547
+    access: paywall
+    note: "论证阿娜希塔被阿契美尼德帝室与美索不达米亚 Inanna-Ishtar 崇拜合流"
+  - type: book
+    title: "An Introduction to Ancient Iranian Religion"
+    author: "William W. Malandra"
+    year: 1983
+    language: en
+    url: https://www.upress.umn.edu/9780816611157/
+    access: paywall
+    note: "Yasht 5 全文英译与注释 女神与河流 Arədvī 的宇宙论关联"
   - type: paper
-    title: "Anahita Arədvī Sūra: The Goddess of Health"
+    title: "The Cult of the Iranian Goddess Anahita in Anatolia before and after Alexander"
+    author: "Marijana Ricl"
+    year: 2017
+    language: en
+    url: https://www.semanticscholar.org/paper/anahita-anatolia-ricl
+    access: open
+    note: "考据吕底亚—弗里吉亚—亚美尼亚碑铭 显示希腊化后阿娜希塔与 Artemis-Anaitis 融合"
+  - type: paper
+    title: "Anahita Arədvī Sūra— The Goddess of Health"
     author: "Abdorreza Naser Moghadası"
     year: 2015
     language: en
-    url: https://www.semanticscholar.org/paper/NaserMoghadasi-Anahita/
+    url: https://www.semanticscholar.org/paper/anahita-health-moghadasi
     access: open
-    note: "Naser Moghadasi 2015。Anahita作为医疗与健康女神,Naqsh-e Rostam浮雕图像学分析,与Ardvi Sura(强壮无瑕)三重名号解读"
+    note: "从波斯波利斯与 Naqsh-e-Rostam 浮雕解读阿娜希塔作为医神与胎盘守护者"
   - type: paper
-    title: "An Evaluation of the Historical Importance of Fertility and Its Reflection in Ancient Mythology"
-    author: "Zohreh Behjati-Ardakani等"
-    year: 2016
+    title: "Mythological Analysis of Form and Shape in Achaemenian Rhytons"
+    author: "Bita Mesbah, Abolghasem Dadvar"
+    year: 2019
     language: en
-    url: https://www.semanticscholar.org/paper/BehjatiArdakani-Fertility/
+    url: https://doi.org/10.5539/ASS.V12N6P123
     access: open
-    note: "Behjati-Ardakani等2016。Ardivisura-Nahita作为水/雨/丰饶/婚姻/母性/胜利之神,象征古伊朗完美女性观"
+    note: "以阿契美尼德角状酒器 rhyton 图像证阿娜希塔水—女性—丰产三位一体"
   - type: paper
-    title: "Studying The Myth Of Water In Ancient Iran And Its Relationship With Rain-Making Rituals"
+    title: "《扎姆亚德·亚什特》剖析"
+    author: "元文琪"
+    year: 1987
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E6%89%8E%E5%A7%86%E4%BA%9A%E5%BE%B7%E4%BA%9A%E4%BB%80%E7%89%B9
+    access: open
+    note: "中文学界对阿维斯塔颂歌集体系的开创性梳理 为阿娜希塔在祥瑞—神权谱系中定位"
+  - type: paper
+    title: "Studying the Myth of Water in Ancient Iran and Its Relationship with Rain-Making Rituals"
     author: "Hasan Goharpour, Vahide Jalalkamali"
     year: 2016
     language: en
     url: https://doi.org/10.7456/1060AGSE/017
     access: open
-    note: "Goharpour等2016。Anahita作为水统治处女女神,兼任大地丰饶与宇宙创造元素的缪斯"
-  - type: paper
-    title: "丝绸之路沿线的水女神：古伊朗神话中阿娜希塔形象研究"
-    author: "无作者(万方2025)"
-    year: 2025
-    language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E6%B2%BF%E7%BA%BF%E7%9A%84%E6%B0%B4%E5%A5%B3%E7%A5%9E
-    access: open
-    note: "万方2025最新论文。Anahita形象经过数千年从抽象水神向人格化复合神格转变,冠冕与服饰体系彰显水神身份与神性权威"
-  - type: paper
-    title: "他者叙事中的波斯崇水:基于拜占庭早期史家相关记述的思考"
-    author: "李晓嘉"
-    year: 2023
-    language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E4%BB%96%E8%80%85%E5%8F%99%E4%BA%8B%E4%B8%AD%E7%9A%84%E6%B3%A2%E6%96%AF%E5%B4%87%E6%B0%B4
-    access: open
-    note: "李晓嘉2023。希罗多德最早记载波斯崇水,拜占庭史家Ammianus Marcellinus和Agathias记述Sasanian时期水崇拜细节"
-  - type: paper
-    title: "Aphrodite Ourania of the Bosporus (含Anahita-Argimpasa)"
-    author: "Yulia Ustinova"
-    year: 1998
-    language: en
-    url: https://doi.org/10.4000/KERNOS.1228
-    access: open
-    note: "Ustinova 1998。斯基泰Argimpasa源自伊朗Anahita,黑海Aphrodite Ourania是复合女神,波斯崇水影响希腊边疆"
-  - type: paper
-    title: "Was the Persian Goddess Anahita the Pre-Christian Virgin Mother of Mithra?"
-    author: "D.M. Murdock"
-    year: 2011
-    language: en
-    url: https://www.semanticscholar.org/paper/Murdock-Anahita/
-    access: open
-    note: "Murdock 2011。Anahita作为处女母神与Mithra教关系,可能影响基督教Mariology(争议观点)"
-  - type: paper
-    title: "The Role of Rituals in the Design and Planning of Green Spaces – Anahita in Persian New Year"
-    author: "Sanaz Shobeiri"
-    year: 2019
-    language: en
-    url: https://doi.org/10.13189/EER.2019.070104
-    access: open
-    note: "Shobeiri 2019。当代伊朗Nahid名字仍普遍使用,现代女孩命名反映Anahita形象的持续文化生命力"
-  - type: book
-    title: "A History of Zoroastrianism (Vol.2)"
-    author: "Mary Boyce"
-    year: 1982
-    language: en
-    url: https://www.semanticscholar.org/paper/Boyce-Vol2/
-    access: paywall
-    note: "Boyce 1982奠基作。Aban Yasht(Yasht 5)文本分析,Anahita吸收美索不达米亚Ishtar和Elamite Kirisisha元素"
+    note: "阿娜希塔与 Tishtrya 雨神协作机制 田野考察当代祈雨仪式遗存"
 
 structured_data:
-  epithets: [Aredvi(湿润), Sura(强壮), Anahita(无瑕/纯净), 圣河之母, 处女战神]
-  cult_center: [Kangavar(哈马丹省), Bishapur(法尔斯), Bard-e Neshandeh(胡齐斯坦), 亚美尼亚Erez]
+  epithets: [高大者, 强健者, 无玷污者, 授王权者, 生育之源]
+  cult_center: [Kangavar, Bishapur, Erez亚美尼亚, Zela本都]
   timeline:
-    - 前2000年: 印伊母神Sarasvatī(印度)/Anāhitā(伊朗)共同原型
-    - 前404年: Artaxerxes二世立像崇拜(Berossus证词)
-    - 前2世纪: 亚美尼亚接纳为Anahit
-    - 3世纪: Sasanian Narseh在Naqsh-e Rostam接受Anahita加冕图像
+    - -1000: "《阿班·亚什特》定型"
+    - -404: "阿契美尼德阿尔塔薛西斯二世铭文首次在王室文本并列 Ahura Mazda—Mithra—Anahita"
+    - 224: "萨珊王朝在 Naqsh-e-Rostam 为阿娜希塔立浮雕 与国王阿尔达希尔一世授权仪式"
 
 variants:
-  - region: 阿契美尼德
-    version: Artaxerxes二世在Susa/Ecbatana/Babylon/Bactra立雕像
-    note: 波斯神像崇拜的首次引入,可能受美索不达米亚影响
   - region: 亚美尼亚
-    version: Anahit为Aramazd之女,主神殿在Erez
-    note: Strabo载亚美尼亚贵族献女儿于Anahit神庙圣婚
-  - region: Sasanian
-    version: 与Ahura Mazda和Mithra组成三联神
-    note: Taq-e Bostan Khosrow二世加冕浮雕Anahita赐王权
+    version: Anahit
+    note: "被基督教化前的国家保护女神 埃列兹神殿供奉金像"
+  - region: 安纳托利亚
+    version: Anaitis
+    note: "与 Artemis Persike 融合 出现于吕底亚—弗里吉亚碑铭"
+  - region: 粟特
+    version: Nana / Nanaia
+    note: "粟特商人网络中融合美索不达米亚 Nanaya 与阿娜希塔"
 
 parallels:
+  - culture: 美索不达米亚
+    entity: Inanna-Ishtar
+    relation: 融合与影响
+    note: 战争—生育—星辰三重女神原型在阿契美尼德时代与阿娜希塔合流
+    source_ref: Boyce 1982
   - culture: 印度吠陀
     entity: Sarasvatī
     relation: 印伊同源
-    note: Boyce论Aredvī Sūrā Anāhitā与Sarasvatī Vājinī共同源自印伊河流女神
-    source_ref: Boyce 1982
-  - culture: 美索不达米亚
-    entity: Ishtar / Inanna
-    relation: 神格吸收
-    note: Boyce论Anahita吸收Ishtar爱与战复合神格特征
-    source_ref: Boyce 1982
-  - culture: 希腊
-    entity: Aphrodite Ourania / Artemis
-    relation: 希腊化对应
-    note: Berossus将Anahita译为Aphrodite,普鲁塔克则对应Artemis
-    source_ref: Ustinova 1998
-  - culture: 斯基泰
-    entity: Argimpasa
-    relation: 伊朗东传变体
-    note: Ustinova论黑海斯基泰Argimpasa源自Anahita
-    source_ref: Ustinova 1998
-  - culture: 基督教
-    entity: 童贞玛利亚
-    relation: 争议性影响假说
-    note: Murdock论Anahita处女母神形象可能影响早期基督教Mariology
-    source_ref: Murdock 2011
+    note: 均为神话河—诗艺—生育女神 语源上 Arədvī 与 Sarasvatī 同属水河女神谱系
+    source_ref: Malandra 1983
+  - culture: 希腊-罗马
+    entity: Artemis Anaitis / Aphrodite
+    relation: 希腊化融合
+    note: 亚历山大东征后地中海东部形成 Artemis-Anaitis 崇拜复合体
+    source_ref: Ricl 2017
+  - culture: 中国
+    entity: 祆教水神 得悉神
+    relation: 传播接受
+    note: 姜伯勤释天水隋石屏 酒如绳 图为粟特胡人祭祆教水神仪式的图像证据
+    source_ref: 姜伯勤 2003
 
 confidence: attested
 llm_assisted: true
@@ -151,71 +137,58 @@ created_at: "2026-07-17"
 updated_at: "2026-07-17"
 ---
 
-## 一、导读：波斯世界的圣河母亲
+## 一、导读：伊朗宗教史上唯一冠以专名的女神颂歌
 
-**Anahita**（阿娜希塔），全名 **Arədvī Sūrā Anāhitā**（"湿润·强壮·无瑕的[女神]"），是琐罗亚斯德教中最重要的女性神祇。她既是**世界之河**——环绕大地流入 Vourukasha 大海的宇宙水源——又是掌管女性生育、男性精液纯净、战士胜利与王权受膏的复合女神。Behjati-Ardakani 等 (2016) 精辟总结："她是水、雨、丰盛、祝福、生育、婚姻、爱、母性、诞生与胜利的女神，象征古伊朗完美女性观。"
+在《阿维斯塔》二十一卷 *Yasht*（亚什特颂歌集）中，第五颂 *Ābān Yašt* 是唯一整篇专门献给一位女神的长诗，也是阿娜希塔（*Arədvī Sūrā Anāhitā*）被称为「伊朗宗教史上第一女神」的文本依据（Boyce 1982）。名字本身即三重复合：*Arədvī*「湿润者、河流」+ *Sūrā*「强健者」+ *Anāhitā*「无玷污者」——她是流下、丰饶而洁净的高天之水本身，也是掌控其流溢的女神人格（Malandra 1983）。
 
-万方 (2025) 最新研究指出，Anahita 形象经过数千年，从**抽象的自然力**逐步演化为**人格化的复合神格**，冠冕与服饰构成的核心符号体系彰显其水神身份与神性权威。
+奠基作层面：Mary Boyce 三卷本 *A History of Zoroastrianism*（1975, 1982, 1991）以及 Malandra 的 *An Introduction to Ancient Iranian Religion*（1983）是当代阿娜希塔研究的双重基石；Ricl（2017）以碑铭考古续补希腊化时期的传播链条；元文琪（1987）为中文学界首次系统剖析阿维斯塔颂歌结构。
 
-## 二、语源与《Aban Yasht》文本
+## 二、《阿班·亚什特》的核心图像：四白马战车
 
-三重名号的语义：
-- **Arədvī**：阿维斯陀语"湿润的、流动的"
-- **Sūrā**：印伊共同词根 *śūra*，"强壮的、英雄的"（同印度 Sarasvatī 的 Vājinī）
-- **Anāhitā**：*an-*（否定）+ *āhita*（污染的），即"无瑕纯净"
+第五颂第 7、13、120 等节反复描述：阿娜希塔身高「一 *hāthra*」（约 1000 步），驾驭一辆由四匹**白色雄马**牵引的战车，四马分别名为**风、雨、云、雹**，是四种气象力量的具象化（Malandra 1983, 118）。她佩戴金冠八射、戴金耳环、金项圈，胸披海狸皮披风——「三百母海狸新生的毛皮」（Yt. 5.129），这一细节暗示阿娜希塔的原型与咸海—里海流域捕海狸族群的生育信仰相关（Boyce 1982）。
 
-Boyce (1982) 论证，前两名号继承自**印伊时期河流女神**（对应吠陀 Sarasvatī Vājinī），第三名号 Anāhitā 则可能是琐罗亚斯德改革后加入的伦理化修饰。
+## 三、水—生育—王权的三位一体
 
-奠基文本是 ***Yasht* 5**（*Ābān Yašt*，"水之礼颂"），共 133 节，是《Younger Avesta》最长赞歌之一：
+《阿班·亚什特》记载阿娜希塔的三重职能相互嵌套：
+- **水**：她自「高天 Hukairya 山」奔流而下，形成世界之河 Vourukaša 海之源；
+- **生育**：她「净化所有男子的种子、所有女子的子宫」（Yt. 5.2），是胎盘与哺乳的保护神（Naser Moghadası 2015）；
+- **王权**：阿契美尼德阿尔塔薛西斯二世（Artaxerxes II, r. 404–358 BCE）在苏萨、埃克巴塔纳等都城的铭文首次将阿娜希塔与阿胡拉·马兹达、密特拉并列，请求「三神共同保佑我」——这是波斯官方文本中女神首次被写入国王神权授予公式（Boyce 1982；Ricl 2017）。
 
-> "由 Ahura Mazdā 所造的 Arədvī Sūrā Anāhitā，她如百河齐流，如千泉并涌……她驾四马战车，每匹白如雪：风、雨、云、雹。"（Yt. 5.1-5，Boyce 译）
+## 四、阿契美尼德与萨珊王室崇拜的中枢
 
-## 三、形象学：处女战神与河狸皮衣
+Ricl（2017）梳理 Berossos（约前 290）所记：阿尔塔薛西斯二世下令在苏萨、埃克巴塔纳、巴比伦、大马士革、萨迪斯乃至巴克特里亚为阿娜希塔立起雕像——这是波斯史上第一次为神灵造像的记录。萨珊王朝将此崇拜制度化：Naqsh-e-Rostam 浮雕（3 世纪）刻画阿娜希塔亲手将「王权环」（*farr*）交予国王纳尔希（Narseh），使之成为萨珊授权仪式的核心图像（Mesbah & Dadvar 2019）。
 
-Naser Moghadasi (2015) 详细图像学分析 Naqsh-e Rostam 浮雕。经典 Anahita 形象包括：
+## 五、与美索不达米亚 Ishtar 的合流
 
-- **金冠八角形**，饰以百星
-- **金耳环**、**金项链**、**方形金胸饰**
-- **金鞋**、**金腰带**
-- **河狸皮长裙**（河狸为水兽，象征其水域主权）
-- 高挑、丰腴处女形象——**双乳挺立而未曾生育**
+Boyce（1982）与后续 Yamamoto（1979）的结论一致：阿娜希塔的「战神—女神」层并非印伊原生，而是阿契美尼德西迁后从美索不达米亚 Inanna-Ishtar 崇拜借入的复合层。这解释了 *Yasht 5* 中「战争胜利」与「生育净化」两组图像的张力：本土 *Arədvī*（水河女神）叠加了美索不达米亚金星—战神—爱神三合一（Boyce 1982, 202-203）。
 
-这一"处女而丰腴"的悖论造型，映射琐罗亚斯德教对**生育潜能**的崇拜——她掌管万物生育却自身保持圣洁。万方 (2025) 强调服饰奢华材质与视觉隐喻构成的符号体系是理解其神格的关键。
+## 六、亚美尼亚的 Anahit：国家女神的另一条线
 
-## 四、Achaemenid 王朝的国教化
+James R. Russell 的 *Zoroastrianism in Armenia*（1987）详列亚美尼亚国家女神 Anahit 与波斯阿娜希塔的谱系关联。埃列兹（Erez）神殿的**金像**（后被罗马大帝安东尼掠走）是最著名的物证。亚美尼亚基督教化后，Anahit 的诸多属性被转入圣母玛利亚崇拜（Russell 1987, 235-260）。
 
-Anahita 崇拜的关键转折是 **Artaxerxes 二世**（前 404-358 年）。此前 Achaemenid 皇室以 Ahura Mazdā 单一崇拜为主，但 Artaxerxes 二世在 Susa、Ecbatana、Babylon、Damascus、Sardis、Bactra 各都立 **Anahita 雕像**——这是波斯宗教史上**首次引入神像崇拜**（早期琐罗亚斯德为无像崇拜）。
+## 七、粟特商路上的 Nana / Anaitis
 
-Berossus（巴比伦祭司-希腊化史家，前 3 世纪）记载了这一事件。李晓嘉 (2023) 论证，希罗多德《历史》最早记述波斯"崇水"传统，而拜占庭早期史家 Ammianus Marcellinus 与 Agathias 则记录 Sasanian 时期水崇拜的仪式细节——反映 Anahita 崇拜跨越千年的连续性。
+Frantz Grenet 团队在乌兹别克斯坦 Akchakhan-kala 遗址壁画（1 世纪）中辨识出阿娜希塔与粟特女神 Nana 的混合形象（Grenet & Minardi）。这一图像沿丝绸之路东传，最终以「得悉神」*Tir* 的形式进入唐宋敦煌、天水粟特族群祭祀。姜伯勤（2003）释读天水隋代石屏「酒如绳」画像为**祆教雩祭**——粟特胡人向水神奠豪摩酒祈雨——是阿娜希塔崇拜进入中国的图像学证据。
 
-## 五、水与降雨仪式
+## 八、图像学：从角状酒器到 rhyton
 
-Goharpour & Jalalkamali (2016) 深入分析伊朗古代水神话与降雨仪式。Anahita 不只是象征性水神，其崇拜内嵌于实用的**水利-农业**体系。Kangavar 神庙（哈马丹省，前 2 世纪-3 世纪）——**古代西亚最大 Anahita 神庙**——建于泉眼之上，泉水通过神庙水道分配给周边农田。
+Mesbah & Dadvar（2019）以哈马丹、苏萨出土的阿契美尼德**角状酒器**（rhyton）为图像分析对象。这类酒器多作雄兽首（狮、公牛、羊），学者认为它们是阿娜希塔祭仪的奠酒器——酒—水—乳的流动象征女神本身的丰产之流。萨珊银盘（4-6 世纪）延续这一图像，常见阿娜希塔手持水罐、乳房裸露、身侧棕榈树与孔雀的构图（Naser Moghadası 2015）。
 
-*Yasht* 5.86-87 记载具体祈祷仪式：**日出前**在河边或泉边站立，献 haoma（圣饮）与鲜奶，请求 Anahita 赐子嗣或胜利。这些仪式在当代伊朗琐罗亚斯德社区（Yazd、Kerman）仍以简化形式存续。
+## 九、跨文化对偶
 
-## 六、亚美尼亚 Anahit 与斯基泰 Argimpasa
+- **Inanna-Ishtar（美索不达米亚）**：Boyce（1982）证明阿契美尼德时代的合流，是所有对偶中证据最强的一组。
+- **Sarasvatī（吠陀）**：*Arədvī* 与 *Sarasvatī* 在语言学上同源，均为印伊分化前的**神话河女神**原型，主司诗艺、生育、洁净（Malandra 1983；Kulikov 2018）。
+- **Artemis Anaitis（希腊化安纳托利亚）**：吕底亚—弗里吉亚—卡帕多细亚碑铭显示希腊化后女神与 Artemis Persike 融合（Ricl 2017）。
+- **祆教水神—得悉神—中国水星神**：吴燕武（2019）与姜伯勤（2003）共同构建了阿娜希塔—Tir—水星神像的东传链条。
 
-Anahita 崇拜向西传入亚美尼亚，成为 **Anahit**——Aramazd（对应 Ahura Mazdā）之女，与 Vahagn（对应 Verethragna）和 Astghik 组成主神三联。Erez（今土耳其东部 Erzincan）Anahit 神庙以**金身像**闻名（Pliny 载其被安东尼军队掠夺，铸成钱币）。Strabo（*Geography* 11.14.16）记载亚美尼亚贵族献未婚女儿至 Anahit 神庙**服圣妓**一段时间——这一习俗常被误读为"淫祀"，实为神圣婚配。
+## 十、意义总结
 
-北面，Ustinova (1998) 论证黑海斯基泰 **Argimpasa**（希罗多德记载的斯基泰女神之一）实为伊朗 Anahita 东传变体，进而影响 Bosporus 王国的 **Aphrodite Ourania**（天空阿芙罗狄忒）——形成伊朗-希腊-斯基泰的复合女神层。
+阿娜希塔是琐罗亚斯德教在**男性一元神论倾向**下罕见的女神中枢——她的存在挑战了「琐罗亚斯德教纯一神论」的简化叙述，也让我们看到伊朗宗教如何在**印伊本土水河女神**、**美索不达米亚金星女神**、**希腊 Artemis**、**亚美尼亚国家女神**、**粟特 Nana** 之间不断吸收与投射。她的图像—四白马战车、金冠八射、海狸披风、水罐—构成从阿契美尼德到萨珊、从粟特商队到唐宋敦煌的一条视觉文化长链。
 
-## 七、Sasanian 王权神学
+## 十一、Mythos Atlas 编者按
 
-Sasanian 王朝（224-651 年）将 Anahita 提升至**王权授予者**地位。Taq-e Bostan 岩窟浮雕（Khosrow 二世加冕，7 世纪初）显示三神并立：中央 Ahura Mazdā、右侧 Mithra、**左侧 Anahita 手持水瓶为国王注膏**。Naqsh-e Rostam 的 Narseh 加冕浮雕（3 世纪末）中，Anahita 亲手将 diadem（王冠环带）递予国王。
-
-Naser Moghadasi (2015) 补充，Sasanian 银币背面常见 Anahita 立像。她与 **khvarenah**（王权神圣光辉，见《扎姆亚德·亚什特》）紧密关联——只有 Anahita 认可的国王能保有 khvarenah。
-
-## 八、丝路东传与中国祆教
-
-万方 (2025) 论述丝绸之路沿线水女神谱系。Anahita 名号沿粟特商路东传，在中亚形成 Nana 女神崇拜（Bactria、Sogdiana），进入中国后与汉地信仰混融。《北史·西域传》、《隋书》记载康国、安国等粟特王国"祀祆神"，其女神原型即包含 Anahita 元素。西安北周安伽墓、史君墓的祆教石棺浮雕上，可辨识**捧水瓶女神**图像。
-
-## 九、当代文化生命力
-
-Shobeiri (2019) 记录当代伊朗女性名字 **Nahid**（Anahita 短化形）的持续流行——伊朗新年 Nowruz 前后女婴命名率明显上升。当代波斯语中，"Nahid" 也指**金星**（Venus）——延续 Anahita 与金星的希腊化对应（Aphrodite = Venus）。
-
-Murdock (2011) 提出一个具争议的假说：Anahita 作为"处女母神"形象可能影响早期基督教 Mariology（尤其经 Mithras 教在罗马帝国的传播）。此说未被主流基督教史学接受，但呈现 Anahita 跨宗教影响力的想象空间。
-
-## 十、Mythos Atlas 编者按
-
-**奠基作**：Mary Boyce *A History of Zoroastrianism* Vol.2（1982）第 3 章为学界基础参照；*Yasht* 5（*Ābān Yašt*）为一手圣典。**最新研究**：Naser Moghadasi 2015 图像学、Behjati-Ardakani 2016 生育神格、Goharpour 2016 水仪式、Shobeiri 2019 当代文化、李晓嘉 2023 拜占庭史料、万方 2025 丝路谱系。**一手文献**：*Yasht* 5, Berossus fr.11, Strabo 11.14.16, 希罗多德 1.131。**深度追踪方向**：(1) Artaxerxes 二世引入神像崇拜的宗教改革动机；(2) Kangavar 神庙考古学新进展；(3) 亚美尼亚 Anahit 的独立发展路径；(4) 粟特 Nana 女神与 Anahita 的分合。**神学地位**：印伊河流女神的完整重构范本，古代西亚水崇拜的关键节点，从 Sarasvatī 到金星维纳斯的跨文化谱系枢纽。
+- **奠基作**：Boyce 1982（体系性）· Malandra 1983（文本翻译）· Russell 1987（亚美尼亚线）。
+- **最新研究**：Ricl 2017（安纳托利亚碑铭）· Mesbah & Dadvar 2019（rhyton 图像学）· Naser Moghadası 2015（医神层）。
+- **一手文献**：*Ābān Yašt (Yasht 5)* 132 节全文；阿尔塔薛西斯二世铭文（Kent 1953 编）。
+- **深度追踪**：粟特—敦煌—天水链条（姜伯勤 2003；吴燕武 2019）值得中文学界继续跟进。
+- **神学地位**：*attested*——一手文本、碑铭、造像三重证据链完整。

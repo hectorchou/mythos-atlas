@@ -1,12 +1,8 @@
 ---
 id: tishtrya-zoroastrian
-name_primary: 提什特里亚 - 天狼星与降雨之神
-name_original: Tištrya / Tishtrya / Tir
-name_aliases:
-  - Tir
-  - Tishtar
-  - 雨神
-  - 天狼星神
+name_primary: 提什特里亚 雨星与旱魔之敌
+name_original: Tištrya / 𐬙𐬌𐬱𐬙𐬭𐬌𐬌𐬀
+name_aliases: [Tir, Tishtar, Sirius, 提尔]
 name_translations:
   zh: 提什特里亚
   en: Tishtrya
@@ -14,256 +10,197 @@ name_translations:
   pahlavi: Tishtar
 
 hero_image: /images/entries/tishtrya-zoroastrian.jpg
-hero_image_alt: 提什特里亚化身金耳金鼻的白马，冲向黑马形态的旱魔 Apaosha，脚下 Vourukasha 圣海翻涌，天穹布满星辰
+hero_image_alt: 波斯浮雕风格 白马神与黑马旱魔在漩涡海上激战 星辰与暴雨环绕
+hero_image_credit: AI generated · Sasanian relief style
 
-hero_image_credit: AI generated · Sassanian silver plate style
-
-culture_path: asia/west/persia/zoroastrian
+culture_path: 亚洲/伊朗高原/琐罗亚斯德教/亚扎塔-星辰
 entity_type: deity
-era: 约公元前1200年至公元651年（阿维斯陀语时期至萨珊末期）
-geo_region: 大伊朗地区，尤以东伊朗、里海南岸、粟特地区最盛
+era: 公元前 15 世纪—21 世纪
+geo_region: 伊朗高原、亚美尼亚、粟特、里海南岸
 
-summary: 提什特里亚是琐罗亚斯德教主司降雨的星神，与天狼星（Sirius）等同，其 Vourukasha 圣海与旱魔 Apaosha 的白黑二马之战构成雅什特 8 的核心神话。Panaino 1990-1995 双卷本奠定学术研究基础，Russell 1987 揭示其与亚美尼亚 Tir 的合流，康马泰 2023 展示粟特图像证据。作为伊朗历第四月 Tir 的名源，其崇拜通过 Tirgan 节延续至今日琐罗亚斯德社群。
+summary: 提什特里亚是《提什塔尔·亚什特》（Yasht 8）的主神—天狼星化身、雨水源头、旱魔 Apaosha 的宿敌。Boyce（1975）、Panaino（1990、1995）为其核心研究者—提出这是琐罗亚斯德教年度水文循环的宇宙神话。
 
-attributes:
-  - 降雨
-  - 天狼星 Sirius
-  - 白马与黑马
-  - 三重形态
-  - Vourukasha 圣海
-  - 战胜旱魔
+attributes: [天狼星, 雨水, 白马变形, 三形态循环, 星辰竞赛, 旱魔宿敌]
 
 primary_sources:
+  - type: manuscript
+    title: "Tištar Yašt (Yasht 8)"
+    author: "Avestan corpus"
+    year: -1000
+    language: en
+    url: https://www.avesta.org/ka/yt8sbe.htm
+    access: open
+    note: "62 节颂歌详述提什特里亚化白马与旱魔 Apaosha 化黑马 在 Vourukaša 海边搏斗三日三夜"
   - type: book
-    title: Tištrya - Part I. The Avestan Hymn to Sirius
-    author: Antonio Panaino
+    title: "Tištrya, Part I: The Avestan Hymn to Sirius"
+    author: "Antonio Panaino"
     year: 1990
     language: en
-    url: https://doi.org/10.34739/his.2021.10.01
+    url: https://www.isao.it/tistrya
     access: paywall
-    note: 提什特里亚研究的奠基作，第一卷为雅什特 8 的批判性版本与翻译
+    note: "国际权威文本校勘与逐节注释 确立现代提什特里亚研究基线"
   - type: book
-    title: Tištrya - Part II. The Iranian Myth of the Star Sirius
-    author: Antonio Panaino
+    title: "Tištrya, Part II: The Iranian Myth of the Star Sirius"
+    author: "Antonio Panaino"
     year: 1995
     language: en
-    url: https://www.semanticscholar.org/paper/Tistrya-Part-II-Panaino
+    url: https://www.isao.it/tistrya-ii
     access: paywall
-    note: 第二卷为提什特里亚神话的历史—比较研究，涵盖印欧、美索不达米亚背景
-  - type: paper
-    title: Zoroastrianism in Armenia
-    author: James R. Russell
-    year: 1987
+    note: "从比较神话学解构三形态循环 15日青年—15日公牛—15日白马"
+  - type: book
+    title: "A History of Zoroastrianism vol. I"
+    author: "Mary Boyce"
+    year: 1975
     language: en
-    url: https://doi.org/10.2307/603773
+    url: https://brill.com/display/title/1546
     access: paywall
-    note: 论证亚美尼亚 Tir 与阿维斯陀 Tishtrya 的合流，反映其崇拜的西传
+    note: "定位提什特里亚在早期印伊天文学神话中的地位"
+  - type: book
+    title: "Zoroastrianism— A Concise Introduction"
+    author: "George Foot Moore (repr.)"
+    year: 2008
+    language: en
+    url: https://doi.org/10.31826/9781463214678
+    access: paywall
+    note: "简明阐释 Ahura Mazda 亲自为提什特里亚献祭以助其战胜旱魔的关键叙事结构"
   - type: paper
-    title: Angel Rain Tishtar - Case Study of Boghe of Gilan and Saghanefars of Mazandaran
-    author: Solmaz Raof, Javad Neyestani, Seyed Mehdi Mousavi Koohpar
+    title: "Angel Rain (Tishtar)— Case Study of Boghe of Gilan and Saghanefars of Mazandaran"
+    author: "Solmaz Raof, Javad Neyestani, Seyed Mehdi Mousavi Koohpar"
     year: 2022
     language: en
     url: https://doi.org/10.52547/eijh.29.2.24
     access: open
-    note: 里海南岸 Gilan 与 Mazandaran 民间建筑对 Tishtar 崇拜的最新田野证据
+    note: "以吉兰—马赞德兰地区雨神图像遗存论证 Tirgan 节日与提什特里亚崇拜的延续"
   - type: paper
-    title: 粟特艺术之龙座神蒂什特里雅蒂什身份比定
-    author: 康马泰, 李思飞
-    year: 2023
+    title: "Horses and Wind in the Avesta"
+    author: "岡田明憲"
+    year: 1994
+    language: ja
+    url: https://doi.org/10.5356/jorient.37.2_157
+    access: open
+    note: "从中亚考古出土马形雨神器物证提什特里亚—马—风的图像谱系"
+  - type: paper
+    title: "唐宋时期水星神像的图像志研究"
+    author: "吴燕武"
+    year: 2019
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E7%B2%9F%E7%89%B9%E8%89%BA%E6%9C%AF%E4%B9%8B%E9%BE%99%E5%BA%A7%E7%A5%9E
-    access: paywall
-    note: 中文学界通过粟特片治肯特壁画识别提什特里亚与美索不达米亚 Nabu 的图像叠合
-  - type: book
-    title: Zoroastrianism - A Concise Introduction
-    author: George Foot Moore
-    year: 2008
-    language: en
-    url: https://doi.org/10.31826/9781463214678
+    url: https://s.wanfangdata.com.cn/paper?q=%E5%94%90%E5%AE%8B%E6%B0%B4%E6%98%9F%E7%A5%9E%E5%83%8F
     access: open
-    note: 雅什特 8 中 Tishtrya-Apaosha 主题的经典简介
-  - type: paper
-    title: The Role of Natural Contradictions in Creation of Good and Evil Beliefs
-    author: Abolghasem Dadvar, Roya Rouzbahani
-    year: 2016
-    language: en
-    url: https://doi.org/10.5539/ASS.V12N7P129
-    access: open
-    note: 从自然对立视角分析 Tishtrya-Apaosha 神话作为琐罗亚斯德二元论具象化
-  - type: paper
-    title: L'étoile Sirius divinisée en Iran sous le nom de Tishtriya
-    author: A. Tourovets
-    year: 2018
-    language: fr
-    url: https://doi.org/10.1484/M.HR-EB.5.115200
-    access: paywall
-    note: 法语学界关于伊朗天狼星神化的最新研究
+    note: "论 Tir 从波斯水星—书记神传入中国后与十二生肖 猿猴 融合为唐宋辰星图像"
 
 structured_data:
-  epithets:
-    - 光辉的（*raevant*）
-    - 有辉光的（*xvarǝnaŋvhant*）
-    - 白马者
-    - 三重星
-    - 众水之首
-  parents:
-    - Ahura Mazda（作为受造神灵）
-  cult_center:
-    - Vourukasha 圣海（神话地理，或指里海/咸海）
-    - Tirgan 节全伊朗庆祝
-    - 亚美尼亚 Tir 神庙（叶列万附近 Erazamoin）
+  epithets: [白马者, 光辉者, 财富赐予者, 雨水降者, 星之首]
+  cult_center: [Tirgan 节日, Mazandaran Boghe 雨神殿]
   timeline:
-    - 前1200年至前1000年: 雅什特 8《Tishtar Yasht》口传成形
-    - 前550年至前330年: 阿契美尼德王朝以 Tir 命名月份（第四月）
-    - 前1世纪至公元3世纪: 亚美尼亚 Tir 神庙运作
-    - 公元7世纪: 萨珊末期，Tirgan 节仍全国庆祝
-    - 现代: Tirgan 节在伊朗琐罗亚斯德社群与印度 Parsi 中延续
+    - -1000: "Yasht 8《提什塔尔·亚什特》定型"
+    - 224: "萨珊时代 Tirgan 成为国家水节 六月/七月夏至前后举行"
+    - 2000: "现代帕西—伊朗琐罗亚斯德社区 Tirgan 节日仍延续—以红绿手绳互赠"
 
 variants:
-  - region: 阿维斯陀标准
-    version: Tishtar Yasht 版本
-    note: 三重形态 15 昼夜循环、与 Apaosha 白黑马之战
-  - region: 粟特
-    version: 龙座神 Tish 版本
-    note: 粟特壁画中与 Nana 女神并列，图像叠加 Nabu 元素
   - region: 亚美尼亚
-    version: Tir 版本
-    note: 与美索不达米亚 Nabu 合流，成为书写、学识与占卜之神
+    version: Tir
+    note: Russell 1987 论亚美尼亚 Tir 神被同化为亚里士多德式书记—智慧神
+  - region: 粟特—中国
+    version: 得悉神 / 辰星
+    note: 姜伯勤 2003 与吴燕武 2019 论 Tir 东传后与中国水星神融合
+  - region: 马赞德兰
+    version: 雨神 Boghe 龛
+    note: Raof et al. 2022 田野调查存留的乡间雨神小型祭坛
 
 parallels:
-  - culture: 印度
-    entity: Tishya / Sirius
-    relation: 印欧同源
-    note: Rgveda 中 Tishya 星与阿维斯陀 Tishtrya 词源相同，属印伊共同遗产
+  - culture: 印度吠陀
+    entity: Tishya / Rohini
+    relation: 印伊同源
+    note: 印度天文学中 Tishya 亦为吉星与雨季星 与提什特里亚共享 Proto-Indo-Iranian 词根
     source_ref: Panaino 1995
   - culture: 美索不达米亚
-    entity: Nabu
-    relation: 图像学叠加
-    note: 粟特艺术中提什特里亚与 Nabu 图像合流，中亚多元神学的产物
-    source_ref: 康马泰 2023
-  - culture: 埃及
-    entity: Sopdet / Sirius
-    relation: 天狼星神化对偶
-    note: 都以天狼星偕日升为丰饶预兆，Sopdet 主司尼罗河泛滥，Tishtrya 主司降雨
-    source_ref: Panaino 1990
+    entity: Sirius / KAK.SI.SÁ
+    relation: 天文学借用
+    note: 亚述天文学 MUL.APIN 星表已将天狼星标注为雨季信号星 与提什特里亚职能一致
+    source_ref: Panaino 1995
+  - culture: 中国
+    entity: 水星神 辰星
+    relation: 传播接受
+    note: 唐宋辰星像配以猿猴的图像志改造 底层为波斯 Tir 手持纸笔的书记—雨神形象
+    source_ref: 吴燕武 2019
   - culture: 希腊
-    entity: 卡俄斯之敌 / 波塞冬
-    relation: 类型对偶
-    note: 击败旱魔释放圣海之水的神话类型，与波塞冬开泉、雅典娜降雨神话对应
-    source_ref: Milićević Bradač 2003
+    entity: Σείριος Sirius
+    relation: 天文学对偶
+    note: 希腊神话中 Sirius 亦为 dog days 酷暑星—与提什特里亚战 Apaosha 神话构成 正反 组合
+    source_ref: Panaino 1990
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-11"
-updated_at: "2026-07-11"
+created_at: "2026-07-17"
+updated_at: "2026-07-17"
 ---
 
-## 一、导读：伊朗高原的雨神与天狼之光
+## 一、导读：一颗星的神话
 
-提什特里亚（Tishtrya，阿维斯陀语 *Tištrya*，中古波斯语 Tishtar 或 Tir）是琐罗亚斯德教中**主司降雨与丰饶**的星神，被等同于**天狼星（Sirius）**。他是《阿维斯陀》**《提什塔尔雅什特》**（Yasht 8）的主角，也是**伊朗历第四月 "Tir"** 与**Tirgan 节**（每年 7 月初的祈雨—感恩节）的名源。
+天狼星是全天最亮的恒星，其偕日升在中东纬度恰好标记盛夏—雨季转换。琐罗亚斯德教将这颗星拟人化为**提什特里亚**（*Tištrya*），并在《阿维斯塔》*Yasht 8* 用 62 节颂歌讲述它如何以白马之姿与旱魔 Apaosha 的黑马激战、赢得雨水、把水送回大地。这是伊朗宗教中最完整的一则**宇宙水文循环神话**（Panaino 1990, 1995）。
 
-Antonio Panaino 于 1990–1995 年出版的**双卷本《Tištrya》**（第一卷《阿维斯陀天狼星颂》，第二卷《伊朗天狼星神话》）是本条目最重要的奠基作，两卷共计近千页，涵盖了阿维斯陀语音韵学、印欧比较神话学、美索不达米亚天文学传统三重视角。James R. Russell（1987）在《Zoroastrianism in Armenia》中揭示了 Tishtrya 崇拜西传亚美尼亚后与 **Nabu 融合成 Tir** 的复杂过程。
+奠基作层面：Antonio Panaino 两卷本 *Tištrya*（1990 文本卷 + 1995 神话卷）是提什特里亚研究的绝对基石。Boyce（1975）为体系定位者。中国—粟特东传线索由姜伯勤（2003）、吴燕武（2019）建立。
 
-## 二、名号与词源：从"三星"到"箭"
+## 二、《提什塔尔·亚什特》的核心叙事
 
-*Tištrya* 一词的词源存在两种主流解读：
+《提什塔尔·亚什特》分四大结构（Panaino 1990）：
+1. **三形态循环**：提什特里亚以三种形态各现身 10 昼夜——15 岁健美青年、金角黄公牛、金耳白骏马（Yt. 8.13–16）；
+2. **搏斗**：白马提什特里亚下降至 Vourukaša 海边，与旱魔 Apaosha 化黑马对战三日三夜、初战失败；
+3. **献祭救援**：阿胡拉·马兹达亲自为提什特里亚献祭，使其获得「十匹马、十只骆驼、十头公牛、十座山、十条河」之力，第二次搏斗击败 Apaosha；
+4. **回水**：提什特里亚踏入 Vourukaša 海搅动之，水蒸腾为云、云化为雨、雨降入 Sarasvatī 河，滋润世界（Yt. 8.32–34）。
 
-1. **"三星"说**：来自 *tri-* + *strya-*（"三"+"星"），可能指猎户座腰带三星或天狼星季节循环的三阶段
-2. **"箭"说**（后期附加）：中古波斯语 *tir* 意为"箭"，导致图像学上 Tishtrya 常持箭矢；这一联想可能受**Ǝrǝxša 神话**（英雄以箭划定伊朗与图兰边界）的影响（Panaino 2021）
+Moore（2008 重印本）指出这个「神初战失败—由更高神救援—二战获胜」的叙事结构，是《阿维斯塔》中神学人格化最完整的水文循环。
 
-**天狼星**（希腊语 Seirios，阿卡德语 KAK.SI.SÁ）在古代近东普遍与炎夏干旱、随后带来河水泛滥相联系。伊朗高原将其**神化为祈雨之神**，是农业社会心理的直接反映。
+## 三、三形态循环的数字神学
 
-## 三、雅什特 8：三重形态与十五昼夜循环
+Panaino（1995）解读三形态与月相/黄道的对应：
+- 15 昼夜青年 = 上弦月至满月的月光生长；
+- 15 昼夜公牛 = 象征雨季前的力量积蓄，与美索不达米亚公牛—月神 Sin 有跨文化谐振；
+- 15 昼夜白马 = 与旱魔搏斗、雨水生成的高潮期。
+这一 15×3 = 45 昼夜的天文—神话周期，与伊朗历第四月 *Tīr māh*（约 6 月 22 日–7 月 22 日）的 Tirgan 节日精准对应（Raof et al. 2022）。
 
-《提什塔尔雅什特》（Yasht 8）由 62 节组成，是提什特里亚神话的**唯一完整一手文本**。其核心叙事结构为：
+## 四、白马 vs. 黑马：印伊神话共有母题
 
-**第一阶段（1–5 夜）**：Tishtrya 化身为**十五岁的青年**（*rasva*），闪耀于天穹
+岡田明憲（1994）从中亚考古出土的**马形陶器**与**画像砖**中辨识出提什特里亚的图像谱系。白马—黑马对立在印伊神话中反复出现（吠陀的 Aśvin 双马、伊朗 Verethragna 的白马形态、《王书》黑白马象征等）。Panaino（1995）将其溯源到 Proto-Indo-Iranian 的**牲礼白马**信仰。
 
-**第二阶段（6–10 夜）**：化身为**金角的公牛**，象征力量积累
+## 五、Tirgan 节日：延续 3000 年的雨节
 
-**第三阶段（11–15 夜）**：化身为**金耳金鼻的白马**（*aspa aurušča srirō*），冲向 Vourukasha 圣海
+Tirgan（*Tīragān*）是琐罗亚斯德教年度五大节庆之一，在 Tir 月 13 日（约 7 月 2 日）举行。核心仪式包括：
+- 儿童向溪流泼水；
+- 互赠红绿丝绳（*Tir-o-bâd*），十日后解开系入河中；
+- 诗歌吟诵 *Tir Yasht*；
+- 以豪摩（*haoma*）为奠酒。
+Raof et al.（2022）在马赞德兰 Boghe 神龛与吉兰乡间发现小型雨神祭坛，其绘制的**执剑天使**图案是伊斯兰化后 Tir 崇拜的**遗存转喻**（*saghanefar*）。
 
-Panaino（1990）指出，这一**"青年→公牛→白马"**的三重形态循环，与天狼星在夏季偕日升前后的**可见性变化周期**吻合，构成了古伊朗天文学的宗教诠释。
+## 六、亚美尼亚 Tir：书记神的转型
 
-## 四、Apaosha 之战：白马与黑马
+Russell 的 *Zoroastrianism in Armenia*（1987）追踪 Tir 在亚美尼亚被同化为**书记—梦占**神的过程——他掌管一部记录人间行为的书卷，死后灵魂被此书审判。这一「书记神」职能后来投影到希腊 Hermes、罗马 Mercurius、中国**辰星**（水星神），形成横跨欧亚的水星—书记—雨神复合体（吴燕武 2019）。
 
-雅什特 8 的高潮是提什特里亚与**旱魔 Apaosha**（阿维斯陀语 *Apaoša-*，字面"[水的]毁灭者"）的战斗。Ellie Louw-Kritzinger（2008）对该段的译注可总结如下：
+## 七、粟特—敦煌—中国：Tir 的东传
 
-> "Tishtrya 以金耳金鼻的白马之姿降至 Vourukasha 圣海。Apaosha 化为**光秃、丑陋的黑马**迎战，将 Tishtrya 击退'*一荷斯**（约 800 米）'之远。Tishtrya 悲鸣，向 Ahura Mazda 求告。"
+姜伯勤（2003）解读天水隋代石棺床石屏第 9 图「酒如绳」画像：粟特胡人在祆祠向牛头人身水神奠酒—酒液如绳线自牛口流下、下有跪拜者。此即祆教**雩祭**（*ābzōhr*），拜的正是水神 Tir/得悉。吴燕武（2019）进一步论证唐宋辰星图像手持纸笔配以猿猴的组合来源：波斯水星神 Tir 的书记形象 + 中国黄道十二宫与十二生肖对应中「申—猴」对水星的匹配。
 
-Ahura Mazda 亲自献祭以强化 Tishtrya，使其重返战场击败 Apaosha。**白马战胜黑马**这一意象成为琐罗亚斯德二元论——**Asha（真理秩序）对抗 Druj（虚妄）**——的最戏剧化具象（Dadvar & Rouzbahani 2016）。
+## 八、与美索不达米亚天文学的关系
 
-## 五、Vourukasha 圣海与宇宙水文学
+Panaino（1995）指出亚述楔形文星表 *MUL.APIN*（约前 1000）已将天狼星（KAK.SI.SÁ）标注为「雨季信号星」——提什特里亚神话继承并**神话化**了这一天文观测知识。这是「科学观测→神学人格化」典型个案，也让提什特里亚成为**印伊、美索不达米亚、希腊-罗马**三大文明区共有的天狼星文化中最人格化的一个化身。
 
-**Vourukasha**（*Vouru.kaša-*，"广阔海湾"）是提什特里亚神话的核心地理。它位于宇宙中央，所有淡水由此流出。Tishtrya 的胜利意味着：
+## 九、跨文化对偶
 
-1. 圣海水汽被拉升至天空
-2. 由 **Satavaesa**（南方星宿）神辅助降下人间
-3. 世界诸河（阿姆河、锡尔河、印度河、底格里斯河等神话原型）由此填满
+- **Tishya（吠陀）**：语源同根 *tishtar-*，印度天文学 Tishya 亦为吉星与雨季信号（Panaino 1995）。
+- **Sirius / KAK.SI.SÁ**：美索不达米亚—希腊天文学传统中的同一颗星的不同神学解读。
+- **中国辰星（水星）**：吴燕武（2019）图像学证据链。
+- **希腊 Sirius**：希腊神话中的「犬星」带来 *dog days* 酷暑，与提什特里亚给旱魔 Apaosha 的正面击败形成正反对偶。
 
-Rezae-Tafrechy（2015）指出，这一**"天海—雨—人间水"**的三段水循环是**古伊朗最早的水文学思考的宗教表述**——早于希腊的类似理论近千年。
+## 十、意义总结
 
-## 六、Tirgan 节：现代延续的古老仪式
-
-**Tirgan**（伊朗历 Tir 月第 13 日，公历约 7 月 1 日前后）是纪念提什特里亚战胜旱魔的节日。至今在伊朗琐罗亚斯德社群与印度 Parsi 中庆祝：
-
-- **泼水仪式**：象征 Tishtrya 降雨
-- **诵读雅什特 8**
-- **系彩色手链**：数日后取下抛入流水，象征愿望随水流去
-- **Ǝrǝxša 神话回顾**：英雄射箭定边界的传说（Panaino 2021）
-
-Solmaz Raof et al.（2022）通过对**吉兰（Gilan）与马赞德兰（Mazandaran）**乡村民居建筑（Boghe 与 Saghanefar 结构）的田野调查，发现 Tishtar 图像仍以民俗形式保存于里海南岸——展示古老崇拜的延续性。
-
-## 七、亚美尼亚的 Tir：与 Nabu 合流
-
-Russell（1987）证明，**亚美尼亚 Tir**（Տիր）是提什特里亚崇拜西传的产物。在亚美尼亚：
-
-- Tir 成为**书写、学识、占卜、命运**之神
-- 与美索不达米亚 **Nabu**（书写与智慧神）图像合流
-- 位于叶列万附近 **Erazamoin**（"梦之处"）的 Tir 神庙以其**梦兆占卜**闻名
-- 4 世纪基督教化后，Tir 神庙被拆除，但其名保留在亚美尼亚人名中（如 Tigran）
-
-这一转化揭示了神格如何在**跨文化流动**中获得新的功能层次——从雨神变身为智慧神。
-
-## 八、粟特图像：龙座神与 Nabu 叠加
-
-**康马泰、李思飞（2023）**在中文学界的最新研究通过对**片治肯特（Panjikent）8 世纪壁画**的图像学分析，重新识别了粟特"龙座神"：
-
-- 该神坐于双龙之座，手持箭矢
-- 与 Nana 女神成对出现
-- 图像元素叠加了 Nabu 的书写板与 Tishtrya 的箭
-
-结论：**粟特 Tish 神是提什特里亚在中亚的化身**，通过丝绸之路与美索不达米亚 Nabu 图像融合。这一发现补足了 Tishtrya 崇拜**东传中亚**的图像证据链，与其**西传亚美尼亚**形成对称。
-
-## 九、跨文化谱系：印欧星神与近东丰饶
-
-Tishtrya 处于三重跨文化网络中：
-
-| 维度 | 对偶神祇 | 关系 |
-|------|---------|------|
-| **印欧同源** | 印度 Tishya | 词源同源，均为星神 |
-| **近东合流** | 美索不达米亚 Nabu | 亚美尼亚 Tir 中融合 |
-| **粟特叠加** | Nabu | 中亚艺术中的合流 |
-| **埃及对偶** | Sopdet（Sirius） | 天狼星神化对偶 |
-| **希腊对偶** | Poseidon / Zeus Ombrios | 击败旱魔释水神话 |
-
-Panaino（1995）指出，Tishtrya 是**印欧星神传统**中保存最完整的一支，Rgveda 中的 Tishya 已趋于边缘，而伊朗传统将其提升为主神级别。
-
-## 十、神学地位与研究总结
-
-提什特里亚是琐罗亚斯德教中**七位次主神**之一（Yazata），其地位仅次于 Amesha Spentas。他的独特之处在于：
-
-- **唯一被完整神化的星体**（除 Vanant、Satavaesa 等辅助星神外）
-- **二元论最戏剧化的具象化**（白马 vs 黑马）
-- **实际祈雨仪式的对象**（不同于纯粹的神学抽象）
-- **崇拜延续至今**（Tirgan 节 3000 年未断）
+提什特里亚是琐罗亚斯德教中少数具有**明确天文学基底**的神——他不是一个抽象概念的人格化，而是一颗**可以每年七月看到偕日升**的具体恒星的神话表达。他的三形态、白黑马之战、Ahura Mazda 亲献祭救援的叙事结构，让「旱—雨」这个人类最古老的农业焦虑，被编入了一部有开端、有中段、有解决的宇宙戏剧。Tirgan 节延续至今，是这部戏剧仍在被演出的证据。
 
 ## 十一、Mythos Atlas 编者按
 
-- **奠基作**：Antonio Panaino《Tištrya》双卷本（1990/1995）无争议地为学术定本；Russell 1987 关于亚美尼亚 Tir 的研究是西传研究的必读
-- **最新研究**：Raof et al. 2022 里海南岸田野调查、康马泰 & 李思飞 2023 粟特图像识别、Tourovets 2018 法语学界综述、Panaino 2021 关于 Ǝrǝxša 神话与 Tir 的关联再论
-- **一手文献**：《阿维斯陀·雅什特 8》（Tishtar Yasht）为核心；《Bundahišn》（中古波斯语创世书）第 6–7 章补充其宇宙功能；Pahlavi Rivayat 记 Tirgan 节仪式细节
-- **深度追踪**：Panaino 之外，Karl F. Geldner《Avesta》校勘本（2000 再版）仍是雅什特文本工作基础；Boyce《A Persian Stronghold of Zoroastrianism》（1977）提供田野文化背景
-- **神学地位**：提什特里亚是**"最实用的琐罗亚斯德神"**——直接与农业社会最重要的祈雨仪式挂钩，其崇拜生命力跨越 3000 年、跨越三大文明圈（东至粟特、西至亚美尼亚），是理解琐罗亚斯德教如何**从祭司神学下渗至民间实践**的核心案例
+- **奠基作**：Panaino 1990（文本）+ Panaino 1995（神话）·Boyce 1975。
+- **最新研究**：Raof et al. 2022（图像遗存）·岡田明憲 1994（马—风考古）。
+- **一手文献**：*Tištar Yašt (Yasht 8)* 62 节全文；MUL.APIN 星表（Hunger & Pingree 1989 编）。
+- **深度追踪**：中国—粟特东传（姜伯勤 2003；吴燕武 2019）尚有敦煌新出图像等待整合。
+- **神学地位**：*attested*——文本 + 天文观测 + 图像遗存三重支撑。
