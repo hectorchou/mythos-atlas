@@ -1,259 +1,193 @@
 ---
 id: rashnu-zoroastrian
-name_primary: 拉什努 审判与正义之神
-name_original: Rašnu / Rashnu / رشن / Ashavazdah
-name_aliases: [Rašnu, Rashnu, 拉什努, 拉什奴, 阿沙瓦兹达, Ashavazdah, 正义之手, 金秤审判者, Chinvat桥审判神]
+name_primary: 拉什努 琐罗亚斯德教正义审判神
+name_original: 𐬭𐬀𐬱𐬥𐬎 / Rašnu / Rašn
+name_aliases: [Rashn, Rasnu, Rasn, 拉什恩]
 name_translations:
-  zh: 拉什努 · 审判与正义之神
-  en: Rashnu / God of Justice
-  ave: 阿维斯塔 Rašnu
-  fa: رشن (Rashn)
-  ku: 巴列维 Rašn
+  zh: 拉什努
+  en: Rashnu
+  fa: رشن
 
 hero_image: /images/entries/rashnu-zoroastrian.jpg
-hero_image_alt: Rashnu持金秤审判灵魂 · 萨珊金属浮雕风格 · 银蓝色调
-hero_image_credit: AI generated · Sasanian metalwork engraving style
+hero_image_alt: 手持金秤的正义神拉什努立于钦瓦特桥端衡量灵魂善恶
+hero_image_credit: AI generated · Sassanian relief style
 
-culture_path: 亚洲/伊朗/琐罗亚斯德/审判-正义-死后称量
+culture_path: 亚洲/西亚/伊朗/琐罗亚斯德教
 entity_type: deity
-era: 前1000年阿维斯塔至中世纪; Rašn Yašt(Yasht 12)为核心文献
-geo_region: 伊朗高原/中亚/印度Parsi社区
+era: 前12世纪—现代帕西社群
+geo_region: 伊朗高原、亚美尼亚、印度帕西社群
 
-summary: 审判与正义之神Rashnu,Ashavazdah义为持正义者。Azarnouche(2018)评Goldman版Rašn Yašt。Russell(2013)论死后Mithra-Rashnu-Sraosha三联。Zaehner(1961)论死后审判。Viviers(2001)比较Zoroaster与Plato死后审判。Terribili(2022)论死后访问唤醒。
+summary: 拉什努（Rašnu）是琐罗亚斯德教正义之神，与 Mithra、Sraoša 并列为钦瓦特桥前的死后三判官，Yasht 12 为其颂词。Goldman（2015）出版了 Rašn Yašt 首部完整学术校勘译注，Azarnouche（2018）与 Goshtasbi Ardakany（2024）追踪其在巴列维文献中的持金秤职能。
 
-attributes: [审判者(Ashavazdah持正义者), 金秤称量善恶, Chinvat桥上审判灵魂, 死后三联之一(与Mithra和Sraosha), Rašn Yašt(Yasht 12)专门赞歌, 正义之手, 四只眼睛象征全知, 可能与Mithra共享审判权]
+attributes: [正义, 审判, 金秤, 死后裁决, 真实, 三判官, 钦瓦特桥]
 
 primary_sources:
   - type: book
-    title: "Rašn Yašt. The Avestan Hymn to Justice"
-    author: "Leon Goldman (ed. Samra Azarnouche)"
+    title: "Rašn Yašt — The Avestan Hymn to Justice"
+    author: "Leon Goldman"
+    year: 2015
+    language: en
+    url: https://reichert-verlag.de/en/9783954901012_rasn_yast-detail
+    access: paywall
+    note: "SOAS 博士论文修订本，含 Yasht 12 全文校勘、语法、逐行注释，学界最新底本"
+  - type: paper
+    title: "Léon Goldman — Rašn Yašt, The Avestan Hymn to Justice"
+    author: "Samra Azarnouche"
     year: 2018
     language: fr
     url: https://doi.org/10.4000/abstractairanica.43037
     access: open
-    note: "Goldman/Azarnouche 2018。Rašn Yašt(Yasht 12)的学术版编辑与翻译——Rashnu唯一完整专属性赞歌文本"
-  - type: book
-    title: "The Dawn and Twilight of Zoroastrianism"
-    author: "R. C. Zaehner"
-    year: 1961
-    language: en
-    url: https://www.semanticscholar.org/paper/Zaehner-Dawn-Twilight/
-    access: paywall
-    note: "Zaehner 1961经典。Zoroastrian死后审判的神学发展,从早期Yašt到巴列维文献的审判体系完整梳理"
+    note: "Abstracta Iranica 权威综述，评估 Goldman 校勘价值"
   - type: paper
-    title: "On the Image of Zoroaster (Middle Persian afterlife judgment)"
+    title: "Comparison of the Stages of the Journey of the Righteous Soul in Manichean and Zoroastrian Religions"
+    author: "Poorchista Goshtasbi Ardakany"
+    year: 2024
+    language: en
+    url: https://doi.org/10.5539/ach.v16n1p49
+    access: open
+    note: "系统比较 Rashn 持秤审判与摩尼教末世论"
+  - type: book
+    title: "Zoroastrians — Their Religious Beliefs and Practices"
+    author: "Mary Boyce"
+    year: 1979
+    language: en
+    url: https://www.routledge.com/9780415239028
+    access: paywall
+    note: "第三章论 Mithra-Sraoša-Rašnu 三判官定型时代"
+  - type: book
+    title: "The Zoroastrian Doctrine of a Future Life"
+    author: "A.V. Williams Jackson"
+    year: 1926
+    language: en
+    url: https://doi.org/10.1086/471929
+    access: open
+    note: "早期系统研究，仍为死后审判序列讨论的基准文献"
+  - type: manuscript
+    title: "Mēnōg ī Xrad 第 2 章"
+    author: "Pahlavi anonymous"
+    year: -600
+    language: pahlavi
+    url: https://www.avesta.org/mp/mx.html
+    access: open
+    note: "中古波斯语智慧文献，描绘 Rašn 手持金秤衡量灵魂"
+  - type: manuscript
+    title: "Hādōxt Nask 第 2 章"
+    author: "Avestan anonymous"
+    year: -800
+    language: avestan
+    url: https://www.avesta.org/pahlavi/hadoxt.htm
+    access: open
+    note: "叙述死后灵魂第三日抵达钦瓦特桥与三判官相遇"
+  - type: paper
+    title: "On the Image of Zoroaster"
     author: "James R. Russell"
     year: 2013
     language: en
-    url: https://www.semanticscholar.org/paper/Russell-Image-Zoroaster/
-    access: paywall
-    note: "Russell 2013。所有Zoroastrian死后遇到Mithra/Rashnu/Sraosha三联,然后与三神共餐Haōxt nask——死后审判三联的完整描述"
-  - type: paper
-    title: "A comparison between Plato and Zoroaster: aspects of the philosophy in the Timaeus and the Gathas"
-    author: "D. S. Viviers"
-    year: 2001
-    language: en
-    url: https://www.semanticscholar.org/paper/Viviers-Plato-Zoroaster/
+    url: https://www.semanticscholar.org/paper/On-the-Image-of-Zoroaster
     access: open
-    note: "Viviers 2001。比较Plato的Timaeus与Gathas中死后审判概念——Rashnu与Plato审判者Rhadamanthys的平行"
-  - type: paper
-    title: "Visitation and Awakening: Cross-Cultural Parallelisms between the Zoroastrian Srosh and Christian St. Sergius"
-    author: "Gianfilippo Terribili"
-    year: 2022
-    language: en
-    url: https://doi.org/10.1163/18747167-bja10013
-    access: open
-    note: "Terribili 2022。死后三联的功能分析,Rashnu的称量职能在跨文化比较中的定位"
-  - type: paper
-    title: "The Interrupted Feast"
-    author: "James R. Russell"
-    year: 2019
-    language: en
-    url: https://doi.org/10.1163/9789004397743_022
-    access: paywall
-    note: "Russell 2019。死后灵魂在Chinvat桥上升的描述,Rashnu持秤审判的图像学传统"
-  - type: paper
-    title: "Comparative Study of Eternity and Immortality in New Words and Islamic Sources"
-    author: "Mohsen Ali Najimi, Abbas Hemami"
-    year: 2015
-    language: en
-    url: https://www.semanticscholar.org/paper/Najimi-Eternity-Immortality/
-    access: open
-    note: "Najimi与Hemami 2015。Zoroastrian死后审判与伊斯兰死者审判的比较,Rashnu审判桥概念对伊斯兰Sirat桥的影响"
-  - type: book
-    title: "Parsee religious ceremonial objects in the United States National Museum"
-    author: "I. M. Casanowicz"
-    year: 1903
-    language: en
-    url: https://doi.org/10.5479/SI.00963801.61-2432.1
-    access: open
-    note: "Casanowicz 1903早期民族志。死后审判教义的完整描述——灵魂分离后进入炼狱,审判涉及Rashnu的称量"
+    note: "论 Mithra-Rashnu-Sraosha 三判官图像学在亚美尼亚—伊朗过渡"
 
 structured_data:
-  epithets: [Ashavazdah(持正义者), 金秤审判者, 正义之手, Chinvat桥审判神, 四目全知者, 死后三联之一]
-  avestan_form: [Rašnu]
-  middle_persian: [Rašn]
-  afterlife_triad: [Mithra(见证) + Rashnu(审判) + Sraosha(保护引导)]
-  cult_center: [Rašn Yašt(Yasht 12) · Chinvat桥(死后) · 巴列维文献Rivayats]
+  epithets: [最正义者, 持秤者, 无偏心者, 真实之守护]
+  yasht_dedicated: Yasht 12 (Rašn Yašt)
+  triad_position: 死后三判官之一（与 Mithra、Sraoša 并列）
+  attribute: 金秤 tarāzū
+  cult_center: [伊朗高原诸圣火厅]
   timeline:
-    - 前1000年: 阿维斯塔提及Rašnu
-    - 前600年: Younger Avesta Rašn Yašt(Yasht 12)编成
-    - 前500年: Achaemenid时期Rašnu审判概念确立
-    - 前3世纪: 巴列维文献详细描述死后审判三联
-    - 3-7世纪: Sasanian时期Chinvat桥审判图像流行
-    - 7世纪后: 伊斯兰化,Sirat桥概念可能受Rašnu影响
-    - 现代Parsi: 死后审判三联仍为教义核心
+    - 前12世纪—前9世纪: Yasht 12 编成
+    - 前3世纪—后7世纪: 萨珊法官职务托庇于 Rašn
+    - 后9世纪: Pahlavi 巴列维文本系统化其审判职能
 
 variants:
-  - region: 阿维斯塔
-    version: Rašnu
-    note: 原始形式,Rašn Yašt(Yasht 12)是唯一专门献给Rashnu的赞歌,描述金秤称量
-  - region: 巴列维文献
-    version: Rašn
-    note: 巴列维文献详细描述死后审判流程——灵魂到Chinvat桥,Rashnu持金秤称量,Mithra见证,Sraosha保护
-  - region: 伊斯兰传统
-    version: Sirat桥的间接影响
-    note: Najimi与Hemami 2015比较Rashnu的Chinvat桥审判与伊斯兰Sirat桥审判——可能存在直接影响
+  - region: 亚美尼亚
+    version: Rashn / 融入基督教审判天使谱系
+    note: Russell 2013 追踪早期基督教亚美尼亚圣像继承
+  - region: 摩尼教
+    version: 摩尼教末世审判官
+    note: Goshtasbi Ardakany 2024 指出摩尼教吸纳 Rashn 秤称职能
 
 parallels:
-  - culture: 埃及
-    entity: Thoth/Anubis(心脏称量)
-    relation: 功能类比
-    note: Rashnu的金秤称量与埃及死后审判中的心脏称量在结构和时间上可能平行——皆以称量为审判手段
-    source_ref: Zaehner 1961
+  - culture: 古埃及
+    entity: Ma'at / Anubis
+    relation: 秤称心之心的功能对应
+    note: 埃及"称心仪式"以真理羽毛对抗心脏，与 Rashn 金秤原理相似但独立
+    source_ref: Boyce 1979
   - culture: 希腊
-    entity: Rhadamanthys/Minos(冥府审判者)
-    relation: 功能类比
-    note: Rashnu与Plato三大冥府审判者之一Rhadamanthys的平行——两者都以正义/法律为审判标准
-    source_ref: Viviers 2001
+    entity: Themis / Dike
+    relation: 正义抽象神格化
+    note: 希腊 Δίκη 亦持秤，学界推测经波斯战争渗透
+    source_ref: Azarnouche 2018
   - culture: 希伯来-基督教
-    entity: 大天使Michael(灵魂称量)
-    relation: 功能类比
-    note: Michael在天启审判中的称量功能与Rashnu的金秤称量对应
-  - culture: 中国
-    entity: 阎罗王/十殿阎罗
-    relation: 功能类比
-    note: 中国死后审判体系(十殿阎罗/功过簿)与Zoroastrian的三联审判在功能上对应——通过称量/记录评判亡者
-  - culture: 伊斯兰
-    entity: Munkar-Nakir/Malak al-Mawt(死者审判天使)
-    relation: 可能影响
-    note: 伊斯兰传统中死者审判(Sirat桥+称量)与Zoroastrian Chinvat桥审判可能存在直接因果联系
-    source_ref: Najimi与Hemami 2015
+    entity: 大天使米迦勒
+    relation: 秤称灵魂
+    note: 犹太—基督教末世秤称形象受伊朗影响的经典 Iranische Interimskizze 论题
+    source_ref: Goldman 2015 导论
+  - culture: 印度
+    entity: Chitragupta
+    relation: 死后记账审判
+    note: 印度—伊朗共同底层，功能对应但机制不同（账簿 vs 秤）
+    source_ref: Goshtasbi Ardakany 2024
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-18"
+updated_at: "2026-07-18"
 ---
 
-## 一、导读：宇宙的法官
+## 一、导读——最正义者与他的金秤
 
-**拉什努**（阿维斯塔语 *Rašnu*，巴列维语 *Rašn*，新波斯语 *Rashn* رشن）是琐罗亚斯德教中**死后审判的核心执行者**——他是那位**站在 Chinvat 桥上，手持金秤，称量每个灵魂善恶行为的神**。**他的另一名字 Ashavazdah（"持正义者"）精准概括了他的神学身份**。
+**拉什努（Rašnu）** 是琐罗亚斯德教万神殿中最纯粹的抽象神格：他是"正义"（*aṣ̌a* 秩序—真理）的化身，被献词 Yasht 12（Rašn Yašt）称为 *razištō*"最正义者"。在钦瓦特桥前（*Činvatō Pərətu*），他手持一柄不可欺骗的金秤（中古波斯语 *tarāzūg*），衡量亡灵的善念、善言、善行与其相反者，判定其归宿。
 
-Goldman 与 Azarnouche 2018 出版了**Rašn Yašt（Yasht 12）的首部学术编辑版**——**这是唯一完整献给 Rashnu 的阿维斯塔赞歌**，也是研究 Zoroastrian 死后审判神学最核心的一手文献。
+Leon Goldman 于 2015 年出版的《Rašn Yašt——阿维斯陀正义颂》是学界迄今唯一的完整现代校勘译注，替代了 Darmesteter（1883）和 Wolff（1910）的旧本，Samra Azarnouche 在 *Abstracta Iranica*（2018）中评价这一工作"为该 Yasht 的语言与神学复杂性提供了首次真正令人信服的处理"。
 
-**死后审判**是琐罗亚斯德教对世界宗教最深远的影响之一——**Zoroastrian 的 Chinvat 桥审判体系可能直接影响希腊冥府审判、埃及心脏称量的完善化、以及伊斯兰 Sirat 桥审判**。**Rashnu 是这一审判体系的核心执行者——"宇宙的法官"**。
+## 二、Yasht 12——地名颂的独特结构
 
-## 二、Rašn Yašt：正义之歌
+Rašn Yašt 由 41 节构成，其结构在阿维斯陀 Yasht 群中独树一帜：查拉图斯特拉呼唤 Rašnu 从 15 个不同地点前来见证，每一节由重复句式导入，罗列了从 Karšvar Xvaniraθa 中央大陆到 Vourukaša 大海、Alborz 山、恒河、印度河河源等圣地的地理清单（Goldman 2015: 89-142）。这份地名录成为研究阿维斯陀地理学的宝贵档案。
 
-**Rašn Yašt**（Yasht 12）是**Zoroastrian 祈祷传统中最具司法色彩的文本**——**它的核心意象是"称量"**：
+## 三、词源与神格独立性
 
-> "**Rashnu the most just of beings, who holds the golden scales, who separates the righteous from the wicked at the Chinvat Bridge.**"
+*Rašnu* 源自阿维斯陀词根 *raz-*"直"（与吠陀 *raj-* 同源），语义演化为"公直—正义"。Boyce（1975）指出，Rašnu 不同于早期原始伊朗多神系统中的具象神，而是查拉图斯特拉改革之后典型的"抽象化神格"，与 Aṣ̌a Vahišta（最善之秩序）密切耦合但保持独立神格身份。
 
-**Zaehner 1961 在《The Dawn and Twilight of Zoroastrianism》中梳理**：**Rashnu 的审判概念经历了显著演变**——从阿维斯塔中较模糊的"正义分配者"到巴列维文献中精确的"金秤称量者"。**这一演变反映了 Zoroastrian 死后神学从简单到复杂的系统化过程**。
+## 四、死后三判官（The Triad of Judges）
 
-**Rašn Yašt 的结构**：
-- **开篇**：Ahura Mazda 授予 Rashnu 审判之权
-- **中段**：描述 Rashnu 的金秤与四目全知
-- **高潮**：善灵魂过桥、恶灵魂坠桥的场景
-- **收束**：Rashnu 与 Mithra、Sraosha 共同审判后的裁决
+Hādōxt Nask 第 2 章描绘：亡灵在死后第三日黎明抵达钦瓦特桥端，三位神祇迎候审判：
 
-## 三、金秤：善恶的精确计量
+- **Mithra**——契约与誓言之神，检视社会义务；
+- **Sraoša**——服从与聆听之神，检视仪式与虔敬；
+- **Rašnu**——正义之神，以金秤最终裁决。
 
-**Rashnu 的金秤**（*rašn* 一词本身即"审判/裁决"之意，与天平杆相关）是**死后审判的核心工具**。**Rashnu 不是凭主观判断裁定灵魂——他使用金秤精确称量**：
+这一三神组合最迟在阿契美尼德晚期定型（Boyce 1979: 27），在中古波斯《Mēnōg ī Xrad》第 2 章、《Ardā Wirāz Nāmag》与《Bundahišn》第 30 章反复出现，成为琐罗亚斯德教末世论最稳定的图像。
 
-- **一侧放置善行**（*asha*，跟随真理的行为）
-- **另一侧放置恶行**（*druj*，跟随谎言的行为）
-- **善行超过恶行** → 灵魂安全渡过 Chinvat 桥
-- **恶行超过善行** → 桥缩窄为刀刃，灵魂坠落
+## 五、金秤与善念计量
 
-**"称量"审判的概念在世界宗教中极为普遍**——**埃及的 Thoth/Anubis 心脏称量、希腊 Rhadamanthys 审判、基督教大天使 Michael 的灵魂称量、中国的功过簿、伊斯兰的 Sirat 桥**——**但 Zoroastrian 的 Rashnu 是其中最古老、最系统化的"称量审判者"形象**。
+Mēnōg ī Xrad 第 2 章记载：Rašn 的秤"不倾向任何一方，即使为国王、也不为最贫贱之人"。称量对象是亡者一生的三重业绩——*humata*（善念）、*hūxta*（善言）、*hvarština*（善行）——与其对立面。Goshtasbi Ardakany（2024）对比了摩尼教文献《Kephalaia》中的相似秤称叙事，指出摩尼在琐罗亚斯德教基础上加入了"光粒子"计量层，使秤成为宇宙救赎学的量化工具。
 
-**Zaehner 1961 论证**：**Rashnu 的称量审判可能影响了后期犹太-基督教传统中"天平"作为审判象征的图像学**——**3-7 世纪 Zoroastrian 与基督教在美索不达米亚的深度接触中，审判图像可能发生了双向交换**。
+## 六、桥的三重宽度
 
-## 四、死后三联：见证-审判-保护
+钦瓦特桥依审判结果对亡者显现不同宽度：正义者见之如"九支矛长的宽路"（约 27 米），恶行者见之"如剃刀锋"（Vidēvdād 19.29-30）。Rašn 之判决之后，正义者由 Daēnā 少女（自身善业之神格化）迎入 Garōdmān 光明天界，恶者堕入 *Drujō Dəmāna* 谎言之居。
 
-**Rashnu 不是独自审判**——**他作为死后三联（*triad*）的中间成员运作**：
+## 七、萨珊法官的守护神
 
-| 三联成员 | 功能 | 对应 |
-|---------|------|------|
-| **Mithra** | 契约见证者 | "一生做了什么？Mithra 作为千耳万目者，见证一切" |
-| **Rashnu** | 正义审判者 | "Rashnu 持金秤称量，精确计量善恶" |
-| **Sraosha** | 保护引导者 | "Sraosha 保护灵魂渡桥，抵御 Daeva 的攻击" |
+Christian Bartholomae 与 Boyce 均指出，萨珊王朝法官（*dādwar*）在开庭前呼求 Rašn 名，公证书写下的判决被视为"Rašn 之秤的地面投影"。这一司法宗教耦合在《Mādayān ī Hazār Dādestān》（千项判例集）中留下明显痕迹。
 
-**Russell 2013 与 2019 详细描述**：**灵魂在死后上升到 Chinvat 桥时**——**三神同时出现**——**Mithra 提出见证记录，Rashnu 执行称量，Sraosha 提供保护**——**这一"分权"体系是古代宗教中最早的"司法三权"模型**。
+## 八、图像学与考古
 
-**审判完成后**：**义人灵魂渡桥后与三神共餐 *Haōxt nask***——**一种"天堂的宴席"**——**Russell 2019 将此描述为"The Interrupted Feast"——** **一种被中断的宴席，只有正义的灵魂才能参与**。
+Shenkar（2014）总结：与 Mithra、Ahura Mazda 相比，Rašnu 缺乏稳定的独立图像模板，多以"持秤者"辅助形象出现在钦瓦特桥场景中。Russell（2013）在《查拉图斯特拉图像研究》中论证亚美尼亚早期基督教教堂天顶画中的"称秤天使"承接了 Rašn 图像。
 
-## 五、Chinvat 桥：世界的最窄处
+## 九、跨文化谱系
 
-**Chinvat 桥**（*Činwad Puhl*，"分离之桥"）是 Zoroastrian 死后世界观的地理核心——**一座连接生者世界与死后世界的桥**。**对义人它宽如道路，对恶人它缩为刀刃**。
+**埃及—伊朗对话**：Ma'at 之羽毛与 Rašn 之金秤是古代近东两大"心秤"传统。Erik Hornung 与 Mary Boyce 一致认为二者独立发展，然波斯征服埃及（前 525）后二神系统曾出现祭祀合流。
 
-**Rashnu 在桥上的审判是 Zoroastrian 死后世界最戏剧化的场景**：
+**希腊化传播**：Δίκη / Themis 手持秤的雕像模板在希腊化时代吸收伊朗审判秤意象，塞琉古—帕提亚过渡期最为明显（Azarnouche 2018）。
 
-> "**灵魂到达 Chinvat 桥。桥上站着 Rashnu the just, holding golden scales. Mithra stands beside him as witness, Sraosha guards the soul's approach. Daeva lurk below, trying to seize the soul.**"
+**亚伯拉罕末世论**：Goldman（2015 导论）将 Rašn 视为犹太—基督教末世秤称传统（大天使米迦勒 · 但以理书 5:27"你被称在天平里，显出你的亏欠"）的核心底层来源，属于 20 世纪 Widengren 至今的"Iranische Interims" 学派核心论题。
 
-**这一场景在巴列维文献中有极详细的描述**——**Rashnu 的金秤、Mithra 的白袍、Sraosha 的权杖、Chinvat 桥从宽到窄的变化、桥下 Daeva 的尖叫声**——**Zoroastrian 死后神学的视觉细节之丰富，与埃及《亡灵书》和但丁《神曲》地狱篇可以并列为死后想象文学的三大高峰**。
+## 十、Mythos Atlas 编者按
 
-## 六、四目：全知的审判者
-
-Rašn Yašt 描述 Rashnu 拥有**四只眼睛**——**两只在前面，两只在后面**——**象征他看到一切：过去的行为与未来的后果**。
-
-**"四目"图像学意义**：
-- **前目**：看到灵魂当下的状态
-- **后目**：回顾灵魂一生的全部行为
-- **四目合计**：**全知——没有任何行为可以逃避 Rashnu 的审视**
-
-**这一"多目审判者"意象在多个文明中独立出现**：
-- **埃及 Hathor/Thoth**：多目女神
-- **中国二郎神**：第三只眼的审判
-- **印度 Shiva**：第三只眼（毁灭之眼）
-- **希腊 Argus**：百目巨人
-
-**Rashnu 的"四目"是最古老的"多目审判者"形象之一**——**其核心信息是：审判者必须"全知"才能公正**。
-
-## 七、对伊斯兰 Sirat 桥的影响
-
-**Najimi 与 Hemami 2015 的比较研究**指出：**伊斯兰传统中的死后审判——灵魂渡过 Sirat 桥（صِراط）——与 Zoroastrian 的 Chinvat 桥审判在结构上惊人相似**：
-
-| Zoroastrian | 伊斯兰 |
-|-------------|--------|
-| Chinvat 桥（*Činwad Puhl*） | Sirat 桥（*الصراط*） |
-| 义人桥宽如路，恶人桥缩为刃 | 义人如闪电渡过，恶人坠入火狱 |
-| Rashnu 金秤称量 | 天使 Munkar 与 Nakir 审问 |
-| 三神在场 | 天使在场 |
-| Daeva 试图抓取灵魂 | Iblis 试图引诱灵魂 |
-
-**争议**：**Rashnu 是否直接影响伊斯兰 Sirat 桥？**——**大多数学者认为存在直接影响**（7 世纪前 Zoroastrian 与早期伊斯兰社群在伊朗/伊拉克的深度接触），**部分学者保守地认为"共同近东死后审判传统"可能独立发展**。
-
-**无论如何，Rashnu 的 Chinvat 桥审判是近东死后审判传统的最早系统化版本之一**——**比但丁的审判桥早 1500 年，比伊斯兰 Sirat 桥早约 1000 年**。
-
-## 八、Viviers 2001：Zoroaster 与 Plato 的比较
-
-**Viviers 2001 做了一个大胆的跨哲学比较**：**Zoroaster 的 Gathas（前 1000 年）与 Plato 的 Timaeus（前 4 世纪）中的死后审判概念**——**两者都涉及灵魂的称量、正义的分配、来世的奖惩**。
-
-**Viviers 论证**：**虽然不能证明 Plato 直接受 Zoroaster 影响**——**但两者共享一个更古老的 Indo-Iranian/Indo-European 死后审判传统**——**Rashnu 的称量与 Rhadamanthys 的审判可能是这一共同传统的两个分支**。
-
-**这一比较的意义**：**死后审判不是某一宗教的"发明"，而是人类面对死亡时最普遍的神学需求之一**——**Rashnu 只是这一普遍需求在伊朗传统中的特定表达**。
-
-## 九、Mythos Atlas 编者按
-
-- **奠基作**：Goldman/Azarnouche 2018《Rašn Yašt》· Zaehner 1961《The Dawn and Twilight》· Russell 2013/2019 死后三联
-- **最新研究**：Terribili 2022 跨文化平行 · Viviers 2001 Zoroaster-Plato 比较 · Najimi 与 Hemami 2015 伊斯兰比较 · Casanowicz 1903 民族志
-- **一手文献**：Rašn Yašt（Yasht 12）· Arda Wiraz Namag（死后游记）· Denkard · Rivayats
-- **考古证据**：Sasanian 钱币/浮雕上审判场景 · Chinvat 桥的图像学传统
-- **跨文明谱系**：埃及 Thoth 心脏称量 → 阿维斯塔 Rashnu 金秤 → 巴列维 Rašn → 伊斯兰 Sirat 桥 → 现代波斯"正义"概念
-- **深度追踪**：SOP-01 已完成 Goldman/Azarnouche/Zaehner/Russell/Viviers/Terribili/Najimi-Hemami/Casanowicz 八篇学术索引
-- **神学地位**：琐罗亚斯德教死后审判的核心执行者——金秤称量善恶,与Mithra和Sraosha共组世界最早的三权司法模型
+- **奠基作**：Goldman《Rašn Yašt 阿维斯陀正义颂》（2015 Reichert） · Malandra《阿维斯陀导读》（1983） · Boyce《琐罗亚斯德教史》三卷本 · Williams Jackson《琐罗亚斯德教未来生命论》（1926）。
+- **最新研究**：Azarnouche（2018）综述 · Goshtasbi Ardakany（2024）摩尼教比较 · Russell（2013）图像学。
+- **一手文献**：Yasht 12（Rašn Yašt）41 节 · Hādōxt Nask 第 2 章 · Vidēvdād 19.28-32 · Mēnōg ī Xrad 第 2 章 · Ardā Wirāz Nāmag。
+- **神学地位**：帕西社群晨祷（Xᵛaršēd Nyāyeš）与死后第三日 *seh šab* 仪式中反复呼唤。
+- **深度追踪**：埃及 Ma'at 之秤 · 希腊 Dike 之秤 · 亚伯拉罕末世审判 · 摩尼教光粒子秤称。
