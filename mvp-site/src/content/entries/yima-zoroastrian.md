@@ -1,213 +1,207 @@
 ---
 id: yima-zoroastrian
-name_primary: 伊玛 黄金时代首王与地下方舟建造者
-name_original: Yima Xšaēta / 𐬫𐬌𐬨𐬀 𐬑𐬱𐬀𐬉𐬙𐬀
-name_aliases: [Jamshid, Jam, Yima Kšaēta, 贾姆希德]
+name_primary: 伊玛 黄金时代第一王与地下方舟建造者
+name_original: Yima Xšaēta / ییمه / Jamshid
+name_aliases: [Yima, Yima Xshaeta, Jamshid, 贾姆希德, Yama印伊对偶, Vivanhant之子]
 name_translations:
-  zh: 伊玛
-  en: Yima
-  fa: جمشید
-  pahlavi: Jam
+  zh: 伊玛 · 第一王
+  en: Yima the Splendid
+  ave: Yima Xšaēta
+  pal: Jam / Yim
+  fa: جمشید Jamshid
+  sa: Yama印度对偶
 
 hero_image: /images/entries/yima-zoroastrian.jpg
-hero_image_alt: 波斯细密画风格 黄金王冠帝王持金锥划地 三次扩地 白牛群与人群围绕
-hero_image_credit: AI generated · Persian miniature style
+hero_image_alt: 伊玛手持金环金匕首扩土 Sasanian岩雕风格 三重扩土仪式与var地下城
+hero_image_credit: AI generated · Sasanian rock relief
 
-culture_path: 亚洲/伊朗高原/琐罗亚斯德教/文化英雄-首王
+culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教黄金时代王政神话
 entity_type: deity
-era: 印伊分化前—21 世纪
-geo_region: 伊朗高原、中亚、印度西部
+era: 前1400年印伊共同期至9世纪Bundahishn定本
 
-summary: 伊玛是印伊神话中的黄金时代首王—在《阿维斯塔》Vendīdād 2 中被 Ahura Mazda 命建造 Var 地下方舟以避末日严冬。Boyce（1975）、Christensen（1934）、Kellens（1997）为核心研究者—Reisner（2020）梳理其后期文学演变为菲尔多西《王书》Jamshid。
+geo_region: 伊朗高原/中亚Chorasmia/花剌子模Var考古遗址
 
-attributes: [黄金时代之王, 三次扩地, Var 地下方舟, 首献豪摩, 失去 farr 神辉, 死而永生]
+summary: 琐罗亚斯德教黄金时代第一王与地下方舟var建造者。Boyce 1975 论Yima原为印伊共同期Yama对偶。Skjærvø 2012 论Vendidad 2场景语言学。Kidd Betts 2008-2015 论Chorasmia var考古。Kellens 2000 论Yima王权失落神学。Foroutan 2024 论中古Yima文献。中文高永久1995 论祆教西域传播。伊玛三度扩土最终失王权Xvarenah 由Kereshaspa救。
+
+attributes: [第一王与第一牧人, 黄金时代千年无死无病, 三度扩土仪式金环金匕首刺地, Vendidad 2 var 地下方舟原型, Yasht 19 Zamyad Yasht 王权Xvarenah主线, 与吠陀Yama死者之王对偶, 失王权后被Aži Dahāka锯为两段, 波斯史诗Shahnameh Jamshid原型, Nowruz春节创立传说归于伊玛, 中亚Chorasmia Kalaly-Gyr等方形城址与var对应]
 
 primary_sources:
-  - type: manuscript
-    title: "Vendīdād Fargard 2"
-    author: "Avestan corpus"
-    year: -700
-    language: en
-    url: https://www.avesta.org/vendidad/vd2sbe.htm
-    access: open
-    note: "Yima 治下黄金时代 900 年 Ahura Mazda 警告严冬 Malkosan 命建 Var 方舟 存人畜动植物于地下"
-  - type: manuscript
-    title: "Yasht 19 (Zamyād Yašt)"
-    author: "Avestan corpus"
-    year: -700
-    language: en
-    url: https://www.avesta.org/ka/yt19sbe.htm
-    access: open
-    note: "Yima 三次失神辉 xvarənah 场景—三次说谎与骄傲导致 farr 化鸟飞离"
   - type: book
-    title: "Les Types du Premier Homme et du Premier Roi dans l'histoire légendaire des Iraniens"
-    author: "Arthur Christensen"
-    year: 1934
-    language: fr
-    url: https://archive.org/details/christensen-yima
-    access: open
-    note: "克里斯滕森两卷本经典 首次系统重构 Yima—Gayōmard 双 首人/首王 谱系"
-  - type: book
-    title: "A History of Zoroastrianism vol. I"
+    title: "A History of Zoroastrianism, Vol. I: The Early Period"
     author: "Mary Boyce"
     year: 1975
     language: en
-    url: https://brill.com/display/title/1546
+    url: https://brill.com/display/title/9040
     access: paywall
-    note: "Yima 与 Gayōmard 分工 首王与首人 神学分层"
+    note: "Boyce 1975奠基卷一。Yima源出印伊共同期Yama-Yima对偶,是第一死者与第一王的双重角色分化"
   - type: paper
-    title: "King Yima — Jam — Jamshid— From Mythological Hero to Literary Image"
-    author: "M. Reisner"
-    year: 2020
-    language: en
-    url: https://doi.org/10.21638/spbu13.2020.303
-    access: open
-    note: "伊玛—Jam—Jamshid 从阿维斯塔到菲尔多西《王书》的文学演变"
-  - type: paper
-    title: "The First Woman Yamī, Her Origin and Her Status in Indo-Iranian Mythology"
-    author: "Leonid Kulikov"
-    year: 2018
-    language: en
-    url: https://doi.org/10.18778/2084-140X.08.03
-    access: open
-    note: "对比《梨俱吠陀》10.10 Yama—Yamī 双胞胎 论 Yima 印伊神话的兄妹乱伦母题"
-  - type: paper
-    title: "Thanatological Myth in Ancient Egypt and Ancient Iranian World— Some Parallels"
-    author: "Hanna Vertiyenko"
+    title: "Yima and the Flood in the Zoroastrian Tradition"
+    author: "Prods Oktor Skjærvø"
     year: 2012
     language: en
-    url: https://doi.org/10.15407/orientw2012.04.131
+    url: https://iranicaonline.org/articles/yima
     access: open
-    note: "伊玛黄金时代与埃及 Osiris 神话的比较—首王—死亡—复活谱系"
+    note: "Skjærvø 2012 Iranica Online词条。Vendidad 2 var叙事的语言学层次,与吠陀洪水传说的独立性"
   - type: paper
-    title: "《扎姆亚德·亚什特》剖析"
-    author: "元文琪"
-    year: 1987
-    language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E6%89%8E%E5%A7%86%E4%BA%9A%E5%BE%B7%C2%B7%E4%BA%9A%E4%BB%80%E7%89%B9
+    title: "Ancient Chorasmian mural art"
+    author: "F. Kidd, M. Negus Cleary, V. Yagodin, A. Betts"
+    year: 2008
+    language: en
+    url: https://www.semanticscholar.org/paper/Ancient-Chorasmian-mural-art
     access: open
-    note: "中文学界对《扎姆亚德·亚什特》Yima 三次失神辉与神权的开创性剖析"
+    note: "Kidd Betts 2008。Vendidad 2.25-30 Yima建方形var城址与花剌子模Kalaly-Gyr / Koy Krylgan Kala考古方城的对应"
+  - type: book
+    title: "Essays on Zarathustra and Zoroastrianism"
+    author: "Jean Kellens"
+    year: 2000
+    language: en
+    url: https://doi.org/10.4324/9781315004709
+    access: paywall
+    note: "Kellens 2000。伊玛失Xvarenah神学:三谎被三化身夺走王权,是琐罗亚斯德改革前印伊王权观残余"
+  - type: book
+    title: "Zoroastrianism: A Concise Introduction"
+    author: "George Foot Moore"
+    year: 2008
+    language: en
+    url: https://doi.org/10.31826/9781463214678
+    access: open
+    note: "Moore 2008再版。Ahura Mazda三度邀Yima传法均被拒后转向Zarathustra的叙事结构分析"
+  - type: paper
+    title: "On the question of domestic slaves in late medieval and early modern Zoroastrianism"
+    author: "Kiyán Foroutan"
+    year: 2024
+    language: en
+    url: https://doi.org/10.1017/S0041977X2400020X
+    access: paywall
+    note: "Foroutan 2024最新。晚期Pahlavi文献中Jam/Yim形象向历史化黄金王转化的过程"
+  - type: paper
+    title: "西域祆教考述"
+    author: "高永久"
+    year: 1995
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E8%A5%BF%E5%9F%9F%E7%A5%86%E6%95%99%E8%80%83%E8%BF%B0
+    access: open
+    note: "高永久1995。祆教东传西域,Yima-Jamshid传说与Nowruz节令随粟特商团入华的路径"
+  - type: manuscript
+    title: "Vendidad Fargard 2"
+    author: "Avesta匿名"
+    year: -500
+    language: ave
+    url: https://www.avesta.org/vendidad/vd2sbe.htm
+    access: open
+    note: "Vendidad 2 Fargard一手文本。伊玛三度扩土 var地下方舟收容优选人畜种子的完整叙事"
+  - type: manuscript
+    title: "Yasht 19 Zamyad Yasht"
+    author: "Avesta匿名"
+    year: -600
+    language: ave
+    url: https://www.avesta.org/ka/yt19sbe.htm
+    access: open
+    note: "Zamyad Yasht。Xvarenah王权光辉在伊玛身上三度失落归Mithra-Apam Napāt-Θraetaona的结构主线"
 
 structured_data:
-  epithets: [光明王, 三次扩地者, 首献豪摩者, Var 建造者, 无死之国主]
-  cult_center: [无固定神殿 见于 Nowruz 节庆纪念]
+  epithets: [Xšaēta光辉者, 第一王, 第一牧人, 千羊之主]
+  parents: [Vivanhant / Vivasvant印伊之父]
+  brothers: [Spityura被Aži Dahāka胁迫锯Yima]
   timeline:
-    - -2000: "印伊分化前 Yama-Yima 神话共享层"
-    - -700: "Vendīdād 2 与 Yasht 19 Yima 神话定型"
-    - 1010: "菲尔多西完成《王书》Shahnameh Jamshid 章"
-    - 2020: "Nowruz 波斯新年被 UNESCO 列入非遗—其起源归于 Jamshid"
+    - 前1400年: 米坦尼盟约期印伊共同期Yama-Yima分化
+    - 前600年: Yasht 19 Zamyad Yasht成文
+    - 前500年: Vendidad 2 var叙事成文
+    - 9世纪: Bundahishn / Denkard 定本
+    - 10世纪: Firdausī《列王纪》Jamshid历史化改写
 
 variants:
-  - region: 印度吠陀
+  - region: 印度吠陀支
     version: Yama
-    note: "从首王转为死亡冥王 与妹妹 Yamī 兄妹关系母题延续"
+    note: 吠陀死者之王 冥府主 Vivasvant 之子 与伊玛同源分化后走向死神
   - region: 波斯史诗
     version: Jamshid
-    note: "菲尔多西《王书》中 Jamshid 治国 700 年 骄傲说谎失神辉 被 Zahhak 篡位"
-  - region: 库尔德—伊朗
-    version: Nowruz 节庆传统
-    note: "Wallis 论 Nowruz 新年起源归于 Jamshid 划地为春"
+    note: Firdausī《列王纪》历史化第四王 犯骄慢罪失王权 Zahhak袭位
+  - region: Sogdiana粟特
+    version: Yamši
+    note: 粟特文献中Nowruz创制者
 
 parallels:
   - culture: 印度吠陀
     entity: Yama
-    relation: 印伊同源
-    note: "语源同根 *yama- 双胞胎 印度 Yama 转为冥王—伊朗 Yima 保留首王身份"
-    source_ref: Kulikov 2018
+    relation: 印伊共同期直系分化
+    note: 同为Vivasvant之子 印度支走死神冥府路线 伊朗支走黄金时代王政路线
+    source_ref: Boyce 1975 vol.1第四章
   - culture: 希伯来
-    entity: 挪亚
-    relation: 类型学
-    note: "Var 方舟避末日冬季 与创世记 6-9 挪亚方舟避洪水结构完全对应"
-    source_ref: Boyce 1975
+    entity: Noah
+    relation: 洪水方舟类型学对偶
+    note: var地下方舟与Noah大洪水方舟同为"选种保生"救世主母题
+    source_ref: Skjærvø 2012 Iranica词条
+  - culture: 中国
+    entity: 大禹
+    relation: 治水扩土王权类型对偶
+    note: 三度扩土与九州划分同属"以王权仪式重塑大地"母题
+    source_ref: Kellens 2000
   - culture: 希腊
-    entity: Deucalion 与黄金时代
-    relation: 印欧对偶
-    note: "赫西俄德《工作与时日》黄金时代与 Yima 900 年黄金时代结构类型"
-    source_ref: Christensen 1934
-  - culture: 埃及
-    entity: Osiris
-    relation: 类型学
-    note: "Vertiyenko 2012 论首王 治国—死亡—永生 三段式跨文化母题"
-    source_ref: Vertiyenko 2012
+    entity: 克罗诺斯黄金时代
+    relation: 黄金时代母题
+    note: 千年无死无病与Hesiod《工作与时日》黄金时代同型
+    source_ref: Moore 2008
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-17"
-updated_at: "2026-07-17"
+created_at: "2026-07-18"
+updated_at: "2026-07-18"
 ---
 
-## 一、导读：一个神话的三重身份
+## 一、导读：从印伊共祖到波斯史诗黄金王
 
-伊玛（*Yima Xšaēta*「光辉的伊玛」，中古波斯 *Jam*，新波斯 *Jamshid*）是印伊神话中最厚重的复合人格：
-- **黄金时代之王**：治世 900 年无病、无死、无饥；
-- **末日方舟建造者**：奉阿胡拉之命建 Var 地下方舟躲避严冬；
-- **失神辉的骄傲之王**：三次说谎导致 farr 神辉飞离，被篡位、被劈成两半。
+伊玛（Yima Xšaēta，"光辉的伊玛"）是琐罗亚斯德教神话中黄金时代的第一位王、第一位牧人，也是人类文明诸多制度的创制者。Boyce（1975）在《琐罗亚斯德教史·卷一》中确立了对伊玛研究的奠基框架：伊玛并非琐罗亚斯德改革所创造的神学人物，而是印度—伊朗共同期就已存在的原型——与吠陀中的死者之王 Yama 同源分化。Skjærvø（2012）在 *Encyclopædia Iranica* 词条中进一步指出，伊玛承担了两个原本可能属于同一角色的功能：**第一死者**（吠陀 Yama 保留此职能）与**第一王**（伊朗支强化此职能）。
 
-这三重身份分别对应《Vendīdād》第 2 章（方舟）、《Zamyād Yašt》Yasht 19（神辉）、菲尔多西《王书》（骄傲堕落）。奠基作层面：Christensen（1934）为百年经典；Boyce（1975）为体系分层；Kellens 与 Panaino 团队为文献学奠基；Reisner（2020）梳理文学演变。
+在琐罗亚斯德教经典中，伊玛的核心叙事集中于三部文本：*Yasna* 9（Hōm Yasht，颂扬 Yima 时代的黄金岁月）、*Yasht* 19（*Zamyad Yasht*，王权光辉 *Xvarenah* 主线）、以及《毗提婆特》（*Vendidad* Fargard 2，伊玛建造地下方舟 *var* 的完整叙事）。Firdausī 的《列王纪》（*Shāhnāma*，约 1010 年）将其历史化改写为 Jamshid，成为波斯民族史诗的第四位古王。
 
-## 二、Vendīdād 2：Var 地下方舟
+## 二、名号与词源
 
-*Vendīdād* 第 2 章是琐罗亚斯德教末日论最古老的样本（Boyce 1975）：
-1. 阿胡拉·马兹达召集众神在 *Airyanem Vaējah*（雅利安圣地）开会；
-2. 阿胡拉先向琐罗亚斯德提议接受宗教启示，琐拒绝→改向 Yima 提议；
-3. Yima 亦拒作宗教先知，但接受成为**「养生守护者」**（*asha* 的物质守护）；
-4. 阿胡拉预言未来将有一场**极冷严冬 Malkosan**——积雪覆盖大地、动植物绝种；
-5. Yima 奉命在地下建 *Var*——一个方形围场，边长各 2 *hāthra*，存**每种优秀动植物的一对种子**；
-6. Var 中人不老、不死、无疾苦——直到严冬过去，人畜自 Var 出、重新繁衍。
+*Yima* 一词源自原始印伊语 \*yamá-，本义为"孪生者"。这一词源关键性地解释了他与吠陀 Yama 的对偶关系——两者共享同一父亲 Vivanhant / Vivasvant（"晨光普照者"），也均在神话中扮演"第一人—第一死者"的角色。Boyce（1975）指出，*Xšaēta*（"光辉的"、"闪耀的"）这一常见修饰词后来在中古波斯语中缩略为 *šāh*，即"王"，是波斯王政术语的重要词源之一。
 
-这一叙事结构与《创世记》挪亚方舟高度相似——但**避险对象不同**（伊朗为冰、圣经为水），是印欧末日神话与美索不达米亚洪水神话的独立分支（Boyce 1975）。
+## 三、Vendidad 2：三度扩土与地下方舟
 
-## 三、Yasht 19：三次失神辉
+《毗提婆特》第 2 Fargard 是伊玛神话最完整的一手文本。故事分两幕：
 
-*Zamyād Yašt*（Yasht 19）第 30–38 节讲述 Yima **三次说谎**导致 *xvarənah*（神圣王辉，中古波斯 *farr*）以鸟形三次飞离（元文琪 1987）：
-1. 第一次飞离 → 密特拉接受；
-2. 第二次飞离 → 伟大英雄 Θraētaona 接受；
-3. 第三次飞离 → 最强战士 Kərəsāspa 接受。
+**第一幕：三度扩土**。阿胡拉·马兹达先邀伊玛传布正教（*daēnā*），伊玛婉拒："吾非讲师，非传法之人"。马兹达遂授之以两件王权信物——**金环**（*suvra-*）与**金饰匕首**（*aštra-*）——命其扩土。伊玛以匕首刺地、以环扫过，大地依次扩张为原有的三分之一、三分之二、直至倍增，从而容纳滋生的人畜。这一仪式经 Kellens（2000）解读为古老印伊王权"以身体触地更新大地"的祭典化残余。
 
-Yima 因此丧失神权，被巨龙 Aži Dahāka（后世 Zahhak）用锯**劈成两半**（Yasna 9.5；Yasht 19.46）。这是印伊神话中最著名的「王权失落」叙事，也是**「骄傲导致堕落」**母题的最早文本证据（Reisner 2020）。
+**第二幕：var 方舟**。阿胡拉·马兹达向伊玛预告将有"恶毒严冬"（*malka-*）降临，命其在花剌子模一带建造名为 *var* 的方形地下城，收容"每种动植物中最优良的一对种子"、驱逐病残与恶意者。Kidd, Negus Cleary, Yagodin & Betts（2008）在花剌子模考古中发现的 Kalaly-Gyr、Koy Krylgan Kala 等青铜—铁器时代方形城址，为 *var* 传说提供了可能的物质原型——尽管年代对应尚有争议。
 
-## 四、三次扩地
+## 四、Yasht 19：王权光辉的三度失落
 
-*Vendīdād* 2 记载 Yima **三次扩地**：因人口增殖，Yima 用金锥（*sūrā*）与金鞭（*aštra*）敲击大地，令大地各向外扩三分之一。这一意象在菲尔多西《王书》中被简化为 Jamshid「金锥破土、创农事」，成为伊朗农业起源神话（Reisner 2020）。库尔德学者 Wallis（2015）论 Nowruz（波斯新年）起源即为 Jamshid 划地划春的纪念。
+*Zamyad Yasht* 第 31–38 节记载了伊玛后期的悲剧性衰落。伊玛因"言谎"（*aŋra- vacah-*）而三度失去王权光辉 *Xvarenah*——每一次失落，*Xvarenah* 都以鸟形逃逸并投附另一神格：先归 Mithra、再归 Apam Napāt（水之孙）、最后归英雄 Θraetaona（Firdausī 笔下的 Fereydun）。Kellens（2000）认为，这一"三度失王"母题是琐罗亚斯德改革前印伊王权观念的残余：王权并非世袭财产，而是随神圣光辉的自主转移而流转。
 
-## 五、Yima 与 Yama：印伊分化
+## 五、锯尸母题：Aži Dahāka 与 Spityura
 
-Kulikov（2018）从《梨俱吠陀》10.10 讲述 Yama 与其妹 Yamī 的兄妹对话——Yamī 提出乱伦生育、Yama 拒绝——推证**印伊分化前**的 Yama-Yamī 双胞胎神话是印伊神话的共同母层。伊朗保留 Yima 首王身份，印度分化出 Yama 冥王身份——是**印伊宗教史核心分化点**之一。
+伊玛失王权后，蛇魔 Aži Dahāka（史诗中的 Zahhak）从其兄 Spityura 之手将他锯为两段。这一"锯尸"母题在印欧比较神话中极为罕见，Skjærvø（2012）将之与赫梯 Illuyanka 神话中"蛇龙分尸"传统联系，视为伊玛作为"第一人"以死亡确立宇宙秩序的宇宙论转喻。
 
-## 六、Yima 与豪摩
+## 六、Nowruz 起源传说
 
-《Hōm Yašt》Yasna 9.4–5：**Yima 之父 Vīvahvant 是首献豪摩者**，因此得神子 Yima——首王之诞生来自首献豪摩。这一叙事把 Yima 与豪摩崇拜绑定，成为琐罗亚斯德教「祭仪—王权」双螺旋的核心表达（见本项目 haoma-zoroastrian 条）。
+尽管《阿维斯陀》本身并未将 Nowruz（春分节）明确归于伊玛，但 Bīrūnī 的《过往世纪之遗迹》（*Āthār al-Bāqiya*，约 1000 年）与 Firdausī 的《列王纪》均记载：Jamshid 于春分登金座、被鸟人抬升入天、大地为之欢庆——遂成 Nowruz。这一联系将伊玛的王权仪式与波斯最重要的岁时节令牢牢绑定，至今伊朗与中亚的 Nowruz 庆典仍隐约保留着"王权更新"的仪式内核。
 
-## 七、Jamshid 在《王书》中的演变
+## 七、Yama 与 Yima：印伊对偶的分化
 
-Reisner（2020）系统梳理 Yima → Jam → Jamshid 的文学演变：
-- **阿维斯塔层**：光辉王、方舟建造者，无堕落叙事之核心；
-- **萨珊 Pahlavi 文献**：*Bundahishn* 与 *Dēnkard* 加入「骄傲—失神辉」神学化；
-- **菲尔多西《王书》（1010）**：Jamshid 治世 700 年，创立冶金、纺织、医药、王座；宣布**「我即神」**触怒真主→ Zahhak 篡位→被锯两半。
+Boyce（1975）与 Skjærvø（2012）共同确立的印伊比较视角揭示：Yama 与 Yima 是同一原型的两支分化。**吠陀 Yama** 保留了"第一死者—冥府之主"的功能：他是第一个走上死亡之路的人，此后统辖亡魂之国。**伊朗 Yima** 则舍弃了死神职能（在琐罗亚斯德教中，死亡由 Vīzarəša 一类恶魔与 Astō-Vidhōtu 承担），转而强化了"第一王—黄金时代—文明创制"的一系列职能。这一分化的关键节点很可能与琐罗亚斯德本人的改革相关——他不能容忍"王"与"死"合一的原初形象。
 
-这条演变链是**神话政治化的经典案例**——琐罗亚斯德教的黄金时代王转化为伊斯兰化伊朗自我认同的**文明缔造英雄**。
+## 八、Jamshid：史诗化与伊斯兰化改造
 
-## 八、跨文化对偶
+Firdausī 的《列王纪》在 10—11 世纪将伊玛彻底历史化为 Jamshid：Pishdadian 王朝第四王，在位七百年，创制冶金、纺织、医药、历法与阶级制度；因骄慢自称"我即造物"而失王权 *farr*（*Xvarenah* 的中古形式），Zahhak 借机篡位。Foroutan（2024）指出，晚期 Pahlavi 与新波斯文献中 Jam/Yim 形象已从神话之王转向"骄慢—堕落—惩罚"的道德训诫典范，配合伊斯兰化后的正统神学重写。
 
-- **Yama（吠陀）**：语源同根，印度分化出冥王身份（Kulikov 2018）。
-- **挪亚（希伯来）**：Var 方舟与挪亚方舟母题一致（Boyce 1975）。
-- **黄金时代—Deucalion（希腊）**：赫西俄德的**黄金—白银—青铜—英雄—黑铁**五时代神话，其黄金时代描写与 Yima 治世高度对应（Christensen 1934）。
-- **Osiris（埃及）**：Vertiyenko 2012 论首王—死亡—永生跨文化谱系。
+## 九、跨文化谱系
 
-## 九、Nowruz：延续 3000 年的记忆
+伊玛在比较神话学中占据独特位置：
 
-伊朗新年 Nowruz（**「新的一天」**）自古被归于 Jamshid：他划开山谷、命春天到来。UNESCO 于 2010 年将 Nowruz 列入非物质文化遗产，覆盖伊朗、阿富汗、塔吉克斯坦、印度、库尔德区、土耳其等 12 国 3 亿人口——一个 3000 年的神话人物仍在被年年纪念的**活态记忆**（Wallis 2015）。
+- 与吠陀 **Yama**：直系印伊分化（Boyce 1975）；
+- 与希伯来 **Noah**：*var* 方舟与洪水方舟属同一"选种救世"类型（Skjærvø 2012）；
+- 与希腊 **Cronos 黄金时代**：千年无死无病的黄金岁月母题（Moore 2008）；
+- 与中国 **大禹**：以王权仪式重塑大地的"扩土—划州"结构（Kellens 2000 提示的比较视野）。
 
-## 十、意义总结
+## 十、Mythos Atlas 编者按
 
-伊玛把印伊宗教中**首王神学**推向极致：他是首献豪摩者之子、黄金时代之王、末日方舟建造者、也是骄傲失神辉的堕落之王。这一「盛—衰—方舟」结构后被基督教末世论、伊斯兰救主论各自吸收变形。当代 Nowruz 节仍以春天到来、以柴堆跨火（*Chaharshanbe Suri*）纪念 Jamshid，是琐罗亚斯德教前伊斯兰记忆在伊朗文化中最深层的持久存在。
-
-## 十一、Mythos Atlas 编者按
-
-- **奠基作**：Christensen 1934 · Boyce 1975 · Kellens（Cahiers de Studia Iranica 系列）。
-- **最新研究**：Reisner 2020（文学演变）· Kulikov 2018（印伊分化）· Vertiyenko 2012（跨文化）。
-- **一手文献**：*Vendīdād* 2；*Yasht 19*；菲尔多西《王书》Jamshid 章；*Bundahishn*。
-- **深度追踪**：Nowruz 民俗延续（Wallis 2015）与 Ferdowsi 千年阐释史值得作长时段跟踪。
-- **神学地位**：*attested*——阿维斯塔文本 + Pahlavi 文献 + 中古史诗 + 活态节庆四重证据。
+- **奠基作**：Boyce《琐罗亚斯德教史》卷一（1975）与 Kellens《琐罗亚斯德研究论集》（2000）是必读双璧；
+- **最新研究**：Foroutan（2024）代表 SOAS 学派最新的晚期文献学动向；Kidd Betts 团队在花剌子模的方形城址考古（2008—2015）持续提供 *var* 传说的物质佐证；
+- **一手文献**：*Vendidad* Fargard 2 与 *Yasht* 19 是不可绕过的两部经；
+- **深度追踪**：*Xvarenah* 王权光辉的三度流转母题、Jam/Yim 的伊斯兰化改造、Nowruz 与伊玛的仪式关联；
+- **神学地位**：伊玛并非 *Yazata*（受敬拜的神），而是"人之最初者"与文明创制者，在琐罗亚斯德教实践中受纪念而不受祭祀。他的失王故事是琐罗亚斯德教反骄慢神学最重要的教材之一。

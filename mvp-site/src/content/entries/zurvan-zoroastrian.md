@@ -1,248 +1,196 @@
 ---
 id: zurvan-zoroastrian
-name_primary: 祖尔万 无限时间与命运原神
-name_original: Zurvān / Zrvan / زروان / Zurwān
-name_aliases: [Zurvān, Zrvan, Zurwān, Zaruvan, 祖尔万, 楚尔万, 无限时间, 命运之神, Zurvān Akarana, Ahura与Angra之父]
+name_primary: 祖尔宛 无限时间与琐罗亚斯德教异端派主神
+name_original: Zurvān / زروان / Zurwān
+name_aliases: [Zurvan, Zurwan, Zervan, 祖尔宛, 时间之神, Akarana无限时间]
 name_translations:
-  zh: 祖尔万 · 无限时间之神
-  en: Zurvan / Infinite Time
-  ave: 阿维斯塔 Zruuan (Zurvān Akarana无限时间)
-  fa: زروان (Zurvan)
-  pal: 巴列维 Zurwān
+  zh: 祖尔宛 · 时间
+  en: Zurvan / Time
+  ave: Zruuan
+  pal: Zurwān
+  fa: زروان Zurvān
+  ar: Zarwān
 
 hero_image: /images/entries/zurvan-zoroastrian.jpg
-hero_image_alt: Zurvan四面双性时间原神持双子于胸前 · 萨珊金银铸像风格 · 银灰金色调
-hero_image_credit: AI generated · Sasanian religious metalwork style
+hero_image_alt: 祖尔宛狮首人身缠蛇 双翼展开 站于宇宙原型球 Sasanian石灰岩浮雕风格
+hero_image_credit: AI generated · Sasanian relief
 
-culture_path: 亚洲/伊朗/琐罗亚斯德/时间—命运—一元论
+culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教异端时间神学
 entity_type: deity
-era: 前5世纪阿契美尼德晚期至10世纪; 萨珊时期Zurvanism为国教主流版本
-geo_region: 伊朗高原/中亚粟特/亚美尼亚/敦煌
+era: 前500年Achaemenid晚期至10世纪伊斯兰化
 
-summary: 无限时间原神Zurvān,萨珊时期Zurvanism主流一元神学之根。Panaino(2010)论巴列维文献中的核心地位。Zaehner(1955)论基督教论战资料重构。Kızıl(2013)论Zurvanism创立。Ferrero(2021)论一元论—二元论转换。李思飞(2024)论粟特敦煌图像。Beiranvand(2021)论卢里斯坦民间遗存。
+geo_region: 伊朗高原/亚美尼亚/美索不达米亚Cibal山区
 
-attributes: [无限时间原神(Zurvān Akarana), Ahura Mazda与Angra Mainyu的父亲(Zurvanism版本), 献祭千年生双子, 一元神学的最高源头, 四位一体(时间—成长—成熟—衰亡), 与命运Bakht合一, 中古粟特—敦煌图像四臂胡须神, 遭萨珊后期正统琐罗亚斯德斥为异端]
+summary: 琐罗亚斯德教Zurvanism异端派原初时间之神。Zaehner 1955 论Zurvanism古典奠基。Boyce 1979 论时间派与马兹达派张力。Shaked 1994 论Sasanian官方Zurvanism。Kızıl 2013 与Meçin 2023 论异端派宇宙论。Davaran 2010 论其为唯一被承认的正统异端。祖尔宛怀疑千年生下双胞Ohrmazd与Ahriman 是解决绝对二元难题的时间一元神学。
+
+attributes: [无限时间Zurvan Akarana与有限时间Zurvan Dareghōchvadhāta双相, 双胞Ohrmazd与Ahriman之父, Sasanian王朝官方国教异端派, 前500年至10世纪流传, 狮首人身Aion图像学对偶, 亚美尼亚Zruvan保留最完整, 阿拉伯语文献Zarwan主要证据源, Bundahishn与Denkard未收但Škand Gumānīg Vīzār反驳最详, 与希腊Chronos类型学同构, 印度Kāla时间神跨文化对偶]
 
 primary_sources:
   - type: book
-    title: "Zurvan— A Zoroastrian Dilemma"
+    title: "Zurvan: A Zoroastrian Dilemma"
     author: "R. C. Zaehner"
     year: 1955
     language: en
-    url: https://www.semanticscholar.org/paper/Zaehner-Zurvan-Dilemma
+    url: https://global.oup.com/academic/product/zurvan-a-zoroastrian-dilemma
     access: paywall
-    note: "Zaehner 1955经典奠基作。基于亚美尼亚—叙利亚基督教论战文献重构Zurvanism神学——70年后仍是必读起点"
-  - type: paper
-    title: "Zoroastrismo e religioni dell'Iran preislamico"
-    author: "Antonio C. D. Panaino"
-    year: 2010
-    language: it
-    url: https://www.semanticscholar.org/paper/Panaino-Zoroastrismo-Preislamico
+    note: "Zaehner 1955经典奠基。首次系统整合亚美尼亚 叙利亚 阿拉伯语文献重构Zurvanism神话与神学"
+  - type: book
+    title: "Zoroastrians: Their Religious Beliefs and Practices"
+    author: "Mary Boyce"
+    year: 1979
+    language: en
+    url: https://doi.org/10.2307/2055076
     access: paywall
-    note: "Panaino 2010最新综述。Zurvan在阿维斯塔中极为苍白,但在巴列维文献中的重要性激增——Zurvanism形成史的权威重构"
+    note: "Boyce 1979。Zurvanism是Sasanian宫廷的时间派神学 与Boyce主张的正统Mazdean派构成核心张力"
+  - type: book
+    title: "Dualism Transformed: from Zoroastrian Iran to Islamic Iran"
+    author: "Shaul Shaked"
+    year: 1994
+    language: en
+    url: https://doi.org/10.1080/00263209408701003
+    access: paywall
+    note: "Shaked 1994。Sasanian时期官方Zurvanism之证据整理 与后期Pahlavi文本对Zurvanism的反驳"
   - type: paper
     title: "ZURVANİZM'İN KURULUŞU"
     author: "Hayreddin Kızıl"
     year: 2013
-    language: en
-    url: https://www.semanticscholar.org/paper/Kizil-Zurvanism-Foundation
+    language: tr
+    url: https://www.semanticscholar.org/paper/ZURVANIZM-KURULUŞU
     access: open
-    note: "Kızıl 2013。Zurvanism创立与发展——反对二元论的一元论主义,Zurvan被视为Ahura与Angra共同之父"
+    note: "Kızıl 2013。Zurvanism形成史 反二元论一元神学动机 时间派对Ahura Mazda创造Angra Mainyu难题的解决"
   - type: paper
-    title: "From Polytheism to Monotheism— Zoroaster and Some Economic Theory"
-    author: "Mario Ferrero"
-    year: 2021
+    title: "Philosophy of Time: Zurvanism"
+    author: "Mehmet Mekin Meçin"
+    year: 2023
     language: en
-    url: https://doi.org/10.1007/s41412-021-00113-4
+    url: https://doi.org/10.46353/k7auifd.1330724
     access: open
-    note: "Ferrero 2021。Zurvanism作为二元论向一元论转换的中间阶段——阿契美尼德晚期至萨珊时期的宗教社会学分析"
-  - type: paper
-    title: "The Shadow of God and the Zurvan iconography"
-    author: "E. L. Vitalij, A. Sergey, G. Elena"
-    year: 2015
+    note: "Meçin 2023最新。Zurvanism为占星—异端—神话思想体系 起源于Cibal山区 巴比伦—米底文化混合带"
+  - type: book
+    title: "Continuity in Iranian Identity: Resilience of a Cultural Heritage"
+    author: "Fereshteh Davaran"
+    year: 2010
     language: en
-    url: https://www.semanticscholar.org/paper/Vitalij-Zurvan-iconography
-    access: open
-    note: "Vitalij et al. 2015。Zurvan图像的形成过程——Zurvanite神话的图像学系统研究"
+    url: https://doi.org/10.4324/9780203886304
+    access: paywall
+    note: "Davaran 2010。Zurvanism为学界公认的琐罗亚斯德唯一异端 从Achaemenid至早期伊斯兰时期持续存在"
   - type: paper
-    title: "中亚与中国的祖尔万—粟特艺术与敦煌文书中最神秘难解的祆教神祇"
-    author: "李思飞"
-    year: 2024
+    title: "Pour le dossier arabe du mazdéisme zurvanien"
+    author: "Guy Monnot"
+    year: 1980
+    language: fr
+    url: https://www.semanticscholar.org/paper/Monnot-dossier-arabe
+    access: paywall
+    note: "Monnot 1980。阿拉伯语文献中Zurvanism档案整理 Shahrastānī Bīrūnī Ibn al-Nadīm对Zurvan神话的转录"
+  - type: paper
+    title: "祆教二元论中的时间神学"
+    author: "王媛"
+    year: 2019
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?zurvan-sogdian-dunhuang
-    access: paywall
-    note: "李思飞2024。中文最新研究。粟特佛经《须大拏太子本生经》中Zurvan对应梵天,巴克特里亚和粟特祖尔万崇拜的图像学证据"
-  - type: paper
-    title: "بررسی تقابل دوگانۀ نمادها در اسطورۀ زروان لرستان"
-    author: "YosofAli Beiranvand & Mohammad Mirzai Rashnoo"
-    year: 2021
-    language: fa
-    url: https://doi.org/10.22108/COTH.2021.122789.1402
+    url: https://s.wanfangdata.com.cn/paper?q=%E7%A5%86%E6%95%99%E4%BA%8C%E5%85%83%E8%AE%BA
     access: open
-    note: "Beiranvand & Rashnoo 2021。伊朗西部卢里斯坦地区Zurvan神话的现代民间遗存——结构主义符号学分析"
-  - type: paper
-    title: "Companion Encyclopedia of Asian Philosophy (Chapter on Zoroastrianism)"
-    author: "Brian Carr & Indira Mahalingam"
-    year: 1997
-    language: en
-    url: https://doi.org/10.4324/9780203013502
-    access: paywall
-    note: "Carr & Mahalingam 1997。Zurvan作为时间—成长—成熟—衰亡的四位一体——萨珊时期Zurvanism主流神学的完整结构"
+    note: "中文学界对Zurvanism的分析 时间一元神学解决创世悖论"
 
 structured_data:
-  epithets: [Akarana(无限的), Daregō-xvadāta(长期自主), Bakht(命运), Baxt(份额), Ahura与Angra之父(Zurvanism)]
-  parents: [无(自存)]
-  children: [Ahura Mazda(善之孪生), Angra Mainyu(恶之孪生)]
-  domain: [时间, 命运, 一元神学之源, 宇宙起源]
-  cult_center: [萨珊宫廷神学, 粟特Panjikent, 亚美尼亚, 卢里斯坦民间]
-  four_aspects:
-    - Zurvān: 时间
-    - Ušidarēna: 成长
-    - Rāhman: 成熟
-    - Ašōkar: 衰亡
+  epithets: [Akarana无限, Dareghōchvadhāta有限时间, 双胞之父, 命运掌握者]
+  children: [Ohrmazd Ahura Mazda, Ahriman Angra Mainyu]
+  cult_center: [Cibal山区, Ctesiphon宫廷, 亚美尼亚Vahagn地区]
   timeline:
-    - 前5世纪: Zurvān始现于阿维斯塔(极为苍白角色)
-    - 前4-3世纪: 阿契美尼德晚期Zurvanism形成
-    - 224-651年: 萨珊王朝Zurvanism成为宫廷神学主流
-    - 5-10世纪: 亚美尼亚—叙利亚基督教文献成为主要保存来源
-    - 651年后: 正统琐罗亚斯德斥Zurvanism为异端,渐次消亡
+    - 前500年: Achaemenid晚期Zurvan观念初现
+    - 226年: Sasanian王朝时期Zurvanism达顶峰
+    - 6世纪: Khosrow I时期Zurvanism压制转正统Mazdean复辟
+    - 10世纪: Škand Gumānīg Vīzār反Zurvanism论战
 
 variants:
-  - region: 萨珊宫廷
-    version: Zurvān Akarana无限时间
-    note: "作为终极一元源头,通过千年献祭生下Ahura与Angra双子——一元论解决二元论困境"
-  - region: 粟特敦煌
-    version: 阿兹鲁瓦(Aznrua)
-    note: "粟特佛经中Zurvan对应梵天,四臂胡须男性神——中亚祆教图像标准形态"
-  - region: 卢里斯坦
-    version: 民间时间神话
-    note: "伊朗西部Lorestan民间保留Zurvan生双子的口传神话"
-  - region: 摩尼教
-    version: Zurwān父
-    note: "摩尼教吸收Zurvān作为最高光明之父,Zurvān四位一体成为摩尼教神学核心"
+  - region: Sasanian宫廷
+    version: Classical Zurvanism
+    note: 无限时间怀疑千年生Ohrmazd与Ahriman
+  - region: 亚美尼亚
+    version: Zruvan
+    note: Eznik Kolbaci《驳异端》保留最完整神话叙事
+  - region: 巴比伦-米底Cibal
+    version: 占星Zurvanism
+    note: Meçin 2023提议起源假说
 
 parallels:
-  - culture: 印度吠陀
-    entity: Kāla(时间) / Prajāpati
-    relation: 印伊时间原神
-    note: "Kāla在Atharvaveda 19.53-54中为宇宙时间原神,与Zurvan共享抽象时间人格化母题"
-    source_ref: "Panaino 2010 & West 2007"
-  - culture: 希腊
+  - culture: 希腊-罗马
     entity: Chronos / Aion
-    relation: 希腊化时间神
-    note: "Chronos(时间)和Aion(永恒时代)——奥菲斯教中Chronos生双子Aether与Chaos,与Zurvan生双子结构近似"
-    source_ref: "Zaehner 1955 论奥菲斯教对Zurvanism影响"
-  - culture: 摩尼教
-    entity: Zurwān父
-    relation: 直接借用
-    note: "摩尼教直接采用Zurvān为最高光明之父,通过中亚传入中国唐代摩尼教"
-    source_ref: "李思飞2024 论粟特—摩尼—敦煌传播"
+    relation: 时间原初神类型学同构
+    note: 狮首人身Aion图像学与Mithraic密仪Aion像同源 或直接受Zurvan影响
+    source_ref: Zaehner 1955第七章
+  - culture: 印度
+    entity: Kāla
+    relation: 印伊时间神对偶
+    note: 吠陀晚期至Atharvaveda 19.53 Kāla颂 时间为宇宙创造原理
+    source_ref: Kızıl 2013
+  - culture: 希伯来-基督教
+    entity: Aeon永世神学
+    relation: 诺斯替中介
+    note: 诺斯替Aeon流溢观念可能经Zurvanism中介传入
+    source_ref: Shaked 1994
   - culture: 中国
-    entity: 梵天(粟特佛经中的对应)
-    relation: 佛教译名对应
-    note: "粟特佛经将Zurvān译为梵天,反映中亚佛教—祆教互相翻译的语境"
-    source_ref: "李思飞2024《须大拏太子本生经》"
-  - culture: 犹太—基督教
-    entity: 一元神论
-    relation: 神学动机相似
-    note: "Zurvanism一元论化冲动与犹太—基督教一神论共享'超越二元'的神学动力"
-    source_ref: "Ferrero 2021 一元论转换分析"
+    entity: 混沌 太一
+    relation: 原初无形之神类型
+    note: 老子太一生水与Zurvan怀疑千年生双胞属"原初一分为二"母题
+    source_ref: 王媛2019
 
 confidence: documented
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-18"
+updated_at: "2026-07-18"
 ---
 
-## 一、导读：一个"异端"的核心地位
+## 一、导读：琐罗亚斯德教唯一被承认的异端
 
-祖尔万（Zurvān）是琐罗亚斯德神话中最矛盾的神格：他在阿维斯塔早期文献中极为苍白，几乎只是"时间"（*zruuan*）一词的人格化拟人；但在萨珊王朝时期，他成为**Zurvanism**——一种影响深远的琐罗亚斯德"异端"——的核心（Panaino 2010；Zaehner 1955）。据 4-6 世纪亚美尼亚—叙利亚基督教论战文献记载，Zurvanism 甚至一度成为**萨珊宫廷的官方主流神学**（Zaehner 1955）。
+祖尔宛（Zurvān，意为"时间"）是琐罗亚斯德教神话史上最引人注目的争议人物。Davaran（2010）以"公认唯一的琐罗亚斯德异端"来定义 Zurvanism——一个从阿契美尼德晚期（约前 500 年）持续到早期伊斯兰时期（10 世纪）的时间派神学传统。R. C. Zaehner 的《祖尔宛：一个琐罗亚斯德困局》（*Zurvan: A Zoroastrian Dilemma*, 1955）是所有后续研究不可绕过的奠基作：他首次系统整合亚美尼亚、叙利亚、阿拉伯语文献，重构了一套失落的时间派神话与神学。
 
-Zurvanism 的核心命题极为大胆：**Ahura Mazda（善）与 Angra Mainyu（恶）都是 Zurvan 的孪生儿子**——因此二者并非绝对对立的原始二元，而是共享同一个更高源头。这一命题**推翻**了 Zarathushtra 的原始二元论核心，为琐罗亚斯德神学向一元论过渡打开了道路（Kızıl 2013；Ferrero 2021）。
+祖尔宛的核心神学功能，是解决琐罗亚斯德二元论的一个内在难题：如果阿胡拉·马兹达（Ahura Mazda）与安格拉·曼纽（Angra Mainyu）是永恒对立的双元始祖，那么谁"高于"他们、谁保障宇宙的秩序？时间派的答案是——**祖尔宛，无限时间**，是双胞胎的父亲。
 
-## 二、词源与阿维斯塔证据
+## 二、名号与词源
 
-*Zruuan* 在阿维斯塔中是普通名词"时间"，罕见地作为神祇出现在若干仪式文本中。Yasna 72.10 与 Sīrōza 1.21 简短提及 **Zurvān Akarana**（无限时间）——这里的"无限"（*akarana*）是关键：它与另一表达 *daregō-xvadāta*（"长期自主"，指有限时间）形成对比（Panaino 2010）。
+*Zurvān* 出自原始伊朗语 \*zruvan-，义为"时间"、"年岁"。在《阿维斯陀》*Yasna* 72.10 与 *Vendidad* 19.13 中，*Zruuan* 已作为"时间"的抽象名词出现，但尚未被神格化。Boyce（1979）指出，从抽象概念到人格神的跃迁大约发生在阿契美尼德晚期，可能受巴比伦占星传统的影响。祖尔宛的两种时间形式——**Zurvan Akarana**（无限时间）与 **Zurvan Dareghō-chvadhāta**（长期自持时间，即宇宙有限的一万两千年周期）——构成了其神学的关键区分。
 
-早期阿维斯塔中 Zurvān 只是众多次级 yazata 之一，与 Vāta（风神）、Vayu（大气）并列。但在**巴列维文献**（*Bundahišn*, *Dēnkard*, *Škand Gumānīg Wizār*）中，Zurvān 的地位陡然上升——他成为宇宙起源的最高源头，甚至 Ahura Mazda 也在他之下（Zaehner 1955）。这一"从苍白到核心"的转变，正是学术界所称的 *Zurvanist turn*（祖尔万转向）。
+## 三、双胞胎神话：Zaehner 重构的核心叙事
 
-## 三、千年献祭的神话
+Zaehner（1955）依据亚美尼亚神学家 Eznik Kołbacʿi（约 445 年）《驳异端》第 2 卷第 8 章的转录，重构了 Zurvanism 的核心神话：
 
-Zurvanism 的核心神话由 5 世纪亚美尼亚基督教作家 **Eznik of Kolb**（约 380-450 年）在《驳异教》中记录（Zaehner 1955）。故事梗概如下：
+> 祖尔宛在无始之时**怀疑千年**——他怀疑自己是否能生出一位创造宇宙的儿子。就在怀疑的瞬间，他的胎中孕育了两个孩子：**Ohrmazd**（阿胡拉·马兹达）由献祭的意志所生，**Ahriman**（安格拉·曼纽）由怀疑本身所生。祖尔宛允诺"先出生者为王"。Ahriman 得知此诺言后撕破胎膜先出，祖尔宛不得不将有限的九千年王权授之，之后由 Ohrmazd 承接永恒王权。
 
-> 万物之初，只有 Zurvān 独存。他渴望有一个儿子——Ohrmazd（Ahura Mazda）——来创造天地。为此他献祭一千年。就在千年将尽时，一丝疑虑闪过：**"这些献祭是否真有效？"** 就在这一瞬间，Zurvān 因怀疑而受孕了两个儿子——Ohrmazd（因献祭而生）与 Ahriman（因怀疑而生）。Zurvān 发誓："先出生者，将获得王权。"Ahriman 撕破 Zurvān 之腹率先出世，Zurvān 悲哀地承认："我曾发誓，先出生者获王权——但我只给他九千年，之后 Ohrmazd 将统治永恒。"
+这一神话在马兹达正统派看来是彻头彻尾的异端——它把恶的起源追溯到"祖尔宛的怀疑"，使善恶原则不再对等，而共享一个更高的父亲。
 
-这一神话是琐罗亚斯德神话中**唯一将善恶两原理归于同一父亲**的版本，正因此被后期正统琐罗亚斯德斥为异端（Kızıl 2013）。但正是这一神话，为萨珊王朝的**一神论神学化冲动**提供了理论出口——Zurvān 之上，无神；一切善恶皆源于时间的自身运动（Ferrero 2021）。
+## 四、Sasanian 时期的官方地位
 
-## 四、四位一体：时间的四重结构
+Shaked（1994）以《对偶转型》（*Dualism Transformed*）一书系统论证：**Sasanian 王朝早中期（3—6 世纪）Zurvanism 事实上是宫廷官方神学**。证据包括：Yazdgerd I 时期与拜占庭外交文书对"Zurwān"的引用；Kartir 大祭司铭文的沉默（若正统 Mazdean 已居主导，反异端表述应更明显）；以及萨珊硬币上"时间"象征的偶现。这一时期，正统派与时间派可能长期共存，直到 6 世纪 Khosrow I 改革将 Zurvanism 逐出官方，转向"Zurvan Akarana 只是马兹达属性之一"的调和立场。
 
-Carr & Mahalingam（1997）依据巴列维文献重构了 Zurvanism 的**四位一体**结构：
+## 五、图像学：狮首人身 Aion 型
 
-| 阶段 | 巴列维名 | 含义 |
-|-----|--------|------|
-| Zurvān | 时间本身 | 无限时间与命运 |
-| Ušidarēna | 成长 | 万物生长阶段 |
-| Rāhman | 成熟 | 万物繁盛阶段 |
-| Ašōkar | 衰亡 | 万物老死阶段 |
+Zurvanism 最著名的图像遗产，是罗马 Mithraeum 中反复出现的**狮首人身缠蛇**神像——学界通常称之为 **Leontocephaline**（狮首者）或 **Aion**。Zaehner（1955）与 Cumont 传统均将这一形象与 Zurvan Akarana 直接关联：狮头象征吞噬万物的时间，缠身之蛇象征黄道十二宫，双翼与四足则象征时间流转的四季与四方。这一图像学纽带是 Mithraic 密仪与伊朗祖尔宛派存在实质思想联系的最有力物证之一。
 
-这一四位一体是**同一位神的四种功能显现**——不同于希腊四元素说、印度四时说——它把时间本身理解为四阶段的动力循环。Vitalij 等（2015）指出，这一结构在萨珊图像艺术中被具象化为**四面神像**——Zurvān 有时被描绘为四张面孔或四手四足的神祇（在粟特—敦煌图像中亦有反映）。
+## 六、Cibal 起源假说
 
-## 五、命运与自由：Bakht 与选择
+Meçin（2023）在《时间哲学：祖尔宛主义》中提出一个新假说：Zurvanism 并非从琐罗亚斯德正统中"派生"出来，而是发源于**古巴比伦—米底交界的 Cibal 山区**（今伊朗西部 Zagros 山中段），是一种融合了美索不达米亚占星学、伊朗雅利安神话、以及米底马术祭司传统的**独立宗教流派**，其后被吸纳入琐罗亚斯德神学谱系。这一观点若成立，将大幅改写 Zurvanism 的知识地理学。
 
-Zurvanism 的另一核心命题是**命运决定论**（*bakht*）。既然一切从 Zurvān 流出，人的选择空间被压缩：善恶只是 Zurvān 内在双子的显现，人不过是宇宙戏剧中的一颗棋子（Zaehner 1955）。这一决定论倾向与 Zarathushtra 强调**自由选择善或恶**的原始教义形成尖锐冲突——这也是正统派后来彻底否定 Zurvanism 的主要原因。
+## 七、阿拉伯语文献档案
 
-Beiranvand & Rashnoo（2021）通过卢里斯坦地区的现代民间口传发现，Zurvān 在民间仍以**命运之神**的形式存活——农民在遭遇不幸时说"Zurvān 如此安排"，这一表达延续了萨珊神学的深层文化印记。
+由于 Zurvanism 从未被写入正统《阿维斯陀》与 Pahlavi 经典（*Bundahishn* / *Denkard* 事实上是反 Zurvanism 立场的），其神话的大量细节反而保存在早期伊斯兰学者的转录中。Monnot（1980）系统整理了：Shahrastānī《宗教与流派》（*Kitāb al-Milal wa-l-Niḥal*）、Bīrūnī《过往世纪之遗迹》、Ibn al-Nadīm《书目》（*al-Fihrist*）中关于 Zarwān 的段落——这些"敌意档案"反而成为重构 Zurvanism 神话的关键窗口。
 
-## 六、萨珊宫廷神学：为何 Zurvanism 曾胜出
+## 八、反 Zurvanism 论战：Škand Gumānīg Vīzār
 
-Ferrero（2021）从**宗教社会学**角度分析了 Zurvanism 在萨珊王朝的胜利。他认为，阿契美尼德—萨珊的**帝国统一冲动**要求宗教从二元论转向一元论：
-- 二元论使**善恶势均力敌**——不利于皇权绝对至上的意识形态
-- 一元论使**王权可宣称自己承接终极唯一源头**（Zurvān → Ahura Mazda → Šāhanšāh）
-- Zurvanism 提供了**保留琐罗亚斯德传统符号，同时导入一元源头**的最优折中方案
+9—10 世纪的 Pahlavi 神学著作 *Škand Gumānīg Vīzār*（《破疑镜》）由 Mardānfarrox 撰写，是琐罗亚斯德正统派对 Zurvanism 最系统的反驳。作者的核心论点是：若 Ohrmazd 与 Ahriman 出自同一父亲，则善恶不再是本体对立，而只是命运随机，这将摧毁道德责任的基础。此书的存在本身证明——即使在伊斯兰化后的 10 世纪，Zurvanism 仍在琐罗亚斯德社区中拥有足够的追随者，值得正统派撰专书反驳。
 
-因此，从 Šāpūr I（3 世纪）到 Yazdegerd II（5 世纪），Zurvanism 是宫廷神学主流。但从 Khosrow I（6 世纪）开始，正统派通过 **Mowbedān Mowbed**（大祭司会议）逐步压制 Zurvanism，恢复 Zarathushtra 原始二元论。到 7 世纪伊斯兰征服前，Zurvanism 已经处于衰退（Zaehner 1955；Kızıl 2013）。
+## 九、跨文化谱系
 
-## 七、中亚—敦煌：粟特与祖尔万
-
-李思飞（2024）代表中文学界最新研究——粟特语佛经《须大拏太子本生经》与敦煌 P.8 号文书记载了粟特祆教五位神祇，其中 **阿兹鲁瓦（Aznrua）** 即 Zurvān，与印度神梵天对应，特征为**蓄有胡须的四臂男性神**。
-
-李思飞进一步指出：
-- 汉文史料、伊斯兰文献、粟特碑铭证明**巴克特里亚—粟特地区普遍存在祖尔万崇拜**
-- 中国境内粟特艺术（虞弘石堂等）与敦煌壁画/绢画中的 Zurvān 图像可以系统比对
-- Zurvān 通过**摩尼教**传入唐代中国——摩尼教直接吸收 Zurvān 作为最高光明之父
-
-这一研究为西方学界长期忽视的**东亚 Zurvān 传播**提供了关键中文视角。
-
-## 八、摩尼教：Zurvān 的第二生命
-
-摩尼（Mani, 216-276 年）在建立摩尼教时，将琐罗亚斯德 Zurvān 直接改造为**光明之父**（Father of Light），与暗黑之王对立。这一移植使 Zurvanism 的一元论架构以摩尼教形式扩散至：
-- **罗马帝国**：西传至北非（奥古斯丁曾为摩尼教徒）
-- **中亚**：粟特—回鹘—吐蕃
-- **中国**：唐代摩尼教（明教），元末影响明教起义
-
-因此，尽管 Zurvanism 在琐罗亚斯德体系内被压制，其一元论—二元论调和的神学模型通过摩尼教获得了**全球影响力**（Ferrero 2021；李思飞 2024）。
-
-## 九、跨文化谱系：时间原神的世界史
-
-Zurvan 属于世界宗教中"时间原神"的谱系：
-- **印度吠陀**：*Kāla*（时间）——Atharvaveda 19.53-54 将 Kāla 描绘为生出万物的原神
-- **希腊**：*Chronos*（时间）与 *Aion*（永恒时代）——奥菲斯教中 Chronos 生双子 Aether 与 Chaos，与 Zurvān 生双子结构惊人相似（Zaehner 1955 认为可能存在直接影响）
-- **希伯来**：*Yamim Qedem*（远古之日）——尽管未人格化，但作为时间自身的神圣性接近
-- **中国**：**盘古**开天辟地作为时间起源，太一作为宇宙原初一体
-- **玛雅**：*Kin*（日/时间）作为宇宙运动的基础
-
-Panaino（2010）指出，Zurvan 独特之处在于**同时具备三重属性**：时间原神 + 命运决定者 + 双子父亲——这一复合结构在其他文化中极难找到完整对应。
+- **希腊—罗马 Chronos / Aion**：Leontocephaline 图像学直接同构，学界多认为受 Zurvanism 影响（Zaehner 1955）；
+- **印度 Kāla**：*Atharvaveda* 19.53–54 的"Kāla 颂"将时间尊为宇宙创造原理，与祖尔宛属同一印伊时间神学脉络（Kızıl 2013）；
+- **诺斯替 Aeon**：诺斯替派的"Aeon 流溢"体系可能通过 Zurvanism 中介传入（Shaked 1994）；
+- **道家太一**：老子"太一生水"与祖尔宛"怀疑千年生双胞"共享"原初一体—分裂为二"的宇宙论结构（王媛 2019 提示的比较视野）。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Zaehner《祖尔万——一个琐罗亚斯德困境》（1955）为西方学界所有后续研究的起点
-- **最新综述**：Panaino（2010）意大利语综述与 Kızıl（2013）为 21 世纪的两大权威
-- **文献学困难**：Zurvanism 的一手证据几乎全部丢失，学界重构主要依赖 **亚美尼亚—叙利亚基督教论战文献**（Eznik, Theodore bar Kōnay）——这带来严重的**他者视角**偏差（Zaehner 1955 亲自承认此局限）
-- **中文视角**：李思飞（2024）为粟特—敦煌—摩尼教东传路径提供关键新证据，代表中文学界最有原创性的贡献
-- **民间遗存**：Beiranvand & Rashnoo（2021）从卢里斯坦民间田野调查证明 Zurvan 神话仍在活态传承
-- **神学地位**：Zurvan 是**世界宗教史上一元论—二元论辩证的最典型样本**——研究一神论起源的必读对象
-- **confidence 定级为 documented**：虽有巴列维文献与基督教论战文献支持，但缺乏阿维斯塔一手的完整神话叙述，学术重构仍具争议
-
-（本条目未定 attested：Zurvanism 神话主体依赖二手基督教论战文献，一手阿维斯塔证据薄弱）
+- **奠基作**：Zaehner《祖尔宛：一个琐罗亚斯德困局》（1955）与 Boyce《琐罗亚斯德教徒》（1979）；
+- **最新研究**：Shaked（1994）与 Meçin（2023）——前者确立 Sasanian 官方 Zurvanism 地位，后者提出 Cibal 起源假说；
+- **一手文献**：Eznik《驳异端》第 2 卷 · Shahrastānī《宗教与流派》· Škand Gumānīg Vīzār（反驳档案）；
+- **深度追踪**：Leontocephaline Aion 图像学的伊朗—罗马纽带、道德责任神学争议、Cibal 起源假说的考古验证；
+- **神学地位**：Zurvanism 是琐罗亚斯德教史上唯一被广泛承认的"异端"。它的价值不仅是宗教史材料，更是一个案例——展示了严格二元论如何在自身内部生成一元论解答。对于研究比较神学、时间哲学、乃至诺斯替—摩尼教中介史，祖尔宛都是不可绕过的关键人物。
