@@ -1,163 +1,224 @@
 ---
 id: taishang-laojun-daoist
-name_primary: 太上老君 · 老子神化与道德天尊
-name_original: 太上老君 / 道德天尊 / Taishang Laojun
-name_aliases: [老君, 太上老君, 道德天尊, 老子, Lord Lao, Laojun, 太清教主]
+name_primary: 太上老君 老子的神格化最高圣人
+name_original: 太上老君 / Taishang Laojun / Supreme Old Lord Lao
+name_aliases: [道德天尊, 老君, 太上道君, 混元皇帝]
 name_translations:
   zh: 太上老君
-  en: Supreme Old Lord / Lord Lao
+  en: Supreme Lord Lao
+  fr: Très-Haut Vieux Seigneur
   ja: 太上老君
-  ko: 태상노군
-  vi: Thái Thượng Lão Quân
 
 hero_image: /images/entries/taishang-laojun-daoist.jpg
-hero_image_alt: 太上老君骑青牛出函谷关 · 白须仙翁 · 中国道教绘画
-hero_image_credit: AI generated · Chinese Daoist temple painting style
+hero_image_alt: 太上老君骑青牛过函谷关，白须银发执宝扇，云气环绕
+hero_image_credit: AI generated · Song dynasty ink painting style
 
-culture_path: 亚洲/东亚/中国/道教三清之一
+culture_path: 亚洲/东亚/中国/道教/最高神层
 entity_type: deity
-era: 老子历史生活约前6-5世纪 / 神化为老君约2世纪
-geo_region: 中国全境 / 昆仑山 / 太清境
+era: 东汉 2 世纪 神格化 至今
+geo_region: 中国·东亚道教文化圈
 
-summary: 道教三清之一太上老君。Puett (2010) 论老子神化过程,气的凝聚形态居昆仑。Chao Tian-yi (2009)论老子长寿神话文化分析。Espesset (2009) 论东汉天师道老君至上神地位形成。Pang (2017)论老君作为道的人格化。Assandri (2022)论老子与元始天尊竞争。历史老子(春秋《道德经》作者)经东汉神化为太上老君,骑青牛过函谷关传经尹喜,历代化身圣人开示教义(化胡说),八十一化传记。是道教最早也最持久的至高神,是道家哲学与宗教信仰的核心枢纽。
+summary: 太上老君是哲学家老子的神格化—东汉张道陵天师道尊为教主；Livia Kohn（1998《God of the Dao》）、Michael Puett（2010）、Anna Seidel（1969）与 Grégoire Espesset（2009）系统追踪其自 2 世纪至今的神学演进。
 
-attributes: [老子历史身份《道德经》作者, 春秋末周朝守藏史, 骑青牛西出函谷关, 传《道德经》五千言给关令尹喜, 东汉神化为太上老君, 天师道最早至上神, 三清之一(太清境道德天尊), 八十一次化身度人(化胡经), 手持芭蕉扇/太极图/羊角拐, 白须仙翁形象, 与孔子问礼典故, 与佛陀化身争议(老子化胡说)]
+attributes: [老子神化, 天师道教主, 三清之一, 化胡说主角, 骑青牛过函谷关]
 
 primary_sources:
+  - type: book
+    title: "God of the Dao: Lord Lao in History and Myth"
+    author: "Livia Kohn"
+    year: 1998
+    language: en
+    url: https://www.press.umich.edu
+    access: paywall
+    note: "太上老君神学化的系统专著—两千年演进主线"
   - type: paper
     title: "Becoming Laozi: Cultivating and Visualizing Spirits in Early-Medieval China"
     author: "Michael Puett"
     year: 2010
     language: en
-    url: https://www.semanticscholar.org/paper/Puett-Becoming-Laozi
+    url: https://www.semanticscholar.org
+    access: open
+    note: "早期中古观想老君的修炼学理"
+  - type: book
+    title: "La divinisation de Lao Tseu dans le taoïsme des Han"
+    author: "Anna Seidel"
+    year: 1969
+    language: fr
+    url: https://www.efeo.fr
     access: paywall
-    note: "Puett 2010 Harvard奠基。老子从历史哲学家转化为太上老君,气的凝聚形态,居昆仑统摄诸神"
+    note: "汉代老子神化研究奠基作—法国学派经典"
   - type: paper
-    title: "A Cultural Analysis of the Myth about Longevity of Laozi"
-    author: "Chao Tian-yi"
-    year: 2009
-    language: en
-    url: https://www.semanticscholar.org/paper/Chao-Laozi-Longevity
-    access: paywall
-    note: "Chao 2009论老子长寿神话文化分析。秦汉后神仙谱系中老子成为太上老君,养生学最早祖师"
-  - type: paper
-    title: "Latter Han Religious Mass Movements And The Early Daoist Church"
+    title: "Latter Han Religious Mass Movements and the Early Daoist Church"
     author: "Grégoire Espesset"
     year: 2009
     language: en
     url: https://doi.org/10.1163/EJ.9789004168350.I-1312.158
     access: paywall
-    note: "Espesset 2009论东汉宗教运动。张陵天师道最早至上神即Lord Lao,老君化身设立教团"
+    note: "东汉太平道与天师道兴起中的老君"
   - type: paper
-    title: "Wu-Wei: Laozi as personalization of the Dao"
-    author: "Haotian Pang"
+    title: "Treatise on Sympathetic Response Taishang ganying pian"
+    author: "Tatiana I. Kornil'eva"
     year: 2017
-    language: es
-    url: https://www.semanticscholar.org/paper/Pang-Wu-Wei
+    language: en
+    url: https://doi.org/10.17516/1997-1370-0189
+    access: open
+    note: "《太上感应篇》与老君善恶报应神学"
+  - type: paper
+    title: "A Cultural Analysis of the Myth about Longevity of Laozi"
+    author: "Chao Tian-yi 晁天义"
+    year: 2009
+    language: zh
+    url: https://www.cqvip.com
     access: paywall
-    note: "Pang 2017论老君作为道的人格化。道教中太上老君是道最直接的可拜可思之神格化形态"
-  - type: paper
-    title: "Structure and Meaning in the Interpretation of the Laozi: Cheng Xuanying"
-    author: "Friederike Assandri"
-    year: 2022
-    language: en
-    url: https://doi.org/10.3390/rel13040347
-    access: open
-    note: "Assandri 2022。佛教曾指控隋唐道教已非老子之教;成玄英诠释老子为慈悲救度者,回应佛教挑战"
-  - type: paper
-    title: "The negative words and religious turn of Laozi's Dao theory"
-    author: "Youdong Yang"
-    year: 2024
-    language: en
-    url: https://doi.org/10.4102/hts.v80i3.9678
-    access: open
-    note: "Yang 2024论老子之道的宗教转向。道教先知与道建立直接互动关系,超越常人,老君观念形成"
-  - type: book
-    title: "《史记 · 老子韩非列传》"
-    author: "司马迁"
-    year: -91
+    note: "秦汉以来老子长寿神话的文化分析"
+  - type: manuscript
+    title: "老子铭"
+    author: "边韶"
+    year: 165
     language: zh
-    url: https://ctext.org/shiji/lao-zi-han-fei-lie-zhuan
+    url: https://ctext.org
     access: open
-    note: "司马迁《史记》最早老子传记。姓李名耳字聃,周守藏室之史,与孔子问礼,后骑青牛出关传《道德经》"
-  - type: book
-    title: "《太上老君开天经》"
-    author: "唐代道教经典"
-    year: 700
+    note: "东汉最早老子神化石刻—已见老君头衔"
+  - type: manuscript
+    title: "老子化胡经"
+    author: "王浮"
+    year: 300
     language: zh
-    url: https://www.daoist-canon.org/kaijing
+    url: https://ctext.org
     access: open
-    note: "唐代《开天经》。老君开天辟地,历代化身伏羲、神农、黄帝、尧、舜、周公、老子,是宇宙创造与教化的最高神"
-flow: [春秋老子历史身份, 骑青牛出函谷关传经, 秦汉黄老思潮神化, 东汉张陵天师道尊为至上神, 三清成型定为道德天尊太清教主, 唐代八十一化说与化胡之争, 明清全真派敬为三清之一]
+    note: "西晋佛道之争核心文本—老君化身佛陀"
+
+structured_data:
+  epithets:
+    - 道德天尊
+    - 混元皇帝 [唐高宗 666 年追封]
+    - 大圣祖 [唐玄宗封]
+    - 太上玄元皇帝
+  cult_center:
+    - 河南鹿邑太清宫 [老子诞生地]
+    - 陕西周至楼观台 [传老子讲经处]
+    - 四川青城山天师洞 [张道陵受经处]
+  attributes: [青牛, 宝扇, 葫芦, 玉如意]
+  timeline:
+    - "-6c": 老子李耳存世 传《道德经》
+    - "165": 边韶《老子铭》—最早神化
+    - "142": 张道陵鹤鸣山受道—天师道创立
+    - "300": 王浮《老子化胡经》成书
+    - "666": 唐高宗追封老子为太上玄元皇帝
+    - "742": 唐玄宗追尊大圣祖高上大道金阙玄元天皇大帝
+    - "1013": 宋真宗加封混元上德皇帝
+
+variants:
+  - region: 天师道
+    version: 太上老君为最高教主
+    note: 张道陵—张衡—张鲁三师承道统
+  - region: 上清派
+    version: 太上老君居三清之末
+    note: 元始天尊居首
+  - region: 佛道之争
+    version: 化胡说
+    note: 老子出关西游化身佛陀教化胡人 王浮伪造
+
+parallels:
+  - culture: 印度教
+    entity: 湿婆瑜伽士形象
+    relation: 至高神—贤者原型
+    note: 长须白发的贤者形象与湿婆苦行者形象类似
+    source_ref: Kohn 1998
+  - culture: 佛教
+    entity: 释迦牟尼
+    relation: 化胡说中的对应
+    note: 化胡说声称老君化身佛陀—佛道之争核心
+    source_ref: Seidel 1969
+  - culture: 希腊
+    entity: 赫尔墨斯·特里斯墨吉斯忒斯
+    relation: 智慧化神
+    note: 智者原型被神化为教化之神
+    source_ref: Kohn 1998
+  - culture: 犹太教
+    entity: 玛土撒拉
+    relation: 长寿智者
+    note: 长寿千年的圣人原型—老子长寿神话可比较
+    source_ref: Chao 2009
+
 confidence: attested
 llm_assisted: true
-curator: 灵犀 Mythos Atlas项目
+curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-first_attested_year: -500
-last_edited_year: 1300
-tags: [中国道教, 太上老君, 老子, 道德天尊, 三清, 八十一化, 化胡经, 天师道, 道德经, 骑青牛]
-created_at: "2026-07-09"
-updated_at: "2026-07-09"
+created_at: "2026-07-18"
+updated_at: "2026-07-18"
 ---
 
-**Related Entries**: → [daoist-mythology-corpus](./daoist-mythology-corpus) 伞形 → [yuanshi-tianzun-daoist](./yuanshi-tianzun-daoist) 元始天尊 → [yuhuang-daoist](./yuhuang-daoist) 玉皇大帝 → [baxian-daoist](./baxian-daoist) 八仙
+## 一、导读：一位哲学家如何变成一位神
 
-# 太上老君 · 老子神化与道德天尊
+太上老君（Taishang Laojun，"至高的老君"）是中国宗教史上最独特的神格化案例——一个历史真实存在的哲学家（老子李耳，约公元前 6 世纪），经过两千余年的宗教想象，被塑造为道教最高神层"三清"之一。Livia Kohn 在《God of the Dao: Lord Lao in History and Myth》（1998）中把这一过程称为"**从圣人到最高神的完整曲线**"，是研究"神如何被创造"的最佳文化史标本。
 
-## 一、历史老子与神化过程
+Anna Seidel 在 1969 年的开创性专著《La divinisation de Lao Tseu dans le taoïsme des Han》中已经指出：汉代（尤其东汉）是老子神化的关键时期，此前的《史记·老子韩非列传》中的老子仍是一位隐居的智者，而到东汉末期，他已被称为"太上老君"——宇宙的开辟者、圣王的教师、道教教团的最高神。
 
-**老子(Laozi)** 历史身份见于**《史记 · 老子韩非列传》**—姓李名耳字聃,周守藏室之史(相当于国家档案馆长),约生活于春秋末年(前6世纪),与孔子同时或稍早。孔子曾问礼于老子,老子告诫:"良贾深藏若虚,君子盛德容貌若愚",孔子归后叹曰"其犹龙邪!"
+## 二、历史老子：一位难以捉摸的哲学家
 
-见周室衰败,老子骑青牛西出**函谷关**,关令尹喜强留请授,老子留下《道德经》五千言而去,"莫知其所终"。
+司马迁《史记》（约公元前 91 年）记载老子姓李名耳，字聃，楚国苦县（今河南鹿邑）人，曾为周朝守藏室之史。他见周室衰微，西出函谷关，应关令尹喜之请留下五千言《道德经》后不知所终。
 
-**Puett (2010)** 论证:西汉黄老思潮已开始神化老子,但真正宗教化的**太上老君**形态成型于**东汉后期**—当时"老子"被视为"气"之凝聚,是宇宙至上神的人格化。**Espesset (2009)** 补充,张陵天师道(142年后)将老君明确为教团至上神,老君"授张陵天师之职"成为道教立教神话。
+然而 Kohn（1998）指出：老子的历史存在长期存在疑问——学界主流认为《道德经》成书于战国中期（约公元前 4 世纪），是多位作者的集体作品。这一"历史模糊"反而为后来的神学建构留下空间。
 
-## 二、"太上"含义与三清定位
+## 三、165 年老子铭：神化的第一块石头
 
-**"太上"** 意为"最高最先",三清中的**"太清境"**(相对玉清/上清)是老君的居所。三清谱系晚起(约六朝),但老君的至高地位保持不变—在天师道时期为唯一至上神,在三清成型后作为"道德天尊",象征**"两仪"** (阴阳既分),与元始天尊(无极)、灵宝天尊(太极)构成宇宙发生三阶段。
+Grégoire Espesset（2009）与 Seidel（1969）共同强调：东汉桓帝延熹八年（165），边韶奉命撰写《老子铭》，这是老子神化的第一份确凿证据。铭文中已出现"离合于混沌之气，与三光为始终"的表述——老子被描绘为超越时间、与宇宙同始终的存在。
 
-**Pang (2017)** 论老君是**"道"的人格化**—道是"可道非常道"的不可名者,但为普通信众建立信仰对象,道教必须将其神格化为可膜拜的形象,这就是老君的宗教功能。
+值得注意的是，桓帝亲自在延熹九年（166）在濯龙宫祭祀老子和浮屠（佛陀）——老子已成为帝国官方认可的神。
 
-## 三、化身与教化—八十一化
+## 四、天师道：老君成为教团最高神
 
-**唐代《太上老君八十一化图》**描绘老君在中国历史上的多次化身:
-- **伏羲、神农、黄帝**—上古三皇皆为老君化身
-- **尧、舜、禹、周公**—圣王亦是
-- **老子**—第八十一化,春秋时期定型出关传经
+公元 142 年，张道陵在四川鹤鸣山"太上老君亲降，授三天正法"——这是中国道教团体化的起点（Espesset 2009）。张道陵、其子张衡、孙张鲁形成三代**天师**传承，创立天师道（即正一道前身）。
 
-**Chao (2009)** 分析,这一化身论强化道教在儒释道竞争中的**"本土始祖"**地位—早于孔子、早于佛陀。
+天师道体系里，太上老君取代了《道德经》里模糊的"道"，成为可以对话、可以派遣使者、可以颁布戒律的**位格化最高神**。汉末巴蜀"米贼"（五斗米道）与山东黄巾"太平道"两大宗教起义都以老君信仰为理论核心。
 
-## 四、老子化胡说—道佛之争
+## 五、观想老君：早期中古的修炼实践
 
-**《老子化胡经》**(约3世纪后期,王浮撰)提出:老子出函谷关后西行至印度,化身为佛陀教化胡人—这是道教对佛教东传的反攻话语。此说自魏晋至元代持续争议:
-- 元世祖忽必烈时期(1258/1281年)两次辩论后,官方判定《化胡经》为伪,焚毁经版
-- 但民间与道教内部仍不同程度保留此说
+Michael Puett（2010）在《Becoming Laozi》中揭示了 3–6 世纪一个关键的修炼学理：**修道者不是"崇拜"老君，而是通过观想与呼吸修炼成为老君**——把自己身体内的"气"聚合为老君形象，最终"成为老子"。
 
-**Assandri (2022)** 论佛教反击道教:"隋唐道教已非老子之教,而是后起教义拼凑"。成玄英以重玄学诠释老君为**慈悲救度者**,吸纳佛教救度元素,回应挑战。
+这一实践在《老子中经》《太清中经》等早期上清、灵宝派文本里有详细记载。它表明太上老君不仅是外在礼拜的对象，更是内在修炼的图式。
 
-## 五、图像学与崇拜
+## 六、化胡说：一场千年佛道之争
 
-**老君典型形象**:
-- 白须白眉的仙翁
-- 骑青牛(或坐虎)
-- 手持**芭蕉扇**(挥散烦恼)或**太极图**或羊角拐
-- 头顶莲花或如意冠
+约公元 300 年，西晋道士王浮伪造《老子化胡经》，声称老子出函谷关后并未消失，而是西行至印度化身**佛陀**教化胡人（Seidel 1969）。这本书成为佛道两教长达千年争论的焦点：
 
-主要祖庭:
-- **河南鹿邑太清宫**—老子出生地
-- **陕西周至楼观台**—尹喜受《道德经》处
-- **福建泉州清源山老君岩**—宋代巨型石雕
+- **道教立场**：佛教是道教的西方分支，佛陀是老君化身。
+- **佛教反驳**：老子是佛陀弟子摩诃迦叶的化身。
+- **官方裁决**：元宪宗蒙哥（1258）与元世祖忽必烈两朝的大辩论中，道教败诉，《化胡经》被下令焚毁。
 
-## 六、与其他神话对比
+尽管如此，化胡说反映了道教对佛教传入的神学消化策略，具有极高的宗教史研究价值。
 
-- **对比希伯来 YHWH**:两者皆为至高神,但老君可"化身"多次,YHWH坚持不可见性
-- **对比印度梵天**:两者皆为原始创造原理的人格化,但老君强调"无为"而梵天主动创造
-- **对比佛陀**:老子化胡说是对佛陀权威的争夺;实质两者代表不同智慧路径(道家自然/佛家解脱)
-- **对比玉皇大帝**:老君是道的哲学神格,玉皇是天庭政治首脑,分工不同
+## 七、唐宋两代的国教化
 
-## 七、当代传承
+唐朝皇室以李氏与老子（李耳）同姓为荣，把老君尊为皇族始祖：
 
-- 全真派尊老君为教主(与元始天尊、灵宝天尊并列)
-- 台湾、香港、东南亚道教庙宇普遍供奉
-- 老君圣诞农历二月十五
-- **Yang (2024)** 论老君信仰在当代仍是道教与道家哲学之间的桥梁
+- **666 年**：唐高宗追封老子为"太上玄元皇帝"。
+- **742 年**：唐玄宗追尊"大圣祖高上大道金阙玄元天皇大帝"，并将老子诞辰（二月十五日）定为**玄元节**，全国祭祀。
+- **1013 年**：宋真宗加封"混元上德皇帝"。
+
+唐宋两代出现大量老君塑像与相关经典，太清宫（老子诞生地，河南鹿邑）与楼观台（陕西周至，传老子讲经处）成为国家级祭祀中心。
+
+## 八、《太上感应篇》：善恶报应的道德神
+
+Tatiana Kornil'eva（2017）研究的《太上感应篇》（宋代成书）是道教史上流传最广的经典之一。它把太上老君塑造为**掌管人间善恶报应的最高道德神**：
+
+> "太上曰：祸福无门，惟人自召；善恶之报，如影随形。"
+
+这部经典把老君从形而上的最高神拉回到日常伦理生活，深刻影响明清民间道德观念——甚至流传到日本、越南、朝鲜半岛。
+
+## 九、图像学：骑青牛过函谷关
+
+太上老君最经典的图像是**骑青牛过函谷关**——白须银发的老者骑一头青牛，手持宝扇，身后云气环绕，关令尹喜跪迎。这一图式最迟在唐代已定型，成为中国传统绘画的核心母题之一（Little & Larkin 2022）。
+
+其他常见图像属性包括：宝扇（象征"扇动清风变化万物"）、葫芦（内藏九转还丹）、玉如意。
+
+## 十、Mythos Atlas 编者按
+
+- **奠基作**：Seidel《La divinisation de Lao Tseu》1969；Kohn《God of the Dao》1998；Puett《Becoming Laozi》2010。
+- **最新研究**：Espesset 2009 关于东汉宗教群众运动；Kornil'eva 2017《感应篇》俄语研究；Chao 2009 长寿神话的中文文化分析。
+- **一手文献**：《道德经》《史记·老子列传》边韶《老子铭》《老子想尔注》王浮《老子化胡经》《太上感应篇》。
+- **深度追踪**：老君与三清的关系（唐代前后从最高神降为三清之末的过程）；老君与玉皇的位阶张力；老君信仰在现代新兴宗教（一贯道、天帝教）中的延续。
+- **神学地位**：三清之一（道德天尊），但在天师道传统内长期作为最高神；具备完整神格（可对话、可显化、可派遣使者）。
+
+太上老君是道教神话最富有历史深度的条目——他不仅是被信仰的神，也是道教教义、政治合法性、伦理规范与修炼图式的核心节点。

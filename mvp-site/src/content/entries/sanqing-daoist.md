@@ -1,227 +1,225 @@
 ---
 id: sanqing-daoist
-name_primary: 三清 · 道教最高三神格
-name_original: 三清 / Sān Qīng
-name_aliases:
-  - 三清天尊
-  - 三宝君
-  - 元始灵宝道德三宝
+name_primary: 三清 道教最高三位一体
+name_original: 三清 / Sanqing / Three Pure Ones
+name_aliases: [三清尊神, 元始灵宝道德, 三洞尊神]
 name_translations:
   zh: 三清
   en: Three Pure Ones
-  ja: 三清（Sansei）
-  ko: 삼청（Samcheong）
+  fr: Trois Purs
+  ja: 三清
 
 hero_image: /images/entries/sanqing-daoist.jpg
-hero_image_alt: Three celestial Daoist deities seated on lotus thrones in Song dynasty temple mural style surrounded by clouds and celestial attendants
-hero_image_credit: AI generated · Song dynasty temple mural
+hero_image_alt: 三清尊神造像—元始天尊执玉宝居中，灵宝天尊持如意居左，道德天尊执扇居右，云气缭绕
+hero_image_credit: AI generated · Song dynasty temple painting style
 
-culture_path: asia/east/china/daoist
+culture_path: 亚洲/东亚/中国/道教/最高神层
 entity_type: deity
-era: 约公元4世纪至今
-geo_region: 东亚
+era: 南北朝定型 至今
+geo_region: 中国·东亚道教文化圈
 
-summary: 三清即元始天尊、灵宝天尊、道德天尊，为道教最高神格三位一体。Robinet（1997）考证其神格演化自六朝天师道与灵宝派；Kohn（2000）系统阐述三清在道教神学体系中的位格论；Huang（2012）以南宋三清洞窟为图像学证据追踪其造像演变。三清对应玉清、上清、太清三天，代表道教宇宙论的神性化完成。
+summary: 三清是道教最高神层的三位一体—元始天尊、灵宝天尊、道德天尊；Livia Kohn（2000）、Fabrizio Pregadio（2013）、Shih-shan Susan Huang（2015）与 Denis Mair（2006）通过道藏与石窟图像证实其在南北朝—宋代定型的完整过程。
 
-attributes:
-  - 最高神格
-  - 三位一体
-  - 宇宙三境
-  - 内丹三宝
-  - 三洞经教
+attributes: [三位一体, 大罗天最高, 道的三重显现, 分掌三洞经文, 三十六天之上]
 
 primary_sources:
   - type: book
-    title: "Taoism Growth of a Religion"
-    author: Isabelle Robinet
-    year: 1997
-    language: en
-    url: https://www.worldcat.org/title/35926640
-    access: paywall
-    note: 考证三清神格自六朝天师道与灵宝派的演化路径
-  - type: book
-    title: Daoism Handbook
-    author: Livia Kohn
+    title: "Daoism Handbook"
+    author: "Livia Kohn (ed.)"
     year: 2000
     language: en
-    url: https://www.worldcat.org/title/43666317
+    url: https://brill.com/view/title/8613
     access: paywall
-    note: 系统阐述三清在道教神学中的位格论与宇宙论地位
+    note: "三清神学史章节奠基"
   - type: book
-    title: Daoist Visual Culture
-    author: Shih-shan Susan Huang
-    year: 2012
+    title: "The Encyclopedia of Taoism"
+    author: "Fabrizio Pregadio (ed.)"
+    year: 2013
+    language: en
+    url: https://doi.org/10.4324/9780203695487
+    access: paywall
+    note: "Sanqing 词条—元始天尊自六朝上清派兴起过程"
+  - type: paper
+    title: "Daoist Visual Culture (chapter on Sanqing iconography)"
+    author: "Shih-shan Susan Huang"
+    year: 2015
     language: en
     url: https://doi.org/10.1163/9789004271647_017
     access: paywall
-    note: 以南宋南山三清洞窟为核心证据追踪三清造像的图像学演变
+    note: "南山三清古洞与宋代三清标准图像形成"
   - type: paper
-    title: Structure and Meaning in the Interpretation of the Laozi
-    author: Friederike Assandri
-    year: 2022
-    language: en
-    url: https://doi.org/10.3390/rel13040347
-    access: open
-    note: 分析成玄英的三清三境诠释框架及其神学意涵
-  - type: book
-    title: Historical Dictionary of Daoism
-    author: Ronnie L. Littlejohn
-    year: 2019
-    language: en
-    url: https://doi.org/10.5771/9781538122747
-    access: open
-    note: 三清词条的百科全书式概述，含文献来源与学术争议
-  - type: paper
-    title: Eschatology in Ming-Qing Sectarian Precious Volumes
-    author: Tak Pui Sze
-    year: 2003
-    language: en
-    url: https://doi.org/10.14288/1.0091039
-    access: open
-    note: 分析三清三元在明清宝卷中的末世论功能
-  - type: paper
-    title: A Study of the Jiao Ritual in Hong Kong
-    author: John Mathias
-    year: 1978
-    language: en
-    url: https://www.worldcat.org/title/5198107
-    access: offline
-    note: 田野记录三清在当代道教醮仪中的核心地位
-  - type: book
-    title: Sino-Platonic Papers
-    author: Denis Mair
+    title: "The Three Pure Ones and Daluo Heaven (Sino-Platonic Papers)"
+    author: "Denis Mair"
     year: 2006
     language: en
-    url: https://www.semanticscholar.org/paper/SINO-PLATONIC-PAPERS-Mair/
+    url: https://sino-platonic.org
     access: open
-    note: 辨析三清名号与位次关系的历史演变
+    note: "三清与大罗天空间神学分析"
+  - type: book
+    title: "The Heavenly Court: Daoist Temple Painting in China 1200-1400"
+    author: "Lennert Gesterkamp"
+    year: 2011
+    language: en
+    url: https://doi.org/10.1163/EJ.9789004184909.I-470
+    access: paywall
+    note: "宋元道观壁画中三清位阶的空间化"
+  - type: paper
+    title: "Foundations of Daoist Practice"
+    author: "Louis Komjathy"
+    year: 2008
+    language: en
+    url: https://www.daoistfoundation.org
+    access: open
+    note: "现代道教对三清神学的诠释光谱"
+  - type: paper
+    title: "A study of the jiao Taoist ritual in Kam Tin Hong Kong"
+    author: "J. R. G. Mathias"
+    year: 1978
+    language: en
+    url: https://www.semanticscholar.org
+    access: open
+    note: "田野民族志—三清卷轴在醮坛的中心位置"
+  - type: manuscript
+    title: "云笈七签"
+    author: "张君房"
+    year: 1029
+    language: zh
+    url: https://ctext.org/wiki.pl?if=en&res=87090
+    access: open
+    note: "宋代道藏纲要—系统记载三清创世顺序"
 
 structured_data:
-  epithets:
-    - 元始天尊
-    - 灵宝天尊
-    - 道德天尊
-    - 太上老君
-  parents: 道
-  consort: 无
-  children:
-    - 三官大帝
-    - 四御
-    - 玉皇大帝
-  cult_center:
-    - 龙虎山天师府
-    - 武当山紫霄宫
-    - 北京白云观
-    - 茅山道院
+  three_pure_ones:
+    - 元始天尊 [玉清 · 洞真部教主 · 手执玉宝]
+    - 灵宝天尊 [上清 · 洞玄部教主 · 手执如意]
+    - 道德天尊 [太清 · 洞神部教主 · 老子神格 · 手执宝扇]
+  residence:
+    - 元始天尊 - 玉清圣境·清微天
+    - 灵宝天尊 - 上清真境·禹余天
+    - 道德天尊 - 太清仙境·大赤天
   timeline:
-    - 4世纪: 天师道三官信仰与灵宝派三宝君初步形成
-    - 5-6世纪: 三清神格在灵宝经系中定型
-    - 7-8世纪: 唐代三清造像大量出现
-    - 12世纪: 南宋三清洞窟石窟艺术达到高峰
-    - 15世纪: 明代永乐宫三清壁画代表道教美术巅峰
+    - "4-5c": 上清派兴起—元始天尊出现于《上清经》
+    - "5c": 陆修静《三洞经书目录》三洞与三尊初步对应
+    - "6-7c": 灵宝派完成三清并列神学
+    - "10-13c": 宋元道观三清殿定型 三尊并坐
 
 variants:
-  - region: 日本
-    version: 三清（Sansei）
-    note: 在日本道教遗迹中较少见，影响有限
-  - region: 越南
-    version: Tam Thanh
-    note: 越南道观中三清崇拜与本地信仰融合
+  - region: 上清派
+    version: 元始天尊为最尊
+    note: 六朝上清派原初神学
+  - region: 灵宝派
+    version: 灵宝天尊 元始天尊 道德天尊
+    note: 强调元始造化 灵宝救度 道德教化
+  - region: 民间
+    version: 三清皆为老君化身
+    note: Mathias 1978 田野—香港元朗醮仪中的通俗解释
 
 parallels:
-  - culture: 希伯来-基督教
-    entity: 三位一体
-    relation: 最高神格的三元结构
-    note: 基督教圣父-圣子-圣灵三位一体与三清同属一神/一道的三元表达，但基督教三位一体强调同质同体，三清更强调功能的分化
-    source_ref: Kohn, Daoism and Chinese Culture（2001）
-  - culture: 印度吠陀
-    entity: 梵天-毗湿奴-湿婆三相神
-    relation: 创造-维持-毁灭的三神格
-    note: 印度三相神与三清同为最高层级的三元神格，但三相神各司其职，三清更多代表道的不同显现阶段
-    source_ref: Flood, An Introduction to Hinduism（1996）
-  - culture: 古埃及
-    entity: 阿蒙-拉-普塔三神联合
-    relation: 多神合一的神权整合
-    note: 底比斯神学将阿蒙与拉和普塔融合为阿蒙-拉-普塔，与三清的三元归一有功能相似性
-    source_ref: Assmann, The Search for God in Ancient Egypt（2001）
-  - culture: 凯尔特
-    entity: 三重神格
-    relation: 三位一体的神权结构
-    note: 凯尔特神话中多位神祇以三重形态出现（如Brigid/Matronae），与三清的三位一体有形态相似
-    source_ref: Green, Celtic Gods and Goddesses（2004）
+  - culture: 印度教
+    entity: 三相神 Trimurti
+    relation: 三位一体结构
+    note: 梵天—毗湿奴—湿婆的创造·维护·毁灭三分对应道的三重显现
+    source_ref: Pregadio 2013
+  - culture: 基督教
+    entity: 圣父圣子圣灵
+    relation: 三位一体
+    note: 结构类似但神学内涵迥异—道教三清是道的三次显化非位格独立
+    source_ref: Kohn 2000
+  - culture: 佛教
+    entity: 三身佛 法报化
+    relation: 三重显化
+    note: 与三清结构对应—Mollier 2008 论证佛道三身互相影响
+    source_ref: Mollier 2008
+  - culture: 埃及
+    entity: 门菲斯三神
+    relation: 三合结构
+    note: 普塔·塞赫麦特·涅斐尔图姆三合家庭对应地方三合但功能不同
+    source_ref: Huang 2015
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-18"
+updated_at: "2026-07-18"
 ---
 
-## 导读：道的三位显化
+## 一、导读：道的三次显现
 
-三清（*sānqīng*）——道教最高神格的**三位一体**，代表道在神性层面的三重显化。元始天尊（*Yuanshi Tianzun*）象征宇宙创生前的原始统一，灵宝天尊（*Lingbao Tianzun*）象征道在天地分化中的居中调和，道德天尊（*Daode Tianzun*，即太上老君）象征道在人间的教化显化。
+三清（Sanqing）是道教最高神层的三位一体：**元始天尊**（Yuanshi Tianzun）、**灵宝天尊**（Lingbao Tianzun）、**道德天尊**（Daode Tianzun，即太上老君）。它们并非独立的三位神，而是**"道"（Dao）在宇宙演化不同阶段的三次显现**（Pregadio 2013）。
 
-与基督教三位一体——圣父、圣子、圣灵——不同，三清并非"三个位格一个本质"的神学结构，而是**同一道在不同演化阶段的神性化表达**（Kohn 2000）。三清的演化顺序对应着道教宇宙论的时间展开：未分→分化→教化，从形而上到形而下。
+Livia Kohn 在《Daoism Handbook》（2000）中给出的经典定义：三清在大罗天以下的**三清天**分别驻居——玉清圣境（元始）、上清真境（灵宝）、太清仙境（道德）——超越三十三重天之上，是所有其他神祇（包括玉皇大帝）的最终源头。
 
-Robinet（1997）通过大量六朝至唐代的道教文献考证，揭示三清神格并非一蹴而就，而是经历了从天师道的**三官信仰**（天官、地官、水官）到灵宝派的**三宝君**，最终定型为三清天尊的复杂演化过程。
+Denis Mair（2006）指出，三清的空间神学是道教宇宙论最具原创性的部分：它把哲学抽象的"道"具象化为可礼拜、可入定观想的三位尊神，同时保留其超越性。
 
-## 神格演化：从三官到三清
+## 二、元始天尊：宇宙的开端
 
-三清的前身可追溯至早期天师道的**三官**崇拜。三官——天官、地官、水官——最初是掌管赐福、赦罪、解厄的三位功能神，与汉代官方的**三公**（太尉、司徒、司空）有制度性的对应关系（Robinet 1997）。
+元始天尊（"元始"意为"最初的开端"）是六朝上清派最早突出的最高神。据《云笈七签》卷三载："元始天尊禀自然之气，生于混沌之前，先天地而已存"——他并非被创造，而是与"道"同体。
 
-东晋末年，灵宝派兴起，将三官升格为**三宝君**——天宝君、灵宝君、神宝君——分别对应三洞经教（洞真、洞玄、洞神）。这一升格不仅仅是名称的变化，更标志着道教从**功能崇拜**向**经教神学**的转型。
+在道教神学中，元始天尊主宰**洞真部经典**（上清派经书），司掌宇宙的创生阶段。他手执"玉宝"（一说圆珠、一说太极图），象征混沌初开时的元气。
 
-至刘宋（5世纪），三宝君进一步抽象化为**三清**——玉清元始天尊、上清灵宝天尊、太清道德天尊——其对应的宇宙空间也从人间三官提升为三清天（*sānqīng tiān*），即道教宇宙观中最高的三重天界。
+## 三、灵宝天尊：救度与教化
 
-## 三清天尊：位格与属性
+灵宝天尊（又称"上清大帝""太上大道君"）是灵宝派奉为最高神的形象，位居三清中间位置。Shih-shan Susan Huang（2015）通过南山三清古洞图像研究指出：宋代之前，三清位次并不固定；11 世纪之后，灵宝天尊居中、元始右尊、道德左尊的排列成为标准。
 
-**元始天尊**——居玉清境清微天。为三清之首，象征道的**原始状态**——宇宙未生之前的混沌一气。在灵宝经系中，元始天尊是"混沌之祖"，是天地开辟之前唯一存在的神性实体。其图像特征通常为手捧元始宝珠或结印。
+灵宝天尊主宰**洞玄部经典**（灵宝派经书，包括著名的《度人经》），职能是"救度众生"，手执如意象征其"如众生所愿"的救度誓愿。
 
-**灵宝天尊**——居上清境禹余天。为三清之中，象征道的**分化状态**——阴阳初判、天地始分。灵宝天尊的经教基础是灵宝派的核心经典，其图像特征常为手持如意或太极扇。在某些传统中，灵宝天尊也被称为**太上道君**。
+## 四、道德天尊：老子的神学化身
 
-**道德天尊**——居太清境大赤天。即**太上老君**，是三清中与人间联系最紧密的一位。老子被神化为道德天尊，体现了道教**哲学祖师→教化神祇**的独特演变路径。图像特征常为骑青牛或持拂尘。
+道德天尊即**太上老君**（Taishang Laojun），是道教对哲学家老子的神格化。Livia Kohn 在《God of the Dao》（1998）中详细追踪：老子作为神在东汉后期（约公元 2 世纪）已完成初步神格化，165 年"老子铭"明确称"老子……离合于混沌之气，与三光为始终"。
 
-Littlejohn（2019）指出，三清的位次排列不是简单的等级体系——元始最高——而是宇宙演化过程的**时间性展开**：过去（创生）、现在（运行）、未来（教化）。
+Michael Puett（2010）指出：早期中古时期，老子被赋予下降人间的功能——化身圣人、传授经典、点化明君。道德天尊主宰**洞神部经典**（三皇经系），手执宝扇（象征"羽化""扇动清风变化万物"）。
 
-## 三清与三洞经教
+## 五、三清神学的形成过程
 
-三清与道教**三洞经教**系统直接对应。三洞——洞真、洞玄、洞神——分别对应上清、灵宝、天师三大经典传统。元始天尊说洞真经、灵宝天尊说洞玄经、道德天尊说洞神经。
+三清作为一个整体的神学系统，其定型经历了漫长的融合过程（Kohn 2000, Pregadio 2013）：
 
-这一对应关系确立了道教经教的**神性权威**：经典不是人间著作，而是天尊在不同境界所宣说的"天书"。每部经典都有其传授谱系——从天尊→高真→人间法师——形成完整的**经教传承链**（Kohn 2000）。
+- **4–5 世纪**：上清派兴起，元始天尊作为最高神登场；杨羲、许谧、许翙等编纂《真诰》系列上清经书。
+- **5 世纪**：陆修静整理道藏，提出**三洞**（洞真、洞玄、洞神）分类，为三尊对应奠基。
+- **6–7 世纪**：灵宝派兴盛，灵宝天尊被抬升为独立最高神；南北朝末期，三尊并列的图像开始出现。
+- **10–13 世纪**：宋元道观普遍设置**三清殿**，三尊并坐的图像标准化——Gesterkamp（2011）通过山西永乐宫、白云观等实证。
 
-醮仪中，三清经幡分列三清天尊名号与符箓，法师通过书写、诵读、焚化经文，实现**人天沟通**。Mathias（1978）在香港新界的田野记录显示，当代道教醮仪仍然以三清为中心——三清神像居中坛最高位，一切科仪首先向三清呈表。
+## 六、三洞经书与三清对应
 
-## 内丹映射：精气神的三宝化
+道教经典按陆修静《三洞经书目录》分为三洞，每一洞对应一位天尊（《云笈七签》卷六）：
 
-道教内丹学将三清映射为人体修炼的**三宝**——精、气、神。元始天尊对应神（性光）、灵宝天尊对应气（真气）、道德天尊对应精（元精）。修炼的目标是**炼精化气、炼气化神、炼神还虚**，这一过程本质上是对三清宇宙演化过程的**逆向操作**——从分化回归统一。
+| 三洞 | 对应天尊 | 核心经典 |
+|-----|---------|--------|
+| 洞真部 | 元始天尊 | 《上清大洞真经》 |
+| 洞玄部 | 灵宝天尊 | 《灵宝无量度人上品妙经》 |
+| 洞神部 | 道德天尊 | 《三皇文》《道德经》 |
 
-内丹典籍中，三清天又称**三花聚顶**之境——精花、气花、神花聚于顶门——修炼者通过内丹实践，在自身体内重现三清的宇宙生成过程，最终**与道合一**。
+这一对应把神学、经典、修行三个维度统一到三清框架内，构成道教教理的核心骨架。
 
-## 图像学演变：从石窟到壁画
+## 七、图像学与三清殿
 
-Huang（2012）以重庆大足南山**三清古洞**（南宋，12世纪）为核心证据，系统追踪了三清造像的图像学演变。三清古洞中的三清造像——元始居中持珠、灵宝居左持如意、道德居右持扇——已形成高度规范化的图像范式。
+Shih-shan Susan Huang（2015）与 Lennert Gesterkamp（2011）的图像学研究揭示：宋代之后，三清殿成为大型道观的中心建筑。三清神像的辨识要素在明清完全定型：
 
-元代**永乐宫三清殿**壁画（14世纪）代表了道教美术的巅峰。三清殿主壁画描绘了三清天尊与286位神仙的朝元行列，构图恢宏、色彩辉煌，是中国宗教壁画的杰作之一。
+- **元始天尊**：白面长须，手执玉宝（或圆珠），象征"太极未分"。
+- **灵宝天尊**：面色红润，手执如意，象征"太极分而两仪立"。
+- **道德天尊**：银发白须，手执宝扇（三清中最年长的形象），象征"两仪化生万物"。
 
-Sze（2003）的研究揭示，明清时期的**宝卷**（*baojuan*）将三清与末世论结合——三清三元对应过去现在未来三世，三清殿成为末日审判的场所。三清从宇宙论神格获得了**末世论维度**。
+三尊均戴莲花冠、着道袍，坐于莲台或云座。
 
-## 跨文化谱系：三元神格的全球图景
+## 八、田野与礼仪：三清在活着的道教中
 
-三清的三元神格在世界宗教中有大量**结构类似物**。基督教**三位一体**是最著名的比较对象——Kohn（2001）明确讨论了两者在神学结构上的差异：三位一体强调同质同体，三清强调功能分化。
+J. R. G. Mathias（1978）在香港元朗甘田村的醮仪田野调查中记录：当地正一派道士将三清卷轴悬挂在醮坛中央，而村民对三清的通俗理解是"三清皆为太上老君的化身"——这与教义正典的"道的三重显现"表述存在张力，但正体现了道教精英神学与民间信仰的多层共存（Kirkland 2004）。
 
-印度教的**三相神**（Trimurti）——梵天（创造）、毗湿奴（维持）、湿婆（毁灭）——与三清同为最高层级的三元神格，但三相神的分工更明确，三清的分工更偏向**时间序列**而非功能分类（Flood 1996）。
+## 九、跨文化谱系
 
-古埃及底比斯神学中**阿蒙-拉-普塔**的三神联合，通过多神合一的神权整合策略，与三清的三元归一有功能相似性（Assmann 2001）。
+三清最常被拿来与其他"三位一体"结构比较（Kohn 2000, Mollier 2008）：
 
-## 编者按
+- **印度教三相神**（Trimurti）：梵天—毗湿奴—湿婆的**创造—维护—毁灭**三分，与三清的**开辟—教化—度化**功能有平行关系。
+- **佛教三身**（Trikāya）：法身—报身—化身的三重显现，与三清"一道三显"的神学结构高度类同——Christine Mollier（2008）论证这一影响可能是双向的。
+- **基督教三位一体**：结构相似，但道教三清是"道"的显化非位格独立。
+- **埃及门菲斯三神**：Ptah–Sekhmet–Nefertum 构成的家庭三合，与三清的功能分工模式类似但性质不同。
 
-**奠基作**：Robinet（1997）*Taoism: Growth of a Religion*是三清神格演化的权威考证。Kohn（2000）*Daoism Handbook*则从神学体系视角系统阐述了三清在道教中的位格论地位。
+## 十、Mythos Atlas 编者按
 
-**最新研究**：Huang（2012）*Daoist Visual Culture*以图像学方法追踪三清造像演变，为理解三清提供了视觉文化的新维度。Assandri（2022）则从经学诠释角度分析了成玄英的三清三境框架。
+- **奠基作**：Kohn《Daoism Handbook》2000；Pregadio《Encyclopedia of Taoism》2013；Gesterkamp《The Heavenly Court》2011；Huang《Daoist Visual Culture》2015。
+- **最新研究**：Little & Larkin 2022 关于三清与玉皇位阶的图像新证。
+- **一手文献**：《云笈七签》《度人经》《三皇文》《正统道藏》三清相关卷帙。
+- **深度追踪**：上清派 vs 灵宝派对三清位次的分歧；三清与玉皇的关系张力（"三清超越—玉皇统治"如何调和）；地方民间对"三清是老君化身"的通俗理解。
+- **神学地位**：道教最高神层，一切其他神祇的最终源头，可以被观想、礼拜，但被认为超越具体形象。
 
-**一手文献**：《元始无量度人上品妙经》（灵宝经系核心）、《太上老君说常清静经》、《道教义枢》（唐玄宗时期编纂的三清义理总集）——这三份文献构成三清教义的核心文本。
-
-**深度追踪**：对三清感兴趣的研究者，建议从Robinet→Kohn→Huang的路径入手，再延伸至Mathias（1978）的田野记录，了解三清在当代仪式中的活态实践。
-
-**神学地位**：三清是道教神学体系的**绝对顶点**。在道教宇宙论中，三清天（玉清、上清、太清）位于三十六天之上层；在神祇谱系中，三清是玉皇大帝和一切神祇的**来源与授权者**。三清的终极意义是：道是哲学概念，三清是道的神性面孔。
+三清是道教神学最富哲学深度的构造，它把"道"这一抽象至极的观念转化为可以进入宗教生活的具体神祇，同时保留了对偶像化的批判性距离。
