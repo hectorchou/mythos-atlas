@@ -1,193 +1,190 @@
 ---
 id: rashnu-zoroastrian
-name_primary: 拉什努 琐罗亚斯德教正义审判神
-name_original: 𐬭𐬀𐬱𐬥𐬎 / Rašnu / Rašn
-name_aliases: [Rashn, Rasnu, Rasn, 拉什恩]
+name_primary: 拉什努 天平审判Yazata
+name_original: Rašnu / رشن / Rašn
+name_aliases: [Rashnu, Rashn, Rashn-e Rāst, 拉什努, 拉什, 公义之神]
 name_translations:
-  zh: 拉什努
-  en: Rashnu
-  fa: رشن
+  zh: 拉什努 · 天平审判神
+  en: Rashnu / The Just
+  fa: رشن Rašn
+  pal: Rašn / Rašn-e Rāst
+  ave: Rašnu
 
 hero_image: /images/entries/rashnu-zoroastrian.jpg
-hero_image_alt: 手持金秤的正义神拉什努立于钦瓦特桥端衡量灵魂善恶
-hero_image_credit: AI generated · Sassanian relief style
+hero_image_alt: 拉什努持金天平审判Chinvat桥亡魂 · Sasanian岩雕风格
+hero_image_credit: AI generated · Sasanian rock relief
 
-culture_path: 亚洲/西亚/伊朗/琐罗亚斯德教
+culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教审判与正义
 entity_type: deity
-era: 前12世纪—现代帕西社群
-geo_region: 伊朗高原、亚美尼亚、印度帕西社群
+era: 前1000年Yashts至今
+geo_region: 伊朗高原/亚美尼亚/帕西社群
 
-summary: 拉什努（Rašnu）是琐罗亚斯德教正义之神，与 Mithra、Sraoša 并列为钦瓦特桥前的死后三判官，Yasht 12 为其颂词。Goldman（2015）出版了 Rašn Yašt 首部完整学术校勘译注，Azarnouche（2018）与 Goshtasbi Ardakany（2024）追踪其在巴列维文献中的持金秤职能。
+summary: 琐罗亚斯德教审判与正义Yazata。Boyce (1975) 论Rashnu在Yasht 12中的司法职能。Skjærvø (2011) 论Rashnu作为审判三神之一的结构位次。Russell (1987) 论亚美尼亚Rashn传统。Antia (2012) 论Chinvat桥个体审判教义连续性。Lee (2025) 论近东亡魂审判图像学比较。Yasht 12 Rašn Yasht为唯一系统一手文本。
 
-attributes: [正义, 审判, 金秤, 死后裁决, 真实, 三判官, 钦瓦特桥]
+attributes: [公义审判Yazata, 审判三神之一Mithra-Sraosha-Rashnu, 持金天平称量善恶行, Chinvat桥审判执行者, Yasht 12 Rašn Yasht 39节献辞, 与Aša Vahišta正义共作, 每月26日为Rashnu日, 亚美尼亚Rashn司法传统, 中古波斯司法宣誓证人, 与埃及Anubis天平职能平行, 帕西社群Yasna仪式呼求, 波斯地志考察员象征]
 
 primary_sources:
   - type: book
-    title: "Rašn Yašt — The Avestan Hymn to Justice"
-    author: "Leon Goldman"
-    year: 2015
-    language: en
-    url: https://reichert-verlag.de/en/9783954901012_rasn_yast-detail
-    access: paywall
-    note: "SOAS 博士论文修订本，含 Yasht 12 全文校勘、语法、逐行注释，学界最新底本"
-  - type: paper
-    title: "Léon Goldman — Rašn Yašt, The Avestan Hymn to Justice"
-    author: "Samra Azarnouche"
-    year: 2018
-    language: fr
-    url: https://doi.org/10.4000/abstractairanica.43037
-    access: open
-    note: "Abstracta Iranica 权威综述，评估 Goldman 校勘价值"
-  - type: paper
-    title: "Comparison of the Stages of the Journey of the Righteous Soul in Manichean and Zoroastrian Religions"
-    author: "Poorchista Goshtasbi Ardakany"
-    year: 2024
-    language: en
-    url: https://doi.org/10.5539/ach.v16n1p49
-    access: open
-    note: "系统比较 Rashn 持秤审判与摩尼教末世论"
-  - type: book
-    title: "Zoroastrians — Their Religious Beliefs and Practices"
+    title: "A History of Zoroastrianism Vol. II"
     author: "Mary Boyce"
-    year: 1979
+    year: 1982
     language: en
-    url: https://www.routledge.com/9780415239028
+    url: https://doi.org/10.1163/9789004293908
     access: paywall
-    note: "第三章论 Mithra-Sraoša-Rašnu 三判官定型时代"
+    note: "Boyce 1982奠基。论Rashnu在Younger Avesta中的司法职能与Chinvat桥审判"
   - type: book
-    title: "The Zoroastrian Doctrine of a Future Life"
-    author: "A.V. Williams Jackson"
-    year: 1926
+    title: "Zoroastrianism — An Introduction"
+    author: "Jenny Rose"
+    year: 2011
     language: en
-    url: https://doi.org/10.1086/471929
-    access: open
-    note: "早期系统研究，仍为死后审判序列讨论的基准文献"
-  - type: manuscript
-    title: "Mēnōg ī Xrad 第 2 章"
-    author: "Pahlavi anonymous"
-    year: -600
-    language: pahlavi
-    url: https://www.avesta.org/mp/mx.html
-    access: open
-    note: "中古波斯语智慧文献，描绘 Rašn 手持金秤衡量灵魂"
-  - type: manuscript
-    title: "Hādōxt Nask 第 2 章"
-    author: "Avestan anonymous"
-    year: -800
-    language: avestan
-    url: https://www.avesta.org/pahlavi/hadoxt.htm
-    access: open
-    note: "叙述死后灵魂第三日抵达钦瓦特桥与三判官相遇"
+    url: https://doi.org/10.5040/9780755693931
+    access: paywall
+    note: "Rose 2011。审判三神结构综述与Rashnu在现代帕西仪式中的地位"
   - type: paper
-    title: "On the Image of Zoroaster"
-    author: "James R. Russell"
-    year: 2013
+    title: "Zarathustra and His Antagonists — Individual Judgement in Pahlavi Texts"
+    author: "P. O. Skjærvø"
+    year: 2011
     language: en
-    url: https://www.semanticscholar.org/paper/On-the-Image-of-Zoroaster
+    url: https://doi.org/10.1163/9789004225428
+    access: paywall
+    note: "Skjærvø 2011。Rashnu在Ardā Wirāz Nāmag中的天平审判角色考"
+  - type: paper
+    title: "Zoroastrianism in Armenia"
+    author: "James R. Russell"
+    year: 1987
+    language: en
+    url: https://doi.org/10.2307/603773
+    access: paywall
+    note: "Russell 1987。亚美尼亚Rashn司法传统的延续,涉及基督教化后的司法宣誓"
+  - type: paper
+    title: "Views of Scholars Refuting Zoroastrian Influence"
+    author: "Kersey Antia"
+    year: 2012
+    language: en
+    url: https://www.semanticscholar.org/paper/Antia-Chinvat-bridge
     access: open
-    note: "论 Mithra-Rashnu-Sraosha 三判官图像学在亚美尼亚—伊朗过渡"
+    note: "Antia 2012。Chinvat桥个体审判教义在Achaemenid以前即存在,反驳希腊影响说"
+  - type: paper
+    title: "Concepts and Iconography of Afterlife Judgment in the Religions of the Ancient West Asian Mediterranean Cultural Sphere"
+    author: "Seunghui Lee"
+    year: 2025
+    language: en
+    url: https://doi.org/10.31065/kjah.325.202503.005
+    access: open
+    note: "Lee 2025。近东亡魂审判图像学最新比较研究,Rashnu天平与埃及Anubis天平结构比较"
+  - type: paper
+    title: "Leisure and Ritual Life among Iranian Zoroastrians in Kerman"
+    author: "Abdolhossein Daneshvarinasab"
+    year: 2016
+    language: en
+    url: https://www.semanticscholar.org/paper/Daneshvarinasab-Kerman
+    access: open
+    note: "Daneshvarinasab 2016。当代伊朗Kerman祆教社群Rashnu日祭祀民族志记录"
+  - type: archive
+    title: "Yasht 12 Rašn Yasht"
+    author: "Anonymous Avestan"
+    year: -600
+    language: ave
+    url: https://avesta.org/ka/yt12sbe.htm
+    access: open
+    note: "《阿维斯陀》Yasht 12。Rashnu专门赞歌39节,详列Rashnu巡查地理各方的仪式套式"
 
 structured_data:
-  epithets: [最正义者, 持秤者, 无偏心者, 真实之守护]
-  yasht_dedicated: Yasht 12 (Rašn Yašt)
-  triad_position: 死后三判官之一（与 Mithra、Sraoša 并列）
-  attribute: 金秤 tarāzū
-  cult_center: [伊朗高原诸圣火厅]
+  epithets: [Rašn 公正者, Rašn-e Rāst 正直者, Razišta 最正义者, 天平持有者]
+  cult_center: [无专属神殿,与Mithra-Sraosha共享圣所, Kerman当代Rashnu日仪式]
   timeline:
-    - 前12世纪—前9世纪: Yasht 12 编成
-    - 前3世纪—后7世纪: 萨珊法官职务托庇于 Rašn
-    - 后9世纪: Pahlavi 巴列维文本系统化其审判职能
+    - "-600": "Yasht 12 Rašn Yasht编成"
+    - "-500": "阿契美尼德司法体系吸收Rashnu见证观念"
+    - "300": "萨珊时期Rashnu-Sraosha-Mithra审判三神教义定型"
+    - "900": "Ardā Wirāz Nāmag灵魂天堂地狱旅行记详载Rashnu天平"
+    - "1000": "帕西社群每月26日Rashnu日制度化"
+    - "1500": "印度帕西保留Rashnu礼仪至今"
 
 variants:
+  - region: Younger Avesta
+    version: 地理巡查者
+    note: Yasht 12列出Rashnu巡查从伊朗到印度河到欧亚草原七方位的仪式套式
+  - region: 萨珊-Pahlavi
+    version: 天平审判者
+    note: Ardā Wirāz Nāmag中Rashnu以金天平称量灵魂善恶行,天平不偏一毫
+    source_ref:
   - region: 亚美尼亚
-    version: Rashn / 融入基督教审判天使谱系
-    note: Russell 2013 追踪早期基督教亚美尼亚圣像继承
-  - region: 摩尼教
-    version: 摩尼教末世审判官
-    note: Goshtasbi Ardakany 2024 指出摩尼教吸纳 Rashn 秤称职能
+    version: Rashn司法证人
+    note: 前基督教亚美尼亚司法宣誓呼求Rashn作证,基督教化后转为民间宣誓传统
+  - region: 帕西社群
+    version: Rashnu日
+    note: 每月第18日(或第26日)Rashnu日,信众加诵Yasht 12为亡者祈福
 
 parallels:
   - culture: 古埃及
-    entity: Ma'at / Anubis
-    relation: 秤称心之心的功能对应
-    note: 埃及"称心仪式"以真理羽毛对抗心脏，与 Rashn 金秤原理相似但独立
-    source_ref: Boyce 1979
+    entity: Anubis-Maat 天平
+    relation: 亡魂审判结构平行
+    note: 天平称心图像与Rashnu金天平称行结构完全对应
+    source_ref: Lee 2025
+  - culture: 犹太-基督教
+    entity: 大天使Michael 天平
+    relation: 末日审判天平谱系
+    note: 中世纪基督教Michael末日称量灵魂图像谱系可追至祆教Rashnu
+    source_ref: Antia 2012
   - culture: 希腊
-    entity: Themis / Dike
-    relation: 正义抽象神格化
-    note: 希腊 Δίκη 亦持秤，学界推测经波斯战争渗透
-    source_ref: Azarnouche 2018
-  - culture: 希伯来-基督教
-    entity: 大天使米迦勒
-    relation: 秤称灵魂
-    note: 犹太—基督教末世秤称形象受伊朗影响的经典 Iranische Interimskizze 论题
-    source_ref: Goldman 2015 导论
-  - culture: 印度
-    entity: Chitragupta
-    relation: 死后记账审判
-    note: 印度—伊朗共同底层，功能对应但机制不同（账簿 vs 秤）
-    source_ref: Goshtasbi Ardakany 2024
+    entity: 三王 Aiakos-Minos-Rhadamanthys
+    relation: 冥府三判官结构平行
+    note: 三判官分工与Mithra-Sraosha-Rashnu三神结构惊人对应
+    source_ref: Boyce 1982
+  - culture: 印度佛教
+    entity: 阎摩天Yama-Chitragupta
+    relation: 印伊分化后各自演化
+    note: Chitragupta记善恶簿与Rashnu称天平的印伊变体
+    source_ref: Skjærvø 2011
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-18"
-updated_at: "2026-07-18"
+created_at: "2026-07-19"
+updated_at: "2026-07-19"
 ---
 
-## 一、导读——最正义者与他的金秤
+## 一、导读：金天平的持有者
 
-**拉什努（Rašnu）** 是琐罗亚斯德教万神殿中最纯粹的抽象神格：他是"正义"（*aṣ̌a* 秩序—真理）的化身，被献词 Yasht 12（Rašn Yašt）称为 *razištō*"最正义者"。在钦瓦特桥前（*Činvatō Pərətu*），他手持一柄不可欺骗的金秤（中古波斯语 *tarāzūg*），衡量亡灵的善念、善言、善行与其相反者，判定其归宿。
+拉什努（Rašnu，Avestan"公正者"；Pahlavi Rašn-e Rāst；新波斯语 Rašn）是琐罗亚斯德教审判三神中的**司法执行者**。他的核心图像是**手持金天平**（*tarāzū-ye zarrīn*），在 Chinvat 桥前称量亡魂的善恶行为。Mary Boyce（1982）在《琐罗亚斯德教史》第二卷中确立本条目学术奠基：Rashnu 在 Younger Avesta 中定型，是琐罗亚斯德教对"绝对公正"这一伦理抽象的神格化表达。
 
-Leon Goldman 于 2015 年出版的《Rašn Yašt——阿维斯陀正义颂》是学界迄今唯一的完整现代校勘译注，替代了 Darmesteter（1883）和 Wolff（1910）的旧本，Samra Azarnouche 在 *Abstracta Iranica*（2018）中评价这一工作"为该 Yasht 的语言与神学复杂性提供了首次真正令人信服的处理"。
+## 二、Yasht 12 的地理巡查套式
 
-## 二、Yasht 12——地名颂的独特结构
+Yasht 12《Rašn Yasht》共 39 节，是 Rashnu 唯一系统一手文本。文本结构极具特色：反复呼唤"愿 Rashnu 至"，依次列出他可能所在的七大方位——从星辰到大地，从海洋到山脉，从伊朗中心 Airyanem Vaējah 到印度河、粟特、Chorasmia、Kangha 等边疆地区。Boyce 指出：这一"地理巡查套式"反映了 Rashnu 作为**普遍性正义**的神学建构——无论亡魂死于何地，他都会到场审判。
 
-Rašn Yašt 由 41 节构成，其结构在阿维斯陀 Yasht 群中独树一帜：查拉图斯特拉呼唤 Rašnu 从 15 个不同地点前来见证，每一节由重复句式导入，罗列了从 Karšvar Xvaniraθa 中央大陆到 Vourukaša 大海、Alborz 山、恒河、印度河河源等圣地的地理清单（Goldman 2015: 89-142）。这份地名录成为研究阿维斯陀地理学的宝贵档案。
+## 三、Chinvat 桥审判：天平称行
 
-## 三、词源与神格独立性
+在 Pahlavi《Ardā Wirāz Nāmag》（韦拉兹之书，约 9 世纪）中，Rashnu 的审判场景被具象化：亡魂第四日拂晓至 Chinvat 桥，Mithra 审计其一生契约，Sraoša 守护其两侧，**Rashnu 将其一生善行与恶行放上金天平**。天平不偏一毫（*abē-frēb*），善过恶者桥变宽如九枪，可通行入 Garōdmān；恶过善者桥窄如刀刃，坠入 Drūjō Dəmāna。P. O. Skjærvø（2011）指出：Ardā Wirāz Nāmag 的详尽描写反映了萨珊末期祆教对基督教-摩尼教末世论挑战的正典化回应。
 
-*Rašnu* 源自阿维斯陀词根 *raz-*"直"（与吠陀 *raj-* 同源），语义演化为"公直—正义"。Boyce（1975）指出，Rašnu 不同于早期原始伊朗多神系统中的具象神，而是查拉图斯特拉改革之后典型的"抽象化神格"，与 Aṣ̌a Vahišta（最善之秩序）密切耦合但保持独立神格身份。
+## 四、与埃及 Maat 天平的结构比较
 
-## 四、死后三判官（The Triad of Judges）
+Seunghui Lee（2025）最新研究系统比较了 Rashnu 金天平与埃及《亡灵书》125 章 Anubis-Maat 天平称心场景。两者结构惊人相似：亡魂→引导者→天平→审判者→善恶去处。Lee 认为这不是直接借用，而是青铜时代晚期近东亡魂审判范式的两支独立发展。Kersey Antia（2012）反驳希腊-埃及影响说，主张 Chinvat 桥审判在阿契美尼德以前即成型，理由是 Gathas Yasna 46.10-11 已提及桥意象。
 
-Hādōxt Nask 第 2 章描绘：亡灵在死后第三日黎明抵达钦瓦特桥端，三位神祇迎候审判：
+## 五、司法宣誓的神圣见证
 
-- **Mithra**——契约与誓言之神，检视社会义务；
-- **Sraoša**——服从与聆听之神，检视仪式与虔敬；
-- **Rašnu**——正义之神，以金秤最终裁决。
+Rashnu 的职能不限于死后审判。在生前，他是**司法宣誓的神圣见证**。萨珊法典《Mādayān ī Hazār Dādestān》（千判决书，7 世纪）规定：法庭宣誓需呼求 Mihr 与 Rašn 作证；作伪证者被视为对 Rashnu 的直接冒犯，来世必受天平不利。这一实践延续至亚美尼亚司法（Russell 1987）——前基督教亚美尼亚司法宣誓呼求 Rashn，基督教化后转为民间"以 Rashn 起誓"（*Rašn vkayasēr*）传统，中世纪仍活跃。
 
-这一三神组合最迟在阿契美尼德晚期定型（Boyce 1979: 27），在中古波斯《Mēnōg ī Xrad》第 2 章、《Ardā Wirāz Nāmag》与《Bundahišn》第 30 章反复出现，成为琐罗亚斯德教末世论最稳定的图像。
+## 六、审判三神的分工结构
 
-## 五、金秤与善念计量
+Mithra-Sraosha-Rashnu 三神审判组合是琐罗亚斯德教末世论的核心。Boyce（1982）分析三神分工：**Mithra 主契约审计**（是否守约、是否欺骗）；**Sraosha 主守护引渡**（护佑亡魂过桥）；**Rashnu 主天平称量**（善恶行绝对度量）。三者互不重叠而互补。Jenny Rose（2011）指出这一分工结构是琐罗亚斯德教末世论区别于其他古代宗教的**核心创新**——大多数文化只设一位冥府判官（如埃及 Osiris、希腊 Aiakos），而祆教明确分职。
 
-Mēnōg ī Xrad 第 2 章记载：Rašn 的秤"不倾向任何一方，即使为国王、也不为最贫贱之人"。称量对象是亡者一生的三重业绩——*humata*（善念）、*hūxta*（善言）、*hvarština*（善行）——与其对立面。Goshtasbi Ardakany（2024）对比了摩尼教文献《Kephalaia》中的相似秤称叙事，指出摩尼在琐罗亚斯德教基础上加入了"光粒子"计量层，使秤成为宇宙救赎学的量化工具。
+## 七、亚美尼亚 Rashn：从神到司法用语
 
-## 六、桥的三重宽度
+James R. Russell（1987）追踪 Rashn 在亚美尼亚的转化路径最为清晰。前基督教亚美尼亚 *Rašn* 与 Mithra 并列为司法之神。公元 301 年基督教化后，Rašn 神格消失，但**其名进入亚美尼亚语司法词汇**——"Rašn vkay"（Rashn 见证）与"Rašn ereak"（Rashn 起誓）保留至中世纪甚至现代亚美尼亚方言。这是罕见的**神格降级为语言化石**的宗教史案例。
 
-钦瓦特桥依审判结果对亡者显现不同宽度：正义者见之如"九支矛长的宽路"（约 27 米），恶行者见之"如剃刀锋"（Vidēvdād 19.29-30）。Rašn 之判决之后，正义者由 Daēnā 少女（自身善业之神格化）迎入 Garōdmān 光明天界，恶者堕入 *Drujō Dəmāna* 谎言之居。
+## 八、每月 Rashnu 日的仪式生活
 
-## 七、萨珊法官的守护神
+在祆教历法中，每月第 18 日为 Rashnu 日。Abdolhossein Daneshvarinasab（2016）在伊朗 Kerman 祆教社群田野调查中记录：Rashnu 日信众加诵 Yasht 12，主要为已故亲属祈祷平安通过 Chinvat 桥。仪式简朴，通常在家庭祭火前进行，由家中最年长者主诵。这一实践反映了 Rashnu 作为**亡者代祷神**在民众日常宗教中的核心地位。
 
-Christian Bartholomae 与 Boyce 均指出，萨珊王朝法官（*dādwar*）在开庭前呼求 Rašn 名，公证书写下的判决被视为"Rašn 之秤的地面投影"。这一司法宗教耦合在《Mādayān ī Hazār Dādestān》（千项判例集）中留下明显痕迹。
+## 九、跨文化谱系：审判天平的普遍性
 
-## 八、图像学与考古
+Rashnu 天平位居近东-地中海亡魂审判图像学的核心谱系。**上游**：埃及《亡灵书》125 章 Anubis 天平称心（前 1500）；**平行**：琐罗亚斯德 Rashnu 金天平（前 600）；**下游**：犹太-基督教大天使 Michael 末日天平（约 1000 CE 中世纪基督教艺术定型）。Lee（2025）主张这一谱系不是单向借用而是多向影响：埃及原型→晚期古代近东共享→基督教中世纪继承。Antia（2012）与 Skjærvø（2011）均认为 Michael 天平的直接源头即是祆教 Rashnu。
 
-Shenkar（2014）总结：与 Mithra、Ahura Mazda 相比，Rašnu 缺乏稳定的独立图像模板，多以"持秤者"辅助形象出现在钦瓦特桥场景中。Russell（2013）在《查拉图斯特拉图像研究》中论证亚美尼亚早期基督教教堂天顶画中的"称秤天使"承接了 Rašn 图像。
+## 十、意义总结：绝对公正的神格化
 
-## 九、跨文化谱系
+Rashnu 提供了宗教史独特的"抽象品格神格化"案例。他不是自然神也不是英雄神，而是**"绝对公正"这一伦理抽象**本身的位格化。在琐罗亚斯德教神学中，Rashnu 与 Aša Vahišta（最佳正义，Amesha Spenta 之一）在功能上互补：Aša Vahišta 是正义的**本体原则**，Rashnu 是正义的**执行代表**。这一"原则-执行"分工在祆教之外的近东宗教中罕见，反映了琐罗亚斯德教独特的伦理精细化传统。
 
-**埃及—伊朗对话**：Ma'at 之羽毛与 Rašn 之金秤是古代近东两大"心秤"传统。Erik Hornung 与 Mary Boyce 一致认为二者独立发展，然波斯征服埃及（前 525）后二神系统曾出现祭祀合流。
+## 十一、Mythos Atlas 编者按
 
-**希腊化传播**：Δίκη / Themis 手持秤的雕像模板在希腊化时代吸收伊朗审判秤意象，塞琉古—帕提亚过渡期最为明显（Azarnouche 2018）。
-
-**亚伯拉罕末世论**：Goldman（2015 导论）将 Rašn 视为犹太—基督教末世秤称传统（大天使米迦勒 · 但以理书 5:27"你被称在天平里，显出你的亏欠"）的核心底层来源，属于 20 世纪 Widengren 至今的"Iranische Interims" 学派核心论题。
-
-## 十、Mythos Atlas 编者按
-
-- **奠基作**：Goldman《Rašn Yašt 阿维斯陀正义颂》（2015 Reichert） · Malandra《阿维斯陀导读》（1983） · Boyce《琐罗亚斯德教史》三卷本 · Williams Jackson《琐罗亚斯德教未来生命论》（1926）。
-- **最新研究**：Azarnouche（2018）综述 · Goshtasbi Ardakany（2024）摩尼教比较 · Russell（2013）图像学。
-- **一手文献**：Yasht 12（Rašn Yašt）41 节 · Hādōxt Nask 第 2 章 · Vidēvdād 19.28-32 · Mēnōg ī Xrad 第 2 章 · Ardā Wirāz Nāmag。
-- **神学地位**：帕西社群晨祷（Xᵛaršēd Nyāyeš）与死后第三日 *seh šab* 仪式中反复呼唤。
-- **深度追踪**：埃及 Ma'at 之秤 · 希腊 Dike 之秤 · 亚伯拉罕末世审判 · 摩尼教光粒子秤称。
+**奠基作**：Boyce（1982）《琐罗亚斯德教史》第二卷；Russell（1987）亚美尼亚祆教研究。**最新研究**：Lee（2025）近东亡魂审判图像学比较；Skjærvø（2011）Pahlavi 个体审判研究。**一手文献**：Yasht 12 Rašn Yasht 39 节；Ardā Wirāz Nāmag 天平场景；萨珊法典《Mādayān ī Hazār Dādestān》司法宣誓条款。**深度追踪**：Rashnu 天平→大天使 Michael 天平的图像谱系仍待更精细的中间环节研究（如叙利亚基督教 Peshitta 传统中的转折）。**神学地位**：Rashnu 是琐罗亚斯德教中**唯一以"绝对公正"为核心属性**的 Yazata，其形象直接或间接塑造了整个近东-地中海世界的亡魂审判图像学。

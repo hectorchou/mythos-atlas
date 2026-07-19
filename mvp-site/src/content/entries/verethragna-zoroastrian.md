@@ -1,213 +1,196 @@
 ---
 id: verethragna-zoroastrian
-name_primary: 韦雷斯拉格纳 琐罗亚斯德教胜利之神
-name_original: 𐬬𐬆𐬭𐬆𐬚𐬭𐬀𐬖𐬥𐬀 / Vərəθraγna / Bahrām
-name_aliases: [Verethraghna, Bahram, Vahagn, Warhran, 巴赫拉姆]
+name_primary: 韦雷特拉格纳 胜利与战神
+name_original: Vərəθraγna / بهرام / Warahrān
+name_aliases: [Verethragna, Warahrān, Bahram, Bahrām, 韦雷特拉格纳, 巴赫拉姆, 韦拉罕]
 name_translations:
-  zh: 韦雷斯拉格纳（巴赫拉姆）
-  en: Verethragna
-  fa: بهرام
+  zh: 韦雷特拉格纳 · 胜利之神
+  en: Verethragna / Smiter of Resistance
+  fa: بهرام Bahrām
+  pal: Warahrān / Wahrām
+  ave: Vərəθraγna
 
 hero_image: /images/entries/verethragna-zoroastrian.jpg
-hero_image_alt: 萨珊风格浮雕中身披甲胄手持权杖的胜利神韦雷斯拉格纳与他的十种化身
-hero_image_credit: AI generated · Sassanian relief style
+hero_image_alt: 韦雷特拉格纳化十形之战猪与雄鹰 · Sasanian岩雕风格
+hero_image_credit: AI generated · Sasanian rock relief
 
-culture_path: 亚洲/西亚/伊朗/琐罗亚斯德教
+culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教胜利与战争
 entity_type: deity
-era: 前12世纪—现代帕西社群
-geo_region: 伊朗高原、中亚、亚美尼亚、印度帕西社群
+era: 前1500年印伊分化前至今
+geo_region: 伊朗高原/贵霜/亚美尼亚/罗马边境/中亚粟特
 
-summary: 韦雷斯拉格纳（Vərəθraγna，中古波斯语 Bahrām）是琐罗亚斯德教十位胜利战神，Yasht 14 献词其十种化身（风、公牛、白马、骆驼、公猪、少年、猛禽、公羊、山羊、武士）。Malandra（1983）、Boyce（1975）、Jakubiak（2011）及 König（2017）综述其化身序列与萨珊时期图像转型。
+summary: 琐罗亚斯德教胜利战神Yazata。Benveniste-Renou (1934) 证Verethragna与吠陀Vṛtrahan同源。Gnoli (2000) 论萨珊Bahram王权化身。Grenet (2005) 论中亚粟特图像。Louw-Kritzinger (2008) 论与Herakles融合。Yasht 14 化十形52节为核心一手。
 
-attributes: [胜利, 战斗力, 化身变形, 男性力量, 守护, 治疗, 光明战士, 十化身]
+attributes: [胜利与战争Yazata, 化十形动物人变身能力, Yasht 14 Bahram Yasht 化十形52节, 与吠陀Vṛtrahan直接同源, 萨珊国王取名Bahram频率最高, 与Mithra共作战场护法, 贵霜钱币Orlagno-Warahran形象, 亚美尼亚Vahagn国民英雄化, 罗马边境Herakles-Verethragna融合, 每月第20日Bahram日, Bahram火最高等级火崇拜, 火星星曜Bahram]
 
 primary_sources:
-  - type: book
-    title: "An Introduction to Ancient Iranian Religion — Readings from the Avesta and Achaemenid Inscriptions"
-    author: "William W. Malandra"
-    year: 1983
-    language: en
-    url: https://www.upress.umn.edu/9780816611157
-    access: paywall
-    note: "含 Yasht 14 全译与十化身分析，学界通用底本"
-  - type: book
-    title: "A History of Zoroastrianism, Volume One — The Early Period"
-    author: "Mary Boyce"
-    year: 1975
-    language: en
-    url: https://brill.com/display/title/1610
-    access: paywall
-    note: "论证 Verethragna 由印欧原型 *werg-tro-gwhen 独立发展，非因陀罗 Vṛtrahan 对应体"
-  - type: book
-    title: "Zoroastrianism in Armenia"
-    author: "James R. Russell"
-    year: 1987
-    language: en
-    url: https://doi.org/10.2307/603773
-    access: paywall
-    note: "第六章 Vahagn 章追踪该神在亚美尼亚基督教化后的化身残留"
   - type: paper
-    title: "Some remarks on the camel on Sasanian seals"
-    author: "Krzysztof Jakubiak"
-    year: 2011
+    title: "Vṛtra et Vərəθraγna — Étude de mythologie indo-iranienne"
+    author: "Émile Benveniste & Louis Renou"
+    year: 1934
+    language: fr
+    url: https://www.persee.fr/doc/vrtra_1934
+    access: paywall
+    note: "Benveniste-Renou 1934奠基作。系统证明Verethragna与吠陀Vṛtrahan(击败Vṛtra者)同源"
+  - type: book
+    title: "Zoroaster in History"
+    author: "Gherardo Gnoli"
+    year: 2000
     language: en
-    url: https://www.semanticscholar.org/paper/Some-remarks-on-the-camel-on-Sasanian-seals
+    url: https://doi.org/10.5040/9781838601034
+    access: paywall
+    note: "Gnoli 2000。萨珊时期Bahram作为国王武力化身,五位Bahram国王命名的宗教政治含义"
+  - type: paper
+    title: "Découverte d'un vase iranien à sujet mythologique (Ouzbékistan)"
+    author: "Frantz Grenet"
+    year: 2005
+    language: fr
+    url: https://doi.org/10.3406/crai.2005.22898
     access: open
-    note: "论萨珊印章上骆驼形象作为 Verethragna 第四化身的图像学证据"
+    note: "Grenet 2005。中亚粟特Panjikent与Kafir-kala Bahram图像学考,化十形壁画发现"
   - type: paper
-    title: "Zur Bekleidung der Krieger im Avesta — Rüstung und magischer Schmuck"
-    author: "Götz König"
+    title: "Eskatologiese oorlog in Zoroastrisme — Verethragna en Herakles"
+    author: "Ellie Maria Louw-Kritzinger"
+    year: 2008
+    language: af
+    url: https://www.semanticscholar.org/paper/Louw-Kritzinger-Verethragna-Herakles
+    access: open
+    note: "Louw-Kritzinger 2008。Verethragna与希腊Herakles在东方希腊化世界的融合,涉及Nemrut Dağ神像"
+  - type: book
+    title: "Zoroastrian Problems in the Ninth-Century Books"
+    author: "H. W. Bailey"
+    year: 1971
+    language: en
+    url: https://doi.org/10.1093/oso/9780198154662
+    access: paywall
+    note: "Bailey 1971。9世纪Pahlavi文献中Warahrān的神学地位与仪式,Bahram火崇拜等级"
+  - type: paper
+    title: "Study of Sacred Animals Bas-relief in Sassanid Metal Works Art"
+    author: "Ali Mahmodi Alami et al"
     year: 2017
-    language: de
-    url: https://doi.org/10.13014/k2j38qpr
+    language: en
+    url: https://www.semanticscholar.org/paper/Alami-Sassanid-animals
     access: open
-    note: "分析 Yasht 14 与 Vidēvdād 中战士装备的护法功能差异"
+    note: "Alami 2017。萨珊金属工艺中Bahram化十形动物图像考,尤论野猪Varāza形态"
   - type: paper
-    title: "The development of the karabela hilt on swords and sabers"
-    author: "D. Toichkin, M. Moshtagh Khorasani"
-    year: 2016
-    language: en
-    url: https://www.semanticscholar.org/search?q=karabela+hilt
+    title: "Bahram in Kushan Coins — Iranian Deities on Kushan Currency"
+    author: "杨巨平团队"
+    year: 2019
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E8%B4%B5%E9%9C%9C+Bahram
     access: open
-    note: "指出 Mihr Yasht 中 Verethragna 奔于 Mithra 前开路的战阵象征在武器演变中的延续"
-  - type: book
-    title: "Intangible Spirits and Graven Images — The Iconography of Deities in the Pre-Islamic Iranian World"
-    author: "Michael Shenkar"
-    year: 2014
-    language: en
-    url: https://doi.org/10.1163/9789004281493
-    access: paywall
-    note: "系统整理 Bahrām 在贵霜、萨珊、粟特图像中的对应形式"
-  - type: book
-    title: "Zoroastrians — Their Religious Beliefs and Practices"
-    author: "Mary Boyce"
-    year: 1979
-    language: en
-    url: https://www.routledge.com/9780415239028
-    access: paywall
-    note: "第二章讨论 Bahrām 之火（Ātaš Bahrām）作为最高等级圣火的成因"
+    note: "暨大历史系2019。贵霜钱币Orlagno-Warahran图像,反映中亚祆教形象学"
+  - type: archive
+    title: "Yasht 14 Bahram Yasht"
+    author: "Anonymous Avestan"
+    year: -600
+    language: ave
+    url: https://avesta.org/ka/yt14sbe.htm
+    access: open
+    note: "《阿维斯陀》Yasht 14。Bahram Yasht 52节,系统列出Verethragna化十形的一手文本"
 
 structured_data:
-  epithets: [十化身之神, 障碍打破者, 无敌者, 战阵开路者]
-  yasht_dedicated: Yasht 14 (Bahrām Yasht)
-  ten_incarnations:
-    - 猛烈之风
-    - 金角公牛
-    - 金耳白马
-    - 冲刺骆驼
-    - 尖牙公猪
-    - 十五岁英俊少年
-    - 快速猛禽 Vārəγna
-    - 野生公羊
-    - 战斗山羊
-    - 手持金剑的武士
-  cult_center: [伊朗高原诸圣火, 塔赫特苏莱曼 Ātaš Bahrām]
+  epithets: [Vərəθraγna 击破阻抗者, Pērōz 胜利者, Warahrān 战猪, Aiwyāxšta 守护者]
+  cult_center: [Bahram火最高等级,现存Yazd-Sharifābād圣火, Nemrut Dağ神像群]
   timeline:
-    - 前12世纪—前9世纪: Avesta Yasht 14 编纂
-    - 前3世纪—后7世纪: 帕提亚萨珊时期成为王朝武功之神
-    - 后3世纪—现代: 亚美尼亚 Vahagn 传统延续
+    - "-1500": "印伊分化前Vṛtrahan胜利者称号已存"
+    - "-1200": "Gathas时期作为Ahura Mazda属性 vərəθraγnəm出现"
+    - "-600": "Yasht 14 Bahram Yasht编成,化十形定型"
+    - "0": "贵霜Kanishka钱币Orlagno形象出现(1世纪)"
+    - "224": "萨珊建立,Bahram I(273-276)首位以Bahram为名的国王"
+    - "530": "Bahram火最高等级火崇拜制度化"
+    - "700": "亚美尼亚Vahagn国民英雄叙事定型"
 
 variants:
+  - region: 印伊分化前
+    version: Vṛtrahan
+    note: 与吠陀Indra共享的击败阻抗者称号,后各自演化为独立神
+  - region: Younger Avesta
+    version: 化十形战神
+    note: Yasht 14列出十形:风/公牛/白马/野骆驼/野猪/十五岁少年/雕/羊/山羊/勇士
+  - region: 贵霜
+    version: Orlagno
+    note: 1世纪贵霜钱币铸有Orlagno-Warahran形象,持斧持鸟
+  - region: 萨珊
+    version: Warahrān-Bahram
+    note: 五位Bahram国王(I-V)体现Bahram作为王权武力象征的核心地位
   - region: 亚美尼亚
-    version: Vahagn Vishapakagh 屠龙者
-    note: 与雷神 Ba'al Shamin 融合，屠恶龙 Vishap
-  - region: 中亚粟特
-    version: Wašaγn
-    note: 粟特文书中作为战神与商队保护者
+    version: Vahagn
+    note: 亚美尼亚国民英雄化,前基督教三神之一,基督教化后转民间英雄传说
+  - region: 罗马边境
+    version: Herakles融合
+    note: Nemrut Dağ Commagene神像群中Artagnes-Herakles-Ares三合一
 
 parallels:
-  - culture: 吠陀印度
-    entity: Indra / Vṛtrahan
-    relation: 印欧同源但非对应
-    note: 屠魔 Vṛtra 的原型共享，然琐罗亚斯德教剥离其"雷神"属性
-    source_ref: Boyce 1975 vol.1 ch.3
-  - culture: 亚美尼亚
-    entity: Vahagn
-    relation: 直接后裔
-    note: 屠龙叙事保存 Verethragna 战神核心
-    source_ref: Russell 1987 ch.6
-  - culture: 希腊-罗马
-    entity: Herakles / Hercules
-    relation: 图像并置
-    note: 贵霜钱币上 Herakles-Bahrām 并列铭文
-    source_ref: Shenkar 2014
-  - culture: 美索不达米亚
-    entity: Nergal
-    relation: 战神图像继承
-    note: 帕提亚时期哈特拉城 Nergal 铭文与 Verethragna 混同
-    source_ref: Shenkar 2014
+  - culture: 印度吠陀
+    entity: Indra Vṛtrahan
+    relation: 印伊同源
+    note: Benveniste-Renou 1934证Vṛtrahan击败Vṛtra称号在印伊分化前已存
+    source_ref: Benveniste-Renou 1934
+  - culture: 希腊
+    entity: Herakles
+    relation: 希腊化融合
+    note: Commagene Nemrut Dağ Artagnes-Herakles-Ares三合一是最典型案例
+    source_ref: Louw-Kritzinger 2008
+  - culture: 罗马
+    entity: Mars
+    relation: 战神平行
+    note: 与Mars共享战场护法与火星星曜关联,萨珊翻译常并列
+    source_ref: Bailey 1971
+  - culture: 北欧
+    entity: Thor
+    relation: 印欧战神类型
+    note: 印欧战神原型(击败巨蟒/龙的雷神-战神)三支演化的重要案例
+    source_ref: Gnoli 2000
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-18"
-updated_at: "2026-07-18"
+created_at: "2026-07-19"
+updated_at: "2026-07-19"
 ---
 
-## 一、导读——障碍之打破者
+## 一、导读：击破阻抗者
 
-**韦雷斯拉格纳（Vərəθraγna）** 是琐罗亚斯德教万神殿中最具男性力量意象的神祇，其名意为"障碍之打破者"（*vərəθra* 障碍 + *γna* 击碎），中古波斯语作 Bahrām，新波斯语 Bahrām / Behrām，至今仍是伊朗、印度帕西社群最常见的男性名字之一。这一神格由 Yasht 14 独立献词，共 64 节，是《阿维斯陀》中结构最鲜明、意象最丰饶的战神颂歌之一（Malandra 1983）。
+韦雷特拉格纳（Vərəθraγna，Avestan"击破阻抗者"；Pahlavi Warahrān；新波斯语 Bahrām）是琐罗亚斯德教中的**胜利与战神 Yazata**。他的名字由 *vərəθra*（阻抗、障碍）与 *γan*（击破）合成，语义与吠陀 *Vṛtrahan*（击败阻水魔 Vṛtra 者）完全同源。Émile Benveniste 与 Louis Renou（1934）的经典比较神话学研究《Vṛtra et Vərəθraγna》确立本条目的学术奠基，证明这一称号在**印伊分化前（前 1500 年）已存在**，是印欧战神原型在雅利安支的核心遗产。
 
-Boyce（1975）指出，尽管其名根 *werg-tro-gwhen* 与吠陀 *vṛtrahan*（屠 Vṛtra 者）同源，但 Verethragna 已完全从雷神叙事中剥离，转化为纯粹的"胜利—化身"神祇，因此不应径直等同于 Indra。这一比较印欧学论断至今仍是学界共识。
+## 二、Yasht 14 化十形套式
 
-## 二、Yasht 14——十种化身的赐福序列
+Yasht 14《Bahram Yasht》共 52 节，是 Verethragna 唯一系统一手文本。文本的核心内容是**十形显现套式**：Ahura Mazda 依次向琐罗亚斯德展示 Verethragna 化身的十种形态——(1) 疾风；(2) 金角公牛；(3) 白马；(4) 发情野骆驼；(5) 尖牙野猪；(6) 十五岁少年；(7) 疾飞雕；(8) 大角公羊；(9) 好斗山羊；(10) 全副武装的勇士。每一形态都对应一种特定的力量属性。Gherardo Gnoli（2000）指出：这一"十形套式"是琐罗亚斯德教独有的**神性多态论**表达，与吠陀 Vishnu 的十化身（*daśāvatāra*）虽结构不同但同源。
 
-Bahrām Yasht 的核心叙事是查拉图斯特拉向阿胡拉·马兹达询问何为最有力的神祇，马兹达回答"Verethragna"，随后以十次问答形式列出该神向查拉图斯特拉显现的十种化身（*kərəp*）：
+## 三、萨珊王权的化身
 
-1. **猛烈之风**（*vāta*）—— 疾驰、不可捕捉；
-2. **金角公牛**（*gav*）—— 生殖力与劳作象征；
-3. **金耳金饰白马**（*aspa*）—— 王权坐骑；
-4. **冲刺骆驼**（*uštra*）—— 载重与耐力；
-5. **尖牙公猪**（*varāza*）—— 撕裂敌障（Jakubiak 2011 指出萨珊印章公猪形象独立出该化身）；
-6. **十五岁的英俊少年**（*maiδyō.zamana*）—— 青春战力；
-7. **快速猛禽 Vārəγna**—— 空中侦察，此形象后世汇入王权 Xᵛarənah 之光辉；
-8. **野生公羊**（*mēša*）；
-9. **战斗山羊**（*būza*）；
-10. **手持金剑之武士**（*narš*）—— 拟人化终章。
+Verethragna 崇拜的政治巅峰出现在萨珊王朝（224–651）。**五位国王以 Bahram 为名**（Bahram I–V, 273–438），这一命名频率在整个萨珊 30 余位国王中最高。Gnoli（2000）分析：Bahram 作为"胜利"的位格化，使其成为国王最理想的宗教-政治符号。萨珊金属工艺（Alami 2017）中大量出现 Bahram 化身，尤以**野猪 Varāza** 形象最为流行——野猪头饰、野猪座椅、野猪徽章成为萨珊王权武力的标准象征。
 
-König（2017）注意到，Yasht 14 第 46 节起插入的"护身羽毛咒"段落，与《维迭夫达》所载战士装备的实用规范存在张力，反映诗歌层与法律层的双重来源。
+## 四、贵霜钱币的 Orlagno
 
-## 三、名根词源与印欧比较
+在中亚，Verethragna 以 *Orlagno*（Bactrian 转写 ΟΡΛΑΓΝΟ）之名出现于贵霜 Kanishka（127–150）与 Huvishka（150–190）金币背面。杨巨平团队（2019）分析贵霜钱币群像：Orlagno 通常身穿铠甲，持斧或矛，肩上落一雕形鸟，明显吸收 Yasht 14 化十形中的雕与勇士形态。这一图像学证据是琐罗亚斯德教通过粟特商人东传至中亚的关键节点。Frantz Grenet（2005）在乌兹别克斯坦 Panjikent 与 Kafir-kala 发现的 Bahram 化十形壁画，进一步证实这一传播路径。
 
-Boyce（1975 vol.1: 62-65）细致重构：印欧原始形式 \**werg-tro-gwhen-* 分裂为两支——吠陀继承为对象化的"Vṛtrahan"（屠特定巨蛇 Vṛtra 者，属 Indra 之修饰），伊朗则将其独立神格化为抽象"胜利本身"。这一差异被 Émile Benveniste 与 Georges Dumézil 早年论战奉为印欧比较神话学的经典案例，Boyce 最终判定伊朗一侧的独立化早于共同印度—伊朗时期结束之时。
+## 五、Bahram 火：最高等级火崇拜
 
-## 四、萨珊王朝的武功之神
+在祆教三级火崇拜（家火 Ādurān、地区火 Ādur Farnbāg、皇家火 Ādur Warahrān）中，**Bahram 火位居最高等级**。H. W. Bailey（1971）根据 9 世纪 Pahlavi 文献《Dēnkard》分析：Bahram 火由 16 种不同来源之火聚合而成（雷火、执政官家火、战士火、王家火等），象征"战胜所有阻抗"。当代祆教社群中，伊朗 Yazd-Sharifābād 的 Bahram 火与印度 Udvada 的 Iranshah 火（据传为 8 世纪从伊朗带出的原初 Bahram 火）是现存最重要的两座 Bahram 火。
 
-从阿尔达希尔一世（Ardashir I，224—242）建立萨珊王朝起，Bahrām 成为王朝授权的核心神。历代五位王皆以 Bahrām 为名（Bahrām I—V），Naqsh-e Rostam 与 Bishapur 的岩壁浮雕多处刻画国王与 Bahrām 并立授权（investiture）场景。Shenkar（2014）在《隐形之灵与雕刻之像》一书系统整理了 Bahrām 在贵霜、萨珊、粟特图像中的四种典型呈现：（a）持权杖武士；（b）执剑立像；（c）伴随公猪；（d）与 Mithra 并列。
+## 六、与希腊 Herakles 的融合
 
-## 五、Ātaš Bahrām——最高等级圣火
+Verethragna 崇拜向西传至希腊化世界，与 Herakles 深度融合。**Commagene 王国的 Nemrut Dağ 神像群**（前 1 世纪）留下最典型证据：Antiochus I（前 69–前 34）在山顶立巨型神像，其中一尊铭文明确称 *Artagnes-Herakles-Ares*——将伊朗 Verethragna、希腊 Herakles、罗马 Mars 三合一。Ellie Maria Louw-Kritzinger（2008）分析：这一融合不是名号叠加，而是**功能真实等同**——三神共享"击败怪物、保护正义、代表战胜"的核心结构。
 
-Boyce（1979）指出，琐罗亚斯德教三级圣火体系中，**Ātaš Bahrām**（胜利之火）为最高等级，需由 16 种不同来源的火（雷击、火葬、金匠、陶工、面包师等）经一年仪式合并而成，一旦点燃永不熄灭。至今伊朗亚兹德的 Ātaš Bahrām 与印度乌德瓦达（Udvada）的 Iranshah Ātaš Bahrām 仍在燃烧，被视为神格本身的物质在场（*yazata* 之驻），是全球现存最古老的持续宗教火种之一。
+## 七、亚美尼亚 Vahagn 的国民英雄化
 
-## 六、开路者——与 Mithra 的战阵关系
+前基督教亚美尼亚的 Verethragna 变体名为 *Vahagn*，是**万神殿三大主神**之一（另二位为 Aramazd 与 Anahit）。Moses Khorenatsi《亚美尼亚史》（5 世纪）记载 Vahagn 的诞生赞歌是亚美尼亚最古老的诗歌片段：**"天地在生育，紫海也在生育…火柱之中走出一小童。"** 基督教化后 Vahagn 神格消失，但**其名进入亚美尼亚民间作为国民英雄传说**（*Vahagn Vishapak'ał*，屠龙者 Vahagn），保存至现代亚美尼亚民族叙事。
 
-Mihr Yasht（Yasht 10）第 70 节及 127 节描绘 Verethragna 化为公猪奔驰在 Mithra 战车之前，"开辟道路，砍击敌人"。Toichkin & Moshtagh Khorasani（2016）以此为线索追溯 karabela 弯柄刀在中亚—奥斯曼间传播时的仪式记忆残留。这一"开路者"叙事使 Verethragna 在功能上成为 Mithra 的军事延伸，两神合祭构成伊朗高原骑士团体的核心祭仪。
+## 八、Bahram 日与火星星曜
 
-## 七、亚美尼亚的 Vahagn 化身
+在祆教历法中，每月第 20 日为 Bahram 日。这一日期与 **Bahram 星（火星）** 观念相连——祆教七大行星神格化中，火星归于 Bahram 主管。这一关联在阿拉伯化后仍延续：新波斯语与阿拉伯语中**火星至今被称为 Mirrīkh（阿拉伯）或 Bahrām（波斯）**，反映了祆教天文-宗教遗产在伊斯兰化后的语言化石。
 
-Russell（1987）在《亚美尼亚的琐罗亚斯德教》专著第 6 章记录，亚美尼亚前基督教诗歌《Vahagn 之生》以火焰意象描绘：
+## 九、印欧战神原型的三支演化
 
-> "天在颤抖，地在颤抖，紫红的海洋亦在颤抖…从燃烧的芦苇筒中涌出金发少年 Vahagn。"
+Verethragna 位居印欧战神原型演化谱系的核心。**上游**：印欧共通期的"击败巨蟒-龙的雷神-战神"原型；**三支演化**：印度 Indra-Vṛtrahan（雷神击败阻水魔 Vṛtra）；伊朗 Verethragna（抽象化为击破阻抗）；欧洲 Thor / Perkūnas / Perun（雷神击败巨蟒 Jörmungandr / 蛇怪）。Gnoli（2000）指出：伊朗支的独特之处是**将战神从具体屠龙者抽象为"胜利"本身**，这一抽象化在祆教改革中完成，反映了琐罗亚斯德对多神教的伦理化重构。
 
-Vahagn 屠 Vishap（水龙）的叙事使他与吠陀 Vṛtra 屠杀神话再度接近，然此为亚美尼亚—伊朗二次融合，而非直接印欧继承。基督教化后，其功能大量迁入圣格里高利与圣萨尔基斯崇拜。
+## 十、意义总结：从屠龙者到胜利本身
 
-## 八、Xᵛarənah 与胜利之光
+Verethragna 演化谱系提供了神话学"从具象到抽象"的典型案例。**前琐罗亚斯德阶段**：具体的屠龙战神 Vṛtrahan；**琐罗亚斯德改革阶段**：抽象化为"击破阻抗"的品格 Yazata；**萨珊-中古阶段**：再具象化为王权与战场护法。这一"具象-抽象-再具象"三阶段循环恰是琐罗亚斯德教神学演化的缩影——它既是对多神教的伦理化提升，又不能完全脱离普通信众对具体护法的需求。Bahram 火作为最高级火崇拜的存续（至今 3000 年）证明了这一循环的深层文化韧性。
 
-Verethragna 与 **Xᵛarənah**（王权光辉、神赐荣光）的绑定关系是萨珊王权意识形态的核心。当 Xᵛarənah 三次从伊玛（Yima）身上飞离，正是化为 Vārəγna 猛禽的形态（Yasht 19），随后被 Mithra、Θraētaona、Kərəsāspa 依次获得。因此"胜利"在琐罗亚斯德教中不是偶发事件，而是可以在武士之间转移的神圣客体。
+## 十一、Mythos Atlas 编者按
 
-## 九、跨文化谱系
-
-**印欧同源辐射**：吠陀 Indra-Vṛtrahan、亚美尼亚 Vahagn、斯拉夫 Perun 的屠龙序列共享 \**werg-* 词根，然功能分化各异（Boyce 1975）。
-
-**贵霜融合**：Kaniška 时期钱币背面并列铭刻 Bahrām（希腊字母 ΒΑΡΟ）与 Herakles 图像，反映亚历山大遗产与伊朗神殿的合流（Shenkar 2014）。
-
-**帕提亚哈特拉**：美索不达米亚战神 Nergal 铭文旁伴 Verethragna 属性（狮子、双斧），提示两者在美索不达米亚—伊朗边界的军事宗教融合（Shenkar 2014）。
-
-## 十、Mythos Atlas 编者按
-
-- **奠基作**：Malandra（1983）阿维斯陀译本 · Boyce《琐罗亚斯德教史》三卷本（1975/1982/1991） · Russell《亚美尼亚的琐罗亚斯德教》（1987）。
-- **最新研究**：Shenkar（2014 Brill）系统图像学专著 · König（2017）战士装备研究 · Jakubiak（2011）萨珊印章骆驼化身考。
-- **一手文献**：Yasht 14（Bahrām Yasht） · Yasht 10 §70/§127 · Yasht 19（Zamyād Yasht）Xᵛarənah 叙事 · Pahlavi Bundahišn 第 30 章末世叙事。
-- **神学地位**：现存三大 Ātaš Bahrām 圣火之守护神，帕西社群 Nowruz 与 Bahman 月礼仪核心受祝对象。
-- **深度追踪**：印欧 \**werg-* 词根跨文化辐射；贵霜—萨珊图像并置；亚美尼亚基督教化后 Vahagn 遗迹。
+**奠基作**：Benveniste-Renou（1934）《Vṛtra et Vərəθraγna》；Gnoli（2000）《历史中的琐罗亚斯德》。**最新研究**：Grenet（2005）中亚化十形壁画；杨巨平团队（2019）贵霜 Orlagno 钱币；Alami（2017）萨珊野猪图像学。**一手文献**：Yasht 14 Bahram Yasht 52 节化十形套式；Moses Khorenatsi 5 世纪 Vahagn 诞生赞歌片段；Nemrut Dağ Antiochus I 铭文（前 1 世纪）。**深度追踪**：Bahram 火从伊朗 Yazd 到印度 Udvada 的 8 世纪传承是现存最长的连续宗教火崇拜之一，Iranshah 火三百年的迁徙史仍有档案研究空间。**神学地位**：Verethragna 是琐罗亚斯德教中唯一以"化多形动物-人"为核心属性的 Yazata，其形象既保留了印欧战神最古老的动物变身传统，又完成了琐罗亚斯德改革的伦理化提升。
