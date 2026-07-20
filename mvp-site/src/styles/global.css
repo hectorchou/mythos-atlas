@@ -1,0 +1,46 @@
+/* Mythos Atlas — Global Design Tokens */
+:root {
+  --color-bg: #faf8f3;
+  --color-surface: #ffffff;
+  --color-text: #222222;
+  --color-text-secondary: #666666;
+  --color-text-muted: #999999;
+  --color-accent: #c9a961;
+  --color-accent-dark: #6b4423;
+  --color-border: #e5ddc8;
+  --color-border-light: #f0ead6;
+  --color-sidebar-bg: #f5f0e4;
+  --color-sidebar-active: #e8dfc7;
+  --color-search-bg: #fff;
+  --color-shadow: rgba(0,0,0,.08);
+  --color-shadow-hover: rgba(0,0,0,.14);
+  --sidebar-width: 280px;
+  --header-height: 56px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --font-sans: -apple-system, "PingFang SC", "Noto Sans SC", "Segoe UI", sans-serif;
+  --font-serif: "Noto Serif SC", "Source Han Serif SC", Georgia, serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; scroll-behavior: smooth; }
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--color-accent-dark); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #bbb; }

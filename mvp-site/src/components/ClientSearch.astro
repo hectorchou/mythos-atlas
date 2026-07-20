@@ -1,0 +1,153 @@
+---
+interface Props {
+  entries: any[];
+  base: string;
+}
+
+const { entries, base } = Astro.props;
+
+// Build search index (minimal: id + name + culture + summary prefix)
+const index = entries.map(e => ({
+  i: e.data.id,
+  n: e.data.name_primary,
+  c: e.data.culture_path?.split('/')[0] ?? '',
+  s: (e.data.summary ?? '').slice(0, 120),
+}));
+---
+
+<div class="search-wrap">
+  <input
+    type="text"
+    class="search-input"
+    placeholder="搜索词条..."
+    autocomplete="off"
+    id="site-search"
+  />
+  <div class="search-results" id="search-results"></div>
+</div>
+
+<script is:inline define:vars={{ index, base }}>
+(function() {
+  const input = document.getElementById('site-search');
+  const results = document.getElementById('search-results');
+  if (!input || !results) return;
+
+  let timer = null;
+
+  input.addEventListener('input', function() {
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  });
+
+  input.addEventListener('focus', function() {
+    if (input.value.trim().length > 0) doSearch();
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.search-wrap')) {
+      results.style.display = 'none';
+    }
+  });
+
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      results.style.display = 'none';
+      input.blur();
+    }
+  });
+
+  function doSearch() {
+    const q = input.value.trim().toLowerCase();
+    if (q.length < 1) {
+      results.style.display = 'none';
+      return;
+    }
+
+    const matched = [];
+    for (let i = 0; i < index.length; i++) {
+      const e = index[i];
+      if (
+        e.n.toLowerCase().includes(q) ||
+        e.i.toLowerCase().includes(q) ||
+        e.c.toLowerCase().includes(q) ||
+        e.s.toLowerCase().includes(q)
+      ) {
+        matched.push(e);
+        if (matched.length >= 30) break;
+      }
+    }
+
+    if (matched.length === 0) {
+      results.innerHTML = '<div class="search-empty">无匹配结果</div>';
+      results.style.display = 'block';
+      return;
+    }
+
+    results.innerHTML = matched.map(function(e) {
+      const highlighted = e.n.replace(
+        new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi'),
+        '<mark>$1</mark>'
+      );
+      return '<a class="search-item" href="' + base + '/entries/' + e.i + '">' +
+        '<span class="search-name">' + highlighted + '</span>' +
+        '<span class="search-culture">' + e.c + '</span>' +
+        '</a>';
+    }).join('');
+    results.style.display = 'block';
+  }
+})();
+</script>
+
+<style>
+  .search-wrap { position: relative; width: 100%; }
+  .search-input {
+    width: 100%; padding: .45rem .8rem .45rem 2rem;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    background: var(--color-search-bg);
+    font-size: .88rem;
+    outline: none;
+    transition: border-color .2s, box-shadow .2s;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23999' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85zm-5.242.656a5 5 0 1 1 0-10 5 5 0 0 1 0 10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: .7rem center;
+    background-size: 14px;
+  }
+  .search-input:focus {
+    border-color: var(--color-accent);
+    box-shadow: 0 0 0 3px rgba(201,169,97,.15);
+  }
+  .search-results {
+    display: none; position: absolute;
+    top: calc(100% + 4px); left: 0; right: 0;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    box-shadow: 0 6px 20px var(--color-shadow-hover);
+    max-height: 420px; overflow-y: auto;
+    z-index: 200;
+  }
+  .search-item {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding: .5rem .9rem;
+    color: var(--color-text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border-light);
+    transition: background .1s;
+    gap: .8rem;
+  }
+  .search-item:hover { background: var(--color-sidebar-active); text-decoration: none; }
+  .search-name { font-size: .9rem; flex: 1; min-width: 0; }
+  .search-name mark {
+    background: rgba(201,169,97,.3);
+    color: inherit; padding: 0 .1em; border-radius: 2px;
+  }
+  .search-culture {
+    font-size: .75em; color: var(--color-text-muted);
+    white-space: nowrap; flex-shrink: 0;
+  }
+  .search-empty {
+    padding: 1rem; text-align: center;
+    color: var(--color-text-muted); font-size: .9em;
+  }
+</style>

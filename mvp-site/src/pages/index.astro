@@ -1,56 +1,61 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
 const entries = await getCollection('entries');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
+// Group by culture_path top level
 const grouped: Record<string, typeof entries> = {};
 for (const e of entries) {
-  const top = e.data.culture_path.split('/')[0];
+  const top = e.data.culture_path?.split('/')[0] ?? 'Other';
   (grouped[top] ||= []).push(e);
 }
+
+const sortedGroups = Object.entries(grouped)
+  .map(([k, v]) => ({ culture: k, items: v.sort((a, b) => a.data.name_primary.localeCompare(b.data.name_primary, 'zh')) }))
+  .sort((a, b) => b.items.length - a.items.length);
+
+// Stats
+const totalEntries = entries.length;
+const cultures = sortedGroups.length;
+const confidenceStats = {
+  attested: entries.filter(e => e.data.confidence === 'attested').length,
+  documented: entries.filter(e => e.data.confidence === 'documented').length,
+  folk: entries.filter(e => e.data.confidence === 'folk').length,
+  speculative: entries.filter(e => e.data.confidence === 'speculative').length,
+};
 ---
 
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <title>Mythos Atlas · 神话与神秘学谱系</title>
-  <style>
-    body { font-family: -apple-system, "PingFang SC", sans-serif; max-width: 1080px; margin: 0 auto; padding: 2rem; color: #222; background: #faf8f3; }
-    h1 { border-bottom: 2px solid #333; padding-bottom: .5rem; }
-    .culture-block { margin: 2rem 0; }
-    .culture-block h2 { color: #6b4423; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
-    .card { background: white; border-radius: 4px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); text-decoration: none; color: inherit; display: flex; flex-direction: column; transition: transform .15s, box-shadow .15s; border-left: 3px solid #c9a961; }
-    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,.12); }
-    .thumb { width: 100%; aspect-ratio: 3/2; background: linear-gradient(135deg, #d4c9a8, #b8a679); display: flex; align-items: center; justify-content: center; color: #6b4423; font-size: 1.5em; font-family: serif; }
-    .thumb img { width: 100%; height: 100%; object-fit: cover; }
-    .card-body { padding: .8rem 1rem; flex: 1; }
-    .card-title { font-weight: 600; margin-bottom: .3rem; }
-    .card-meta { color: #888; font-size: .8em; margin-bottom: .4rem; }
-    .card-summary { color: #555; font-size: .85em; line-height: 1.5; }
-    .tagline { color: #666; font-style: italic; }
-  </style>
-</head>
-<body>
-  <h1>Mythos Atlas</h1>
-  <p class="tagline">世界神话与神秘学的可溯源谱系数据库 · Phase 1 MVP</p>
+<BaseLayout title="Mythos Atlas · 世界神话与神秘学谱系数据库">
+  <div class="hero-section">
+    <h1>Mythos Atlas</h1>
+    <p class="hero-tagline">世界神话与神秘学的可溯源谱系数据库</p>
+    <div class="hero-stats">
+      <span class="stat"><strong>{totalEntries}</strong> 条词条</span>
+      <span class="stat-sep">/</span>
+      <span class="stat"><strong>{cultures}</strong> 个文化体系</span>
+      <span class="stat-sep">/</span>
+      <span class="stat"><strong>{confidenceStats.attested}</strong> 条已证实</span>
+    </div>
+  </div>
 
-  {Object.entries(grouped).map(([culture, items]) => (
-    <section class="culture-block">
-      <h2>{culture}</h2>
+  {sortedGroups.map(({ culture, items }) => (
+    <section class="culture-block" id={`culture-${culture}`}>
+      <h2 class="culture-heading">{culture} <span class="culture-count">{items.length}</span></h2>
       <div class="grid">
         {items.map(e => (
           <a class="card" href={`${base}/entries/${e.data.id}`}>
             <div class="thumb">
               {e.data.hero_image ? (
-                <img src={`${base}${e.data.hero_image}`} alt={e.data.name_primary} />
+                <img src={`${base}${e.data.hero_image}`} alt={e.data.name_primary} loading="lazy" />
               ) : (
-                <span>{e.data.name_primary}</span>
+                <span class="thumb-text">{e.data.name_primary}</span>
               )}
             </div>
             <div class="card-body">
               <div class="card-title">{e.data.name_primary}</div>
-              <div class="card-meta">{e.data.culture_path.split('/').slice(1).join(' · ')} · {e.data.entity_type}</div>
+              <div class="card-meta">{e.data.culture_path?.split('/').slice(1).join(' · ')} · {e.data.entity_type}</div>
               <div class="card-summary">{e.data.summary}</div>
             </div>
           </a>
@@ -59,7 +64,91 @@ for (const e of entries) {
     </section>
   ))}
 
-  <hr />
-  <p style="color:#888; font-size:.85em">共 {entries.length} 条 · 每条均可溯源至一手文献</p>
-</body>
-</html>
+  <footer class="site-footer">
+    <p>共 {totalEntries} 条 · 每条均可溯源至一手文献 · {confidenceStats.attested} 条已证实 / {confidenceStats.documented} 条有文献 / {confidenceStats.folk} 条民间 / {confidenceStats.speculative} 条推测</p>
+  </footer>
+</BaseLayout>
+
+<style>
+  .hero-section {
+    padding: 1rem 0 2rem;
+    border-bottom: 2px solid var(--color-accent);
+    margin-bottom: 2rem;
+  }
+  .hero-section h1 {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    color: var(--color-accent-dark);
+    margin-bottom: .3rem;
+  }
+  .hero-tagline {
+    color: var(--color-text-secondary);
+    font-style: italic;
+    font-size: 1.05rem;
+    margin-bottom: .8rem;
+  }
+  .hero-stats {
+    display: flex; gap: .6rem; align-items: center;
+    flex-wrap: wrap;
+  }
+  .stat { color: var(--color-text-secondary); font-size: .9rem; }
+  .stat strong { color: var(--color-accent-dark); font-size: 1.1rem; }
+  .stat-sep { color: var(--color-border); }
+
+  .culture-block { margin: 2rem 0; }
+  .culture-heading {
+    font-family: var(--font-serif);
+    font-size: 1.3rem;
+    color: var(--color-accent-dark);
+    margin-bottom: .8rem;
+    display: flex; align-items: baseline; gap: .5rem;
+  }
+  .culture-count {
+    font-size: .75em; color: var(--color-text-muted);
+    font-family: var(--font-sans); font-weight: 400;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+  }
+  .card {
+    background: var(--color-surface);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    box-shadow: 0 1px 3px var(--color-shadow);
+    text-decoration: none; color: inherit;
+    display: flex; flex-direction: column;
+    transition: transform .15s, box-shadow .15s;
+    border-left: 3px solid var(--color-accent);
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--color-shadow-hover);
+    text-decoration: none;
+  }
+  .thumb {
+    width: 100%; aspect-ratio: 3/2;
+    background: linear-gradient(135deg, #d4c9a8, #b8a679);
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+  }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; }
+  .thumb-text { color: #6b4423; font-size: 1.2em; font-family: var(--font-serif); text-align: center; padding: .5rem; }
+  .card-body { padding: .8rem 1rem; flex: 1; }
+  .card-title { font-weight: 600; margin-bottom: .25rem; font-size: .95rem; }
+  .card-meta { color: var(--color-text-muted); font-size: .78em; margin-bottom: .3rem; }
+  .card-summary {
+    color: var(--color-text-secondary);
+    font-size: .82em; line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  .site-footer {
+    margin-top: 3rem; padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text-muted); font-size: .82em;
+    text-align: center;
+  }
+</style>

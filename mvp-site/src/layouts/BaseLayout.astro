@@ -1,0 +1,124 @@
+---
+import { getCollection } from 'astro:content';
+import Sidebar from '../components/Sidebar.astro';
+import ClientSearch from '../components/ClientSearch.astro';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  activeId?: string;
+}
+
+const { title = 'Mythos Atlas', activeId } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const entries = await getCollection('entries');
+---
+
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <style>
+    /* Header */
+    .site-header {
+      position: fixed; top: 0; left: 0; right: 0;
+      height: var(--header-height);
+      background: var(--color-surface);
+      border-bottom: 1px solid var(--color-border);
+      display: flex; align-items: center;
+      padding: 0 1.5rem;
+      z-index: 100;
+      box-shadow: 0 1px 4px var(--color-shadow);
+    }
+    .header-brand {
+      font-size: 1.15rem; font-weight: 700;
+      color: var(--color-accent-dark);
+      text-decoration: none; white-space: nowrap;
+      font-family: var(--font-serif);
+      letter-spacing: .02em;
+    }
+    .header-brand:hover { text-decoration: none; }
+    .header-search { flex: 1; max-width: 420px; margin: 0 1.5rem; }
+    .header-count { color: var(--color-text-muted); font-size: .82em; white-space: nowrap; }
+    .menu-toggle {
+      display: none; background: none; border: none;
+      cursor: pointer; padding: .4rem; margin-right: .8rem;
+      color: var(--color-text); font-size: 1.3rem; line-height: 1;
+    }
+
+    /* Layout */
+    .layout { display: flex; padding-top: var(--header-height); min-height: 100vh; }
+    .sidebar-wrap {
+      position: fixed; top: var(--header-height); left: 0; bottom: 0;
+      width: var(--sidebar-width);
+      overflow-y: auto;
+      background: var(--color-sidebar-bg);
+      border-right: 1px solid var(--color-border);
+      z-index: 90;
+      transition: transform .25s ease;
+    }
+    .main-content {
+      margin-left: var(--sidebar-width);
+      flex: 1; padding: 2rem 2.5rem;
+      max-width: 960px;
+      min-width: 0;
+    }
+
+    /* Overlay for mobile */
+    .sidebar-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,.35); z-index: 85;
+    }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .menu-toggle { display: block; }
+      .sidebar-wrap {
+        transform: translateX(-100%);
+        box-shadow: 2px 0 12px rgba(0,0,0,.15);
+      }
+      .sidebar-wrap.open { transform: translateX(0); }
+      .sidebar-overlay.open { display: block; }
+      .main-content { margin-left: 0; padding: 1.5rem 1rem; }
+      .header-search { max-width: none; }
+      .header-count { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+    <a class="header-brand" href={`${base}/`}>Mythos Atlas</a>
+    <div class="header-search">
+      <ClientSearch entries={entries} base={base} />
+    </div>
+    <span class="header-count">{entries.length} 条</span>
+  </header>
+
+  <div class="layout">
+    <!-- Sidebar overlay (mobile) -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar-wrap" id="sidebar">
+      <Sidebar entries={entries} base={base} activeId={activeId} />
+    </aside>
+
+    <!-- Main -->
+    <main class="main-content">
+      <slot />
+    </main>
+  </div>
+
+  <script is:inline>
+    const toggle = document.getElementById('menu-toggle');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+    function closeSidebar() { sidebar.classList.remove('open'); overlay.classList.remove('open'); }
+    toggle?.addEventListener('click', () => { sidebar.classList.toggle('open'); overlay.classList.toggle('open'); });
+    overlay?.addEventListener('click', closeSidebar);
+  </script>
+</body>
+</html>
