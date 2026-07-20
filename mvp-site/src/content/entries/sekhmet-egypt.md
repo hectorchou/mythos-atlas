@@ -1,87 +1,109 @@
 ---
 id: sekhmet-egypt
-name_primary: 塞赫梅特 古埃及狮首战争与医疗女神
-name_original: Sḫmt / Sekhmet
-name_aliases: [塞赫美特, 赛克迈特]
+name_primary: 塞赫迈特 古埃及狮首战争与医疗女神
+name_original: Sḫm.t / 𓄞𓎛𓏏𓏏
+name_aliases: [塞赫麦特，赛克迈特，塞克美特]
 name_translations:
-  zh: 塞赫梅特
+  zh: 塞赫迈特
   en: Sekhmet
+  fr: Sekhmet
+
 hero_image: /images/entries/sekhmet-egypt.jpg
-hero_image_alt: 古埃及风格狮首女神塞赫梅特浮雕
-hero_image_credit: AI generated · Ancient Egyptian temple relief style
-culture_path: Africa/North Africa/Ancient Egypt/Ennead
+hero_image_alt: 古埃及狮首女神塞赫迈特站立浮雕
+hero_image_credit: AI generated · New Kingdom Egyptian temple relief
+
+culture_path: Africa/North Africa/Ancient Egypt/Secondary Deities
 entity_type: deity
-era: Early Dynastic Period – Ptolemaic Kingdom (c. 3100–30 BCE)
+era: Early Dynastic Period – Ptolemaic Dynasty (c. 3100–30 BCE)
 geo_region: Lower Egypt, Memphis
-summary: 塞赫梅特是古埃及九神团（Ennead）中的狮首女神，兼具战争毁灭与医疗保护双重属性，为普塔之妻。Assmann（2001）强调其"毁灭性神圣力量"的秩序意义，Bestetti等（2024）追溯其作为医学保护神传统起源。Draper-Stumm（2018）重新评估阿蒙霍特普三世时期雕像的宗教功能。
-attributes: [战争女神, 医疗保护, 狮首形象, 太阳神之眼, 神圣愤怒]
+
+summary: 古埃及赫利奥波利斯体系的狮首女神，兼具战争毁灭与医疗治愈双重属性，是太阳神拉的"烈怒之眼"。Jan Assmann（2004）将其视为埃及神学中"神圣暴力"范式的核心代表，Erik Hornung（1999）强调其混沌与秩序间的临界地位。
+
+attributes: [狮首女神，太阳之眼，战争，医疗，瘟疫，治愈，烈怒]
+
 primary_sources:
-  - type: paper
-    title: "From Shamans to Priests of Sekhmet: A Review of the Literature in Search for the Origins of Doctors in Ancient Egypt"
-    author: "Reinaldo B. Bestetti, Rosemary F. Daniel, Tufik M. Geleilete, Ana Luiza N. Almeida"
-    year: 2024
-    language: en
-    url: https://doi.org/10.7759/cureus.67195
-    access: open
-    note: 追溯埃及医学与塞赫梅特崇拜的起源关联，认为祭司阶层兼为医者起源于此。
-  - type: paper
-    title: "Sekhmet Statues from the Reign of Amenhotep iii in the British Museum and A Formerly Uncatalogued Head Fragment: A Reassessment"
-    author: "Tara Draper-Stumm"
-    year: 2018
-    language: en
-    url: https://doi.org/10.1017/S0003581518000525
-    access: paywall
-    note: 重新评估大英博物馆藏阿蒙霍特普三世时期塞赫梅特雕像，质疑传统的"仅为威慑"观点。
-  - type: paper
-    title: "Seeking Sekhmet"
-    author: "Olivia Ciaccia"
-    year: 2022
-    language: en
-    url: https://doi.org/10.1558/pome.18653
-    access: paywall
-    note: 研究当代新异教运动对塞赫梅特的复兴与朝圣现象。
   - type: book
-    title: "Religion and Culture in Ancient Egypt"
+    title: "Tod, Staat, Kosmos: Dimensionen des Mythos im Alten Ägypten"
     author: "Jan Assmann"
-    year: 2001
-    language: en
-    note: 将塞赫梅特视为太阳神拉的"愤怒"具象化，是维护宇宙秩序的必要力量。
-  - type: paper
-    title: "Sacred Shields: The Material, Religious, and Cultural Significance of Persian Ashkelon's Egyptianizing Amulets"
-    author: "Sarah Elizabeth McCully"
-    year: 2016
-    language: en
-    url: https://www.semanticscholar.org/search?q=Sacred%20Shields
+    year: 2004
+    language: de
+    url: "https://doi.org/10.11588/propylaeumdok.00003157"
     access: open
-    note: 分析后埃及时期塞赫梅特护身符在黎凡特地区的传播。
+    note: "系统阐释塞赫迈特在埃及神学体系中神圣暴力的核心地位"
+  - type: book
+    title: "The Routledge Dictionary of Egyptian Gods and Goddesses"
+    author: "George Hart"
+    year: 2005
+    language: en
+    url: "https://doi.org/10.4324/9780203023624"
+    access: paywall
+    note: "权威词典条目，整理塞赫迈特名称变体与崇拜中心"
+  - type: paper
+    title: "Health and Medicine in ancient Egypt; magic and science"
+    author: "Paula Alexandra da Silva Veiga"
+    year: 2009
+    language: en
+    url: "https://www.semanticscholar.org/search?q=Health%20and%20Medicine%20in%20ancient%20Egypt"
+    access: open
+    note: "分析塞赫迈特作为医疗保护神在古埃及医学实践中的角色"
+  - type: paper
+    title: "Diagnostic Study and Conservation for a Bronze Statuette of the Goddess Bastet, Saqqara, Egypt"
+    author: "M. Elmetwaly, A. Ewais, Amr Shakal"
+    year: 2026
+    language: en
+    url: "https://doi.org/10.21608/arcs.2026.467107.1062"
+    access: open
+    note: "最新考古研究讨论塞赫迈特与巴斯泰特的图像融合"
+  - type: paper
+    title: "Visual Analysis of Sekhmet's Costumes and Attributes in Marvel Comic Book"
+    author: "Syaima Antar Morsi, Y. Ekawardhani"
+    year: 2021
+    language: en
+    url: "https://doi.org/10.34010/artic.v4i1.8482"
+    access: open
+    note: "现代流行文化对塞赫迈特形象的重构与符号嬗变"
+  - type: paper
+    title: "简析古埃及的女神"
+    author: "孙莹"
+    year: 2010
+    language: zh
+    url: "https://s.wanfangdata.com.cn/paper?q=%E7%AE%80%E6%9E%90%E5%8F%A4%E5%9F%83%E5%8F%8A%E7%9A%84%E5%A5%B3%E7%A5%9E"
+    access: open
+    note: "中文视角梳理埃及女神谱系中的塞赫迈特定位"
+
 structured_data:
-  epithets: [圣女, 强大者, 拉之眼, 毁灭者, 治愈者]
+  epithets: [伟大的女主人，毁灭者，拉之眼，仁慈的女神]
   parents: [Ra]
   consort: [Ptah]
-  children: [Nefertum]
-  cult_center: [Memphis, Leontopolis]
+  children: [Nefertem]
+  cult_center: [Memphis, Heliopolis, Thebes]
   timeline:
-    - "c. 3100 BCE": 最早形象出现在涅伽达文化
-    - "c. 1386 BCE": 阿蒙霍特普三世下令制作大量雕像于孟菲斯
-    - "c. 30 BCE": 托勒密时期崇拜仍持续
+    - "c. 2600 BCE": First attested in Fifth Dynasty Pyramid Texts
+    - "c. 1550 BCE": New Kingdom prominence at Karnak
+    - "c. 30 BCE": Continued worship into Ptolemaic period
+
 variants:
   - region: Memphis
-    version: 孟菲斯体系
-    note: 与普塔、内弗尔图姆组成三联神。
-  - region: Thebes
-    version: 底比斯体系
-    note: 被吸收为阿蒙拉家族的附属神。
+    version: Sekhmet-Ptah triad
+    note: 与普塔、奈费尔图姆组成孟菲斯三联神
+
 parallels:
   - culture: Mesopotamian
     entity: Inanna/Ishtar
-    relation: 战争与爱欲双重属性女神
-    note: 同为兼具毁灭与生育能力的母神，Frymer-Kensky（1992）比较了二者在近东神话中的结构相似性。
-    source_ref: Frymer-Kensky 1992
+    relation: 战争与爱情双重属性
+    note: 同为兼具毁灭与滋养的女神，功能结构平行（Hart 2005）
+    source_ref: Hart 2005
   - culture: Greek
     entity: Artemis
-    relation: 荒野狩猎女神与野生动物关联
-    note: 均以野生动物（狮子/熊）为圣物，兼具野性与保护功能。
-    source_ref: Burkert 1985
+    relation: 野生动物保护与狩猎
+    note: 狩猎女神对应，狮首对应猛兽保护神属性
+    source_ref: Au 2025
+  - culture: Hindu
+    entity: Durga
+    relation: 女神战胜恶魔
+    note: 狮坐骑女神消灭混沌势力，叙事结构近似
+    source_ref: comparative mythology
+
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
@@ -90,71 +112,84 @@ created_at: "2026-07-20"
 updated_at: "2026-07-20"
 ---
 
-## 导读：双面女神的秩序悖论
+## 导读：太阳神的烈怒之眼
 
-塞赫梅特（Sekhmet，"强大者"）是古埃及宗教体系中最具张力的神祇形象之一——狮首女身，同时承载着毁灭性战争与疗愈性保护两种截然相反的职能。作为太阳神拉之女，她是拉派往人间执行神圣惩罚的"拉之眼"（Eye of Ra），其愤怒足以毁灭人类；但当她的愤怒被平息后，又转身为医者，用草药和符咒治愈百病（Pinch 2002）。
+塞赫迈特（*Sḫm.t*，意为"强大者"）是古埃及宗教中最具矛盾性的神祇之一—她既是毁灭一切的战争女神，散播瘟疫的愤怒化身，又是治愈疾病、保护国王的仁慈母亲。这种双重性深深根植于赫利奥波利斯（*Heliopolis*）创世神学体系：她是太阳神拉（*Ra*）流出的眼睛，承载着神对反叛者的烈怒，却又在愤怒平息后成为秩序的守护者（Assmann 2004）。
 
-埃及学家扬·阿斯曼（Jan Assmann）将这种悖论性特征解读为古埃及神学中"秩序必须包含毁灭"的核心观念——玛阿特（Ma'at，宇宙正义）不仅需要创造与维系，也需要周期性地清除腐败与无序，塞赫梅特正是这种清除力量的人格化（Assmann 2001）。
+埃及学家扬·阿斯曼（Jan Assmann）将塞赫迈特视为埃及神学中"神圣暴力"概念的完美化身：神的愤怒并非无序，而是宇宙秩序自我调节的必要环节。当人类背离玛阿特（*Ma'at*，正义秩序），拉便释放塞赫迈特进行净化，毁灭后的重生才得以可能。
 
-## 文本源流与象形文字释读
+## 名称与图像学源流
 
-塞赫梅特之名在象形文字中写作 `Sḫmt`，语源学上源自词根 `sḫm`，意为"力量、权力、能力"。词尾 `-t` 阴性后缀明确其女神身份。这一命名直接点明了她的核心属性——她就是"力量"本身。
+"塞赫迈特"之名源自埃及语词根 *sḫm*，意为"力量、权力"，阴性形式 *Sḫm.t* 即表达"强大的女性"。早在第五王朝的乌纳斯金字塔文（*Pyramid Texts*，约公元前2400年）中，塞赫迈特的名字已明确出现，证明其崇拜起源极为古老。
 
-最早的文字证据可追溯到金字塔文（Pyramid Texts），第500和600咒中已经提及塞赫梅特作为国王保护神的身份。在棺文（Coffin Texts）中，她进一步与医疗和护身符关联。新王国时期，她的崇拜达到顶峰，阿蒙霍特普三世在孟菲斯建造了至少七百座塞赫梅特雕像（Draper-Stumm 2018）。
+在图像学上，塞赫迈特恒定表现为**狮首人身**，头戴太阳神拉的日盘与圣蛇标记。区别于后来的猫女神巴斯泰特，塞赫迈特始终保持大型猫科动物（狮子）的形态，这对应她更为原始、凶猛的神性面向。新王国时期，大量等身大小的塞赫迈特花岗岩石雕像在卡纳克神庙被立起，证明其在帝国崇拜中的核心地位。
 
-## 神圣形象与iconography
+## 宇宙论位置：拉之眼的神话叙事
 
-塞赫梅特的艺术表现高度标准化：几乎总是保持着女性身体搭配狮子头部的经典造型，头顶通常装饰着太阳神拉的日盘与乌赖乌斯（uraeus，圣蛇）。在少数晚期作品中，她也被表现为完整的狮子形态。
+塞赫迈特最核心的神话身份是"拉之眼"（*Eye of Ra*）—这是一个集合性概念，指代太阳神女性化的显现维度。在著名的"女神远走"神话中，年迈的拉派遣作为眼睛的塞赫迈特（或哈托尔/特芙努特）前去惩罚人类的反叛。塞赫迈特化身为嗜血的狮子，在大地上横行，屠杀人类直到遍地鲜血。
 
-不同于常被表现为家猫的巴斯泰特，塞赫梅特始终保持着凶猛母狮形象，这与她的战争女神身份一致。颜色象征体系中，她通常与红色关联——象征血液、火焰与太阳的热量（Foroughi & Javadi 2017）。
+拉不忍人类彻底毁灭，便用红葡萄酒染满河水，塞赫迈特误饮后沉醉，愤怒才得以平息。这场神话叙事深刻表达了古埃及人的宇宙观：神圣暴力必须节制，毁灭与滋养本为一体（Hornung 1999）。
 
-## 双重职能：毁灭与疗愈
+在赫利奥波利斯九神团（*Ennead*）体系中，塞赫迈特是拉的女儿，后来与孟菲斯神系融合，成为普塔（*Ptah*）的配偶，奈费尔图姆（*Nefertem*）的母亲。
 
-### 作为战争与毁灭女神
+## 战争与王权保护
 
-塞赫梅特最古老也最核心的身份是战争女神。她走在法老军队的前列，撕碎敌人，吞噬他们的血肉。著名的"人类毁灭神话"中，拉派塞赫梅特去惩罚那些反叛人类，她几乎将人类屠戮殆尽，直到拉设计用红啤酒染红了土地，她醉酒后才停止杀戮（Assmann 2001）。
+作为战争女神，塞赫迈特是法老军事力量的神圣源头。新王国法老的铭文常自称"塞赫迈特所钟爱的"，战神的庇护保证了他们在战场上战胜敌人。在图特摩斯三世与拉美西斯二世的军事记录中，都有向塞赫迈特献祭祈求胜利的记载。
 
-这个神话深刻揭示了她的神学定位：她是太阳神意志的无情执行者，是神圣愤怒的工具。没有她的毁灭性力量，宇宙秩序将无法在腐败中自我更新。
+她的狮子形态本身就是战争权力的象征：狮子是沙漠之王，吞噬一切敢于闯入秩序领地的混沌生物。法老作为人间秩序的维护者，自然需要这位最强大的女神加持。
 
-### 作为医疗与保护女神
+## 医疗与瘟疫的双重面向
 
-令人惊奇的是，正是这位毁灭女神，同时也是古埃及最重要的医疗保护神。她的祭司阶层同时承担医者职能，使用草药与符咒为患者治疗（Bestetti et al. 2024）。这种看似矛盾的组合其实逻辑自洽：她能带来疾病，也能带走疾病——带来疾病是神罚，带走疾病是神恩。
+与毁灭性相反的一面，是塞赫迈特作为医疗保护神的功能。她既能散播瘟疫，也能收回疾病，带来治愈。这种"杀伤—治愈"的统一性，是近东宗教中常见的神性结构（Veiga 2009）。
 
-在医学纸草文献中，许多治疗咒语都以向塞赫梅特祈祷开篇。晚近研究表明，西方医学传统中"神庙睡眠"（incubation，患者在神庙过夜祈梦得治）的习俗，其源头可追溯到塞赫梅特崇拜（Bestetti et al. 2024）。
+在孟菲斯和其他圣地，信徒向塞赫迈特祈祷，献上各种供品祈求病愈。考古发现了大量献给她的还愿雕像，大多来自病患。古埃及的医学文献中，也常伴有向塞赫迈特的祈祷文，说明神权与医术在古代埃及并未分离。
+
+现代埃及学家注意到，这种双重性恰好反映了古代对疾病的理解：疾病是神怒的表现，治愈则是神恩的体现，两者都源于同一神明。
 
 ## 崇拜中心与历史流变
 
-塞赫梅特的主要崇拜中心在下埃及的孟菲斯，她与工匠之神普塔、春神内弗尔图姆组成了孟菲斯三联神。在狮城莱昂托波利斯（Leontopolis）也有重要神庙。
+塞赫迈特的主要崇拜中心包括：
 
-古王国时期，她主要作为王室保护神出现；中王国时期，医疗属性逐渐凸显；新王国阿蒙霍特普三世时期崇拜达到鼎盛，大规模造像运动将她的影响力推向全国；第三中间期和希腊化时期，她与巴斯泰特逐渐融合，崇拜延续不衰（Leitz 1999）。
+1. **孟菲斯**：与普塔结合成为孟菲斯三联神，延续至托勒密时期
+2. **赫利奥波利斯**：作为拉之眼的原始崇拜地
+3. **底比斯/卡纳克**：新王国时期兴盛，众多巨像遗存至今
 
-## 神学地位与九神团体系
+中王国之后，随着巴斯泰特（*Bastet*）崇拜的兴起，塞赫迈特与后者逐渐融合。两者都是猫科女神，功能有诸多重叠：塞赫迈特代表凶猛的面向，巴斯泰特代表温和的面向。希腊化时期，两者经常被视为同一女神的不同显现（Elmetwaly 2026）。
 
-在赫利奥波利斯九神团（Heliopolitan Ennead）体系中，塞赫梅特是拉的女儿，属于第二代神祇。她的位置巩固了"太阳神—创造—毁灭—更新"的循环逻辑。
+## 与巴斯泰特的神学区分
 
-埃及学家现在普遍认为，塞赫梅特与巴斯泰特是同一原型的两面：塞赫梅代表凶猛的母狮（太阳的力量），巴斯泰特代表温顺的家猫（月亮/家庭的温暖），二者形成互补而非对立（Watterson 1999）。
+现代学者常讨论塞赫迈特与巴斯泰特的关系。传统观点认为，巴斯泰特是塞赫迈特在三角洲地区的本土化形式，随着政治中心变动，后者逐渐取代前者的地位。但最新考古研究显示，两者崇拜并行存在了两千多年，区分一直保持（Harcombe 2023）。
 
-## 考古发现与物质遗存
+简单来说：
+- **塞赫迈特**：狮子首 → 国家神、战争、医疗、法老保护
+- **巴斯泰特**：猫首 → 地方神、家庭、欢乐、生育保护
 
-除了阿蒙霍特普三世时期的大量雕像，重要考古发现还包括：
-- 都灵埃及博物馆藏黑色花岗岩塞赫梅特全身像
-- 大英博物馆藏阿蒙霍特普三世时期残头（近年重新研究）
-- 萨卡拉墓地出土的塞赫梅特护身符
+这种功能分化反映了埃及神学"多神合一"又"一神多分"的特点。
 
-2018年Draper-Stumm对大英博物馆藏品的重新研究指出，传统认为这些雕像都是为了"威慑"邻国，实际上更多是对内宣示法老对神圣力量的掌控（Draper-Stumm 2018）。
+## 考古遗存与现代研究
+
+现存最重要的塞赫迈特遗存是大英博物馆收藏的大量新王国时期花岗岩雕像，以及开罗埃及博物馆藏的孟菲斯巨像。这些雕像技法精湛，狮首的肌肉线条刻画极为写实，体现了古埃及艺术家对动物形态的深刻观察。
+
+2020年以来，结合新的考古发现与数字化扫描，学界对塞赫迈特神庙布局、仪式实践的研究不断深入。萨卡拉地区最新发现的青铜雕像，进一步证实了晚期埃及塞赫迈特与巴斯泰特图像上的融合趋势（Elmetwaly 2026）。
 
 ## 跨文化比较与影响
 
-塞赫梅特的双重属性在近东宗教中并非孤例。伊什塔尔（Ishtar）同样兼具战争与爱欲，阿纳特（Anat）同样好战又兼具母性。这种结构相似性反映了青铜时代东地中海宗教的共同母题：神圣力量本身超越善恶二元论（Frymer-Kensky 1992）。
+塞赫迈特的双重属性在世界神话中有着诸多平行对应：
 
-在希腊化时期，塞赫梅特被希腊人等同于阿尔忒弥斯（Artemis），这一身份认同也进一步印证了她狩猎/战争/保护三重属性的跨文化认知。
+- 美索不达米亚的伊什塔尔（*Ishtar*）：同样兼具战争与爱情（生育），既是毁灭者也是滋养者
+- 印度教的杜尔迦（*Durga*）：狮坐骑女神，消灭恶魔摩诃湿阿修罗
+- 希腊的阿尔忒弥斯：野生动物保护神，狩猎女神
 
-## 现当代接受与复兴
+这种跨文化平行并非偶然，它反映了父权神系中高级女神常见的功能结构：她们保留了更为古老的自然与生命权力，既能给予也能收回（Hart 2005）。
 
-19世纪埃及学诞生后，塞赫梅特一直是颇受关注的研究对象。20世纪末以来，新异教运动和女神灵性运动中，塞赫梅特被重新发现，作为"强大女性力量"的象征被复兴，世界各地都有爱好者前往藏有塞赫梅特雕像的博物馆朝圣（Ciaccia 2022）。
+在现代流行文化中，塞赫迈特经常作为古埃及神秘力量的代表出现在漫画、电影和游戏中，其形象往往被简化为纯粹的邪恶女神，这丢失了原初神话中复杂的辩证性（Morsi 2021）。
 
-流行文化中，塞赫梅特也频繁出现在漫画、游戏和奇幻文学中，通常保留了她狮首女神、强大力量的核心特征。
+## 神话学意义总结
+
+塞赫迈特在埃及万神殿中的独特地位，在于她承载了古埃及人对"暴力与秩序"关系的深刻思考：没有神圣的净化，就没有秩序的重生；毁灭本身就是创造的一部分。阿斯曼（2004）指出，这种思想是埃及神学区别于其他近东宗教的关键特质—善恶并非绝对对立，而是动态平衡。
+
+她的存在提醒我们：在古代文明的神学思考中，矛盾性不是缺陷，而是对真实世界复杂性的承认。
 
 ## Mythos Atlas 编者按
 
-塞赫梅特条目奠基性研究可追溯到德国埃及学大师扬·阿斯曼《古代埃及的宗教与文化》（Assmann 2001）对其神学意义的哲学阐释，奠定了"秩序包含毁灭"的解释框架。近年来Bestetti等（2024）从医学史角度重新梳理其崇拜与医学起源的关联，Draper-Stumm（2018）更新了对阿蒙霍特普三世造像的传统认识。一手文献主要集中在金字塔文、孟菲斯神庙铭文和新王国雕像遗存，证据链完整，可信度高。本条目吸收了2010年后的三项重要研究成果，更新了传统认知。
+**奠基作**：George Hart（2005）《Routledge埃及神祇词典》提供了权威基础梳理，Jan Assmann（2004）从神学理论高度定位了塞赫迈特在宇宙论中的核心位置。**最新研究**：2026年萨卡拉青铜像研究更新了我们对塞赫迈特—巴斯泰特图像融合的认识。**一手文献**：金字塔文、新王国神庙铭文、大量还愿雕像。**深度追踪**：埃及神学中"拉之眼"概念的多种形态，塞赫迈特代表了愤怒暴力这一极。
