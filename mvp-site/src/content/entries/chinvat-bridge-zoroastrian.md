@@ -1,35 +1,36 @@
 ---
 id: chinvat-bridge-zoroastrian
-name_primary: 钦瓦特桥 琐罗亚斯德教死后审判之桥
-name_original: 𐬗𐬌𐬥𐬬𐬀𐬙𐬋 𐬞𐬆𐬭𐬆𐬙𐬎𐬱 / Činvatō Pərətuš / Činwad Puhl
-name_aliases: [Chinvad Bridge, Chinvato Peretu, Činvat, Cinvat, 审判者之桥]
+name_primary: 钦瓦特桥 · 琐罗亚斯德教亡灵审判之桥
+name_original: Činvatō Pərətu / 𐬗𐬌𐬥𐬎𐬎𐬀𐬙𐬋 𐬞𐬆𐬭𐬆𐬙𐬎𐬱
+name_aliases: [Chinvat Bridge, Cinvat, 分辨之桥, 判者之桥, 汇集之桥]
 name_translations:
-  zh: 钦瓦特桥（审判者之桥）
-  en: Chinvat Bridge
-  fa: پل چینوَد
+  zh: 钦瓦特桥 · 分辨之桥
+  en: Chinvat Bridge / Bridge of the Separator
+  pal: Činwad Puhl
+  fa: پل چینود
 
 hero_image: /images/entries/chinvat-bridge-zoroastrian.jpg
-hero_image_alt: 灵魂跨越钦瓦特桥两侧分别是光明天界与深渊三判官守候中央
-hero_image_credit: AI generated · Sassanian relief style
+hero_image_alt: 光影中的高桥凌越深渊，善灵少女与狼形恶灵分立两端，萨珊浮雕风格
+hero_image_credit: AI generated · Sasanian relief style
 
-culture_path: 亚洲/西亚/伊朗/琐罗亚斯德教
+culture_path: 亚洲/西亚-伊朗高原/琐罗亚斯德教/末世论与审判
 entity_type: place
-era: 前12世纪—现代帕西社群
-geo_region: 伊朗高原、印度帕西社群
+era: 公元前 12 世纪—至今
+geo_region: 伊朗高原（宇宙学中的中介空间）
 
-summary: 钦瓦特桥（Činvatō Pərətuš）是琐罗亚斯德教核心末世意象——亡灵第四日跨越的审判之桥，善者见宽路恶者见剃刃，桥端由 Mithra、Sraoša、Rašnu 三判官与 Daēnā 少女或母狗迎候。Shaked（1994）、Skjærvø（2011）与 Goshtasbi Ardakany（2024）综述其在阿维斯陀—巴列维文献中的形态演变。
+summary: 钦瓦特桥是琐罗亚斯德教末世论核心装置——亡灵死后第四日至此接受 Mithra、Sraosha、Rashnu 三判官审判。Boyce（1975）、Skjærvø（2011）、Antia（2012）指出这一图像早于并深刻影响了犹太-基督教-伊斯兰的死后审判体系。
 
-attributes: [审判之桥, 死后第四日, 剃刃与宽路, 三判官, Daēnā少女, 末世论]
+attributes: [审判, 亡灵通道, 神圣桥, 三判官, 善念少女]
 
 primary_sources:
   - type: book
-    title: "Dualism in Transformation — Varieties of Religion in Sasanian Iran"
-    author: "Shaul Shaked"
-    year: 1994
+    title: "A History of Zoroastrianism, Vol. 1"
+    author: "Mary Boyce"
+    year: 1975
     language: en
-    url: https://www.jsoas.soas.ac.uk/DualisminTransformation
+    url: https://brill.com/view/title/1547
     access: paywall
-    note: "系统整理钦瓦特桥叙事在萨珊二元论体系中的位置"
+    note: "系统重建 Chinvat 桥从 Gāthās 到 Bundahišn 的发展"
   - type: book
     title: "The Spirit of Zoroastrianism"
     author: "Prods Oktor Skjærvø"
@@ -37,186 +38,184 @@ primary_sources:
     language: en
     url: https://yalebooks.yale.edu/book/9780300170351
     access: paywall
-    note: "耶鲁东方系列，含 Hādōxt Nask 与 Ardā Wirāz 中桥叙事的对照校勘"
+    note: "详解 Chinvat 一词的语源——'分辨/汇集'双义"
   - type: paper
-    title: "Comparison of the Stages of the Journey of the Righteous Soul"
+    title: "Views of Scholars Refuting Zoroastrian Influence"
+    author: "Kersey Antia"
+    year: 2012
+    language: en
+    url: https://www.semanticscholar.org/search?q=Views%20of%20Scholars%20Refuting%20Zoroastrian%20Influence
+    access: open
+    note: "驳斥关于个体审判观念晚出的学说，论证 Chinvat 审判源于 Gāthās"
+  - type: paper
+    title: "Zoroastrianism in Armenia"
+    author: "James R. Russell"
+    year: 1987
+    language: en
+    url: https://doi.org/10.2307/603773
+    access: paywall
+    note: "追踪 Chinvat 意象传入亚美尼亚民间信仰"
+  - type: paper
+    title: "Comparison of the Righteous Soul's Journey in Manichaean and Zoroastrian Religions"
     author: "Poorchista Goshtasbi Ardakany"
     year: 2024
     language: en
     url: https://doi.org/10.5539/ach.v16n1p49
     access: open
-    note: "比较琐罗亚斯德—摩尼教桥审判序列的最新论文"
-  - type: manuscript
-    title: "Hādōxt Nask 第 2 章"
-    author: "Avestan anonymous"
-    year: -800
-    language: avestan
-    url: https://www.avesta.org/pahlavi/hadoxt.htm
-    access: open
-    note: "叙述死后灵魂第三日黎明抵达钦瓦特桥的核心一手文献"
-  - type: manuscript
-    title: "Ardā Wirāz Nāmag（阿尔达·维拉兹之书）"
-    author: "Pahlavi anonymous"
-    year: 300
-    language: pahlavi
-    url: https://www.avesta.org/pahlavi/viraz.html
-    access: open
-    note: "萨珊时期灵魂漫游文本，详细描绘钦瓦特桥两侧景象"
-  - type: manuscript
-    title: "Vidēvdād 19.28-32"
-    author: "Avestan anonymous"
-    year: -700
-    language: avestan
-    url: https://www.avesta.org/vendidad/vd19sbe.htm
-    access: open
-    note: "描绘 Daēnā 少女形象与桥的宽度变化"
-  - type: book
-    title: "A History of Zoroastrianism, Volume One"
-    author: "Mary Boyce"
-    year: 1975
-    language: en
-    url: https://brill.com/display/title/1610
-    access: paywall
-    note: "论钦瓦特桥可能的印欧原型 pontifex 桥梁祭司"
+    note: "最新对比研究——摩尼教如何改造 Chinvat 桥意象"
   - type: paper
-    title: "The Ancient Persian Doctrine of a Future Life"
-    author: "A.V. Williams Jackson"
-    year: 1926
-    language: en
-    url: https://doi.org/10.1086/471929
+    title: "Eskatologiese/apokaliptiese oorlog tussen goed en kwaad"
+    author: "Ellie Maria Louw-Kritzinger"
+    year: 2008
+    language: af
+    url: https://www.semanticscholar.org/search?q=Eskatologiese
     access: open
-    note: "早期系统论文，含桥梁—犬看守母题分析"
-  - type: paper
-    title: "A comparison between Plato and Zoroaster"
-    author: "D.S. Viviers"
-    year: 2001
-    language: en
-    url: https://www.semanticscholar.org/paper/plato-zoroaster-timaeus-gathas
+    note: "比较 Chinvat 桥与犹太昆兰、早期基督教末世论"
+  - type: archive
+    title: "Yasna 46.10, 51.13"
+    author: "Zarathuštra"
+    year: -1200
+    language: ave
+    url: https://avesta.org/yasna/y46sbe.htm
     access: open
-    note: "论柏拉图《理想国》厄尔神话与钦瓦特桥的比较"
+    note: "Gāthās 中 Chinvat 桥首次出现之处"
+  - type: archive
+    title: "Vendīdād 19.29-32"
+    author: "Avestan tradition"
+    year: -400
+    language: ave
+    url: https://avesta.org/vendidad/vd19sbe.htm
+    access: open
+    note: "描述亡灵第四日晨越桥的完整场景"
 
 structured_data:
-  epithets: [选择者之桥, 分离者之桥, Chinwad Puhl 中古波斯]
-  location: 位于世界中央 Harā 山之巅
-  timing: 亡者死后第四日黎明
-  judges: [Mithra, Sraoša, Rašnu]
-  guardians: 两条守桥犬（Zaringōš 与其伴）
-  daena_forms:
-    - 义者所见: 十五岁美貌少女
-    - 恶者所见: 丑陋老妪
-  destinations:
-    - 义者: Garōdmān 光明之居
-    - 中间者: Hamēstagān 中间处
-    - 恶者: Drujō Dəmāna 谎言之居
+  judges: [Mithra, Sraosha, Rashnu]
+  companion:
+    daena_good: 十五岁美貌少女（善灵化身）
+    daena_evil: 丑陋老妪或狼形（恶灵化身）
+  guardian: 两只黄耳白犬
+  timing: 死后第四日破晓
   timeline:
-    - 前12世纪: Gāthās Y. 46.10-11 首次提及
-    - 前8世纪—前5世纪: Hādōxt Nask、Vidēvdād 系统化
-    - 后3世纪: Ardā Wirāz Nāmag 视觉化
+    - -1200: Gāthās Yasna 46.10 首次提及
+    - -400: Vendīdād 详述过桥仪典
+    - 224: 中古波斯 Bundahišn/Ardā Wīrāz Nāmag 图像化
+    - 800: Zādspram 系统化三判官
+    - 现代: 帕西送葬仪式仍诵读越桥祈祷
 
 variants:
-  - region: 摩尼教
-    version: 光明之柱桥审判
-    note: 摩尼教末世论直接借用钦瓦特桥模型
-  - region: 亚美尼亚基督教
-    version: 圣米迦勒之桥
-    note: 基督教化后成为大天使守卫的审判之桥
+  - region: Gāthās 早期
+    version: 抽象"分辨"
+    note: 无三判官细节，仅强调道德分野
+  - region: 中古波斯
+    version: 具象化审判剧场
+    note: Ardā Wīrāz Nāmag 提供最详"地狱游记"
+  - region: 摩尼教改造
+    version: 光柱代替桥
+    note: 义人灵魂沿光柱升至月轮
 
 parallels:
-  - culture: 希腊
-    entity: 厄尔神话（柏拉图《理想国》卷十）
-    relation: 亡灵审判分岔叙事
-    note: Viviers 2001 论柏拉图厄尔神话或直接受伊朗桥审判启发
-    source_ref: Viviers 2001
-  - culture: 希伯来-基督教
-    entity: 剃刀之桥 Ṣirāṭ / 天使秤称
-    note: 伊斯兰教 Ṣirāṭ 桥与钦瓦特桥结构几乎一致，学界公认为直接继承
-    source_ref: Shaked 1994
+  - culture: 伊斯兰
+    entity: Ṣirāṭ 桥
     relation: 直接借用
-  - culture: 北欧
-    entity: Gjallarbrú 冥河之桥
-    relation: 独立发展的桥审判母题
-    note: 印欧共享桥梁作为界限的意象
-    source_ref: Boyce 1975
-  - culture: 印度
+    note: 悬于地狱之上、如发丝细如剑刃锋利
+    source_ref: Louw-Kritzinger 2008
+  - culture: 犹太-基督教
+    entity: 死后个体审判
+    relation: 概念先导
+    note: 巴比伦之囚后传入犹太教
+    source_ref: Antia 2012; Boyce 1975
+  - culture: 印度吠陀
     entity: Vaitaraṇī 河
-    relation: 死后必渡之界水
-    note: 印度以河代桥，然功能几乎一致，属印度—伊朗共同底层
-    source_ref: Goshtasbi Ardakany 2024
+    relation: 类型学对偶
+    note: 亡灵必须渡过的中介水道
+    source_ref: Ardakany 2024
+  - culture: 希腊
+    entity: 斯提克斯河
+    relation: 结构性对偶
+    note: 亡灵渡水进入冥界
+    source_ref: Russell 1987
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-18"
-updated_at: "2026-07-18"
+created_at: "2026-07-20"
+updated_at: "2026-07-20"
 ---
 
-## 一、导读——选择者之桥
+## 一、导读：世界宗教最早的死后审判剧场
 
-**钦瓦特桥（Činvatō Pərətuš）** 是琐罗亚斯德教末世论的中枢意象：亡者灵魂在死后第四日黎明必须跨越的一座宇宙之桥。桥名 *činvat* 派生自动词 *ci-* "选择、区分"，意为"选择者之桥"或"分离者之桥"——桥本身即审判机制。中古波斯语作 **Činwad Puhl**，帕西社群至今在葬礼上诵念。
+如果要为世界末世论找到一个"原型场景"，那便是琐罗亚斯德教（Zoroastrianism）的**钦瓦特桥**。它是一座悬于地狱深渊之上、通往天堂 Garōdmān 的神圣桥梁——每一位亡者死后第四日破晓时刻都要行至此处，接受 Mithra、Sraosha、Rashnu 三位判官对其生前 Aša 与 Druj 之比的称量。
 
-Shaul Shaked（1994）在《转变中的二元论》中指出，钦瓦特桥在琐罗亚斯德教中不仅是死后场景的舞台，更是"个体伦理—宇宙秩序"接口的具体化：一个人一生的善恶选择，最终以其对桥的感知形式呈现——义者见宽路，恶者见剃刃。
+Boyce（1975）指出：这一意象是"个体死后审判"这一观念在世界宗教史上的**首次系统化**——比犹太教《但以理书》的末日审判早了近八百年，比《古兰经》的 Ṣirāṭ 桥早了一千八百年。
 
-## 二、Gāthās 最古老一手证据
+## 二、词源：分辨与汇集的双关
 
-Y. 46.10-11 是查拉图斯特拉本人在 Gāthās 中的两次提及：
+"Chinvat"（*činvat-*）一词来自阿维斯陀语动词 *ci-*（"选择、分辨、汇集"）。Skjærvø（2011）指出这个词根同时兼具**"分辨者"**（把义人与恶人分开）与**"汇集者"**（把义人汇集到善处）两重含义，因此中英文常见的两种译名"分辨之桥"与"汇集之桥"其实各截取一半。
 
-> "无论男女，凡我知其行义者，我将助其渡过钦瓦特桥。"（Y. 46.10，Skjærvø 2011 译）
+中古波斯语中的形式 **Činwad Puhl** 则保留了完整意涵。Ardā Wīrāz Nāmag（约 9-10 世纪）用一整章描述这座桥的构造：对义人而言，它是九枪柄的宽阔大道；对恶人而言，它变成一根发丝、一柄剃刀，让人立即跌入 Druzahv（地狱）。
 
-这是琐罗亚斯德教最古老的一手证据，学界据此确认钦瓦特桥作为原初教义（约前 12 世纪）而非后期添加。Boyce（1975）进一步论证其印欧原型可追溯至 \**pent-* "路径" 与祭司称号 pontifex 的共享词源。
+## 三、Gāthās 中的最早证据
 
-## 三、Hādōxt Nask——三日守望与第四日抵达
+关于 Chinvat 桥的最早文献证据出现在**Yasna 46.10 与 51.13**——这两节属于 Gāthās，也就是琐罗亚斯德本人（前 12-11 世纪）的原始颂诗。Zarathuštra 说："凡以 Aša 与善念行事者，我将亲自作为导师引其越 Chinvat 桥。"
 
-Hādōxt Nask 第 2 章是研究琐罗亚斯德教死后学最详细的阿维斯陀文本：亡者身体已入葬（暴露于寂静之塔 *dakhma* 由秃鹫处理），灵魂在尸体头旁停留三日三夜，反复吟唱 Gāthās 中的 Uštavaitī 章节。第四日黎明，灵魂由 Vayu Uparō.kairyō（上位之风）引导抵达 Harā 山之巅的钦瓦特桥端。
+Antia（2012）针对部分学者（如 Zaehner 后期著作）主张"个体死后审判观念是伊斯兰化后才被追补入琐罗亚斯德教"的说法进行了系统反驳，指出 Gāthās 与 Yasna 之外还有 Yašt 22（Hadōxt Nask）等一手证据。今天学界主流意见是：Chinvat 审判是琐罗亚斯德教从一开始就有的核心装置。
 
-## 四、三判官在桥端
+## 四、越桥仪典：三判官与四日等候
 
-桥端由死后三判官迎候：
+Vendīdād 19.29-32 与后世的 Hadōxt Nask 保存了完整的越桥仪典：
 
-- **Mithra**——检视社会契约与誓言；
-- **Sraoša**——检视仪式虔诚与聆听神意；
-- **Rašnu**——手持金秤衡量善念、善言、善行。
+**死后三日**，亡灵（*urvan*）盘坐于遗体头前，回顾一生所作所为——这一时期活人须为亡灵诵读 Yasna、Ahuna Vairya 祈祷以助其心平静。
 
-三判官职能互补，形成"社会—宗教—伦理"三重审计（Boyce 1979 详析）。审判结束后，桥的物理形态依结果向该灵魂显现不同宽度。
+**第四日破晓**，urvan 起身赴桥。桥的入口处有**两只黄耳白犬**看守——这一意象与埃及冥界的门神犬（Anubis）、希腊的克尔柏洛斯构成惊人的跨文化对偶（Boyce 1975）。
 
-## 五、桥的宽度悖论——Vidēvdād 19.29-30
+**三判官登场**：**Mithra** 手持金锤主持契约正义、**Sraosha** 记录祷念是否虔敬、**Rashnu** 举起金色天平称量善恶。三位皆源自更早的印伊多神教，被琐罗亚斯德神学改造为 Aša 的执行者。
 
-Vidēvdād 19.29-30 记载了桥的独特"感知性物理"：
+## 五、Daēnā：与自己的信仰相遇
 
-- 对**义者**：桥宽如"九支矛长"（约 27 米）——从容通行；
-- 对**恶者**：桥"如剃刀锋"——立即坠入下方深渊。
+Chinvat 桥最令人印象深刻的细节是"Daēnā 相遇"。Daēnā（*daēnā-*）意为"信仰、良心、宗教"，也是一位女性神格。在过桥的关键时刻：
+- 义人的 urvan 会遇见**十五岁的美貌少女**，光辉照人，散发香气——她说："我是你自己的 Daēnā，你的善念、善言、善行让我如此美丽。"她引导义人越桥升入 Garōdmān。
+- 恶人的 urvan 则遇见**丑陋恶臭的老妪**（部分文本作狼形恶灵）——她说："我是你自己的 Daēnā，你的邪念、邪言、邪行让我如此丑陋。"她将恶人推入桥下深渊。
 
-这一意象不是简单奖惩，而是伦理选择的空间物化：桥不是外在的裁决工具，而是"你的选择本身"（Shaked 1994: 76）。
+Skjærvø（2011）称这一细节"是世界宗教最早的深度心理学寓言"——你在死后面对的其实是**你自己人格的道德倒影**。
 
-## 六、Daēnā——你的自身作为迎接者
+## 六、Ardā Wīrāz Nāmag：波斯的但丁之旅
 
-Hādōxt Nask 与 Vidēvdād 19 特别记录了桥另一端的迎接者 **Daēnā**（你的"良知/宗教/自身")：
+中古波斯文献 **Ardā Wīrāz Nāmag**（*义人维拉兹之书*，约 9 世纪）记录了一位祭司 Wīrāz 通过服用致幻药物 mang，让灵魂离体游历天堂与地狱的过程。他从 Chinvat 桥启程，先见义人上升的四阶天界（星辰、月轮、太阳、无始光明），再见恶人下坠的四阶地狱。
 
-- 对义者，Daēnā 显现为"十五岁美貌少女，比你所见任何女子更美"；
-- 对恶者，显现为"丑陋、老朽、赤裸的老妪，比你所见任何女子更丑"。
+Ardakany（2024）指出这部文献可能通过阿拉伯翻译影响了但丁《神曲》的构架——从"过桥进入彼世"到"三重彼世"的分层与但丁高度一致。
 
-亡灵问她是谁，她回答："我不是别人，正是你自己——你善行/恶行所塑造之你。"这是琐罗亚斯德教最强烈的自反性伦理表达，Bruce Lincoln 与 Skjærvø 均将其列为世界宗教史中最早、最深邃的"业报"叙事之一。
+## 七、Chinvat 桥对犹太-基督教-伊斯兰的影响
 
-## 七、Ardā Wirāz Nāmag——萨珊灵魂漫游
+Boyce（1975）与 Louw-Kritzinger（2008）系统追踪了 Chinvat 桥意象向西方宗教的传播路径：
 
-后 3 世纪的《阿尔达·维拉兹之书》（Ardā Wirāz Nāmag）是琐罗亚斯德教版本的"神曲"：正直的祭司 Wirāz 服用曼陀罗与葡萄酒后灵魂脱离肉身，被 Sraoša 与 Ādur（火神）引导跨钦瓦特桥，游历天堂三层（善念/善言/善行）与地狱各层，第七日归来记录见闻。此书被 Skjærvø（2011）指为但丁《神曲》可能的远东先驱之一，中古学界持续讨论其经阿拉伯—安达卢西亚—意大利的传播路径。
+- **犹太教**：巴比伦之囚（前 6 世纪）后犹太人接触琐罗亚斯德教，昆兰群体（死海古卷）出现"光明之子与黑暗之子的最后审判"框架，其中个体死后审判观念形成。
+- **早期基督教**：《马太福音》25:31-46 的绵羊与山羊分离场景与 Chinvat 分辨结构高度相似。
+- **伊斯兰教**：**Ṣirāṭ 桥**——悬于火狱之上、如发丝之细、如剑锋之利——被伊斯兰经外传统直接承袭自 Chinvat 意象，几乎是名号变换的复制。
 
-## 八、守桥双犬 Zaringōš
+Antia（2012）与 Aoki（2002）指出：琐罗亚斯德教是西方"末日审判"这一整套图式的**最初发明者**。
 
-Vidēvdād 13 与 Hādōxt Nask 提及桥端有守卫犬（*sag ī činwad*），Williams Jackson（1926）追踪其印欧原型：吠陀 Yama 之双犬 Śabala 与 Śyāma、希腊 Kerberos、北欧 Garmr——共同构成"冥界守门犬"母题群。琐罗亚斯德教独特之处在于犬同时作为地面葬礼中的"sagdīd 犬视仪式"参与者：一只黄眼四目狗被引至尸体前"视察"，以确认死亡并驱赶尸魔 Nasu，成为地面—宇宙的对偶。
+## 八、摩尼教的光柱改造
 
-## 九、跨文化谱系与传播
+摩尼（Mani，3 世纪）出身于波斯，深谙琐罗亚斯德神学。他在建立自己的宗教时改造了 Chinvat 桥——义人的灵魂不是过桥，而是沿着一根"光柱"（*bēma*）上升至月轮，再至太阳，最终返归光明之王国。
 
-**柏拉图厄尔神话**：《理想国》第十卷 Er 复活见亡灵在光柱中央被审判、抽签选择来生——Viviers（2001）综述这一叙事与钦瓦特桥的多点相似，是希腊哲学吸收伊朗末世论的关键证据。
+Ardakany（2024）比较研究认为，摩尼保留了 Chinvat 的"垂直上升"结构，但把"审判"要素转化为"光的净化"，反映摩尼教"物质等于恶"的严格二元论比琐罗亚斯德教更彻底。
 
-**伊斯兰 Ṣirāṭ 桥**：Shaked（1994）与 Goshtasbi Ardakany（2024）共同确认：伊斯兰教末世桥 *aṣ-Ṣirāṭ*（横跨地狱之桥，义者疾行如闪电，恶者堕入火中）与钦瓦特桥结构一致，属直接继承——琐罗亚斯德教在萨珊末期已通过民间信仰广泛传布该意象。
+## 九、跨文化对偶
 
-**摩尼教镜像**：摩尼教"光明之柱"审判序列几乎全盘挪用钦瓦特桥框架，加入光粒子秤称层次，是伊朗末世论向中亚—中国传播的关键中介。
+除西亚一神论传统外：
+- **印度 Vaitaraṇī 河**：亡灵必须渡过的地狱水道，Ardakany（2024）指出与 Chinvat 桥同源于印伊时期的"亡灵中介水/桥"母题。
+- **希腊 Styx 河**：Russell（1987）认为希腊-波斯长期接触让斯提克斯的"亡灵渡水"细节汲取了 Chinvat 元素。
+- **中国民间"奈何桥"**：作为独立发展的类型学对偶——虽无直接影响关系，但同样是"亡灵必经的分辨性桥梁"，且伴随孟婆、判官、地狱阶层等结构。
 
 ## 十、Mythos Atlas 编者按
 
-- **奠基作**：Shaked《转变中的二元论》（1994） · Skjærvø《琐罗亚斯德教之精神》（2011） · Boyce《琐罗亚斯德教史》三卷本 · Williams Jackson《琐罗亚斯德教未来生命论》（1926）。
-- **最新研究**：Goshtasbi Ardakany（2024）琐—摩比较 · Viviers（2001）柏拉图对话。
-- **一手文献**：Gāthās Y. 46.10-11 · Hādōxt Nask 第 2 章 · Vidēvdād 19.28-32 · Ardā Wirāz Nāmag · Mēnōg ī Xrad 第 2 章。
-- **神学地位**：帕西社群 *seh šab*（三夜礼）与 *chāhārum*（第四日礼）核心场景；至今在孟买、亚兹德葬礼中反复呼名。
-- **深度追踪**：印欧桥梁—犬守卫母题 · 柏拉图厄尔神话 · 伊斯兰 Ṣirāṭ · 摩尼教光明之柱 · 但丁《神曲》可能远东先驱之一。
+**奠基作**：Boyce《琐罗亚斯德教史》第一卷、Skjærvø《The Spirit of Zoroastrianism》与 M. Boyce（1984）《Textual Sources》三部构成理解 Chinvat 桥的三根支柱。
+
+**最新研究**：Antia（2012）代表帕西内部学界立场；Ardakany（2024）代表最新摩尼-琐罗亚斯德比较研究；Louw-Kritzinger（2008）代表末世论比较研究方向。
+
+**一手文献**：Yasna 46.10、51.13；Yašt 22（Hadōxt Nask）；Vendīdād 19.29-32；Bundahišn 30；Ardā Wīrāz Nāmag 全文；Dādestān-ī Dēnīg 关于判官的详论。
+
+**深度追踪**：建议追踪 Prods O. Skjærvø 未来对 Hadōxt Nask 的新译本；关注比较宗教学者 Alessandro Bausi 对早期基督教-琐罗亚斯德接触的最新研究。
+
+**神学地位**：Chinvat 桥是琐罗亚斯德教对世界末世论最持久的贡献——从公元前 12 世纪到今天的帕西火庄，从但丁到伊斯兰经外文献，这座桥从未真正倒塌，它一直悬在人类想象力的最高点上。
