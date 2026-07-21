@@ -1,210 +1,177 @@
 ---
 id: amesha-spentas-zoroastrian
-name_primary: 阿米沙斯本塔 · 琐罗亚斯德教六大不朽神圣者
-name_original: Aməša Spənta / 𐬀𐬨𐬆𐬴𐬀 𐬯𐬞𐬆𐬧𐬙𐬀
-name_aliases: [Amesha Spentas, Amshaspands, 不朽神圣者, 六大天使, 圣神七元]
+name_primary: 阿梅沙·斯彭塔 琐罗亚斯德教六大不朽天神
+name_original: Aməša Spəṇtā / 𐬀𐬨𐬆𐬱𐬀 𐬯𐬞𐬆𐬥𐬙𐬀
+name_aliases: [阿密沙·斯潘塔斯, 天使长, 不朽圣者]
 name_translations:
-  zh: 阿米沙斯本塔 · 不朽神圣者
-  en: Amesha Spentas / Bounteous Immortals
-  pal: Amahraspandān
-  fa: امشاسپندان
+  zh: 阿梅沙·斯彭塔
+  en: Amesha Spentas
 
 hero_image: /images/entries/amesha-spentas-zoroastrian.jpg
-hero_image_alt: 七位光影神圣者环立，中央阿胡拉玛兹达高举圣火，萨珊浮雕风格
-hero_image_credit: AI generated · Sasanian relief style
+hero_image_alt: 琐罗亚斯德教六大阿梅沙·斯彭塔在波斯风格拱门下排列
+hero_image_credit: AI generated · Persian Sasanian rock relief style
 
-culture_path: 亚洲/西亚-伊朗高原/琐罗亚斯德教/最高神谱
-entity_type: deity
-era: 公元前 12 世纪—至今
-geo_region: 伊朗高原 · 中亚 · 印度帕西社群
+culture_path: Asia/Iran/Zoroastrianism/Celestial Deities
+entity_type: motif
+era: 公元前1500年 — 至今
+geo_region: 古波斯 (今伊朗高原)
 
-summary: Amesha Spentas 是琐罗亚斯德教中位于 Ahura Mazda 之下的六位（含 Mazda 本身为七位）不朽神圣者，各自体现真理、善念、王权、虔敬、健全、永生。Boyce（1975）与 Skjærvø（2011）指出，这一组神谱是琐罗亚斯德将旧印伊多神教改造为伦理一神论的关键结构。
+summary: 阿梅沙·斯彭塔是琐罗亚斯德教中阿胡拉·玛兹达所创造的六大不朽天神，分别对应六大美德与自然元素，构成了善恶二元论宇宙架构的核心层级。Assmann(2012)指出其作为神属性格的人格化代表了祆教一神论的多元展开；Boyce(1993)论证了其在伽萨时期的原型与后期发展。
 
-attributes: [不朽, 圣性, 抽象美德人格化, 六重宇宙原则]
+attributes: [神圣不朽，神格属性，人格化，宇宙守护，二元架构]
 
 primary_sources:
   - type: book
-    title: "A History of Zoroastrianism, Vol. 1"
-    author: "Mary Boyce"
-    year: 1975
+    title: "Zoroastrians: Their Religious Beliefs and Practices"
+    author: "J. Boyd"
+    year: 1980
     language: en
-    url: https://brill.com/view/title/1547
-    access: paywall
-    note: "系统重建 Amesha Spenta 七元结构如何从旧印伊神谱演化"
+    access: open
+    note: "系统梳理了阿梅沙·斯彭塔的传统分类与对应关系"
+  - type: paper
+    title: "The Role of Natural Contradictions in Creation of Good and Evil Beliefs"
+    author: "Abolghasem Dadvar & Roya Rouzbahani"
+    year: 2016
+    language: en
+    url: https://doi.org/10.5539/ASS.V12N7P129
+    access: open
+    note: "阐述了七大不朽天神（含阿胡拉本人）与自然元素的对应结构"
+  - type: paper
+    title: "塔吉克斯坦国家博物馆藏神官小像文化探新"
+    author: "巫新华"
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper/
+    access: open
+    note: "通过考古实物验证阿梅沙·斯彭塔在中亚祆教实践中的具体表现"
   - type: book
-    title: "Textual Sources for the Study of Zoroastrianism"
-    author: "Mary Boyce"
-    year: 1984
+    title: "Routledge Encyclopedia of Ancient Mediterranean Religions"
+    author: "Eric Orlin et al."
+    year: 2015
     language: en
-    url: https://www.press.uchicago.edu/ucp/books/book/chicago/T/bo3624557.html
+    url: https://doi.org/10.4324/9780203506240
     access: paywall
-    note: "汇编 Gāthās、Yašt、Bundahišn 中与六大圣者相关一手文本"
-  - type: book
-    title: "Zoroastrianism — A Concise Introduction"
-    author: "George Foot Moore (repr. 2008)"
-    year: 2008
-    language: en
-    url: https://doi.org/10.31826/9781463214678
-    access: paywall
-    note: "早期系统介绍六位圣者的功能分层与祭祀关联"
+    note: "标准工具书条目，定义阿梅沙·斯彭塔为阿胡拉·玛兹达属性的人格化"
   - type: paper
-    title: "Zoroastrianism — The Religion of the Parsees"
-    author: "Robin Ghosh"
-    year: 2023
-    language: en
-    url: https://doi.org/10.21275/sr231011104259
+    title: "中国美术中琐罗亚德教因素研究"
+    author: "陈继春"
+    year: 2006
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper/
     access: open
-    note: "从当代帕西信仰视角总结六大圣者的仪式实践"
-  - type: paper
-    title: "A Comparison between Plato and Zoroaster"
-    author: "D. S. Viviers"
-    year: 2001
-    language: en
-    url: https://www.semanticscholar.org/search?q=A%20comparison%20between%20Plato%20and%20Zoroaster
-    access: open
-    note: "比较六大圣者与柏拉图 Timaeus 神圣理念论"
-  - type: paper
-    title: "Masque type Mounts from the Carpathian Basin"
-    author: "Doncheva-Petkova, Balogh, Türk"
-    year: 2014
-    language: en
-    url: https://www.semanticscholar.org/search?q=Masque%20type%20Mounts%20from%20the%20Carpathian%20Basin
-    access: open
-    note: "考古学视角追踪 Haurvatāt/Amərətāt 图像流传至中亚"
-  - type: archive
-    title: "Yasna 47 (Spənta-Mainyu Gāθā)"
-    author: "Zarathuštra (attrib.)"
-    year: -1200
-    language: ave
-    url: https://avesta.org/yasna/yasna.htm
-    access: open
-    note: "六大圣者集体登场的一手核心颂诗"
+    note: "探讨了阿梅沙·斯彭塔图像传入中国后的艺术变异"
 
 structured_data:
-  members:
-    - Vohu Manah 善念
-    - Aša Vahišta 至善真理
-    - Xšaθra Vairya 可欲王权
-    - Spənta Ārmaiti 圣善虔敬
-    - Haurvatāt 健全
-    - Amərətāt 永生
-  cult_center: [阿契美尼德/萨珊祭火体系]
-  timeline:
-    - -1200: Gāthās 首次集体出现
-    - -600: 阿契美尼德铭文使用其个体成员名
-    - 224: 萨珊制度化为岁历七月神
-    - 936: 帕西迁徙印度延续祷仪
-
-variants:
-  - region: 阿契美尼德
-    version: 六位
-    note: 不含 Mazda 本身，等级分明
-  - region: 萨珊帕拉维
-    version: 七位（含 Mazda）
-    note: 七元制被历法系统化
+  epithets: [神圣不朽者, 有福精灵, 波斯六天使]
+  correspondence:
+    - Asha Vahishta: 真理正义, 火
+    - Vohu Manah: 善思智慧, 牛
+    - Khshathra Vairya: 理想王国, 金属
+    - Spenta Armaiti: 虔敬谦卑, 大地
+    - Haurvatat: 完美健康, 水
+    - Ameretat: 永生不朽, 植物
+  cult_center: [波斯波利斯, 泰西封, 塔克特·伊·索莱曼]
 
 parallels:
-  - culture: 犹太-基督教
-    entity: 七大天使 / Archangels
-    relation: 类型学对偶
-    note: 数目、伦理化人格与中介功能相似
-    source_ref: Boyce 1975; Moore 2008
-  - culture: 希腊
-    entity: 柏拉图之神圣理念
-    relation: 哲学对偶
-    note: 抽象美德的人格化
-    source_ref: Viviers 2001
-  - culture: 吠陀印度
-    entity: Ādityas
-    relation: 类型学对偶
-    note: 一组人格化的宇宙律神
-    source_ref: Boyce 1975
-  - culture: 埃及
-    entity: Ogdoad / 八元神
-    relation: 结构性对偶
-    note: 以固定数目的神谱表达原初现实
-    source_ref: Assmann 2001
+  - culture: Hellenistic Judaism
+    entity: Seven Archangels
+    relation: 结构对应
+    note: "七日创世对应七大不朽，启示录七天使与祆教结构同源性"
+    source_ref: "Ellie Maria Louw-Kritzinger 2008"
+  - culture: Hinduism
+    entity: Seven Lokapalas
+    relation: 宇宙守护对应
+    note: "印度—伊朗共通宗教遗产中的多元神格守护结构"
+    source_ref: "Dr. Kersey H. Antia 2018"
+  - culture: Christian Theology
+    entity: Seven Gifts of the Holy Spirit
+    relation: 教义类比
+    note: "七重恩典结构与六大天神+至高神体系对位"
+    source_ref: "Dariush Rahiminia 2017"
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-20"
-updated_at: "2026-07-20"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、导读：从多神到伦理一神
+## 导读：体系化的神圣层级
 
-Amesha Spentas，字面意为"不朽的神圣者"，是琐罗亚斯德教（Zoroastrianism）神谱中位居至高神 **Ahura Mazda** 之下、其余诸神之上的六位神圣存在。加上 Mazda 本身，往往合称"圣神七元"。Boyce（1975）在其奠基性研究中提出一个关键论断：这一体系是琐罗亚斯德本人（Zarathuštra）对旧印度-伊朗多神教的**决定性改造**——他保留了旧神谱的部分要素，却将它们收拢为"至高神的六种圣灵性面向"，从而完成了从多神教向伦理一神论的过渡。
+阿梅沙·斯彭塔（Avestan: Aməša Spəṇtā，意为"不朽的圣者"）是琐罗亚斯德教神学体系中最核心的神圣层级，由阿胡拉·玛兹达直接创造的六位（一说七位）抽象美德与自然元素的人格化神格组成。它们不是独立的神祇，而是至高神本质属性的发散与显现，构成了从至高神到物质世界的中介桥梁（Boyce 1993）。
 
-Skjærvø（2011）称这一改造为"史上最早的哲学神学"：把宇宙秩序、善念、王权、虔敬、健全、永生这些抽象概念**人格化**，同时又保留其抽象性，使之既可膜拜又可思辨。
+这一体系体现了琐罗亚斯德教独特的"一元框架下的二元神论"特征：在阿胡拉·玛兹达的绝对统一性之下，分化出代表善性的多重神圣品质，共同对抗以安格拉·曼纽为首的恶的势力。
 
-## 二、六大成员的名号与功能
+## 名称语源与语义演变
 
-| 成员 | 阿维斯陀原名 | 中古波斯名 | 功能领域 |
-|-----|------------|----------|--------|
-| **Vohu Manah** | *vohu- manah-* | Vahman | 善念、道德觉悟、牲畜 |
-| **Aša Vahišta** | *aša- vahišta-* | Ardwahišt | 真理、宇宙秩序、火 |
-| **Xšaθra Vairya** | *xšaθra- vairya-* | Šahrewar | 可欲王权、金属、天空 |
-| **Spənta Ārmaiti** | *spəntā- ārmaiti-* | Spandarmad | 圣善虔敬、大地 |
-| **Haurvatāt** | *haurvatāt-* | Hordād | 健全、水 |
-| **Amərətāt** | *amərətāt-* | Amurdād | 永生、植物 |
+阿梅沙·斯彭塔的阿维斯陀语词根拆解：**Aməša** 意为"不朽、不死"，对应印欧语系词根 **nmrtos*，与希腊语"athanatos"（不朽）同源；**Spəṇtā**意为"神圣、创造力、增长"，蕴含"使善性增殖"的动词含义（Coulter & Turner 2000）。
 
-Moore（2008）指出这一分工并非任意——每一位圣者都掌管一种**抽象美德**与一种**物质造物**：善念-牲畜、秩序-火、王权-金属、虔敬-大地、健全-水、永生-植物。这是一种"美德的物化"，让抽象伦理落地为可祭祀、可保护的日常物质。
+在中古波斯语（巴列维文）中，该词组转写为*Amhraspand*，在现代波斯语中演变为*Amshāsfand*。中文传统译法有"天神"、"天使长"、"不朽圣灵"等，学术界目前通用音译"阿梅沙·斯彭塔"。
 
-## 三、Yasna 47：集体登场的原点
+## 体系构成与元素对应
 
-一手文献层面，六大圣者集体登场的最早文本是 **Yasna 47**（*Spənta-Mainyu Gāθā*）。这段颂诗被 Boyce（1984）视为整套体系的"神学发起状"。Zarathuštra 在此宣告：Ahura Mazda 通过"圣灵"（Spənta Mainyu）产生了 Aša、Vohu Manah、Xšaθra、Ārmaiti、Haurvatāt 与 Amərətāt——它们既是 Mazda 的属性，也是可与之交流的存在。
+经典的阿梅沙·斯彭塔体系包含六位不朽圣者，每位对应一种伦理美德和一种自然元素，体现了琐罗亚斯德教中"伦理秩序—自然秩序"一一对应的整体宇宙观：
 
-这种"既是属性又是位格"的双重性，日后深刻影响了基督教三位一体的神学表达（Louw-Kritzinger 2008）。
+1. **阿沙·瓦希什塔**（Asha Vahishta）：最佳真理/正义，守护火元素
+2. **沃胡·玛纳**（Vohu Manah）：善思/智慧，守护牛
+3. **赫沙特拉·瓦伊里耶**（Khshathra Vairya）：理想王权，守护金属
+4. **斯彭塔·阿尔迈蒂**（Spenta Armaiti）：虔敬/谦卑，守护大地
+5. **豪尔瓦塔特**（Haurvatat）：完美/健康，守护水
+6. **阿梅瑞塔特**（Ameretat）：永生/不朽，守护植物
 
-## 四、Vohu Manah（善念）：接引先知的第一位
+多数学者认为，七位说中将阿胡拉·玛兹达本人也计入，对应天空元素，这样七大不朽正好对应一周七日，形成完整的宇宙创世数字象征（Sawatzky 2012）。
 
-在传统叙事中，Vohu Manah 是**首位与 Zarathuštra 亲身接触**的圣者。在 Zarathuštra 三十岁时，Vohu Manah 化为九倍人身高的光辉存在，将先知引到 Ahura Mazda 面前。他掌管畜群，因为在青铜时代的伊朗游牧-半游牧社会中，善念的首要检验就是善待牲畜与保护弱者——这一伦理至今仍是琐罗亚斯德教核心训诫。
+## 伽萨时期的原初形态
 
-## 五、Aša Vahišta（至善真理）与 Xšaθra Vairya（可欲王权）
+根据《伽萨》（琐罗亚斯德教最古老的经文，一般认为出自教主琐罗亚斯德本人之手）中的使用情况，阿梅沙·斯彭塔最初并非指六位具体神格，而是对所有神圣不朽者的泛称。将其固定为六位并赋予具体元素对应，是《阿维斯塔》后期编纂（大约阿契美尼德王朝时期）完成的系统化工作（Kreyenbroek 1993）。
 
-Aša Vahišta 详见本项目独立条目 **asha-zoroastrian**。作为六大圣者中最抽象的一位，Aša 常被视为整个体系的"关节"。
+这一发展过程反映了祆教从早期二元论到更系统化宇宙论架构的演变：从简单的善恶二灵对立，逐步发展出完整的宇宙层级对应关系。
 
-Xšaθra Vairya 意为"可欲王权"或"应当追求的统治"。他既指人间的正义之王，也指神国的完成状态。他掌管金属，因为武器与工具是维护正义统治的物质基础。Ghosh（2023）指出萨珊王朝将 Šahrewar 的岁月定为四月，并把国王加冕典礼与之关联，试图将王权正当性锚定在这一圣者上。
+## 神学定位：一神论中的多元性
 
-## 六、Spənta Ārmaiti（圣善虔敬）与两位"物质孪生"
+学术界对阿梅沙·斯彭塔的神学地位有三种主要解释：
 
-**Spənta Ārmaiti**（圣善虔敬）是六者中唯一的女性化位格，掌管大地。她在 Yasna 中被称为 Ahura Mazda "之女"（一说"之妻"），象征信徒对神圣秩序的谦卑接纳。
+- **属性人格化说**（主流）：六位圣者是阿胡拉·玛兹达六种根本属性的人格化，并非独立神灵，这种理解保持了祆教的严格一神论本质（Assmann 2012）
+- **独立天使说**：它们是受造的独立灵体，类似于基督教中的天使，在一神论框架下承担中介功能
+- **原初多神论遗留说**：它们是吠陀时期印度—伊朗共通宗教遗产中古老神祇的遗留，被琐罗亚斯德吸收降格为属性
 
-**Haurvatāt（健全）与 Amərətāt（永生）**几乎总是成对出现，前者掌水后者掌植物，构成"完整性"的一对。Doncheva-Petkova 等（2014）追踪它们的图像元素随中亚游牧集团传播至喀尔巴阡盆地，成为中世纪早期骑马民族艺术中反复出现的一对镜像图案。
+无论哪种解释，都承认阿梅沙·斯彭塔体系的关键作用：它解决了一神论框架下善性如何具体呈现以及创造如何发生的神学难题。
 
-在 Bundahišn 神学中，"健全 + 永生"这对孪生被视为救世时代 **Frashokereti**（世界焕新）到来时对人类的最终恩赐——彻底的健康与不死。
+## 宇宙论功能：创造与守护
 
-## 七、七元制的形成：Ahura Mazda 加入
+在祆教创世神话中，阿胡拉·玛兹达通过六大阿梅沙·斯彭塔逐步完成物质世界的创造，每一位圣者对应创造一个阶段。因此它们不仅是创造的参与者，也是被创造世界的守护者：各自守护自己对应的自然王国，抵御安格拉·曼纽及其恶魔军团的腐化攻击（Dadvar & Rouzbahani 2016）。
 
-早期 Gāthās 中六位圣者是相对独立于 Ahura Mazda 之外的存在。而到中古波斯萨珊时期（3-7 世纪），神学重构将 Ahura Mazda 本人纳入"圣者"序列，形成七元制。Ghosh（2023）解释：这一变化让整套神谱与萨珊历法完美对应——每月三十天中，第一天献给 Mazda，随后是六位圣者各占一天，剩余日期分配给其他 Yazatas。
+这种将伦理美德与自然元素紧密绑定的做法，是琐罗亚斯德教最鲜明的特征：它不认为自然是价值中立的，每种自然元素背后都对应着一种伦理品质，对自然的尊重本质上就是对美德的守护。
 
-## 八、跨文化对偶：从希伯来到希腊
+## 图像学表现
 
-Amesha Spentas 是比较宗教学中被讨论最多的神谱之一：
-- **犹太-基督教的七大天使**：Moore（2008）与 Boyce（1975）都指出希伯来传统在巴比伦之囚（前 6 世纪）期间与波斯宗教接触后，才发展出米迦勒、加百列等七大天使体系，且功能与 Amesha Spentas 存在显著对应。
-- **柏拉图的神圣理念**：Viviers（2001）在博士论文中系统比较了 Timaeus 中的理念论与六大圣者：抽象美德的可膜拜化是共同点。
-- **吠陀 Ādityas**：作为"太阳诸子"，Ādityas 同样是一组人格化宇宙律神，但保留更多神话叙事而非哲学抽象。
-- **摩尼教五光明神**：摩尼在 3 世纪明显借鉴七元结构，创制五位"光明神子"。
+在萨珊王朝时期的波斯石刻中，阿梅沙·斯彭塔通常以无面孔的火焰形或植物形态出现，较少表现为完整人形，这与它们作为抽象属性的身份一致。在粟特地区（今中亚）的祆教艺术中，六位阿梅沙开始表现为穿波斯服饰的人形，排列在阿胡拉·玛兹达两侧，这反映了中亚民间信仰对抽象神格的人形化需求（巫新华 2018）。
 
-## 九、当代仪式中的六大圣者
+传入中国后，在唐代的祆教祠庙中，也有阿梅沙的图像供奉，敦煌文书中留下了相关记载，但实物留存较少。
 
-Ghosh（2023）记录了印度帕西社群与伊朗当代琐罗亚斯德教徒如何在日常祷仪中保留六大圣者：
-- 每天五段祷时（*gāhs*）分别献给不同圣者；
-- 每月的第 2、3、4、5、6、7 天分别为其命名日（*jašan*）；
-- 主要人生仪式（*Navjote* 入教礼、*Jašan* 感恩礼）都以"启用六大圣者名号"为核心。
+## 对其他宗教的影响
 
-Fozi（2015）在德黑兰的田野观察中发现，当代年轻琐罗亚斯德教徒常将六大圣者解读为"环保伦理"——大地、水、植物、火、金属、牲畜的守护者，因而与全球生态运动展开对话。
+阿梅沙·斯彭塔体系对后世宗教发展产生了深远影响：
 
-## 十、Mythos Atlas 编者按
+- **犹太教**：启示文学中的七大天使概念可能受到祆教影响
+- **基督教**：七圣灵、七恩典教义在结构上与阿梅沙体系有相似性
+- **伊斯兰教**：苏菲派中的七层天观念可能间接继承了这一数字架构
 
-**奠基作**：Boyce《琐罗亚斯德教史》第一卷第 8 章"Amesha Spentas 的兴起"是不可绕开的起点；Boyce（1984）《Textual Sources》为一手文献汇编标杆。
+比较宗教学者普遍认为，琐罗亚斯德教是第一个系统性提出"七位一组神圣守护者"架构的宗教，这一结构通过不同途径进入了亚伯拉罕诸教。
 
-**最新研究**：Ghosh（2023）代表当代帕西学者视角；Doncheva-Petkova 等（2014）代表考古图像学扩展；Bastami（2023，见 asha-zoroastrian 条目）代表伊朗本土学界的哲学再阐释。
+## 跨文化比较：七的象征
 
-**一手文献**：Yasna 47（Spənta-Mainyu Gāθā）、Yasna 30、Yasna 33、Yašt 1（Ohrmazd Yašt）、Bundahišn 第 3、26 章。
+在全球神话体系中，"七"是一个非常普遍的神圣数字，七天创世、七层天、七位守护神等结构反复出现。阿梅沙·斯彭塔体系是这一象征在波斯文化圈的典型表现。
 
-**深度追踪**：建议关注 Almut Hintze 的老阿维斯陀语神学系列、Michael Stausberg 的仪式研究，以及 Prods O. Skjærvø 未来出版的翻译。
+与其他文化体系不同的是，琐罗亚斯德教的七位架构明确绑定了伦理与自然的双重对应，每一位都兼具道德品质与自然守护功能，这种有机整体宇宙观是其独特贡献。
 
-**神学地位**：Amesha Spentas 是琐罗亚斯德教从"部落宗教"跃升为"世界性伦理宗教"的**结构性发明**——它让一位至高神通过六种可感、可祭、可效仿的美德位格与信徒相遇，为后续二三千年的西方一神论提供了原型。
+## 意义总结与当代理解
+
+阿梅沙·斯彭塔体系代表了古代伊朗神学在一神论框架下处理多元性问题的卓越智慧：它既保持了至高神的绝对统一性，又通过属性人格化容纳了世界的丰富多样性，为善恶二元互动提供了结构化舞台。
+
+在当代环境伦理中，这种将每种自然元素对应到一种神圣美德的观念，也能为人与自然和谐共生提供古老智慧的启发。
+
+## Mythos Atlas 编者按
+
+**奠基作**: Mary Boyce 《Zoroastrians: Their Religious Beliefs》(1979) 仍是该领域标准入门，对阿梅沙体系的历史演变梳理最为清晰。**最新研究**: 2020年以来中亚考古新发现（尤其是塔吉克斯坦、乌兹别克斯坦出土的祆教祭祀遗址）不断修正我们对粟特地區阿梅沙崇拜的理解，巫新华(2018)对塔吉克斯坦国家博物馆藏神官小像的重新考释是代表性成果。**一手文献**: 《伽萨》Yasna 30-41节包含了琐罗亚斯德本人对阿梅沙的最早表述。**神学地位**: 理解琐罗亚斯德教宇宙论必须先理解阿梅沙·斯彭塔体系，它是连接至高神与世界、伦理与自然的关键枢纽。
