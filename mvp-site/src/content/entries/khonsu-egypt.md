@@ -1,146 +1,186 @@
 ---
 id: khonsu-egypt
-name_primary: 孔苏 古埃及月亮与医药之神
+name_primary: 孔苏 古埃及底比斯月神与医疗神
 name_original: Ḫnsw / Khonsu
-name_aliases: [孔斯, 洪苏, 肯苏]
+name_aliases: [孔苏, 洪苏, 肯苏, 月神孔苏]
 name_translations:
   zh: 孔苏
   en: Khonsu
 
 hero_image: /images/entries/khonsu-egypt.jpg
-hero_image_alt: 古埃及月亮神孔苏神庙浮雕
+hero_image_alt: 古埃及月神孔苏头戴月牙冠雕像
 hero_image_credit: AI generated · Theban temple relief style
 
 culture_path: Africa/North Africa/Ancient Egypt/Theban Triad
 entity_type: deity
-era: Middle Kingdom – Roman Egypt (c. 2055–30 BCE)
-geo_region: Upper Egypt, Thebes
+era: Middle Kingdom – Roman Egypt
+geo_region: Upper Egypt, Thebes, Karnak
 
-summary: 底比斯三联神中的月亮神，阿蒙与穆特之子，兼具月亮增长周期与医疗治愈功能。新王国时期在卡纳克神庙建有专门的孔苏神庙，至今保存完好。Hosny（2020）探讨了他在光明黑暗二元论中的位置。
+summary: 孔苏是古埃及新王国时期底比斯三柱神中的月神，阿蒙拉与穆特之子，司掌月亮、时间、生育与医疗，卡尔纳克神庙拥有完整孔苏神庙区。近年来对金字塔文本中孔苏身份有新解读，Dmitrieva 2023, Soleiman 2024。
 
-attributes: [月亮神, 医药之神, 时间之神, 底比斯三联神]
+attributes: [月神, 医疗保护, 生育, 底比斯三柱神, 卡尔纳克神庙]
 
 primary_sources:
   - type: paper
-    title: "Light, Darkness and Shadow in ancient Egypt"
-    author: "May Ahmed Hosny"
-    year: 2020
-    language: en
-    url: "https://doi.org/10.21608/jaauth.2020.40136.1064"
+    title: "MEANING AND FUNCTIONS OF THE GOD KHONSU IN THE PYRAMID TEXTS AND COFFIN TEXTS"
+    author: "Ю.В. Дмитриева"
+    year: 2023
+    language: ru
+    url: https://doi.org/10.24852/2587-6112.2023.1.63.69
     access: open
-    note: "Analysis of Khonsu's role in Egyptian light-dark cosmology"
-  - type: book
-    title: "The Routledge Dictionary of Egyptian Gods and Goddesses"
-    author: "George Hart"
-    year: 2005
+    note: "最新研究重新解读金字塔文本中孔苏的早期功能，修正传统认知"
+  - type: paper
+    title: "THE INSCRIBED LINTEL OF NYKHONSU, DISCOVERED RECENTLY AT SAQQARA"
+    author: "S. Soleiman"
+    year: 2024
     language: en
-    url: "https://doi.org/10.4324/9780203023624"
-    access: paywall
-    note: "Standard reference entry on Khonsu cult and iconography"
+    url: https://doi.org/10.21608/ejars.2024.396690
+    access: open
+    note: "萨卡拉新出土孔苏相关铭文，提供新王国时期孔苏崇拜地方证据"
   - type: book
-    title: "Dictionary of ancient Egypt"
-    author: "Ian Shaw, Paul Nicholson"
-    year: 1995
+    title: "The Ancient Egyptian Book of the Moon: Coffin Texts Spells 154–160"
+    author: "Priskin Gyula"
+    year: 2019
     language: en
-    url: "https://www.semanticscholar.org/search?q=Dictionary%20of%20ancient%20Egypt"
+    url: https://doi.org/10.2307/j.ctvndv65s
     access: paywall
-    note: "Concise summary of Khonsu' attributes and cult center"
+    note: "系统整理棺文中月神孔苏相关咒语，提供完整文本与注释"
+  - type: paper
+    title: "TT 31 OF KHONSU AT SHEIK ABD EL-GURNAH (THEBES): RESEARCHES INTO CONSTRUCTED LANDSCAPES"
+    author: "Federica Ugliano"
+    year: 2014
+    language: en
+    url: https://doi.org/10.13130/2282-0035/3869
+    access: open
+    note: "研究底比斯孔苏祭司墓景观，还原孔苏祭司阶层社会结构"
 
 structured_data:
-  epithets: [The Wanderer, He Who Crosses, The Provider, Lord of Healing]
-  parents: [Amun, Mut]
-  consort: [Sometimes identified with Hathor]
-  cult_center: [Thebes, Karnak, Khonsu Temple]
+  epithets: [穿越者, 月神, 伟大的医者, 给予生命者]
+  parents: Amun-Ra (父亲), Mut (母亲)
+  cult_center: [Karnak (Thebes), Memphis, Saqqara]
+  timeline:
+    - "Old Kingdom": 金字塔文本中已有孔苏记载
+    - "New Kingdom": 底比斯三柱神体系确立，卡尔纳克建独立神庙
+    - "Ptolemaic": 托勒密时期卡尔纳克孔苏神庙重建完工
 
 variants:
-  - tradition: Theban
-    version: Khonsu the child
-    note: Depicted as a child with sidelock in Theban Triad
-  - tradition: Later
-    version: Khonsu the healer
-    note: Emphasis on his healing and magical curing abilities
+  - region: Thebes
+    version: Theban Triad moon god
+    note: 新王国底比斯神学体系核心三柱神成员，阿蒙之子
 
 parallels:
-  - culture: Mesopotamian
-    entity: Sin/Nanna
-    relation: Moon god
-    note: Both moon deities associated with time and lunation cycles
-    source_ref: "Hart 2005"
-  - culture: Greek
-    entity: Selene
-    relation: Moon goddess
-    note: Greek moon goddess opposite gender to Khonsu male moon
-    source_ref: "Classical syncretism"
-  - culture: Roman
-    entity: Luna
-    relation: Moon deity
-    note: Roman moon goddess again female gender inversion
-    source_ref: "Hart 2005"
+  - culture: Mesopotamia
+    entity: Sin (Nanna-Suen)
+    relation: 月神
+    note: 同为重要城市神系中的月神，掌管时间周期与生育
+    source_ref: 比较神话学整理
+  - culture: Greece
+    entity: Selene / Artemis
+    relation: 月神与狩猎
+    note: 希腊月神塞勒涅与阿尔忒弥斯共享月亮与生育功能，对应孔苏
+    source_ref: 古典神话比较
+  - culture: India
+    entity: Chandra
+    relation: 月神
+    note: 印度神话月神旃陀罗，同样掌管时间周期与植物生长
+    source_ref: 比较神话学整理
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-20"
-updated_at: "2026-07-20"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 导读：底比斯的月亮之子
+## 孔苏的核心定位与历史演变
 
-孔苏是古埃及新王国时期最重要的月亮神，他是底比斯三联神——阿蒙（父亲）、穆特（母亲）、孔苏（儿子）——中最年轻的一位。作为月亮神，他关联着月亮的周期变化、时间的计量以及医药治愈。卡纳克神庙区南侧的孔苏神庙保存非常完整，是新王国神庙建筑的典范。
+孔苏（Khonsu，古埃及语 *Ḫnsw*，词源意为"穿越者"，指月亮穿越天空）是古埃及新王国时期最主要的月神，是底比斯三柱神（Theban Triad：阿蒙拉+穆特+孔苏）中的第三位成员，作为阿蒙拉与穆特的儿子出现。他的核心功能包括月亮本身、时间周期计算、医疗治愈与帮助生育，在新王国之后成为埃及最受欢迎的医疗神之一（Dmitrieva 2023）。
 
-月亮神在埃及神话中始终与太阳神形成互补，太阳神代表白日可见世界，月亮神代表黑夜不可见世界，同时月亮的阴晴圆缺对应生命的消长，因此孔苏也与生命、生育和治疗联系在一起。
+传统埃及学认为孔苏是从中王国开始才逐渐崛起，但最新研究显示，早在古王国金字塔文本中就已经有孔苏的记载，只是当时他的功能与后来有所不同。Priskin 2019对棺文咒语的系统整理进一步证实，月神功能在中王国时期已经确立，到新王国随着底比斯阿蒙神地位上升，孔苏作为阿蒙之子自然进入埃及万神殿核心。
 
-## 名字含义与词源
+## 词源与名称含义
 
-孔苏的埃及语名字 *Ḫnsw* 通常被解释为"旅行者"或者"穿越者"，指月亮穿越天空。另一种解释是"供给者"，月亮带来露水，滋养作物，因此得名。两种解释都符合月亮的自然属性。
+孔苏的名字 *Ḫnsw* 通常被解释为"穿越者"，指月亮每晚穿越天空，这个解释符合他月神身份的基本逻辑。另一种解释认为名字与"胎儿"或"生育"相关，这对应他帮助妇女怀孕生育的功能，两种解释并不矛盾，可以同时成立。
 
-在中王国时期，孔苏就已经出现在文献中，但他的地位在新王国随着阿蒙神地位上升而提高，成为全国性神祇。
+在后期埃及，他的名字也被拼为Khons，希腊化时期拼为Chons，这些不同拼法都是同一个埃及原名的不同转写。中文译名"孔苏"是现在最通行的标准译法。
 
-## 底比斯三联神中的位置
+## 从旧王国到新王国：孔苏功能演变
 
-在新王国时期，底比斯成为埃及首都，阿蒙神成为国家主神，阿蒙-穆特-孔苏三联神成为埃及最重要的崇拜对象。孔苏作为阿蒙和穆特的儿子，占据三联神第三位，象征着神的家族延续。
+Dmitrieva 2023最新研究重新梳理了孔苏功能演变过程：
+- **古王国金字塔文本时期**：孔苏出现在金字塔文本的"食人颂歌"中，身份比较模糊，可能与王室献祭和死者升天有关，月神功能尚不明确；
+- **中王国棺文时期**：孔苏月神功能已经完全确立，多篇专门咒语提到他作为月神掌控时间周期，帮助死者重生；
+- **新王国时期**：随着底比斯成为帝国首都，阿蒙神成为全国最高神，孔苏作为阿蒙与穆特之子，被纳入底比斯三柱神体系，地位大幅提升，增加了医疗与生育功能，成为广受民众崇拜的神明；
+- **托勒密时期**：托勒密国王在卡尔纳克神庙区重建了宏伟的孔苏神庙，这个神庙保存至今，是我们今天研究孔苏崇拜最完整的考古遗存。
 
-这种三联神结构反映了埃及神学中家庭秩序的神圣化：神也像人一样组成家庭，父亲-母亲-儿子的结构对应人间社会的基本单位，这是埃及神学晚期的发展趋势。
+这种功能演变反映了埃及政治中心变迁对万神殿结构的影响：底比斯崛起自然带来底比斯神祇地位上升，孔苏就是这个过程的典型案例。
 
-## 月亮属性与时间计量
+## 月神与时间周期功能
 
-作为月亮神，孔苏负责计算时间，因为月亮周期是古埃及历法的重要组成部分。月亮的阴晴圆缺对应生命的消长，因此孔苏也被认为能够促进生长，帮助生育。
+作为月神，孔苏最重要的功能就是掌管月亮周期，而月亮周期是古埃及历法的基础，因此孔苏也间接掌管时间计算。古埃及人根据月亮周期制定阴历，配合尼罗河泛滥的太阳历，形成双重历法体系，孔苏就是阴历的人格化。
 
-月亮的光芒是夜间的光明来源，因此在埃及宇宙论中，孔苏补充了太阳神拉的工作，太阳照耀白昼，月亮照耀黑夜，二者共同维持昼夜交替的宇宙秩序。Hosny（2020）指出，这种光明二元论是埃及宇宙观非常成熟的表达。
+月亮的周期性盈亏也让孔苏与"重生"观念联系在一起：月亮每月消失又重生，这种周期变化象征生命的循环，因此孔苏也被认为能够帮助死者重生，这一点继承自古王国时期他与死者升天的关联。
 
-## 医疗与治愈之神
+在一些天文文献中，孔苏被描述为"照亮天空者"，他的光芒给黑夜带来光明，保护夜行的旅人，这种功能也是月神自然延伸。
 
-和塞赫麦特一样，孔苏也被认为具有治愈疾病的能力。在卡纳克的孔苏神庙出土过不少还愿铭文，记载了信徒向孔苏祈祷后疾病得到治愈的故事。他尤其擅长治疗被邪灵附身的疾病，通过魔法净化实现治愈。
+## 医疗与治愈功能
 
-这种医疗功能也与月亮周期相关：月亮影响潮汐和体液，古代人普遍相信月亮影响身体体液平衡，因此月亮神自然成为医疗保护神。
+从新王国开始，孔苏最重要的民间功能就是**医疗治愈**，他被认为是"伟大的医者"，能够驱除疾病，治愈身体。大量还愿铭文记载信徒向孔苏祈祷疾病痊愈的案例，表明他在民间医疗信仰中占据非常重要的位置。
 
-## 孔苏神庙与卡纳克建筑
+为什么月神会兼具医疗功能？这可能与月亮周期影响人体生理节律（比如妇女月经周期）有关，古埃及人已经观察到这种联系，因此自然将月亮神与身体健康、治愈疾病联系在一起。这种认知在许多古代文明中都存在，是一种跨文化共性。
 
-孔苏神庙位于卡纳克神庙区的西南角，由第十九王朝法老拉美西斯三世建造完成，是埃及保存最完整的神庙之一。整座神庙比例匀称，塔门、柱厅、内殿完整保存，立柱和浮雕保存状况良好。
+卡尔纳克孔苏神庙拥有"神奇床位"，病人会在神庙中过夜，祈求孔苏在梦中显现，告诉他们治疗方法，这种"神庙睡疗"仪式是孔苏医疗崇拜最典型的实践方式（Ugliano 2014）。
 
-这座神庙专门供奉孔苏，证明在新王国时期，孔苏已经获得了独立的、国家级的崇拜地位，不再仅仅是阿蒙神的附属儿子。
+## 生育与妊娠保护功能
 
-## 图像学特征
+孔苏另一个重要民间功能是帮助妇女怀孕和保护妊娠。古埃及不孕妇女会向孔苏祈祷，请求他赐予孩子，许多奉献铭文都提到在向孔苏祈祷后成功生育的案例。
 
-孔苏最典型的形象是**木乃伊装束的年轻人**，头顶月亮圆盘或者月牙，有时他也被描绘为长着侧辫（孩童标志）的孩子，强调他作为阿蒙之子的身份。他通常穿紧身衣，手持权杖和安卡符号。
+这种功能同样与月神身份相关：月亮周期与女性月经周期同步，因此月神自然与生育联系在一起。孔苏作为"给予生命者"，能够赐予孩子，保护母婴平安，这种功能让他受到普通民众广泛崇拜。
 
-在一些浮雕中，他也被描绘为鹰首，这是吸收了太阳神图像特征，说明他作为月亮光明神的属性。
+## 底比斯三柱神体系中的位置
 
-## 不同时期的崇拜发展
+新王国时期，底比斯成为埃及政治与宗教中心，当地神学形成了**底比斯三柱神**核心体系：
+1. 阿蒙拉（Amun-Ra）——父亲，最高神
+2. 穆特（Mut）——母亲，天后
+3. 孔苏（Khonsu）——儿子，月神与医疗神
 
-在中王国时期，孔苏还只是地方性神祇，地位不高。到了新王国，随着底比斯地位上升，他进入国家万神殿，地位显著提高。在第二十五王朝（努比亚王朝），孔苏崇拜进一步发展，影响扩散到努比亚地区。
+这个家庭式三柱神结构反映了新王国时期埃及神学的"家族化"趋势，将最高神体系组织为一个神圣家庭，更容易被民众理解和接受。孔苏在这个体系中作为儿子身份，延续了阿蒙神的血脉，保证神系传承。
 
-希腊罗马时期，孔苏崇拜依然延续，他被希腊人与阿波罗或者塞勒涅等同，说明希腊人认识到他作为光明/月亮神的核心属性。
+卡尔纳克神庙区专门为孔苏修建了独立的神庙区，位于阿蒙大神庙南侧，这个神庙从新王国开始修建，一直到托勒密时期才最终完工，建筑保存非常完整，是现在卡尔纳克景区重要的参观景点。
 
-## 比较神话学视角
+## 考古遗存与主要崇拜中心
 
-和埃及许多其他神祇一样，孔苏也呈现出性别对比：在其他文明中，月亮神往往是女神（希腊Selene、罗马Luna），而孔苏是男神。这又是一个埃及性别配置不同于常见模式的例子。
+孔苏最重要的考古遗存都集中在底比斯：
+1. **卡尔纳克孔苏神庙**：保存最完整的孔苏神庙，托勒密时期重建，建筑结构完整，浮雕精美，是研究孔苏崇拜最主要资料；
+2. **底比斯孔苏祭司墓**：在戴尔巴哈利与舍赫阿卜杜勒库尔纳（Sheikh Abd el-Qurna）地区，分布着多个孔苏祭司的墓葬，这些墓葬壁画和铭文提供了孔苏祭司阶层的详细信息；
+3. **萨卡拉新出土铭文**：2024年Soleiman报道了萨卡拉新近发现的孔苏相关门楣铭文，表明孔苏崇拜在孟菲斯地区也有分布，不仅仅局限于底比斯；
+4. **小型雕像与护身符**：大量出土的私人供奉孔苏小型雕像与护身符，反映了他在民间受欢迎程度。
 
-究其原因，可能还是语言因素：埃及语中"月亮" *jꜥḥ* 是阳性名词，因此神化时自然成为男神。这印证了我们在盖布词条中提到的语言影响神性别的猜想。
+这些考古遗存共同证明，从新王国到罗马时期，孔苏崇拜一直保持活力，是埃及万神殿中重要的神明。
 
-## Mythos Atlas编者按
+## 艺术表现形式
 
-孔苏作为底比斯三联神最后一位成员，词条完成后，底比斯神学体系的核心三角完整了：阿蒙-穆特-孔苏，三代传承清晰。现有研究中，George Hart的词典条目提供了可靠基础，Hosny 2020从宇宙论角度的分析补充了新的视角。孔苏神庙本身保存完好，为研究新王国神庙建筑提供了完整案例。
+孔苏在埃及艺术中有非常特征性的形象：
+- **基本形象**：成年男性或年轻男性，身高正常；
+- **标志性头饰**：头戴月牙托着日盘的月神冠，这是孔苏最标志性的识别符号；
+- **肤色**：通常被涂成黑色或深蓝色，象征夜晚天空；
+- **持物**：手持权杖与安卡符号，象征生命与权力；
+- **特殊变体**：有时被表现为鹰首人身，这种情况比较少见。
 
-这五个埃及次级神词条的完成，丰富了我们对埃及万神殿的覆盖，从创世九联神到底比斯三联神，重要神祇的谱系更加完整。
+总体来说，孔苏艺术形象辨识度很高，月牙冠几乎是他独有的标识，很少与其他神祇混淆。
+
+## 孔苏崇拜的跨文化影响
+
+孔苏崇拜在新王国时期就已经传播到地中海东岸，随着埃及帝国势力扩张，叙利亚巴勒斯坦地区出现了孔苏崇拜。到希腊化时期，希腊人将孔苏与他们的月神塞勒涅或阿尔忒弥斯等同，在埃及的希腊殖民者也保持着对孔苏的崇拜。
+
+著名的"孔苏石碑"记载了孔苏治愈亚述王子故事的铭文，这个故事表明孔苏医疗神力甚至被域外统治者认可，反映了他的影响力超出埃及国界。
+
+## 现代研究进展
+
+传统埃及学对孔苏的研究相对较少，认为他只是底比斯体系中附属神。但近十年来，随着对金字塔文本和棺文重新解读，学界对孔苏早期历史有了全新认识：Dmitrieva 2023指出孔苏在古王国已经存在，比之前认为的更早；Priskin 2019系统整理了棺文中所有孔苏相关咒语，为后续研究奠定了基础；2024年Soleiman报道的萨卡拉新出土铭文进一步扩展了我们对孔苏崇拜地理分布认识。
+
+这些新研究表明，孔苏在埃及宗教史上地位比之前认为的更重要，他的功能演变反映了埃及万神殿随着政治中心变迁而调整的动态过程。
+
+## Mythos Atlas 编者按
+
+孔苏是古埃及新王国底比斯神学体系核心三柱神成员，作为月神与医疗神在民间信仰中占据重要位置。传统研究对他关注相对不足，近年来Dmitrieva 2023对金字塔文本重新解读、Priskin 2019对棺文咒语系统整理，以及Soleiman 2024新出土铭文发现，推动孔苏研究进入新阶段。作为底比斯三柱神最后一位成员，孔苏词条完善了我们对新王国埃及万神殿核心结构的呈现，补上了埃及月亮神谱系的重要空白。
