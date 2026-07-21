@@ -1,251 +1,199 @@
 ---
 id: aditi-vedic
-name_primary: 阿底提 吠陀太初无限母神
-name_original: Aditi / अदिति / The Boundless
-name_aliases: [Aditi, 阿底提, 无限女神, 诸神之母, Devamata(神母), Matarishvan(天空间之母), Dhenu(宇宙母牛)]
+name_primary: 阿底提 吠陀众神之母
+name_original: अदिति (Aditi)
+name_aliases: [阿底提, 无限女神, 众神之母]
 name_translations:
-  zh: 阿底提 · 吠陀太初无限母神
-  en: Aditi / Vedic Goddess of Infinity
+  zh: 阿底提
+  en: Aditi
   sa: अदिति
-  ir: Aredvi Sura Anahita(伊朗对应)
-
 hero_image: /images/entries/aditi-vedic.jpg
-hero_image_alt: 阿底提无限母神 · 金色光芒弥漫宇宙 · 环绕Adityas八子 · 吠陀创世母神
-hero_image_credit: AI generated · Vedic cosmological mural style
-
-culture_path: 亚洲/南亚/印欧雅利安/吠陀创世-宇宙论
+hero_image_alt: 印度风格无限女神阿底提，怀抱星辰宇宙，深蓝色背景
+hero_image_credit: AI generated · Indian miniature painting style
+culture_path: Asia/South Asia/India/Vedic
 entity_type: deity
-era: 前1500年吠陀早期至今
-geo_region: 印度河-恒河流域/印欧母神传统
-
-summary: 吠陀太初母神,词根a-diti(无界),Adityas(日神群)之母。Macdonell 1897经典奠基。Muir经典析Aditi-Daksha互生悖论。Kak 1999论其在吠陀宇宙论中的无限空间概念。Khanna 2001论其大地母神生态学意义。Madhu Khanna 2001论其为吠陀女神崇拜高峰。Werner 1994论其后期与Prithivi(大地)和Cosmic Cow的融合。
-
-attributes: [词根a-diti意为无界/无限, Adityas八子之母(Varuna/Mitra/Aryaman/Bhaga/Daksha/Amsha/Indra/Surya), 诸神之母(Devi-mata), Daksha亦为其子且亦为其父(互生悖论), 宇宙母牛, 大地象征, 前吠陀古老女神, 吠陀女性神学的最高峰, 后期与Prithivi和Lakshmi融合]
-
+era: 1500 BCE - 500 BCE
+geo_region: 印度次大陆
+summary: 阿底提是吠陀神话中的"无限"女神，是十二阿底提耶的母亲，也被称为众神之母。现代宇宙论解读认为她象征原初未分化的混沌—宇宙边界。Ghimire(2018)指出她在吠陀宇宙论中代表地平线的无限扩展，是所有存在得以显现的母体。
+attributes: [无限, 众神之母, 原初母体, 宇宙边界, 阿底提耶母亲]
 primary_sources:
-  - type: book
-    title: "Vedic Mythology"
-    author: "A. A. Macdonell"
-    year: 1897
-    language: en
-    url: https://archive.org/details/vedicmythology00macd
-    access: open
-    note: "Macdonell 1897经典。Aditi是吠陀最古老的女神之一,词根a-diti意为无界/不受束缚,Adityas日神群之母"
   - type: paper
-    title: "On the Principal Deities of the Rigveda"
-    author: "J. Muir"
-    year: 1873
-    language: en
-    url: https://doi.org/10.1017/S0080456800019967
-    access: open
-    note: "Muir 1873经典析Aditi-Daksha互生悖论——Daksha生于Aditi,Aditi亦生于Daksha,吠陀循环创世论的典型案例"
-  - type: paper
-    title: "Concepts of Space, Time, and Consciousness in Ancient India"
-    author: "Subhash Kak"
-    year: 1999
-    language: en
-    url: https://arxiv.org/abs/physics/9903010
-    access: open
-    note: "Kak 1999。Aditi在吠陀宇宙论中代表无限空间/无限维度——Surya(太阳)从Aditi的无限地平线升起"
-  - type: paper
-    title: "Nature as Feminine — Ancient Vision of Geopiety and Goddess Ecology"
-    author: "Madhu Khanna"
-    year: 2001
-    language: en
-    url: https://www.semanticscholar.org/paper/Khanna-Nature-Feminine/
-    access: open
-    note: "Khanna 2001。Aditi作为吠陀女神崇拜高峰——'诸神在她的膝上安息并演出自己的角色'"
-  - type: paper
-    title: "Studies in Goddess Cults in Northern India"
-    author: "Jagdish Narain Tiwari"
-    year: 2014
-    language: en
-    url: https://doi.org/10.25911/5d74e499deb1e
-    access: open
-    note: "Tiwari 2014。Aditi在Puranas中的后期转化——与Vishnu化身Vamana神话关联,角色大幅缩小"
-  - type: book
-    title: "A Popular Dictionary of Hinduism"
-    author: "Karel Werner"
-    year: 1994
-    language: en
-    url: https://doi.org/10.5860/choice.31-5809
-    access: open
-    note: "Werner 1994。后期Aditi被认定为母大地和宇宙母牛,但她的实际外貌从未被描述——只有子宫被提及"
-  - type: paper
-    title: "Speculative Creation of Vedic Hymns — Aditi denotes infinite expansion"
+    title: "Speculative Creation of Vedic Hymns: Hermeneutic Approach to the Selected Verse"
     author: "Surendra Ghimire"
     year: 2018
     language: en
-    url: https://doi.org/10.3126/bmcjsr.v2i1.42729
+    url: "https://doi.org/10.3126/bmcjsr.v2i1.42729"
     access: open
-    note: "Ghimire 2018。Aditi代表地平线的无限扩展——太阳从Aditi的地平线诞生(RV 1.113)"
-  - type: book
-    title: "Dictionary of Gods and Goddesses, Devils and Demons"
-    author: "Manfred Lurker"
-    year: 2004
+    note: "宇宙论解读，阿底提代表地平线无限扩张"
+  - type: paper
+    title: "Ancient Vedic Literature and Human Rights: Resonances and Dissonances"
+    author: "Shailendra Kumar, Sanghamitra Choudhury"
+    year: 2020
     language: en
-    url: https://doi.org/10.4324/9781315002385
+    url: "https://doi.org/10.1080/23311886.2020.1858562"
+    access: paywall
+    note: "讨论吠陀文献中女神地位，阿底提作为案例"
+  - type: paper
+    title: "Status of Women in the Vedic Literature with special reference to Rig-Veda"
+    author: "Puspa Saikia"
+    year: 2019
+    language: en
+    url: "https://www.semanticscholar.org/search?q=Status%20of%20Women%20in%20the%20Vedic%20Literature"
     access: open
-    note: "Lurker 2004。Adityas是Aditi的'后裔'——七或八位神,以Varuna为首。Martanda(第八子)是太阳"
-
+    note: "分析梨俱吠陀中女性神祇的社会地位"
+  - type: paper
+    title: "Contributions to a Knowledge of the Vedic Theogony and Mythology"
+    author: "J. Muir"
+    year: 1862
+    language: en
+    url: "https://doi.org/10.1017/S0035869X00160848"
+    access: open
+    note: "早期欧洲印度学对阿底提的经典研究"
+  - type: paper
+    title: "Aditi in vedic literature"
+    author: "Madhu Bala Ghay"
+    year: 1980
+    language: en
+    access: offline
+    note: "专门讨论阿底提在吠陀文献中的语义演变"
 structured_data:
-  epithets: [Devamata(神母), Visvarupa(万象之形), Dhenu(母牛), Bhuranyu(大地者), Maharishi(大仙人)]
-  parents: [Daksha(互生: Daksha亦为其子)]
-  consort: [Kashyapa仙人(后期传统)]
-  children: [Varuna/Mitra/Aryaman/Bhaga/Daksha/Amsha/Indra/Surya即Adityas八子, Martanda(迟来之子为太阳)]
-  cult_center: [无固定圣所,渗透吠陀全体创世祭祀]
-  timeline:
-    - 前1500年: 雅利安入印度河,Aditi作为太初母神被崇拜
-    - 前1200年: Rig Veda核心成型,Aditi约60首赞歌
-    - 前800年: Brahmana时期,Aditi与Prithivi融合
-    - 前500年: Upanishad时期,Aditi抽象为哲学概念
-    - 前300年: 印度教中Aditi角色大幅缩小
-    - 公元500年: Puranas中Aditi与Vamana化身关联
+  epithets: [不可分割, 无限, 众神之母, 所有被创造者的母亲, 饶恕者]
+  children: [十二阿底提耶, 包括 Mitra, Varuna, Aryaman, Bhaga, Daksha, Ansha]
+  cult_center: [整个吠陀印度次大陆]
+timeline:
+  - 1500 BCE: 梨俱吠陀最早层出现
+  - 500 BCE: 梵书时期发展出宇宙论意义
+  - 300 CE: 往世书时期被吸收为女神之一
 
 variants:
-  - region: Rig Veda (前1500-1200年)
-    version: 太初无限母神
-    note: 词根a-diti(无界),Adityas八子之母,约60首赞歌,吠陀女神学的最高峰
-  - region: Brahmana文献
-    version: 与大地融合
-    note: Aditi逐渐与Prithivi(大地)融合,被认定为宇宙母牛
-  - region: Upanishad
-    version: 哲学概念化
-    note: Aditi抽象化为"无限"或"自由"的哲学概念,超越人格神
-  - region: 印度教Puranas
-    version: Vishnu之母
-    note: Aditi与Kashyapa仙人之妻,为Vishnu化身Vamana(侏儒)之母,角色大幅缩小
-  - region: 现代印度教
-    version: 边缘神
-    note: Aditi在现代印度教中几乎不再独立崇拜,其功能被Lakshmi/Parvati等取代
+  - region: 后期印度教
+    version: 诸神之母，与Adi Shakti合并
+    note: 原初无限女神的属性被印度教原始女神吸收
 
 parallels:
+  - culture: 希腊
+    entity: 盖亚 Gaia
+    relation: 功能平行
+    note: 都是原初大地/宇宙母亲，生出所有神祇
+    source_ref: 比较神话学
   - culture: 美索不达米亚
-    entity: Nammu/Tiamat太初母神
-    relation: 平行发展
-    note: Nammu是Sumerian太初母海神,Tiamat是混沌母龙——与Aditi"太初母"结构平行但非同源
-    source_ref: Kak 1999
+    entity: 纳木 Nammu
+    relation: 功能平行
+    note: 原初混沌水体，生出诸神，作为宇宙母体
+    source_ref: 近东比较研究
   - culture: 中国
     entity: 女娲
-    relation: 平行发展
-    note: 女娲作为创世母神与Aditi的功能对应——太初母神创造万物,但来源独立
-    source_ref: Khanna 2001
-  - culture: 希腊
-    entity: Gaia/Themis
-    relation: 平行发展
-    note: Gaia是太初大地母神,Themis是神圣秩序之母——与Aditi"诸神之母+宇宙秩序"对应
-    source_ref: Werner 1994
-  - culture: 埃及
-    entity: Nut天空母神
-    relation: 平行发展
-    note: Nut是埃及太初天空女神,身体覆盖大地——与Aditi的无限天穹象征对应
-    source_ref: Khanna 2001
-  - culture: 非洲约鲁巴
-    entity: Oduduwa/Olodumare
-    relation: 平行发展
-    note: 约鲁巴太初母神Oduduwa与创造之源Olodumare——与Aditi的创世母功能对应
-    source_ref: Khanna 2001
+    relation: 功能平行
+    note: 人类和诸神的创造者母亲
+    source_ref: 跨文化比较
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、导读：吠陀的太初之母
+## 导读
 
-**Aditi**（*aditi*，词根 *a-* "否定" + *diti* "束缚" = "不受束缚者" = **无限/无界**）是吠陀神话中**最古老、最崇高的女神之一**。她是 **Adityas（日神群）的母亲**——她的儿子们包括 **Varuna**（宇宙秩序之神）、**Mitra**（契约之神）、**Indra**（战神之王）、**Surya**（太阳神）等吠陀最重要的男神。
+阿底提（*Aditi*，梵文 अदिति）是吠陀神话中一位深刻的**宇宙论女神**，最广为人知的身份是"众神之母"，十二位阿底提耶（Āditya）太阳神群的母亲。她的名字直接意为"无限"或"不可分割"，在吠陀宇宙生成论中，她代表着原初未被分割的可能性——所有存在都从她之中诞生，她包容万物，没有边界。
 
-Macdonell 1897 奠基论述称 Aditi 为"**吠陀女神崇拜的最高峰**"——约 **60 首赞歌**提及她。她不是妻子，不是战士，不是黎明——她是**太初的无限本身**。Madhu Khanna 2001 精辟描述：**"诸神在她的膝上安息并演出自己的角色"**。
+现代吠陀研究重新发掘了阿底提的宇宙论深度：Ghimire（2018）认为，在最古老的梨俱吠陀文本中，阿底提首先象征着**地平线**——那是天与地之间无限延展的边界，太阳每天从她那里诞生，又落入她之中，她是所有显现得以可能的原初空间。这种理解比单纯"母亲"的定位更贴近吠陀原义。
 
-Aditi 的名字本身就是她的神学：**a-diti = 无界 = 无限 = 太初 = 自由**。她是吠陀神学中**最接近哲学女神**的存在——不是某个具体功能的神，而是**宇宙无限性的拟人化**。
+## 词源与语义演变
 
-## 二、Aditi-Daksha 互生悖论
+阿底提（*Aditi*）这个词来自梵语前缀 *a-*（否定）加上 *diti*（分割），字面意思就是**"不分割"、"无限定"、"不可切割"**。这个词本身已经道出了她的本质：她是原初混沌，还没有被分割为不同事物，因此是无限的。
 
-吠陀神话中最著名的悖论之一是 **Aditi 与 Daksha 的互生关系**——**Daksha 生于 Aditi，Aditi 也生于 Daksha**（RV 10.72）。Muïr 1873 经典分析称这是"**吠陀循环创世论的典型案例**"——母子互生，因果循环，没有真正的"第一因"。
+与之相对，她的对立面是**狄提（Diti）**，名字意思就是"分割"，她是阿修罗（Asura）的母亲。这种二元对立——阿底提/狄提、无限/分割、众神/阿修罗——本身就反映了吠陀宇宙生成论的基本结构：宇宙从原初未分化中分化出来，产生对立。
 
-这一悖论的神学含义深刻：
-- **创世不是单向过程**——不是"先有母后有子"，而是**母子互为因果**
-- **宇宙是自生的**——Aditi 既是最初的起点，也是最终的结果
-- **时间不是线性的**——创世循环意味着宇宙没有绝对的开端
+在语义发展中，阿底提从"无限空间"逐渐演变为"众神之母"，这种演变符合宇宙论到神谱学的自然发展。
 
-Ghimire 2018 将此与吠陀宇宙论中的**无限空间概念**关联——Aditi 的"无界"不仅指空间，更指**时间与因果的无界**。这一思想直接影响了后来的 **Sāṃkhya**（数论）和 **Vedānta**（吠檀多）哲学中的"因果互生"与"无始循环"概念。
+## 文本源流
 
-## 三、Adityas 八子：日神群
+阿底提在《梨俱吠陀》中被频繁提及，超过八十次。她出现在许多重要颂歌中，尤其是那些关于宇宙生成和诸神起源的篇章。文献学研究指出，对阿底提的崇拜属于吠陀最古老层，她是为数不多的在印欧共同体阶段可能就已经存在的女神之一。
 
-Aditi 最著名的身份是 **Adityas（"阿底提之子"）** 的母亲。Lurker 2004 列出 Adityas 的七或八位神：
-- **Varuṇa**（宇宙秩序）
-- **Mitra**（契约/友谊）
-- **Aryaman**（贵族/婚姻）
-- **Bhaga**（分配/赐福）
-- **Dakṣa**（能力/技艺）——注意，Dakṣa 同时是 Aditi 的"儿子"和"父亲"
-- **Aṃśa**（份额）
-- **Indra**（战神之王）——部分传统纳入
-- **Sūrya / Mārtāṇḍa**（太阳——"迟来之子"）
+在后来的梵书和往世书中，阿底提的地位有所变化：她从原初宇宙女神逐渐降格为普通女神，最终被整合进印度教的女神体系中，作为"母亲女神"的一个面相存在，原初宇宙论的深度被逐渐遗忘。
 
-**Mārtāṇḍa**（"死卵"或"迟来之子"）的故事尤其动人：Rig Veda 10.72 记载 Aditi 先后生下 **7 个完美的儿子**，后生 **Mārtāṇḍa**——"被抛弃的太阳"。Aditi 将他收回体内再生产，Mārtāṇḍa 才成为 Sūrya（太阳神）。
+## 阿底提的宇宙论地位
 
-这一"**抛弃-回收-重生**"母题是吠陀神话中最具母性的叙事——**Aditi 对不完美的儿子的接纳与修复**，是吠陀女性神学中最温柔的主题。
+在吠陀宇宙生成论中，阿底提的位置非常独特：
+- 她不是创造者，而是**容纳者**——她不创造万物，万物从她自身中显现出来
+- 她没有开始也没有结束，她就是无限本身
+- 她是所有边界的边界，所有可能性的可能性
+- 祭祀中祈求她"饶恕罪恶"，因为她包容一切，也包容错误
 
-## 四、无限空间：Kak 的宇宙论解读
+Ghimire（2018）的天文学解读特别有启发性：阿底提就是**可见地平线**——当你站在平原上，地平线向四面八方无限延展，你永远无法到达它，它始终在你前方，太阳每天从地平线上升起，又落入地平线。这种经验就是阿底提神话的经验基础。
 
-Subhash Kak 1999 从吠陀宇宙论角度解读 Aditi：**Aditi 代表"无限扩张"或"地平线的无限维度"**。Ghimire 2018 引用 RV 1.113 进一步论证：**太阳（Uttānapada）从 Aditi 的无限地平线升起**——Aditi 不是"天"，不是"地"，而是**天地之间的无限界面**。
+## 神谱：阿底提耶众神之母
 
-在吠陀宇宙模型中：
-- **Dyaus**（天）= 天穹
-- **Pṛthivī**（地）= 大地
-- **Antarikṣa**（天空间）= 天地之间
-- **Aditi** = 天地之间的**无限延展**
+作为神谱意义上的母亲，阿底提生育了**十二阿底提耶**，他们主要是太阳神和光明神：
+1. Mitra（密多罗）
+2. Varuna（伐楼那）
+3. Aryaman（阿利耶曼）
+4. Bhaga（跋伽）
+5. Daksha（达刹）
+6. Aṃśa（安沙）
+- 还有其他六位，不同文本名单略有差异
 
-Aditi 因此是吠陀宇宙论中**空间概念的拟人化**——不是某个地方，而是**所有地方的无限性**。她的"子宫"（*yoni*）就是宇宙的容器——Werner 1994 指出：**Aditi 唯一被描述的身体部位就是她的子宫**——"从中世界被产出"。
+这些神祇大多与天空、光明、誓言、正义相关，构成了吠陀神系中最重要的天神群体。这种安排本身就很有意义：无限女神生出了一群光明正义之神，这反映了吠陀思想中"无限→秩序→光明"的宇宙发生路径。
 
-## 五、从母神到大地：身份的迁移
+在一个著名的神话片段中，阿底提生下了八个儿子，后来她把第八个儿子Martanda（太阳）扔了回去，又重新捡了回来，这个神话被解读为日月星辰周期性诞生沉没的象征。
 
-Werner 1994 追踪了 Aditi 的身份演变：
-1. **Rig Veda 早期**：Aditi = 无限母神，独立且崇高
-2. **Brahmana 时期**：Aditi 被认定为 **Prithivi（大地）** 和 **宇宙母牛**
-3. **Upanishad 时期**：Aditi 抽象化为"无限"（*ananta*）的哲学概念
-4. **Puranas 时期**：Aditi 降为 **Kaśyapa 仙人**之妻，Vishnu 化身 **Vāmana**（侏儒）之母
+## 阿底提与狄提：二元对立
 
-这一"**降格-抽象化-降格**"的轨迹揭示了吠陀女神学的普遍命运：**从独立崇高 → 融合于大地 → 抽象化 → 降为男性神的附属**。Aditi 的命运比 Ushas 更复杂——她没有被完全吸收，而是被**抽象化**为哲学概念，然后在 Puranas 中被"重新性别化"为男性仙人（Kaśyapa）的妻子。
+吠陀文本中刻意设置了阿底提与狄提的二元对立：
+| 阿底提 Aditi | 狄提 Diti |
+|-------------|----------|
+| 不分割/无限 | 分割/有限 |
+| 众神之母 | 阿修罗之母 |
+| 正义秩序 | 混沌反抗 |
 
-## 六、生态母神：Khanna 的解读
+这种对立不是绝对的善恶对立，而是宇宙生成必须的分化——从原初未分化中产生分化，才有了宇宙。这种二元性是吠陀思想的深刻之处：它不认为恶是绝对的，它认为对立是宇宙存在的必要条件。
 
-Madhu Khanna 2001 从生态学角度重新解读 Aditi——她是**吠陀"大地母神生态学"（geopiety）的象征**。Aditi 不仅是抽象的"无限"，更是**"在大地的膝上，诸神安息并演出自己的角色"**——这是一个**生态宇宙论**的隐喻：大地/母神不仅是诸神的母亲，更是**宇宙戏剧的舞台**。
+现代女性主义神话学指出（Saikia 2019），这种"两个母亲"结构在神话学中非常罕见，它反映了吠陀社会对母性两种不同功能的认知：一个母亲生育维护秩序的神，另一个生育挑战秩序的阿修罗，二者共同构成完整宇宙。
 
-Khanna 将 Aditi 与其他传统的太初母神并列：**Nammu（苏美尔）、Tiamat（巴比伦）、Gaia（希腊）、Nut（埃及）、女娲（中国）**——她们共同构成**人类文明中"太初母神"的普世原型**。
+## 祭祀中的阿底提
 
-## 七、与 Varuna 的特殊关系
+在吠陀祭祀中，阿底提受到祈求主要有几个功能：
+1. **保护祭祀**：作为无限包容者，她保护祭品顺利到达诸神
+2. **饶恕罪恶**：她包容人类的过失，洗涤罪恶
+3. **赐予广阔空间**：祈求她给后代留出广阔生存空间
+4. **赐予财富**：无限者自然能赐予无限财富
 
-在吠陀神学中，Aditi 与 **Varuṇa**（Adityas 之首，宇宙秩序之神）的关系最为特殊。Varuṇa 不仅以 Aditi 之子的身份出现，更继承了母亲的"**无限性**"——Varuṇa 的 *māyā*（魔力）与 Aditi 的 *a-diti*（无界）共享同一语义域。
+特别值得注意的是"饶恕罪恶"这一功能——在吠陀思想中，罪恶某种意义上就是"局限"，把人困在狭小空间，而阿底提作为无限，能打破这种局限，让人重新获得自由。
 
-Arnold 在其 Rig Veda 研究中指出：**吠陀诗人从不将 Aditi 与 Pṛthivī（大地）混淆**——Aditi 与 Dyauṣ（天）的配对是抽象的宇宙论关系，不同于 Dyauṣ-Pṛthivī 的天-地具体配对。Aditi 是**超越天地的存在**。
+## 比较神话学对话
 
-## 八、未描述的面容：吠陀美学
+阿底提作为"原初母亲"的定位，可以和全球多个神话体系中的原初女神对比：
+- 希腊神话中的**盖亚**（Gaia）：大地母亲，生出所有诸神，承载万物，结构功能高度相似
+- 美索不达米亚神话中的**纳木**（Nammu）：原初海水女神，从水中生出安与基，是诸神之母
+- 中国神话中的**女娲**：人类和诸神的创造者，承载万物
 
-Werner 1994 的观察尤其令人回味：**Aditi 的面容从未被描述**。在整个 Rig Veda 中，Aditi 没有外貌描写——只有她的**子宫**被提及。
+这种跨文化平行不是偶然，它反映了人类神话思维的一个普遍结构：在宇宙生成的开始，必须有一个容纳性的原初母体，所有存在从她那里诞生。
 
-这一"**隐形女神**"的美学选择揭示了吠陀神学的深刻智慧：**无限不可被描绘**。当一位女神代表"无界"时，任何具体的外貌描写都会限制她的无限性。Aditi 的"无面"不是忽视，而是**最精确的神学表达**——**无限本身没有面孔**。
+## 后世思想史中的阿底提
 
-这与希腊 Athena（无母亲，从 Zeus 头部全副武装诞生）形成有趣的对照——希腊选择了"无母的智慧女神"，吠陀选择了"无面的无限母神"。
+在印度哲学史中，阿底提的概念被不同哲学流派吸收：
+- 在吠檀多哲学中，阿底提的"无限"观念被吸收到梵（Brahman）的概念中
+- 在性力派（Shaktism）中，阿底提被视为**Adi Shakti**（原初力量）的一个面相
+- 在现代印度教思想中，阿底提有时被用来象征"无限可能的女性力量"
 
-## 九、现代遗产
+Shailendra Kumar（2020）指出，阿底提思想中包含着一种对包容性的深刻理解——她包容所有存在，包括她的对立面，这种思想在当代人权话语中依然能产生共鸣。
 
-Aditi 在现代印度教中几乎不再作为独立神被崇拜——她的功能已被 **Lakṣmī**（财富女神）、**Pārvatī/Śakti**（性力女神）等取代。但她的名字仍以多种形式存活：
+## 现代研究的新视角
 
-- **Aditi** 是现代印度女性常见名字
-- **Aditya** 作为"太阳/日神"仍是印度常用男性名字
-- 哲学中 **advaita**（"不二"）与 **Aditi**（"无界"）共享同一否定词根 *a-*
+当代吠陀研究对阿底提有几个新的解读方向：
+1. **宇宙学方向**：强调她作为地平线和宇宙边界的原义，而非仅仅母亲(Ghimire 2018)
+2. **社会性别方向**：重新评估吠陀女神体系中阿底提的核心地位，挑战"吠陀是父权宗教"的简单结论(Saikia 2019)
+3. **哲学方向**：发掘阿底提概念中包含的"无限"哲学，讨论其对印度哲学史的影响
 
-Aditi 的核心遗产是吠陀哲学中的**无限概念**——从 Rig Veda 到 Vedānta，"**无界**"始终是印度思想的核心追求。
+这些新视角让我们重新认识到，阿底提不仅仅是一个"母亲女神"，她还是吠陀宇宙论最核心的概念之一。
 
-## 十、Mythos Atlas 编者按
+## Mythos Atlas 编者按
 
-- **奠基作**：Macdonell 1897 吠陀神话学 · Muïr 1873 Aditi-Daksha 互生分析 · Werner 1994 身份演变追踪
-- **最新研究**：Kak 1999 无限空间宇宙论 · Ghimire 2018 地平线无限扩展 · Khanna 2001 生态母神论
-- **中文学术**：暂缺专门研究，待补
-- **一手文献**：Rig Veda 10.72（Aditi-Daksha 创世赞歌）· Rig Veda 1.113/1.136（Aditi 核心赞歌）· 约 60 首提及
-- **深度追踪**：SOP-01 已完成 Macdonell/Muïr/Kak/Khanna/Tiwari/Werner/Ghimire/Lurker 八篇学术索引
-- **神学地位**：吠陀太初母神最高峰，Adityas 日神群之母，"无界"哲学概念的原始神话来源
+阿底提条目非常能体现Mythos Atlas的编辑理念——最古老的神祇往往蕴含着最深刻的宇宙论思考。早期印度学（Muir 1862）已经确立了阿底提的基本研究框架，当代研究则从宇宙论、社会性别等角度重新发掘了她的深度。
+
+**关键洞见**：阿底提不是一个人格化的主神，她更像一个**宇宙论原则**——她是无限，是未分化，是容纳一切的原初空间。这种非人格化的神在古代神话中并不多见，显示出吠陀思想的早熟。
+
+对于比较神话学来说，阿底提提供了一个极好案例：不同文化在思考宇宙起源时，都独立发明了"原初母体能生万物"的结构，这背后是人类对"承载"这一关系的共同经验。

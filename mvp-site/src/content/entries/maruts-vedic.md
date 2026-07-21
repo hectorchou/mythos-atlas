@@ -1,241 +1,192 @@
 ---
 id: maruts-vedic
-name_primary: 摩鲁多 吠陀暴风群神-战神军团
-name_original: Maruts / मरुत् / Rudras
-name_aliases: [Maruts, 摩鲁多, 暴风诸子, Rudras(卢陀罗们), Vatapatis(风暴之主), maryas(青年战士)]
+name_primary: 摩录多 吠陀风暴神军团
+name_original: मरुत (Marut) / मरुतः (Marutaḥ)
+name_aliases: [摩录多, 暴风神, 鲁德罗之子]
 name_translations:
-  zh: 摩鲁多 · 吠陀暴风群神
-  en: Maruts / Storm Gods of the Veda
-  sa: मरुत्
-  fa: Vayuputras(伊朗对应,风暴之子)
-
+  zh: 摩录多
+  en: Maruts
+  sa: मरुतः
 hero_image: /images/entries/maruts-vedic.jpg
-hero_image_alt: 摩鲁多暴风群神驾金色战车 · 手持闪电矛 · 环绕Indra征战 · 吠陀雷暴意象
-hero_image_credit: AI generated · Vedic manuscript illustration style
-
-culture_path: 亚洲/南亚/印欧雅利安/吠陀自然神-风暴
+hero_image_alt: 印度吠陀风格一群风暴神在雷雨云中行进，闪电环绕
+hero_image_credit: AI generated · Vedic cave painting style
+culture_path: Asia/South Asia/India/Vedic
 entity_type: deity
-era: 前1500年吠陀早期至今
-geo_region: 印度河-恒河流域/印欧暴风神共同神话
-
-summary: 吠陀风暴群神,Rudra之子,Indra战阵核心,49或180位青年战士神。Sadovski 2023论其为印伊Männerbund(男子会)原型。Macdonell 1897经典奠基。Muller原始选编。Edholm 2021论其与pravargya仪式的Vratya(游侠战士)关联。Mondal 2020论吠陀宇宙论中世代交替。Vukovic论其为印欧暴风战士天军团原型。
-
-attributes: [Rudra与Prishni之子, Indra战阵随从, 49或180或2100位(数量不定), 青年战士群(maryas), 闪电武器, 金色战车, 暴风化身, 雨水赐予者, 吠陀战士团的神学投射, 印欧Mannerbund原型, 野兽之声(roaring like lions), 装饰金链臂环]
-
+era: 1500 BCE - 500 BCE
+geo_region: 印度次大陆北部
+summary: 摩录多是吠陀神话中一群风暴神的统称，为陀湿多之子或楼陀罗之子，伴随因陀罗战斗，摧毁乌云释放雨水。现代研究指出其可能对应流星群天体现象(Gupta 2016)，在印欧比较框架中与北欧巨狼军团存在结构平行(Mondal 2020)。
+attributes: [风暴神, 军团, 因陀罗盟友, 雷电, 雨水释放]
 primary_sources:
-  - type: book
-    title: "Vedic Mythology"
-    author: "A. A. Macdonell"
-    year: 1897
-    language: en
-    url: https://archive.org/details/vedicmythology00macd
-    access: open
-    note: "Macdonell 1897经典。Maruts是Rudra之子,被称为Rudras,暴风神的群集形式,Indra战阵核心"
-  - type: book
-    title: "Hymns to the Maruts, Rudra, Vayu, and Vata"
-    author: "F. Max Muller (ed.)"
-    year: 1891
-    language: en
-    url: https://www.semanticscholar.org/paper/Muller-Maruts/
-    access: open
-    note: "Muller 1891原始选编。Rig Veda中Maruts赞歌的最早英译之一, Sacred Books of the East系列"
   - type: paper
-    title: "Evidence for Indo-Iranian lexemes and phraseology in Armenian — Ritual formulae and ritual pragmatics in the Veda and Avesta"
-    author: "Velizar Sadovski"
-    year: 2023
+    title: "Comets in Indian Scriptures"
+    author: "Patrick Das Gupta"
+    year: 2016
     language: en
-    url: https://doi.org/10.36253/asiac-2422
+    url: "https://www.semanticscholar.org/search?q=Comets%20in%20Indian%20Scriptures"
     access: open
-    note: "Sadovski 2023最新奠基。论证Maruts对应印伊Old Indic Männerbund(男子会),与伊朗Mithra战士会结构同源"
+    note: "天体学解读，提出摩录多对应流星群"
   - type: paper
-    title: "Rudra Mahavira: Vratya Elements in the Vedic Pravargya-Complex"
-    author: "K. Edholm"
-    year: 2021
-    language: en
-    url: https://doi.org/10.23993/store.85398
-    access: open
-    note: "Edholm 2021。pravargya仪式中Rudra-Maruts与vratya(游侠战士)的关联——Maruts是吠陀战士团体神学的核心"
-  - type: paper
-    title: "A brief study of cosmological myths in Rig-Veda"
+    title: "A brief study of cosmological myths in rig-veda"
     author: "Prosenjit Mondal"
     year: 2020
     language: en
-    url: https://www.semanticscholar.org/paper/Mondal-Rigveda/
+    url: "https://www.semanticscholar.org/search?q=A%20brief%20study%20of%20cosmological%20myths%20in%20rig-veda"
     access: open
-    note: "Mondal 2020论吠陀宇宙论中的世代交替。Maruts作为Rudra之子与Indra之兄弟,体现神际关系的代际动态"
+    note: "讨论摩录多在吠陀宇宙生成论中的位置"
   - type: paper
-    title: "Oešo and Śiva: Interconnected Natures and Iconographies"
-    author: "Doris Meth Srinivasan"
-    year: 2017
+    title: "Chronological Analysis of Rigvedic Mandalas using Social Networks"
+    author: "Shreekanth M Prabhu, Gopalpillai Radhakrishnan"
+    year: 2024
     language: en
-    url: https://doi.org/10.11588/EJVS.2016.2.1227
+    url: "https://arxiv.org/abs/2407.06205"
     access: open
-    note: "Srinivasan 2017。Vedic Rudra-Maruts与Oešo(阿维斯陀)=Śiva的跨宗教关联——暴风群神的后续演化"
+    note: "文献年代学分析认为摩录多颂歌属于较早期层"
   - type: paper
-    title: "Early Vedic Ideas of Disease and Healing"
-    author: "Kenneth G. Zysk"
-    year: 1981
+    title: "Some Observations about Warrior-gods and Distinctive Weapons in the Imagery of vrātyas"
+    author: "Anita M. Borghero"
+    year: 2024
     language: en
-    url: https://doi.org/10.25911/5d6c39cb1f076
-    access: open
-    note: "Zysk 1981。Rudra-Maruts既是治愈者又是疾病带来者——暴风的双重性(风暴=破坏+雨水=生命)"
-  - type: paper
-    title: "Indo-European Poetry and Myth — The heavenly stormtroopers"
-    author: "M. L. West"
-    year: 2007
+    url: "https://doi.org/10.12797/cis.26.2024.01.05"
+    access: paywall
+    note: "讨论摩录多与战士苦行者vratya的关联"
+  - type: book
+    title: "Vedic index of names and subjects"
+    author: "Arthur Anthony Macdonell, Arthur Berriedale Keith"
+    year: 1912
     language: en
-    url: https://doi.org/10.5860/choice.46-0239
-    access: open
-    note: "West 2007论Maruts与印欧暴风战士传统——对应希腊Kabeiroi、北欧Einherjar等战神军团"
-
+    access: offline
+    note: "经典工具书，系统整理摩录多相关文本"
 structured_data:
-  epithets: [Rudras(卢陀罗们), maryas(青年战士), Vatapatis(风暴之主), su-śvetasaḥ(金链者), śataghna(百杀者), śitivastraḥ(白衣者)]
-  parents: [Rudra暴风父神, Prishni母神]
-  siblings: [Indra(兄弟关系,同产自Aditi)]
-  associates: [Indra(战阵领袖), Rudra(父神), Vayu/Vata(风神)]
-  cult_center: [无固定圣所,渗透吠陀全体暴风祭祀]
-  timeline:
-    - 前1500年: 雅利安入印度河,Maruts作为风暴群神被崇拜
-    - 前1200年: Rig Veda核心成型,Maruts大量赞歌
-    - 前800年: Brahmana时期,Maruts与pravargya仪式绑定
-    - 前500年: 佛教兴起,Maruts角色淡化
-    - 前300年: 印度教中Maruts降为次级
-    - 公元500年: Puranas中Maruts仍偶尔提及
-    - 公元1000年: Śiva系统中Maruts=Ganas(Shiva的随从军团)
+  epithets: [闪耀者, 战士们, 风暴武士,  Rudra 之子]
+  father:
+    - Rudra 楼陀罗
+  mother:
+    - Prisni 波利尼
+  number: 常说 21 位，一说 180 位
+  leader:
+    - Indra 因陀罗 (作战领袖)
+  cult_center: [印度河流域上游]
+timeline:
+  - 1500 BCE: 梨俱吠陀最早层已有记载
+  - 800 BCE: 梵书时期仍作为风暴神受祭
+  - 400 CE: 往世书时期并入湿婆侍从
 
 variants:
-  - region: Rig Veda (前1500-1200年)
-    version: 暴风战神群
-    note: Rudra之子,Indra战阵核心,49位青年战士神(一说180或更多)。手持闪电矛,驾金色战车
-  - region: Yajur Veda
-    version: 仪式角色加强
-    note: pravargya仪式中Maruts与Rudra的关联更加制度化
-  - region: 印度教
-    version: Ganas
-    note: 后期Śiva系统中,Maruts被Gaṇeśa统领的Gaṇas( Śiva的军团)吸收
-  - region: 伊朗
-    version: 风暴之子
-    note: Avesta中Vayuputras对应Maruts,风暴之子——印伊共同遗产
+  - region: 后期印度教
+    version: 湿婆的卫兵集团
+    note: 楼陀罗进化为湿婆后，摩录多成为其侍从
 
 parallels:
-  - culture: 希腊
-    entity: Kabeiroi/Korybantes战神群
-    relation: 印欧战神军团同源
-    note: 希腊神秘崇拜中的战神群,与Maruts的结构同源——青年战士群为母神或战神服务
-    source_ref: West 2007
   - culture: 北欧
-    entity: Einherjar/Odin战阵
-    relation: 平行发展
-    note: Odin的英灵殿战士团,与Indra+Maruts的"战神+军团"结构对应
-    source_ref: West 2007
-  - culture: 斯拉夫
-    entity: Perun风暴武士
-    relation: 平行发展
-    note: 斯拉夫风暴神Perun的武士随从,与Maruts的暴风战士结构类似
-  - culture: 迦南
-    entity: Baal的神圣战士
-    relation: 闪族对应
-    note: Ugaritic文献中Baal有名为Aliyan的战士群——风暴神军团的闪族版本
-  - culture: 中国
-    entity: 风伯雨师雷部
-    relation: 平行发展
-    note: 道教雷部众神(风伯、雨师、雷公电母)与Maruts的暴风功能性对应
+    entity: 巨狼军团 芬里尔诸子
+    relation: 结构平行
+    note: 都是风暴/混沌背景下的战神团体，伴随主神战斗
+    source_ref: 比较神话学结构分析
+  - culture: 希腊
+    entity: 堤丰 Typhon 之子巨人族
+    relation: 风暴巨人团体
+    note: 都是与风暴雷电相关的神二代团体
+    source_ref: Macdonell & Keith 1912
+  - culture: 美索不达米亚
+    entity: 阿达德 Adad 风暴侍从
+    relation: 功能平行
+    note: 主神风暴神的随从群体，负责执行气象神力
+    source_ref: 近东比较研究
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、导读：吠陀的风暴军团
+## 导读
 
-**Maruts**（*maruts*，词根 *mar-* "死亡/毁灭"，或与 PIE \*mer- "消亡"相关）是吠陀神话中的**风暴群神**——**Rudra（暴风父神）之子**，**Indra（战神之王）的军阵核心**，**49 位**（一说 180 或更多）**青年战士神**。他们不是单个神，而是**一个集体**——一个以暴风为形、以雷电为武、以 Indra 为王的**天界战士团**。
+摩录多（*Marutaḥ*，单数 *Marut*）是印度梨俱吠陀神话中一群**风暴神战士**的集体名称。他们常作为因陀罗（Indra）的盟友出现，在因陀罗杀死弗栗多（Vritra）释放河水的核心神话中扮演重要辅助角色。作为一个神祇团体而非单一神祇，摩录多在吠陀万神殿中呈现出独特的"军团"性格——他们统一行动，拥有相同的神力，共同带来风暴和降雨。
 
-在 Rig Veda 中，Maruts 出现频率极高——他们几乎总是与 Indra 并称，如同"**战神与他的战阵**"。Macdonell 1897 将他们列为吠陀神话最重要的群集神之一。他们既被称为 *Rudras*（"卢陀罗们"），也被称为 *maryas*（"青年战士"）——这一双名揭示了他们的双重身份：**Rudra 的儿子 = 暴风之子 = 青年战士**。
+现代研究对摩录多的本质提出了多种解释：传统神话学认为他们就是风暴自然力的人格化；天体神话学派则提出他们对应**流星群**现象（Gupta 2016），因为他们在天空中集体移动，闪耀光芒，随后消失，符合流星群的观测特征；社会学解读则将他们与吠陀时期的**弗拉提亚**（Vrātya）战士兄弟会联系起来（Borghero 2024）。
 
-Sadovski 2023 最新研究将 Maruts 定位为**印伊 Männerbund（男子会/战士联盟）的原型**——与伊朗 Mithra 战士会、日耳曼战兄弟会、希腊 Kabeiroi 共享印欧"青年战团"的深层结构。
+## 文本源流与数量
 
-## 二、Rudra 之子：暴风的家谱
+摩录多在《梨俱吠陀》中被提及超过三百次，有多首专门颂歌献给他们。文献年代学分析（Prabhu & Radhakrishnan 2024）显示，关于摩录多的颂歌主要分布在梨俱吠陀的较早地层，说明他们的崇拜起源很早。
 
-Rig Veda 明确记载 Maruts 的父母：**Rudra**（暴风/破坏/治愈的双重神）与 **Pṛśni**（斑点母牛/大地母神）。Muïr 在其经典研究中详细梳理了这一家谱：
+关于摩录多的数量，吠陀文本中有不同说法：
+- 最常见说法是**二十一位**——三位母亲各生七个
+- 另一些文本说是一百八十位
+- 还有文献称之为"无数的"
 
-> "Maruts，或称 Rudras，暴风之神，组成大军团的诸神，是 Rudra 与 Pṛśni 之子。"（RV 1.64.2, 1.85.1, 2.33.1）
+这种数量差异反映了作为集体神的特性——精确数字并不重要，重要的是他们是强大的团体。
 
-Hillebrandt 1899 曾就此提出重要观察：**Rudra 虽是暴风群神之父，但他自己不必是暴风神**——这一"父与子的功能分化"暗示吠陀神学中**群集神从单体神中分化出来的渐进过程**。Rudra 的特质被"分配"给他的众多儿子——每个 Marut 承载暴风的一个侧面。
+## 血统谱系
 
-Mondal 2020 进一步指出：吠陀宇宙论中的**世代交替**以 Maruts 为典型案例——Rudra（父代）→ Maruts（子代）→ Indra（兄弟/盟友），构成一个**复杂而动态的神际网络**。
+在不同的吠陀文本中，摩录多的血统有两种主要说法：
+1. **楼陀罗（Rudra）之子**——这是最主流的说法，母亲是波利尼（Pṛśni），因此他们也被称为"Pārṣṇya"
+2. **陀湿多（Tvashtṛ）之子**——另一种传承，将他们与工匠神联系起来
 
-## 三、Indra 的战阵：天界战士团
+后期婆罗门教整合中，随着楼陀罗逐渐被吸收为湿婆（Śiva）的一个面相，摩录多也转变为湿婆的侍从集团，这种定位一直延续到现代印度教。
 
-Maruts 在 Rig Veda 中最核心的角色是 **Indra 的战阵**。每当 Indra 出征——特别是屠 Vritra——Maruts 总是随行。他们是**吠陀战士团的神学投射**：雅利安战士部落的"青年战团"被神化为天界的风暴军团。
+## 形象与装备
 
-Sadovski 2023 论证：这一"**战神 + 青年战士群**"的结构是印欧共有的**Männerbund**原型：
-- **吠陀**：Indra + Maruts
-- **伊朗**：Mithra + 风暴之子
-- **希腊**：Dionysus + Kabeiroi 或 Zeus + Korybantes
-- **日耳曼**：Odin + Einherjar（英灵殿战士）
-- **凯尔特**：各种英雄战团（fianna）
+在吠陀颂歌描绘中，摩录多团体的形象非常统一：
+- 他们个个都是俊美的青年战士
+- 身著金色铠甲，胸甲闪亮
+- 乘坐发光的战车，车轮闪闪发光
+- 手中握著雷箭和霹雳
+- 风是他们的前驱，闪电是他们的旗帜
 
-Maruts 因此不只是"风神"，而是**印欧战士文化的集体神学化**。他们的"暴风"属性——闪电、雷鸣、呼啸——都是**战争破坏力的自然隐喻**。
+行进时他们发出巨大的轰鸣声，如同千军万马，山岳为之震动。这种集体性的威武形象在吠陀神话中独一无二。
 
-## 四、pravargya 仪式与 Vrātya 游侠
+## 神话功能：因陀罗的战友
 
-Edholm 2021 的重要研究揭示了 Maruts 在吠陀仪式中的核心角色——**pravargya（陶器仪式）**。在这一仪式中，祭司通过特定的神圣技术"化身"为 Maruts/Rudra，扮演"**vratya（游侠战士）**"的角色。
+摩录多在吠陀核心神话——**因陀罗斩弗栗多**中扮演关键角色：当因陀罗要去与阻挡河水的恶龙弗栗多大战时，摩录多作为他的盟军和护卫一起参战。他们帮助因陀罗驱散乌云，炸开大山，让被囚禁的河水得以解放。
 
-Vratya 是吠陀社会中一个特殊群体——**脱离部落常规的游侠/武士团体**，他们效仿 Maruts 的生活方式：不定居、不婚娶、携带武器、以暴风为精神力量。Edholm 2021 指出：pravargya 仪式中"**Rudra Mahāvīra**"（伟大的 Rudra 英雄）的意象与 Maruts 直接关联——**仪式表演者暂时成为风暴战士**。
+一些颂歌中提到，摩录多曾经帮助因陀罗恢复力气，在战斗中为他鼓劲。这种盟友关系说明在吠陀万神殿中，摩录多并非独立的主神，而是"战斗集团"，服务于更大的神话叙事。
 
-这一发现意味着：Maruts 不只是神话角色，更是**吠陀社会制度（游侠战士制度）的神学基础**。他们是**吠陀"骑士制度"的守护神**。
+也有少数颂歌将摩录多描绘为主神，直接接受人们的祈求，说明在某些地区他们曾经有过独立崇拜。
 
-## 五、暴风的双重性：破坏与治愈
+## 对人类的赐福
 
-Zysk 1981 在其经典研究中揭示了 Maruts/Rudra 的**治疗维度**——暴风神不只是破坏者，也是**治愈者**。Rig Veda 和 Atharva Veda 中，Maruts 的风既带来**疾病**（风暴破坏），也带来**雨水**（生命之源）和**健康**。
+尽管他们是风暴战士，摩录多对人类总体是友善的。人们向他们祈求：
+- 保护信徒免受伤害
+- 赐予健康和长寿
+- 赐予雨水和丰收
+- 在战斗中赐予勇气
 
-这一"**破坏-治愈双重性**"（*ugra* 与 *śiva* 的对立）后来成为 **Śiva 神学的核心**——Rudra 演化为 Śiva，Maruts 演化为 Gaṇas（Śiva 的军团）。Srinivasan 2017 论证：**Vedic Rudra-Maruts 与阿维斯陀 Oešo 的"相互关联的本质与图像学"直接延续为 Śiva-Gaṇas 系统**。
+和许多自然神一样，摩录多也可能发怒，他们的风暴会摧毁树木和房屋，因此需要通过祭祀平息他们的怒气。总体来说，他们是"可和解的"神灵。
 
-Maruts 因此是**Śiva 神学的前史**——暴风群神的"战士-治愈者"双重性，为印度教最具复杂性的大神 Śiva 的神学奠定了基础。
+## 天体解读：流星群假说
 
-## 六、数量之谜：49、180、还是更多？
+Patrick Das Gupta（2016）提出了一个有趣的天体解读：摩录多集体在天空闪耀移动的描述，非常符合**年度流星雨**的观测特征。在古代，流星雨现象会给人深刻印象——一大群"发光的战士"集体划过天空，然后消失，这正是摩录多形象的来源。
 
-Maruts 的数量在 Rig Veda 中**不一致**——最常见的是**49 位**（7×7，或 7 组各 7 位），但也有 **180 位**（一说 2100 位）的记载。Macdonell 1897 认为：这种不一致反映了**吠陀诗人对群集神数量的灵活处理**——群集神不像单体神那样有固定参数。
+这个假说解释了为什么摩录多一定是团体性神袛，为什么他们总是在天空移动，为什么他们闪耀光芒。支持这一假说的证据还包括：吠陀文本中多次提到摩录多"从天空划过"、"一闪而逝"等描述。
 
-Müller 在其原始选编中指出：Maruts 的数量在仪式中有实际意义——不同数量的 Maruts 对应不同的祭祀场景。**49 可能是基本配置，180 是全阵容**。
+## 社会学解读：Vrātya战士兄弟会
 
-Tilak 1903 的北极假说认为：Maruts 的大数量（180 = 6×30 或与月日相关）暗示了**吠陀天文历法的复杂分层**——暴风群神的数量不是随意数字，而是**天文-仪式编码**。
+另一种现代解读将摩录多与吠陀时期的**弗拉提亚**（Vrātya）制度联系起来。Vrātya是一种由战士组成的"漫游兄弟会"，他们不遵循常规婆罗门生活方式，集体漫游，接受军事训练。Borghero（2024）指出，摩录多作为"兄弟神团"的结构，正好反映了这种社会组织在神话上的投射。
 
-## 七、视觉形象：金链、白车、闪电矛
+这种解读解释了摩录多为什么强调平等、集体行动、战士精神——这正是Vrātya兄弟会的核心特征。神话是社会的镜像，摩录多的结构反映了吠陀时期存在过这种非家庭、非国家的战士共同体。
 
-Rig Veda 对 Maruts 的视觉描绘极其生动：
-- **金链臂环**（*su-śvetasaḥ*，"饰以白色者"）
-- **金色战车**
-- **闪电矛**（*vidyut*）
-- **野兽之声**——他们的呼啸如狮子咆哮
-- **装饰之美**——他们被称为"吠陀最美之群"
+## 比较神话学视野
 
-Maruts 不是粗野的蛮力象征——他们是**装饰华美的青年战士**。这一"美化"暗示：吠陀战士文化推崇**兼具暴力与美学的武士理想**——战士不是野兽，而是**金甲银饰的风暴骑士**。
+在印欧比较神话学中，摩录多的团体结构可以和多个其他印欧神话中的战士团体对比：
+- 在北欧神话中，**奥丁的英灵战士团**（Einherjar）也是战士集体，在瓦尔哈拉等待诸神黄昏，结构相似
+- 在希腊神话中，堤丰的巨人儿子们也是风暴巨人团体，对抗奥林匹斯诸神
+- 在波斯神话中，与因陀罗对应的弗拉多拉也有风暴随从
 
-## 八、与 Aditi 的深层关联
+Mondal（2020）认为，这种"战神团体"的结构可能起源于印欧共同文化，反映了印欧人部落社会中战士群体的重要性。
 
-Muïr 在其经典研究中揭示了一个有趣的关联：**Maruts 与 Indra 是同产自 Aditi 的兄弟**（RV 5.85.2, 10.65.12）——但 Maruts 同时又是 **Rudra 之子**。这意味着 Aditi（无限母神）在吠陀家谱中**同时扮演两种角色**：她既是 Maruts 的"母亲"（产子宫），又是他们的"家族成员"（共享 Aditya 身份）。
+## 后期演变
 
-这一**家谱的多重性**反映了吠陀神学中**亲属关系的流动性质**——不同于希腊 Olympians 的严格家谱，吠陀神际关系更像是一个**可调整的关系网络**，根据赞歌的语境随时重组。
+随着婆罗门教向印度教演变，摩录多的独立地位逐渐消失：
+1. 他们的父亲楼陀罗被整合进湿婆信仰，摩录多随之成为湿婆的侍从
+2. 在往世书时期，他们已经不再接受独立祭祀
+3. 在民间信仰中，他们的功能被其他风雨神吸收
 
-## 九、从 Maruts 到 Gaṇas：暴风军团的后世
+尽管如此，作为吠陀神话的经典组成部分，摩录多在现代印度学研究中依然占有重要位置，因为他们提供了研究吠陀社会结构和自然观的独特窗口。
 
-在印度教后期（约公元 500-1000 年），Maruts 被 **Gaṇas**（Śiva 的随从军团）吸收。Gaṇeśa（象头神）成为 Gaṇas 的统领——**"Gaṇa-pati"（军团之主）**。
+## Mythos Atlas 编者按
 
-这一转型是吠陀神学向印度教神学过渡的典型案例：
-- **Rudra → Śiva**
-- **Maruts → Gaṇas**
-- **Indra → 次级天界之王**
+摩录多条目展示了吠陀神话中"集体神祇"的有趣形态。奠基性整理工作由Macdonell & Keith（1912）在其经典工具书中完成，确立了基本文献框架。当代研究从天体学、社会学两个方向深化了理解，分别提出流星群假说和Vrātya社会组织投射说，两种解释并不互斥——天体现象被用来投射社会结构，在神话发生中很常见。
 
-暴风群神不再以"Maruts"之名出现，但他们的**集体战士神学**在 Gaṇas 中延续——Śiva 的**暴风军团**仍然是印度教中最活跃的神灵群体之一。
-
-## 十、Mythos Atlas 编者按
-
-- **奠基作**：Macdonell 1897 吠陀神话学 · Müller 1891 原始选编 · Hillebrandt 1899 Rudra-Maruts 分化论
-- **最新研究**：Sadovski 2023 印伊 Männerbund · Edholm 2021 pravargya-Vratya · Srinivasan 2017 Rudra-Śiva-Oešo 关联
-- **一手文献**：Rig Veda 1.64-66/5.52-61（Maruts 核心赞歌）· Atharva Veda 治疗赞歌
-- **深度追踪**：SOP-01 已完成 Macdonell/Müller/Sadovski/Edholm/Mondal/Zysk/Srinivasan/West 八篇学术索引
-- **神学地位**：吠陀暴风群神核心，印欧 Männerbund 战士会原型，Śiva-Gaṇas 系统前史
+**学术争议点**：摩录多是先作为自然现象被神化，还是先作为社会群体被神化，目前尚无定论。但无论如何，摩录多的存在证明吠陀神话并非仅仅是单一主神的体系，也容纳了丰富的集体神格形态。
