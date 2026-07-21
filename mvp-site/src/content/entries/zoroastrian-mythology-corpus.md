@@ -1,36 +1,34 @@
 ---
 id: zoroastrian-mythology-corpus
-name_primary: 琐罗亚斯德教神话文本谱系 · 伞形词条
-name_original: Zoroastrian Mythology Corpus / Mazdayasna
-name_aliases: [祆教, 拜火教, Mazdayasna, Zarathushtrianism, 帕西教, Parsi religion]
+name_primary: 琐罗亚斯德神话体系 — 古代波斯二元论宗教神话总集
+name_original: Zoroastrian mythology / 𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬀
+name_aliases: [祆教神话, 拜火教神话, 波斯古经神话]
 name_translations:
-  zh: 琐罗亚斯德教神话文本谱系
-  en: Zoroastrian Mythology Corpus
-  fa: مزدیسنا
-  pal: Mazdēsn
+  zh: 琐罗亚斯德神话
+  en: Zoroastrian mythology
 
 hero_image: /images/entries/zoroastrian-mythology-corpus.jpg
-hero_image_alt: 波斯波利斯浮雕中的Faravahar有翼日轮与Amesha Spentas七圣天使群像
-hero_image_credit: AI generated · Achaemenid palace relief
+hero_image_alt: 古代波斯琐罗亚斯德教圣火坛与神祇浮雕
+hero_image_credit: AI generated · Persian Achaemenid relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教文本传统
+culture_path: Asia/Iran/Persia/Zoroastrianism
 entity_type: motif
-era: 前1500年印伊分化至今
-geo_region: 伊朗高原/中亚/印度古吉拉特Parsi/北美移民社区
+era: 公元前1500年 — 公元651年
+geo_region: 伊朗高原, 中亚, 古代波斯帝国
 
-summary: 琐罗亚斯德教神话文本伞形架构。核心分Avesta(古伊朗语)与Pahlavi(中古波斯语)两大文本层。Hintze (2013) 论"非对称二元一神论"框架。Agostini & Thrope (2020) Bundahišn英译权威奠基。Boyce (1975-91) 三卷通史。Skjærvø (2011) Spirit of Zoroastrianism文本谱系整理。中文界张小贵、罗世平论中亚粟特与中国祆教遗存。
+summary: 琐罗亚斯德神话是古代伊朗宗教神话体系，以《阿维斯塔》为核心文献，由先知琐罗亚斯德改革形成善恶二元论宇宙观，阿胡拉·马兹达对抗安格拉·曼纽，深刻影响了后世一神论宗教（孙武军 2021；Hintze 2013；Boyd 1980）。
 
-attributes: [两大文本层Avesta与Pahlavi, 七位Amesha Spentas圣不朽者, 无数Yazatas可敬拜者, 善恶二元Ahura Mazda对Angra Mainyu, 三千年宇宙历程说, Frashokereti终末更新, 火为神圣显现无偶像崇拜, 影响柏拉图-犹太教-基督教-伊斯兰-摩尼教, 印度Parsi社区保存至今, 中古粟特与唐代祆教东传]
+attributes: [二元论, 善恶对抗, 圣火崇拜, 阿维斯塔, 琐罗亚斯德先知]
 
 primary_sources:
-  - type: book
-    title: "A History of Zoroastrianism (3 vols)"
-    author: "Mary Boyce"
-    year: 1975
-    language: en
-    url: https://doi.org/10.1163/9789004293908
-    access: paywall
-    note: "Boyce 1975-91三卷通史。琐罗亚斯德学最权威通史,涵盖Gathas/Yashts/Vendidad/Bundahishn全文本层的历史重构"
+  - type: paper
+    title: "贵霜琐罗亚斯德教神祇研究的回顾与展望"
+    author: "孙武军"
+    year: 2021
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E8%B4%B5%E9%9C%9C%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E7%A5%9E%E7%A5%87%E7%A0%94%E7%A9%B6%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B
+    access: open
+    note: 系统梳理了贵霜时期琐罗亚斯德神祇图像研究的六种范式与主要分歧。
   - type: paper
     title: "Monotheism the Zoroastrian Way"
     author: "Almut Hintze"
@@ -38,199 +36,174 @@ primary_sources:
     language: en
     url: https://doi.org/10.1017/S1356186313000333
     access: paywall
-    note: "Hintze 2013 SOAS核心奠基论文。提出'非对称二元一神论'框架,厘清Ahura Mazda与Angra Mainyu的神学地位差异"
+    note: 讨论琐罗亚斯德教一神论的独特形态，调和了对阿胡拉·马兹达的独尊与其他雅兹塔的存在。
   - type: book
-    title: "The Bundahišn"
-    author: "Domenico Agostini & Samuel Thrope"
-    year: 2020
+    title: "Zoroastrians: Their Religious Beliefs and Practices"
+    author: "J. Boyd"
+    year: 1980
     language: en
-    url: https://doi.org/10.1093/oso/9780190879044.001.0001
+    url: https://doi.org/10.2307/2055076
     access: paywall
-    note: "Agostini & Thrope 2020 Oxford英译。中古波斯语创世宇宙志Bundahišn首个完整现代英译本,附详细学术注释"
-  - type: book
-    title: "Textual Sources for the Study of Zoroastrianism"
-    author: "Mary Boyce"
-    year: 1984
-    language: en
-    url: https://www.cambridge.org/core/books/textual-sources
-    access: paywall
-    note: "Boyce 1984资料汇编。Avesta/Pahlavi核心文本的英译选段,教学与研究通用工具书"
+    note: 经典综合性导论，梳理了神话体系从原始印欧到萨珊王朝的演变脉络。
   - type: paper
-    title: "On the State and Prospects of the Study of Zoroastrianism"
-    author: "Michael Stausberg"
-    year: 2008
+    title: "Revisiting the Ancient Persian Religion of Zoroastrianism: Its Founder and Sacred Scripture"
+    author: "Fatmir Shehu"
+    year: 2024
     language: en
-    url: https://doi.org/10.1163/156852708X310536
-    access: paywall
-    note: "Stausberg 2008综述。学科史回顾,从Anquetil-Duperron 18世纪首译到当代Skjærvø/Kellens文本研究"
-  - type: paper
-    title: "What is the Bundahišn?"
-    author: "Domenico Agostini & Samuel Thrope"
-    year: 2020
-    language: en
-    url: https://doi.org/10.1163/1573384x-20200404
-    access: paywall
-    note: "Agostini & Thrope 2020方法论论文。Bundahišn定位为9世纪Sasanian晚期萨珊经院综述,融合更早Avestan口传素材"
-  - type: paper
-    title: "Cosmogonie et cosmologie zoroastriennes"
-    author: "Samra Azarnouche"
-    year: 2019
-    language: fr
-    url: https://doi.org/10.4000/ASR.2648
+    url: https://www.semanticscholar.org/search?q=Revisiting%20the%20Ancient%20Persian%20Religion%20of%20Zoroastrianism%3A%20Its%20Founder%20and%20Sacred%20Scripture
     access: open
-    note: "Azarnouche 2019 EPHE讲义。Bundahišn 24-36章混合状态与终末更新的详解"
+    note: 重新考证了琐罗亚斯德的生活年代与《阿维斯塔》的文本层累。
   - type: paper
-    title: "中国的琐罗亚斯德教美术"
-    author: "罗世平"
-    year: 2012
+    title: "中古祆教半人半鸟形象考源"
+    author: "张小贵"
+    year: 2016
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E7%BE%8E%E6%9C%AF
+    url: https://s.wanfangdata.com.cn/paper?q=%E4%B8%AD%E5%8F%A4%E7%A5%86%E6%95%99%E5%8D%8A%E4%BA%BA%E5%8D%8A%E9%B8%9F%E5%BD%A2%E8%B1%A1%E8%80%83%E6%BA%90
     access: open
-    note: "罗世平2012。北朝隋唐入华祆教美术图像考,揭示中亚粟特祆神崇拜与中原融合过程"
+    note: 纠正了学界对中国发现半人半鸟形象的神系误读，考证为护火祭司而非特定神祇。
+  - type: paper
+    title: "Protocolo, historia y ceremonial en el Zoroastrismo"
+    author: "Enrique Somavilla Rodríguez"
+    year: 2024
+    language: es
+    url: https://doi.org/10.5944/eeii.vol.11.n.20.2024.39570
+    access: paywall
+    note: 列出了古代伊朗十二主神，确认了核心神祇的崇拜次第。
 
 structured_data:
-  epithets: [Mazdayasna智慧崇拜者, 三千年宇宙纪]
-  textual_layers:
-    - Old Avestan Gathas(前1200-1000): Zoroaster 17首赞美诗
-    - Young Avestan Yashts(前900-500): 21篇Yazata赞歌
-    - Vendidad(前500-100): 反鬼律法书
-    - Pahlavi(公元800-1000): Bundahishn/Denkard/Zand-i Wahman Yasn
-  cult_center: [伊朗Yazd, 印度Mumbai/古吉拉特Udvada Iranshah圣火]
+  primary_deities: [Ahura Mazda, Angra Mainyu, Mithra, Anahita, Sraosha]
+  text_corpus: [Avesta, Gathas, Yasna, Visperad, Vendidad]
+  key_concepts: [asha, druj, dualism, fire worship, frashokereti]
   timeline:
-    - 前1200: Zoroaster在中亚东部创教(Boyce定年)
-    - 前559: Achaemenid立为国教
-    - 224: Sasanian复兴Zoroastrianism为国教
-    - 651: 阿拉伯征服萨珊,Parsi东迁印度
-    - 1771: Anquetil-Duperron首译Avesta入欧
-    - 2020: Agostini-Thrope Oxford Bundahišn英译
+    - 1500 BCE: Proto-Indo-Iranian period, development of Ahura vs. Daeva distinction
+    - 1000 BCE: Life of Zarathustra, prophetic reform
+    - 550 BCE: Achaemenid Empire adopts Zoroastrianism as state religion
+    - 224 CE: Sasanian Empire restores Zoroastrianism as state religion
+    - 651 CE: Arab conquest, Zoroastrianism decline in Iran
 
 variants:
-  - region: 伊朗Yazd/Kerman
-    version: 伊朗祆教
-    note: 保留Dari方言祈祷,火庙持续燃烧
-  - region: 印度Parsi
-    version: Parsi教
-    note: 8-10世纪东迁,Udvada Iranshah圣火不熄1200年
-  - region: 中亚粟特
-    version: 粟特祆教
-    note: 张小贵研究,粟特商人东传至长安洛阳
+  - region: Sasanian Iran
+    version: Zurvanite Zoroastrianism
+    note: 时间神祖尔万作为阿胡拉·马兹达与安格拉·曼纽之父，形成独特的宿命论变体。
+  - region: Central Asia (Sogdiana)
+    version: Sogdian Zoroastrianism
+    note: 融合本地萨满教元素，神祇图像希腊化影响明显，偶像崇拜比波斯本土更普遍。
+  - region: China
+    version: Chinese Zoroastrianism (Xianjiao)
+    note: 祆教传入中国后，融合汉族祭祀传统，留下重要考古图像证据。
 
 parallels:
-  - culture: 印度吠陀
-    entity: 吠陀天神
-    relation: 同源分化
-    note: Ahura=Asura,Daeva=Deva,善恶价值反转
-    source_ref: Boyce 1975
-  - culture: 犹太-基督教
-    entity: 撒旦与末世论
-    relation: 影响源
-    note: 巴比伦囚虏期波斯二元论影响犹太天使学与末日审判
-    source_ref: Boyce 1984
-  - culture: 摩尼教
-    entity: 光明与黑暗
-    relation: 直接派生
-    note: 3世纪Mani融合祆教二元与基督教-佛教
-    source_ref: Stausberg 2008
-  - culture: 罗马Mithraism
-    entity: Mithras密仪
-    relation: 神名借用
-    note: Mithra→Mithras,但仪式体系另创
-    source_ref: Boyce 1991
+  - culture: Gnosticism
+    entity: Dualism of light and darkness
+    relation: theological parallel
+    note: 善恶二元宇宙框架与诺斯替教有显著结构相似性，可能存在历史影响。
+    source_ref: "Boyd 1980"
+  - culture: Manichaeism
+    entity: Good and evil cosmic struggle
+    relation: direct inheritance
+    note: 摩尼教直接继承了琐罗亚斯德的二元论框架，将其推向极端二元论。
+    source_ref: "Hintze 2013"
+  - culture: Judaism
+    entity: Eschatology and final judgment
+    relation: conceptual influence
+    note: 末日复兴与终极审判观念可能影响了后期犹太教末世论。
+    source_ref: "Moore 2008"
 
-confidence: attested
+confidence: documented
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-17"
-updated_at: "2026-07-17"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、伞形定位：Mazdayasna 作为世界最早的伦理一神论
+## 导读：二元宇宙论的起源
 
-琐罗亚斯德教（Zoroastrianism / Mazdayasna，"崇拜智慧者"）由先知 Zarathushtra（希腊化 Zoroaster）于约前 1200 年在中亚东部草原创立，是**世界现存最早的、以伦理善恶二元为核心的一神论体系**（Boyce 1975）。Almut Hintze（2013）在 SOAS 奠基论文中将其定义为**"非对称二元一神论"（asymmetric dualistic monotheism）**：Ahura Mazda 是唯一至高、全善、造物主，其对手 Angra Mainyu 虽实存但非造物主、注定败亡。此框架深刻影响了后世犹太教流放期天使学、基督教撒旦学、伊斯兰末日论与摩尼教光暗二元。
+琐罗亚斯德神话是人类历史上第一个系统的**二元论**（dualism）宗教神话体系，诞生于公元前两千纪中叶的伊朗高原，由先知**琐罗亚斯德**（Zarathustra，又译查拉图斯特拉）在原有印伊宗教基础上改革创立。其核心是至高善神阿胡拉·马兹达与恶神安格拉·曼纽之间永恒的宇宙斗争，这种善恶对立的框架深刻塑造了后来的波斯文化，并通过文化传播影响了犹太教、基督教和摩尼教的宇宙观。
 
-## 二、文本双层：Avesta 与 Pahlavi
+与其他多神教神话不同，琐罗亚斯德神话从诞生起就带有强烈的**伦理性**：世界不是诸神任意意志的产物，而是善与恶两种原则斗争的舞台，人类作为自由的选择者，参与这场斗争并最终决定宇宙的命运。这种"道德选择决定论"在神话史上具有革命性意义（Hintze 2013）。
 
-Boyce（1984）Textual Sources 将文本分为两大历史层：
+现存的主要文献是《阿维斯塔》（*Avesta*），这是琐罗亚斯德教的圣典，其中最古老的部分《迦泰》（*Gathas*）被认为是琐罗亚斯德本人的说教。由于多次遭受战火和征服，许多经文已经散佚，现存的神话片段需要从不同文本层累中重构。
 
-- **Avesta 层**（古伊朗语，口传保存后 4-6 世纪写定）：
-  - *Gathas*（前 1200-1000）：Zoroaster 亲传 17 首赞美诗，语言最古
-  - *Yasna Haptanghaiti*（七章诵）：紧随 Gathas 的礼拜文
-  - *Yashts*（前 900-500）：21 篇献给 Yazatas 的赞歌
-  - *Vendidad/Vīdēvdāt*（"反鬼律法"）：反污染仪轨与神话
-  - *Visperad, Khorda Avesta*：礼拜辅助文本
-- **Pahlavi 层**（中古波斯语，8-10 世纪写定）：
-  - *Bundahišn*（"原初创造")：宇宙志与终末论纲要
-  - *Denkard*（"宗教活动之书"）：教义百科
-  - *Zand-i Wahman Yasn*：末日启示
-  - *Mēnōg-i Xrad*, *Ardā Wirāz Nāmag*（灵魂游历录）
+## 印伊宗教遗产与改革
 
-Stausberg（2008）综述指出，学界目前对 Gathas 的翻译仍在 Humbach 学派与 Kellens-Pirart 学派之间存在语言学分歧。
+琐罗亚斯德神话建立在**原始印度-伊朗宗教**基础上。与印度《梨俱吠陀》类似，原始伊朗宗教也区分了两类神祇：阿胡拉（*Ahura*，"主"）和提婆（*Daeva*，"神"）。但琐罗亚斯德完成了一次革命性反转：在印度，提婆成为正统神祇，阿胡拉沦为恶魔；而在伊朗，恰恰相反——阿胡拉保留神性，提婆被打成恶魔，这是最鲜明的分野（Moore 2008）。
 
-## 三、七位 Amesha Spentas：善造物的组织结构
+阿胡拉·马兹达（*Ahura Mazda*，"智慧之主"）被提升为唯一的至高创造者，所有其他善良的神灵都是他的**雅兹塔**（*Yazata*，"值得崇拜者"），协助他对抗黑暗。这种架构形成了"至尊一神+从神助手"的独特格局，被宗教学家称为"二元一元论"——既坚持阿胡拉·马兹达的唯一性，又保留了恶神作为独立的对抗原则（Hintze 2013）。
 
-Ahura Mazda 通过六位（含自身共七位）**Amesha Spentas（"圣不朽者"）**创造与维护善世界。George Foot Moore（2008 重印）与 Viviers 论文归纳：
+## 创世神话：光明创造与黑暗入侵
 
-| Amesha Spenta | 音译 | 含义 | 掌管物质 |
-|---|---|---|---|
-| Spenta Mainyu | 神圣灵 | 善灵，Ahura Mazda 自身 | 人 |
-| Vohu Manah | 沃胡·曼那 | 善思 | 牛 |
-| Asha Vahishta | 阿沙 | 至善秩序 | 火 |
-| Khshathra Vairya | 克萨特拉 | 理想王权 | 金属 |
-| Spenta Armaiti | 阿尔迈提 | 神圣虔敬 | 大地 |
-| Haurvatat | 豪尔瓦塔特 | 完整 | 水 |
-| Ameretat | 阿梅雷塔特 | 不朽 | 植物 |
+根据《雅斯纳》（*Yasna*）记载，阿胡拉·马兹达从无限光明中创造了物质世界，每一步创造都是为了对抗安格拉·曼纽可能的攻击：
 
-Hintze（2013）强调，这一"七圣+七物"结构使 Ahura Mazda 既保持一神论的至高性，又以拟人化机制介入创造，避免了纯粹抽象神学的空洞。
+1. 首先创造了**天空**（无形的光）
+2. 然后创造了**水**，带来洁净
+3. 接着创造了**大地**，提供居所
+4. 随后创造了**植物**，滋养生命
+5. 创造了**动物**，尤其是牛，象征善的生命
+6. 最后创造了**原人**盖约马尔丁（*Gayomard*），作为人类的始祖
 
-## 四、Yazatas：可敬拜者的中层神谱
+每创造一步，安格拉·曼纽都入侵进来，在善的创造中植入恶：创造水，他就带来干旱；创造植物，他就带来荆棘；创造牛，他就杀死它；创造原人，他就注入死亡。世界因此成为善恶交混的战场，这就是琐罗亚斯德对"为什么世界上有恶"问题的回答。
 
-在 Amesha Spentas 之下是**Yazatas（"值得敬拜者"）**，为数众多的中层神格，包括 Mithra（契约）、Anahita（水与生育）、Sraosha（听从）、Verethragna（胜利）、Tishtrya（天狼星与雨）、Atar（火）、Rashnu（正义）等。Boyce（1979）指出，多数 Yazatas 源自前 Zoroastrian 印伊多神传统，被 Zarathushtra 改革后**保留但从属于 Ahura Mazda**——这是理解祆教如何在一神框架下容纳丰富神话的关键机制。
+## 二元宇宙结构
 
-## 五、宇宙三千年历程说
+琐罗亚斯德神话的宇宙分为三层：
 
-Bundahišn（Agostini & Thrope 2020 英译）与 Zand-i Wahman Yasn 描绘了宏大的**四段三千年宇宙纪**：
+- **上界**：光明天国，阿胡拉·马兹达与众善神居所
+- **中界**：现世人类世界，善恶斗争的主要舞台
+- **下界**：黑暗深渊，安格拉·曼纽与众恶魔居所
 
-1. **前 3000 年 · Menog（灵态）**：Ahura Mazda 与 Angra Mainyu 在无限时空中隔离共存，Ahura Mazda 预知冲突
-2. **3000-6000 年 · Getig（物态）造化**：物质世界被创造为纯净状态
-3. **6000-9000 年 · Gumezishn（混合）**：Angra Mainyu 入侵，善恶交战期，人类历史所处
-4. **9000-12000 年 · Wizarishn（分离）**：Saoshyant 救世主降临，Frashokereti（更新）到来，恶被彻底击败
+世界有固定的时间周期：从创世到终结分为四个时期，每个时期三千年。在最后阶段，救世主**索希扬斯**（*Saoshyant*）将诞生，带领善战胜恶，进行**弗拉索凯雷提**（*Frashokereti*，"末日复兴"），世界将被净化，永生得以实现。这种线性时间观和末日救赎思想，与近东其他宗教影响深远（普慧 2016）。
 
-Azarnouche（2019 EPHE）指出，Bundahišn 24-36 章的这一叙事是**世界最早完整的线性历史观**，直接启发犹太-基督教末世论。
+## 核心神祇谱系
 
-## 六、Frashokereti：终末更新
+### 善神一方
+- **阿胡拉·马兹达**（Ahura Mazda）：至高智慧之主，光明与善的创造者
+- **阿梅沙·斯潘塔**（*Amesha Spentas*，"圣灵"）：六位抽象神格化的道德属性，协助马兹达治理世界
+- **雅兹塔**：众多自然与道德神，包括密特拉（Mithra，契约与太阳）、阿纳希塔（Anahita，水与丰饶）、斯劳沙（Sraosha，服从与听觉）等
+- **火**：阿胡拉·马兹达的儿子，善的象征，崇拜中心就是**圣火坛**
 
-**Frashokereti**（"使奇妙"，中古波斯 *frashkart*）指世界的最终更新：末世救世主 Saoshyant（Zoroaster 之童贞受孕后裔）复活死者，熔化的金属如温奶般流过义人身体、如火般烧过恶人，Angra Mainyu 与其死者军团被彻底击败，宇宙回归纯净 Getig 状态（Moazami 2000）。此终末景观是**基督教末日审判、伊斯兰复活日、摩尼教"大战"的直接原型**（Boyce 1984）。
+### 恶神一方
+- **安格拉·曼纽**（*Angra Mainyu*，"恶灵"）：一切罪恶、黑暗、死亡的源头
+- **德弗**（*Daevas*）：众恶魔，对应善神的雅兹塔，传播各种邪恶
+- **阿兹**（*Azi*）：贪婪恶魔，吞噬一切生命，象征欲望之恶
 
-## 七、火与仪式：无偶像崇拜的物质神学
+## 神话中的动物象征
 
-祆教不塑神像，**火（Atar）是 Asha 与 Ahura Mazda 的可见显现**（罗世平 2012）。三级圣火：
-- **Atash Behram（胜利之火）**：最高级，如印度 Udvada Iranshah 已燃烧 1200 年
-- **Atash Adaran（火寺之火）**：城镇级
-- **Atash Dadgah（家庭之火）**：家居级
+琐罗亚斯德神话中，**牛**具有特殊地位：原牛被恶魔杀死后，身体中诞生出各种植物和动物品种，其种子被月亮净化后继续繁衍，象征善的生命即使在死亡中也能延续创造。
 
-主要仪式包括：Yasna（每日礼拜诵 Avesta）、Navjote（入门）、Barashnom（净化）、以及著名的**Dakhma（寂静塔）**——将死者暴露给食尸鸟，避免污染水土火三大圣元素（张小贵 2008）。
+**犬**在神话中是守门者，负责把守**钦瓦特桥**（*Chinvat Bridge*，"审判之桥"），判断灵魂善恶，引导善者升天，把恶者拖入地狱。犬因此在琐罗亚斯德教仪式中占有重要地位。
 
-## 八、Angra Mainyu 与 Druj：恶的对称结构
+**狮**常作为阿胡拉·马兹达的坐骑或象征，代表力量和对黑暗的征服。翼狮是常见艺术造型，象征神圣王权与宗教权威的结合。
 
-Angra Mainyu（中古波斯 *Ahriman*）领导 Daevas（恶灵，与吠陀 Deva "神"同源但价值反转）与 Druj（"欺诈"）军团。Iman Habibi（2017）指出 **Angra Mainyu 是有记录的最古老"魔王"形象**，其阶层结构（Aeshma 愤怒 / Az 贪欲 / Nasu 尸污等）为后世犹太-基督教魔鬼学提供了直接模板。Dariush Rahiminia（2017）追踪 Ahriman 阴影从波斯神话到西方文化的传播链。
+## 中亚传播与变异
 
-## 九、跨文化谱系：从吠陀分化到丝路东传
+当琐罗亚斯德教向东传播到中亚粟特地区（今乌兹别克斯坦一带），与当地本土信仰结合，产生了显著变异。粟特琐罗亚斯德教更倾向于偶像崇拜，神像风格受到希腊化艺术影响，许多中国境内发现的祆教图像其实是粟特变体而非波斯本土样式（孙武军 2021）。
 
-- **印伊分化**：Ahura（伊朗善神类）↔ Asura（吠陀恶神类）；Daeva（伊朗恶灵）↔ Deva（吠陀神）——这一**价值反转**是印欧比较宗教学最著名案例（Boyce 1975）
-- **对犹太-基督教影响**：波斯统治时期（前 6-4 世纪）巴比伦犹太社区吸收二元论、天使学、末日审判、复活等观念
-- **摩尼教**：Mani（216-274）在萨珊帝国融合祆教、基督教、佛教，创光明-黑暗二元宗教
-- **罗马 Mithraism**：Mithra 神名西传，但密仪体系为罗马军团独立创制
-- **中亚粟特与中国祆教**：张小贵（2008）与罗世平（2012）论粟特商人东传，唐代长安洛阳设"祆祠"、"萨宝府"管辖
+在贵霜帝国时期，多种神祇融合，钱币上出现了许多希腊化的琐罗亚斯德神像，研究方法上存在"语言比对"和"图像比对"两种主要范式，个别神祇比定仍存在较大分歧（孙武军 2021）。
 
-## 十、Mythos Atlas 编者按
+## 对中国文明的影响
 
-**奠基作**：Mary Boyce《A History of Zoroastrianism》三卷（1975-1991）为学界最权威通史；Almut Hintze（2013）"Monotheism the Zoroastrian Way"确立"非对称二元一神论"框架。
+琐罗亚斯德教（中国称祆教、拜火教）在南北朝时期通过丝绸之路传入中国，在北朝隋唐时期留有多处考古遗存。太原北齐娄叡墓、虞弘墓等都出土了典型祆教图像，半人半鸟护火祭司形象是其标志性特征（张小贵 2016）。
 
-**最新研究**：Agostini & Thrope（2020）Oxford 版 Bundahišn 英译是 21 世纪最重要文本工程；Azarnouche（2019）法语宇宙志研究、Terribili（2022）Sraosha 与圣 Sergius 跨文化比较代表新兴方向。
+唐代长安、洛阳都设有祆祠，由萨宝府管理。祆教的善恶二元思想和圣火崇拜对中国民间宗教也产生了间接影响，许多摩尼教（明教）概念其实源自祆教。
 
-**一手文献**：Avesta 现存约 1/4 原始体量（Sasanian 21 部 nasks 大部散失），Pahlavi Bundahišn/Denkard 保存较完整。学界仍在完成 Corpus Avesticum Berolinense 数字版。
+## 跨文化谱系与比较
 
-**深度追踪**：伊朗 Yazd 火庙群、印度 Udvada Iranshah、Mumbai Parsi 社区、中国西安北周史君墓/安伽墓祆教石棺床均为核心遗存。
+### 与印度吠陀神话对比
+二者同源但走向相反：阿胡拉/提婆地位反转，反映了印伊人群分野后的宗教发展路径差异。印度保留了多神教架构，伊朗走向二元论改革。
 
-**神学地位**：琐罗亚斯德教作为**"轴心时代"（Karl Jaspers 语）之前的伦理突破**，其一神论、二元伦理、末世论、救世主、复活、审判等观念，已被证明是亚伯拉罕三教与摩尼教的共同源头之一。本词条作为伞形架构，四条子词条 Angra Mainyu / Mithra / Anahita / Sraosha 与既有 Ahura Mazda / Zoroaster 共同构成 Mythos Atlas 琐罗亚斯德体系第一阶段。
+### 与希腊罗马神话对比
+希腊罗马是多神论，没有绝对的善恶对立；而琐罗亚斯德将善恶提升为宇宙本体性对抗，这是根本性差异。
+
+### 与诺斯替/摩尼教对比
+摩尼教直接继承了琐罗亚斯德的二元框架，但将其推向极端：光明与黑暗是两个永恒共存的实体，而琐罗亚斯德认为光明终将战胜黑暗，终点是一元纯净。
+
+## 意义总结与学术地位
+
+琐罗亚斯德神话是印欧语系宗教中最独特的分支之一，它第一次将道德善恶提升为宇宙构成原则，开创了线性时间观和末世救赎论，对后来的许多世界性宗教都有不可忽视的影响。即使在今天，帕西人（印度波斯移民后裔）仍在传承这一神话传统。
+
+## Mythos Atlas 编者按
+
+本条目奠基性研究受益于**Boyd（1980）的经典综论**和**Hintze（2013）对一神论形态的重新界定**，中文研究方面孙武军（2021）系统回顾了贵霜图像研究的百年进展，张小贵（2016）纠正了中国考古图像的长期误读。当前研究热点集中在：①粟特变体与波斯本土的差异；②中国境内新考古材料的解读；③琐罗亚斯德对后世宗教影响的重新评估。
+
+未来需要进一步整合中亚考古新发现，重构更完整的神祇谱系演变路径。

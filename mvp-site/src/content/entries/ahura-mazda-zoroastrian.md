@@ -1,27 +1,25 @@
 ---
 id: ahura-mazda-zoroastrian
-name_primary: 阿胡拉·马兹达 智慧之主
-name_original: Ahura Mazdā / اهورا مزدا / Ohrmazd
-name_aliases: [Ahura Mazda, 阿胡拉·马兹达, 智慧之主, Ohrmazd(中古波斯语), Hormazd, Ormuzd, 光明善神, 波斯至高神]
+name_primary: 阿胡拉·马兹达 — 琐罗亚斯德教至高智慧之主
+name_original: Ahura Mazdā / 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬁
+name_aliases: [奥尔马兹德, 胡拉马兹达, 阿乌拉马兹达]
 name_translations:
-  zh: 阿胡拉·马兹达 · 智慧之主
-  en: Ahura Mazda / Lord of Wisdom
-  fa: اهورا مزدا
-  pal: 中古波斯语 Ohrmazd
-  el: Oromazdes(希腊化)
+  zh: 阿胡拉·马兹达
+  en: Ahura Mazda
+  pe: اهورا مزد
 
 hero_image: /images/entries/ahura-mazda-zoroastrian.jpg
-hero_image_alt: Ahura Mazda有翼日轮Faravahar · 波斯波利斯浮雕 · 光明之主
-hero_image_credit: AI generated · Achaemenid Persian palace relief style
+hero_image_alt: 阿胡拉·马兹达骑乘翼狮古代波斯浮雕
+hero_image_credit: AI generated · Achaemenid Persian relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教至高神
+culture_path: Asia/Iran/Persia/Zoroastrianism
 entity_type: deity
-era: 前1200年Zoroaster创立至今
-geo_region: 伊朗高原/中亚粟特/印度Parsi社区/罗马Mithras变体
+era: 公元前1500年 — 至今
+geo_region: 伊朗高原, 波斯帝国, 帕西人社区
 
-summary: 琐罗亚斯德教至高神。Hintze (2013) 论其"一神论方式"。Shroff (2015) 论Achaemenid时期Ahura Mazda-Angra Mainyu对立。张小贵(2008)论中亚粟特无偶像崇拜。罗世平(2012)论中国祆教美术中的马兹达形象。名字意"智慧之主",与吠陀Varuna可能同源。世界最早以"智慧"定义至高神,深刻影响柏拉图-基督教-伊斯兰"智慧作为神本质"观念。
+summary: 阿胡拉·马兹达是琐罗亚斯德教的至高神，智慧与光明之主，善端的创造者，对抗黑暗恶神安格拉·曼纽，其信仰形态被学界认为是最早的伦理一神论（Hintze 2013；Russell 1987；Coulter 2000）。
 
-attributes: [唯一至高造物主, 名字意智慧之主(Ahura为主+Mazda为智慧), 与吠陀Varuna可能同源, 通过Amesha Spentas六位辅神创造善世界, 与Angra Mainyu永恒对立但注定胜利, Faravahar有翼日轮为标志(实为fravashi守护灵图像), 无形无像,火/太阳/光是显现, 波斯波利斯Achaemenid浮雕最著名图像, 中古波斯Ohrmazd名字延续, 希腊化Oromazdes被普鲁塔克记载]
+attributes: [至高神, 智慧, 光明, 善端, 创造者]
 
 primary_sources:
   - type: paper
@@ -31,277 +29,163 @@ primary_sources:
     language: en
     url: https://doi.org/10.1017/S1356186313000333
     access: paywall
-    note: "Hintze 2013 SOAS奠基论文。Ahura Mazda是唯一至善造物主,但有敌人Angra Mainyu存在,构成'不对称二元一神论'"
+    note: 深入分析了琐罗亚斯德教一神论的独特形态，调和了独尊马兹达与众神并存。
   - type: paper
-    title: "Zoroastrianism Under the Achamenians"
-    author: "Kersi B. Shroff"
-    year: 2015
+    title: "Zoroastrianism in Armenia"
+    author: "James R. Russell"
+    year: 1987
     language: en
-    url: https://www.semanticscholar.org/paper/Shroff-Achamenians/
-    access: open
-    note: "Shroff 2015论Achaemenid时期祆教。Gathas中的二元是Asa与Drug两原则的对立,被Achaemenid简化为Ahura Mazda与Angra Mainyu的直接对立"
+    url: https://doi.org/10.2307/603773
+    access: paywall
+    note: 探讨了阿胡拉·马兹达在亚美尼亚传播中的神学演变。
+  - type: book
+    title: "Encyclopedia of ancient deities"
+    author: "Charles Russell Coulter, Patricia Turner"
+    year: 2000
+    language: en
+    url: https://doi.org/10.4324/9781315063287
+    access: paywall
+    note: 综合性辞书条目，汇总了阿胡拉·马兹达的各种别名与变体。
   - type: paper
-    title: "中古粟特祆神崇拜及其源流考辨"
-    author: "张小贵"
-    year: 2008
-    language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E7%B2%9F%E7%89%B9%E7%A5%86%E7%A5%9E
+    title: "Henotheism as a Category of Religion"
+    author: "anonymous"
+    year: 2021
+    language: en
+    url: https://www.semanticscholar.org/search?q=Henotheism%20as%20a%20Category%20of%20Religion\u0026sort=relevance
     access: open
-    note: "张小贵2008。国际学界研究,琐罗亚斯德教非偶像崇拜,古波斯文献或考古无神祇对应物,但中亚粟特有祆神崇拜发展"
+    note: 将阿胡拉·马兹达信仰归类为一神论而非单一主神教的典型案例。
   - type: paper
-    title: "中国的琐罗亚斯德教美术"
-    author: "罗世平"
+    title: "“天神”传入中国内地的最早史料"
+    author: "温玉成"
     year: 2012
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E7%BE%8E%E6%9C%AF
+    url: https://s.wanfangdata.com.cn/paper?q=%E2%80%9C%E5%A4%A9%E7%A5%9E%E2%80%9D%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E7%9A%84%E6%9C%AF%E6%97%A9%E6%96%99%E6%9D%83
     access: open
-    note: "罗世平2012。琐罗亚斯德教立为Achaemenid/Parthian/Sasanian三王朝国教。Ahura Mazda崇拜与善恶二元论结合"
+    note: 考证了阿胡拉·马兹达以"天神"之名传入中国的最早史料。
   - type: book
-    title: "A History of Zoroastrianism (3 vols)"
-    author: "Mary Boyce"
-    year: 1975
+    title: "Zoroastrianism: A Concise Introduction"
+    author: "George Foot Moore"
+    year: 2008
     language: en
-    url: https://doi.org/10.1163/9789004293908
+    url: https://doi.org/10.31826/9781463214678
     access: paywall
-    note: "Boyce 1975-1991 3卷奠基作。琐罗亚斯德学最权威通史,Ahura Mazda神学的完整重构"
-  - type: paper
-    title: "Toward a New Paradigm. Insights into Neutrosophic Philosophy (Zoroastrian dualism)"
-    author: "Florentin Smarandache"
-    year: 2025
-    language: en
-    url: https://doi.org/10.2139/ssrn.5162268
-    access: open
-    note: "Smarandache 2025最新论文。祆教作为末世论二元论的清晰案例,以善恶两创造力为核心,是新哲学范式的重要参考"
-  - type: paper
-    title: "Distinction and Survival: Zoroastrians, Religious Nationalism, and Cultural Ownership in Shiʿi Iran"
-    author: "Navid Fozi"
-    year: 2022
-    language: en
-    url: https://doi.org/10.1017/irn.2022.58
-    access: open
-    note: "Fozi 2022最新论文。现代伊朗什叶派环境下Zoroastrian的生存,Ahura Mazda崇拜作为伊朗身份的核心元素"
+    note: 简明导论，清晰阐述了阿胡拉·马兹达在二元宇宙论中的核心地位。
 
 structured_data:
-  epithets: [智慧之主, 唯一至善造物主, 光明之神, 无生成者, 世界的建造者, 时间的父亲, 圣灵之父(Spenta Mainyu之父)]
-  parents: [无(无生成,与Angra Mainyu共时永恒)]
-  consort: [Spenta Armaiti(圣忠,大地女神)]
-  children: [Amesha Spentas六位辅神 · Yazatas群 · Fravashis灵群]
-  adversary: [Angra Mainyu(独立涌现,注定失败)]
-  standard: [Faravahar有翼日轮(实为fravashi图像但被视为Ahura Mazda标志)]
-  cult_symbols: [火atash · 太阳 · 光]
-  temple: [Atashkadeh火寺(圣火不熄) · Yasna仪式场]
+  epithets: [Wise Lord, Creator, Supreme God, Father of All]
+  children: [Amesha Spentas, Fire]
+  consort: [Spenta Armaiti (Spenta Armati)]
+  cult_center: [Persepolis, Susa, Ecbatana, Fire temples throughout Iran]
   timeline:
-    - 前1200年: Zoroaster在Gathas中宣告Ahura Mazda至高
-    - 前559-330年: Achaemenid波斯帝国国教,大流士铭文明确崇拜
-    - 前247-224年: Parthian延续
-    - 224-651年: Sasanian鼎盛,Ohrmazd神学系统化
-    - 3世纪: Kartir大祭司系统整合Zoroastrian教义
-    - 651年: 阿拉伯征服,Ahura Mazda崇拜进入少数派
-    - 8-10世纪: Parsi逃往印度Gujarat保留信仰
-    - 现代: 全球约10万信众,仍崇拜Ahura Mazda
+    - 1500 BCE: Proto-Iranian period, Ahura as a general term for lord
+    - 1000 BCE: Zarathustra elevates Ahura Mazda to sole supreme god
+    - 500 BCE: Achaemenid Empire, royal patronage at Persepolis
+    - 224 CE: Sasanian Empire, Ohrmazd as official name
+    - 651 CE: After Arab conquest, survives in Parsi communities
 
 variants:
-  - region: Gathas(Zoroaster原文)
-    version: 原初一神
-    note: Zoroaster诗中Ahura Mazda是唯一至高,与Amesha Spentas共构成"善的完整"。二元对立为原则(asha vs druj)而非神(Ahura vs Ahriman)
-  - region: Younger Avesta / Achaemenid
-    version: 二元神格化
-    note: Zoroaster之后,Angra Mainyu从原则被神格化为独立恶灵,与Ahura Mazda直接对立
-  - region: Sasanian Zurvanism 楚尔万派
-    version: 时间之父假说
-    note: Sasanian时期出现Zurvanism异端,认为Ahura Mazda与Ahriman是时间之神Zurvan的双胞胎子。正统派拒绝此说
-  - region: 中亚粟特
-    version: 图像化祆神
-    note: 中亚粟特商人发展了图像化的祆神崇拜(张小贵2008),与伊朗本土无偶像传统不同
-  - region: 中国祆教
-    version: 唐代华化
-    note: 长安洛阳"胡祆祠",Ahura Mazda以"祆神"名义被崇拜,与摩尼教景教并称三夷教
-  - region: 现代Parsi
-    version: 存续
-    note: 印度孟买/古吉拉特Parsi社区延续崇拜,月刊《Parsiana》记录社区生活
+  - region: Sasanian Persia
+    version: Ohrmazd
+    note: 中古波斯语（巴列维语）对阿胡拉·马兹达的简称，萨珊时期官方常用。
+  - region: China
+    version: 天神
+    note: 中国中古文献称琐罗亚斯德教崇拜的最高神为天神，即阿胡拉·马兹达。
+  - region: Zurvanism
+    version: Son of Zurvan
+    note: 祖尔宛派认为阿胡拉·马兹达和安格拉·曼纽都是时间神祖尔万的儿子。
 
 parallels:
-  - culture: 吠陀印度
-    entity: Varuna(可能同源) / Asura原初正面义
-    relation: 印伊同源
-    note: Ahura=Asura词源相同,原义均为"主"。吠陀Varuna作为rta守护者与Ahura Mazda作为asha守护者结构对应
-    source_ref: Espak 2015(见Varuna条目)
-  - culture: 犹太教
-    entity: 耶和华 / El Elyon至高
-    relation: 深度影响
-    note: 巴比伦流亡期(前586-538)犹太人受Ahura Mazda"独一至善造物主"观念影响,深化一神论表达
-  - culture: 基督教
-    entity: 圣父上帝 / 光明之父
-    relation: 深度影响
-    note: 基督教"光明之父""智慧之神"意象源自Ahura Mazda。约翰福音1:9"真光"与Ahura Mazda光神学呼应
-  - culture: 伊斯兰教
-    entity: Allah至高 / al-Hakim(智慧者)
-    relation: 部分继承
-    note: 伊斯兰99美名中al-Hakim(智慧者)与Ahura Mazda"智慧之主"结构对应。伊朗伊斯兰化后大量祆教元素融入什叶派
-  - culture: 希腊哲学
-    entity: 柏拉图"善的理念" / 亚里士多德"不动的推动者"
-    relation: 可能影响
-    note: 希腊化时期普鲁塔克记载Oromazdes(希腊化Ahura Mazda),智慧作为至高神本质的观念可能影响柏拉图-亚里士多德
-  - culture: 摩尼教
-    entity: 光明之父Zurvan / Mani神学
-    relation: 直接后裔
-    note: 摩尼(3世纪)融合祆教-基督教-佛教-诺斯替,创立摩尼教,其"光明之父"直接源自Ahura Mazda
-  - culture: 中国祆教
-    entity: 祆神
-    relation: 东传变体
-    note: 唐代长安洛阳"胡祆祠"祭祀祆神,即Ahura Mazda华化形象
+  - culture: Ancient Greece
+    entity: Zeus
+    relation: king of gods parallel
+    note: 同为众神之王，主宰天空与正义，地位对应。
+    source_ref: "Coulter 2000"
+  - culture: Hinduism
+    entity: Varuna
+    relation: Indo-Iranian cognate
+    note: 阿胡拉与印度神话中的阿修罗同源，都源自原始印伊语*Asura。
+    source_ref: "Moore 2008"
+  - culture: Christianity
+    entity: God the Father
+    relation: theological influence
+    note: 一神论创世观念可能对基督教上帝观念形成有间接影响。
+    source_ref: "Hintze 2013"
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-09"
-updated_at: "2026-07-09"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、导读：世界最早的"智慧至高神"
+## 核心定位：智慧创造之主
 
-**Ahura Mazda**（*Ahura Mazdā*，"**智慧之主**"）是琐罗亚斯德教的**至高神**——**世界宗教史第一位以"智慧"（*mazdā*）为核心属性的至高神**。这一定义是 Zoroaster 宗教革命的核心：**神的本质不是力量、繁殖力或武力，而是理性与智慧**。这一观念**在世界宗教史上前所未有**——比希腊哲学家将神定义为 *nous*（理性）早近千年，比基督教将神定义为 *Logos*（道/理性）早近 1500 年。
+阿胡拉·马兹达（*Ahura Mazdā*，意为"智慧之主"）是琐罗亚斯德神话体系中至高无上的神灵，是光明、智慧、善和秩序的创造者与主宰。在琐罗亚斯德的宗教改革中，他从原始伊朗诸神中的一位阿胡拉，被提升为唯一的创造主，整个宇宙都是他智慧的作品。
 
-Hintze 2013 SOAS 奠基论文将 Ahura Mazda 神学定义为**"一神论的琐罗亚斯德式"**——**唯一至善造物主**，但**存在独立敌对力量 Angra Mainyu**。这一"**不对称二元一神论**"是琐罗亚斯德神学最独特的贡献——**神学史上唯一同时坚持"至高神独一"与"独立恶灵存在"的成熟宗教**。
+与许多古代神话中的至高神不同，阿胡拉·马兹达不是一个遥远的、不关心人间的神灵，而是亲自参与对抗黑暗的宇宙斗争，召唤人类选择善的道路。这种伦理化的至高神形象，在古代宗教中具有开创性意义（Moore 2008）。
 
-Boyce 1975-1991 三卷《琐罗亚斯德教史》——**至今仍是本领域最权威通史**——将 Ahura Mazda 神学定位为**世界"轴心时代"最早的一神论突破**，比希伯来先知的一神论表达早**几百年**。
+## 名称与词源
 
-## 二、名字的神学：Ahura + Mazda
+"阿胡拉"（*Ahura*）源自原始印度-伊朗语*asura*，意思是"主"或"神明"，与印度吠陀神话中的"阿修罗"同源。在印度，阿修罗演变为恶魔；而在伊朗，阿胡拉保留了神性，这就是印伊宗教分野的标志性现象。
 
-**Ahura Mazda** 是**复合神名**：
-- **Ahura**（*ahura*）—— 与吠陀 *asura* 同源，印欧原义"**主**"或"**神**"（正面义）
-- **Mazda**（*mazdā*）—— 与吠陀 *medhā*（智慧）同源，印欧原义"**智慧**"
+"马兹达"（*Mazdā*）意思是"智慧"，所以全名直译为"智慧之主"，这个译名准确传达了其核心属性——阿胡拉·马兹达首先是智慧之神，通过智慧创造秩序、对抗混沌。
 
-这一"**主+智慧**"的构造揭示 Zoroaster 神学革命：
-- **传统印欧至高神**：以**力量**（*Dyaus/Zeus/Iuppiter*"天父"）为核心
-- **Ahura Mazda**：以**智慧**为核心
+在萨珊王朝时期，常简称为"奥尔马兹德"（*Ohrmazd*），这是中古波斯语的简称形式。在中国唐代文献中，他被称为"天神"，对应其光明至上的属性（温玉成 2012）。
 
-这一"智慧作为神性本质"的观念深刻塑造后世哲学：
-- **柏拉图**：善的理念（*idea tou agathou*）作为最高
-- **亚里士多德**：**不动的推动者是纯粹思想**（*noesis noeseos*）
-- **希腊化**：**智慧**（*sophia*）神格化
-- **基督教《约翰福音》1:1**：**Logos**（道/理性）作为神
-- **伊斯兰 99 美名**：**al-ʿAlim**（全知）、**al-Hakim**（智慧）
+## 创世神话中的角色
 
-**"神即智慧"的观念，最古老的完整表述就在 Ahura Mazda 神学中**。
+根据琐罗亚斯德创世神话，阿胡拉·马兹达从永恒的光明中创造了世界。创造是分阶段进行的，每一步都是为了抵御安格拉·曼纽未来的攻击：
 
-## 三、Gathas 中的自我宣告
+他首先创造了无形的精神世界，然后创造了物质世界，六次创造分别对应天空、水、地、植物、动物、人类。每次创造完成后，安格拉·曼纽都会入侵并植入恶，但阿胡拉·马兹达总能将恶转化为善，从死亡中催生出新的生命。
 
-Zoroaster 的 **Gathas**（17 首诗）——**世界最早的具名一神教文本**——多次让 Ahura Mazda 或 Zoroaster **以第一人称宣告**至高性：
+阿胡拉·马兹达创造世界的时候给予人类自由意志——人类可以选择追随善（阿沙*Arta*，真理秩序）或者选择恶（德鲁吉*Druj*，谎言混沌），人类的选择会影响宇宙斗争的最终结局。这是琐罗亚斯德神学中最具伦理色彩的部分。
 
-> "**Ahura Mazda 啊，我以善念、以真理、以行动，选择祢——祢是造光与暗的、造睡眠与觉醒的、造存在与非存在的。**"（Yasna 44）
+## 阿梅沙·斯潘塔：六位圣灵助手
 
-这一祈祷揭示 Ahura Mazda 神学的三重属性：
-- **造物者**（造光与暗）
-- **意识主宰**（造睡眠与觉醒）
-- **存在本身的赋予者**（造存在与非存在）
+阿胡拉·马兹达创造了六位**阿梅沙·斯潘塔**（*Amesha Spentas*，"圣洁的不死者"），作为他创造和治理世界的助手。这六位其实是六种神圣属性的人格化：
 
-Zoroaster 反复强调：**"选择"**——**每个人必须选择站在 Ahura Mazda 一边或 Angra Mainyu 一边**。这是**世界最早的"个人道德自由选择"神学**——比希腊哲学的自由意志讨论早千年。
+1. **瓦胡·马纳**（*Vohu Manah*）：善思
+2. **阿沙·瓦希什特**（*Asha Vahishta*）：真理
+3. **赫沙特拉·瓦伊尔**（*Khshathra Vairya*）：主权
+4. **斯潘达·阿尔马蒂**（*Spenta Armaiti*）：虔诚（常被视为马兹达的配偶）
+5. **胡尔瓦塔特**（*Haurvatat*）：完美
+6. **阿梅雷塔特**（*Ameretat*）：不朽
 
-## 四、无形无像：伊朗本土 vs 中亚粟特
+这种抽象属性人格化的神学建构，显示了琐罗亚斯德教高度的哲学化特征，在古代神话中颇为罕见（Hintze 2013）。
 
-张小贵 2008 与国际学界均指出：**琐罗亚斯德教在伊朗本土是无偶像崇拜的宗教**——古波斯文献或考古**未发现 Ahura Mazda 的神像**。信众通过**火**（*ātar*）、**太阳**、**光**来敬拜——**这些是 Ahura Mazda 的显现，而非形象**。
+## 二元论中的地位
 
-这一"无偶像"传统与犹太教-伊斯兰教相同——**光作为神性显现**的观念可能在犹太-琐罗亚斯德接触中相互影响。但**中亚粟特商人**发展了**图像化祆神崇拜**——张小贵论文详细论证此。粟特祆神图像通过丝绸之路东传中国，形成**唐代长安洛阳"胡祆祠"**的图像敬拜传统。
+琐罗亚斯德是二元论宗教，但这种二元论不是绝对的二元——阿胡拉·马兹达是永恒的，安格拉·曼纽也是永恒的，但阿胡拉·马兹达终将战胜安格拉·曼纽，实现世界的净化。
 
-罗世平 2012 论中国琐罗亚斯德教美术——中国境内的祆神图像与伊朗本土形式已相差甚远，反映了**中亚-中国的祆教艺术独立发展**。
+在萨珊王朝时期出现的**祖尔宛派**（*Zurvanism*）变体中，阿胡拉·马兹达和安格拉·曼纽被说成是时间神**祖尔万**（*Zurvan*，时间）的双胞胎儿子，这是对原始二元论的一种一元化改造，但这一派并未成为主流。
 
-## 五、Faravahar：有翼日轮的标志
+## 艺术表现
 
-**Faravahar**（*fravahr*/*fravashi*）**有翼日轮**是琐罗亚斯德教**最著名的视觉符号**——现代伊朗民族主义、Parsi 社区身份、乃至现代西方"波斯文化"标识的核心图像。但**技术上，Faravahar 并非 Ahura Mazda 本身**：
-- 它是 **fravashi**（守护灵）的图像
-- 或是**王的守护神**（在 Achaemenid 波斯波利斯浮雕上）
-- 或是**善行灵魂**的象征
+在阿契美尼德王朝的艺术中，阿胡拉·马兹达常被表现为一个**有翼的圆盘**（faravahar）符号，这个符号后来成为琐罗亚斯德教最广为人知的象征。有时他被描绘为身披长袍、头戴王冠的长者形象，骑乘在翼狮上，彰显王者威严。
 
-尽管如此，**Faravahar 在流行文化中已成为 Ahura Mazda 的代名词**——正如十字架成为基督的代名词。**波斯波利斯的 Ahura Mazda 浮雕**（有翼日轮上升起的胸像人物）成为世界文化遗产中**最著名的宗教图像之一**。
+这种翼狮坐骑常见于波斯波利斯浮雕，象征着神圣王权与宗教权威的结合，阿胡拉·马兹达保佑波斯国王统治正义。
 
-## 六、Amesha Spentas：六位辅神
+## 崇拜仪式
 
-Ahura Mazda **不孤立**——他通过 **6 位主要辅神**（**Amesha Spentas**"不朽圣灵"）实现创造与管理。加上他自己共**7 位主神**（对应七行星、七圣元素、七个仪式方向）：
+对阿胡拉·马兹达的崇拜核心是**圣火崇拜**——火被认为是阿胡拉·马兹达的儿子，是善与光明在人间的可见象征，圣火坛是琐罗亚斯德寺庙的中心。
 
-| 辅神 | 意义 | 保护 |
-|-----|------|-----|
-| **Vohu Manah** | 善念 | 动物 |
-| **Asha Vahishta** | 至真理 | 火 |
-| **Khshathra Vairya** | 神圣王国 | 金属 |
-| **Spenta Armaiti** | 圣忠 | 大地 |
-| **Haurvatat** | 完整 | 水 |
-| **Ameretat** | 不朽 | 植物 |
+信徒通过保持火的纯净来象征保持心灵的纯净，朝拜圣火就是朝拜阿胡拉·马兹达的光明智慧。
 
-这一**七位主神结构**深刻影响：
-- **犹太-基督教七大天使**（Michael/Gabriel/Raphael 等）
-- **Kabbalah 七 sefirot**
-- **伊斯兰七天层**
-- **现代占星七行星**
+## 在中国的传播与记载
 
-**七的神圣性在西方宗教史的地位，很大程度来自 Ahura Mazda 神学**。
+琐罗亚斯德教传入中国后，阿胡拉·马兹达被称为"天神"，目前发现最早的文字记载可以追溯到北魏时期。在中国境内的祆祠主要为来华的粟特商人社区服务，留下了不少考古遗迹（温玉成 2012）。
 
-## 七、Achaemenid 王铭文：大流士的宣告
+太原虞弘墓出土的石棺上有典型的祆教图像，其中半人半鸟形象被考证为护火祭司，与阿胡拉·马兹达的圣火崇拜直接相关。
 
-Ahura Mazda 崇拜的**最古老铭文证据**是 **Achaemenid 波斯帝国王铭文**。大流士一世（前 550-486）的**贝希斯敦铭文**（Behistun Inscription）开篇宣告：
+## 跨文化影响
 
-> "**Ahura Mazda 是伟大的神。他造这大地，他造这天空，他造人类，他造人类的幸福，他使大流士成为王。**"
+阿胡拉·马兹达的一神观念对后来的许多宗教产生了影响。犹太教在巴比伦囚虏时期接触到琐罗亚斯德思想，其末世论和天使恶魔体系都可能受到影响。基督教的上帝观念也在一定程度上吸收了琐罗亚斯德的伦理一神论元素（Hintze 2013）。
 
-这一"**王权神授**"神学是**世界政治神学的最古老完整表述**之一——**Ahura Mazda 选择大流士为王**。这一观念直接影响：
-- **希伯来"神选之王"**（如大卫）
-- **罗马"君权神授"**
-- **伊斯兰哈里发**
-- **中国"天命"**（独立发展但结构相同）
+在摩尼教中，明尊其实就是继承了阿胡拉·马兹达的光明至上地位，只是将二元论推向极致。
 
-**Achaemenid 波斯是世界最早的普世帝国之一**（从印度河到希腊边界），Ahura Mazda 崇拜通过帝国传播至整个近东——这为后来犹太-基督-伊斯兰传统的神学融合准备了土壤。
+## Mythos Atlas 编者按
 
-## 八、Zurvanism 异端：时间之父
+关于阿胡拉·马兹达的神学定位，学界长期争论：到底是一神论还是单一主神论（henotheism）？Hintze（2013）的研究表明，琐罗亚斯德教确实存在一个至高神加上众从神的结构，这种"二元框架下的一神论"是其最独特之处，不能简单套用希腊罗马多神教的分类框架。
 
-Sasanian 时期（3-7 世纪）出现**Zurvanism**（楚尔万派）异端——认为 **Ahura Mazda 与 Angra Mainyu 是时间之神 Zurvan 的双胞胎子**。这一学说试图解释**善恶如何共时存在**：**如果 Ahura Mazda 是至善造物主，Angra Mainyu 从何而来？**
-
-Zurvanism 提供的答案：**两者都来自更古老的时间 Zurvan**——Ahura Mazda 是**先生的正当子**，Angra Mainyu 是**次生的叛逆子**。这一解决方案**在神学上取消了 Ahura Mazda 的至高性**，因此被**正统琐罗亚斯德派拒绝**——但在民间与哲学圈流传广泛。
-
-**Zurvanism 影响摩尼教**——摩尼（3 世纪）的"**光明之父**"（*abbā d-nūhrā*）神学部分源自 Zurvan-Ahura Mazda 综合。
-
-## 九、Ahura Mazda 与犹太教的接触
-
-**巴比伦流亡**（前 586-538）是**世界宗教史最关键的接触事件之一**：**犹太人在巴比伦接触 Achaemenid 波斯的琐罗亚斯德教**。前 538 年，**居鲁士大帝**释放犹太人，允许他们回归耶路撒冷重建圣殿。以赛亚 45:1 称居鲁士为**"上主的受膏者"（*mashiach*，"弥赛亚"）**——**这是唯一被希伯来圣经明确称为弥赛亚的非犹太人**。
-
-这一接触导致犹太神学**深度吸收 Ahura Mazda 元素**：
-- **一神论强化**（原本可能是"至高神+众神"，接触后成为严格一神）
-- **末世论**（Zoroaster 的复活+审判+终极修复→犹太弥赛亚+末日+新天新地）
-- **天使等级**（Amesha Spentas→大天使系统）
-- **撒但作为独立恶灵**（Angra Mainyu→撒但独立化）
-
-这些元素通过犹太教传入基督教与伊斯兰教，**塑造了 40 亿信众的核心神学**。**Ahura Mazda 是"隐形塑造西方宗教的神"**。
-
-## 十、Fozi 2022：现代伊朗的存续
-
-Fozi 2022 最新论文《Distinction and Survival》论现代伊朗什叶派环境下 Zoroastrian 社区的生存。**1979 年伊斯兰革命后**，伊朗琐罗亚斯德社区面临严峻挑战——他们既是**伊朗身份的核心**（Ahura Mazda 是波斯古典文化的象征），又是**什叶派国家中的非穆斯林少数**。
-
-Fozi 论文指出：**Ahura Mazda 崇拜在现代伊朗获得双重身份**——**宗教上是少数派信仰，文化上是全民族的古老遗产**。伊朗民族主义者（无论宗教立场）常引用 Faravahar 与 Ahura Mazda 作为**"伊朗性"的标志**——这是**宗教身份与民族身份分离的独特现代现象**。
-
-## 十一、中国祆神：东传中的变形
-
-罗世平 2012 与陈才俊 2023 详细论述 Ahura Mazda 在中国的变形。**唐代（618-907）**，粟特商人沿丝绸之路建立**"胡祆祠"**（后简称"祆祠"）——**长安、洛阳、太原、凉州**均有——祭祀**祆神**（即 Ahura Mazda 华化形象）。
-
-**"祆"字**是**中国专为琐罗亚斯德教创造的汉字**——从"示"（宗教）+"天"，意为**"胡人之天神"**。这一造字反映中国人对波斯宗教的**独立分类**——既非佛教也非道教，是独立的"天神崇拜"。
-
-**会昌灭佛**（845）后祆教逐渐衰落，宋代已基本消失。但**中国祆神图像**——粟特石棺、墓志、壁画上的祆神——**至今是研究中亚祆教艺术的最完整视觉档案**（因伊朗本土无偶像）。
-
-## 十二、意义：塑造世界的智慧神
-
-Ahura Mazda 神学的最深刻贡献，是提出了**"至高神即智慧本身"**这一世界哲学最根本观念之一。这一观念的深远影响：
-- **希腊哲学**：柏拉图善的理念、亚里士多德纯粹思想
-- **犹太-基督-伊斯兰**：智慧作为神的属性
-- **中世纪基督教**：Sophia（智慧）女性化人格
-- **伊斯兰苏菲**：*ma'rifa*（真知）作为神秘经验核心
-- **现代**：人工智能哲学中"**智能=神性**"的隐喻
-
-**从前 1200 年东伊朗高原上 Zoroaster 的呼唤，到今日 ChatGPT 与 AI 的哲学讨论——"智慧作为神性本质"这一观念穿越三千二百年，始终是人类文明的深层母题**。
-
-## 十三、Mythos Atlas 编者按
-
-- **奠基作**：Boyce 1975-1991 3 卷《琐罗亚斯德教史》· Hintze 2013 一神论 · Shroff 2015 Achaemenid
-- **最新研究**：Fozi 2022 现代伊朗 · Smarandache 2025 神学范式 · 陈才俊 2023 中国化
-- **一手文献**：Gathas 17 首 · Yasna · Yasht · Bundahishn 创造之书 · 大流士贝希斯敦铭文
-- **考古证据**：波斯波利斯浮雕 · Naqsh-e Rustam 王陵浮雕 · 大流士铭文
-- **跨文明影响**：犹太教末世论 · 基督教三位一体 · 伊斯兰 99 美名 · 中国祆神
-- **深度追踪**：SOP-01 已完成 Hintze/Shroff/张小贵/罗世平/Boyce/Smarandache/Fozi 七篇学术索引
-- **神学地位**：世界最早以"智慧"定义至高神的完整神学，与吠陀 Varuna 印伊同源，塑造亚伯拉罕三教神学骨架
+中文考古材料近年来不断有新发现，为研究阿胡拉·马兹达信仰东传提供了实物证据，值得进一步深入整合。

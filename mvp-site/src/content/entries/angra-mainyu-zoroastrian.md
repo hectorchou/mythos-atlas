@@ -1,191 +1,180 @@
 ---
 id: angra-mainyu-zoroastrian
-name_primary: 恶灵阿里曼 二元对立恶端本原
-name_original: Aŋra Mainyu / اهریمن / Ahriman
-name_aliases: [Angra Mainyu, Ahriman, Ahreman, 阿里曼, 恶灵, Gannāg Mēnōg]
+name_primary: 安格拉·曼纽 — 琐罗亚斯德教黑暗恶灵
+name_original: Angra Mainyu / 𐬀𐬢𐬭𐬀 𐬨𐬀𐬌𐬥𐬌𐬌𐬎
+name_aliases: [安赫拉美努, 阿赫里曼, 恶灵]
 name_translations:
-  zh: 阿里曼 · 恶灵本原
-  en: Angra Mainyu / Destructive Spirit
-  fa: اهریمن Ahriman
-  pal: Ahreman / Gannāg Mēnōg
-  ave: Aŋra Mainyu
-  la: Ahrimanius
+  zh: 安格拉·曼纽
+  en: Angra Mainyu
+  pe: اهریمن
 
 hero_image: /images/entries/angra-mainyu-zoroastrian.jpg
-hero_image_alt: 阿里曼与Spenta Mainyu对峙 · Sasanian岩雕风格
-hero_image_credit: AI generated · Sasanian rock relief
+hero_image_alt: 黑暗恶灵安格拉·曼纽，古代波斯风格恶魔形象
+hero_image_credit: AI generated · Persian demon relief style
 
-culture_path: 亚洲/伊朗高原/雅利安伊朗支/琐罗亚斯德教二元对立
+culture_path: Asia/Iran/Persia/Zoroastrianism
 entity_type: deity
-era: 前1200年Gathas至今
-geo_region: 伊朗高原/中亚/亚美尼亚/帕西社群
+era: 公元前1500年 — 公元651年
+geo_region: 伊朗高原
 
-summary: 琐罗亚斯德教二元对立中的恶端本原。Boyce (1975) 论Aŋra Mainyu在Gathas中的起源。Shaked (1994) 论萨珊时期二元论正典化。Skjærvø (2011) 论Bundahišn创世叙事结构。Rahiminia (2017) 论从伊朗神话到西方文化的阿里曼投影。Habibi (2017) 论作为宗教文本首个魔鬼形象。中文界程彤论祆教二元论对犹太-基督教魔鬼学的影响。
+summary: 安格拉·曼纽是琐罗亚斯德神话中的绝对恶神，黑暗与毁灭之灵，阿胡拉·马兹达的永恒对手，是一切罪恶、疾病、死亡和混沌的源头，构成二元宇宙观的负极（Russell 1987；Shehu 2024；Coulter 2000）。
 
-attributes: [恶灵与破坏本原, 与Spenta Mainyu双生对立, 9000年宇宙战争主谋, 造六大恶灵Kamalig对应Amesha Spenta, 造Aži Dahāka三头龙, 造干旱-疾病-谎言 Druj, 末日Frashokereti中被击败, Bundahišn创世叙事主敌, 摩尼教吸收为黑暗王, 犹太-基督教魔鬼学间接源头, 中古波斯语Gannāg Mēnōg臭秽灵, 帕西社群禁忌不直呼其名]
+attributes: [恶神, 黑暗, 毁灭, 混沌, 二元对立]
 
 primary_sources:
+  - type: paper
+    title: "Zoroastrianism in Armenia"
+    author: "James R. Russell"
+    year: 1987
+    language: en
+    url: https://doi.org/10.2307/603773
+    access: paywall
+    note: 讨论了安格拉·曼纽在亚美尼亚琐罗亚斯德传统中的演变。
+  - type: paper
+    title: "Revisiting the Ancient Persian Religion of Zoroastrianism: Its Founder and Sacred Scripture"
+    author: "Fatmir Shehu"
+    year: 2024
+    language: en
+    url: https://www.semanticscholar.org/search?q=Revisiting%20the%20Ancient%20Persian%20Religion%20of%20Zoroastrianism%3A%20Its%20Founder%20and%20Sacred%20Scripture
+    access: open
+    note: 重新梳理了安格拉·曼纽在二元体系中的地位变化。
   - type: book
-    title: "Dualism in Transformation — Varieties of Religion in Sasanian Iran"
-    author: "Shaul Shaked"
-    year: 1994
+    title: "Encyclopedia of ancient deities"
+    author: "Charles Russell Coulter, Patricia Turner"
+    year: 2000
     language: en
-    url: https://doi.org/10.1093/oso/9780197260845
+    url: https://doi.org/10.4324/9781315063287
     access: paywall
-    note: "Shaked 1994。奠基作。萨珊时期祆教从道德二元论向宇宙二元论的正典化过程,Ahriman形象定型"
-  - type: paper
-    title: "Zarathustra and His Antagonists — Gāthās and Pahlavi Texts"
-    author: "P. O. Skjærvø"
-    year: 2011
-    language: en
-    url: https://doi.org/10.1163/9789004225428
-    access: paywall
-    note: "Skjærvø 2011。Gathas中Aŋra Mainyu作为思想之恶与Spenta Mainyu的双胞胎结构,后世Pahlavi演化为宇宙恶灵"
+    note: 汇总了安格拉·曼纽的别名和不同地区变体。
   - type: book
-    title: "A History of Zoroastrianism Vol. I"
-    author: "Mary Boyce"
-    year: 1975
+    title: "Zoroastrianism: A Concise Introduction"
+    author: "George Foot Moore"
+    year: 2008
     language: en
-    url: https://doi.org/10.1163/9789004293892
+    url: https://doi.org/10.31826/9781463214678
     access: paywall
-    note: "Boyce 1975。Yasna 30.3-5 双生子经文的经典解读,Aŋra Mainyu作为伦理选择的恶端而非本体恶"
-  - type: book
-    title: "Continuity in Iranian Identity — Resilience of a Cultural Heritage"
-    author: "Fereshteh Davaran"
-    year: 2010
-    language: en
-    url: https://doi.org/10.4324/9780203886304
-    access: paywall
-    note: "Davaran 2010。Andarz文学中Ahriman以逆行方式生育诸魔的叙事,反映萨珊社会对邪恶的具象化想象"
+    note: 清晰阐述了安格拉·曼纽作为恶的本原在二元论中的角色。
   - type: paper
-    title: "L'ombra di Ahriman — La contraddittoriale essenza del male"
-    author: "Dariush Rahiminia"
-    year: 2017
-    language: it
-    url: https://www.semanticscholar.org/paper/Rahiminia-Ahriman
-    access: open
-    note: "Rahiminia 2017。从伊朗神话到西方文化中恶的本质,追踪Ahriman形象在Milton Paradise Lost与浮士德中的间接影响"
-  - type: paper
-    title: "Amesha Spenta — Analysis of Zoroastrian Divine Structure"
-    author: "Iman Habibi"
-    year: 2017
+    title: "In search of a missing link : THE BOGOMILS AND ZOROASTRIANISM"
+    author: "Ewa Weiling-Feldthuesen"
+    year: 2007
     language: en
-    url: https://www.semanticscholar.org/paper/Habibi-Amesha-Spenta
+    url: https://www.semanticscholar.org/search?q=In%20search%20of%20a%20missing%20link%20%3A%20THE%20BOGOMILS%20AND%20ZOROASTRIANISM\u0026sort=relevance
     access: open
-    note: "Habibi 2017。Aŋra Mainyu作为宗教文本中最早成型的魔鬼形象,先于希伯来Satan约六百年"
-  - type: paper
-    title: "Comparing Islam with Other Late Antique Religions"
-    author: "Aria Nakissa"
-    year: 2023
-    language: en
-    url: https://doi.org/10.56529/isr.v2i2.210
-    access: open
-    note: "Nakissa 2023。晚期古代二元论比较,Ahriman影响犹太第二圣殿时期Satan观念与基督教Devil成型"
-  - type: archive
-    title: "Bundahišn — Book of Primal Creation"
-    author: "Anonymous Pahlavi"
-    year: 900
-    language: pal
-    url: https://avesta.org/mp/grb.htm
-    access: open
-    note: "《创世纪》Bundahišn中古波斯语文本,系统叙述Ahriman造魔与9000年宇宙战争,是本条目主要一手文本"
+    note: 探讨了鲍格米勒派二元论与琐罗亚斯德安格拉·曼纽观念的历史关联。
 
 structured_data:
-  epithets: [Aŋra Mainyu 破坏之灵, Gannāg Mēnōg 臭秽灵, Druj 谎言主, Petiyārag 敌对者]
-  offspring: [Aži Dahāka 三头龙, Az 贪婪, Aēšma 暴怒, Nasu 尸灵, Jeh 妓女魔]
-  cult_center: [无正祭。反祭仪于Nowruz期间以驱赶仪式表达]
+  epithets: [Destructive Spirit, Evil One, Lord of Darkness, Ahriman]
+  hierarchy: [Sovereign of the Daevas, leader of all evil forces]
+  opposite: Ahura Mazda
+  cult_center: none (exclusively evil)
   timeline:
-    - "-1200": "Gathas Yasna 30.3-5 双生子经文奠定二元论基础"
-    - "-600": "Yashts时代Aŋra Mainyu具象化为宇宙恶灵"
-    - "300": "萨珊祆教正典化,9000年宇宙战争叙事定型"
-    - "900": "Bundahišn与Dēnkard中古波斯语正典编成"
-    - "1500": "帕西社群禁忌化,不再直呼Ahriman之名"
-    - "1800": "西方东方学发现Ahriman,影响Milton与浪漫主义"
+    - 1000 BCE: Zarathustra establishes Angra Mainyu as the eternal opposite
+    - 224 CE: Sasanian period, known as Ahriman
+    - 651 CE: Decline after Arab conquest
 
 variants:
-  - region: Gathas时期
-    version: 伦理性双生子
-    note: Yasna 30.3-5中Aŋra Mainyu与Spenta Mainyu为双胞胎心灵,择恶而生
-  - region: 萨珊-Pahlavi
-    version: 宇宙恶灵
-    note: Ahriman被完全物质化为造魔者,与Ohrmazd对等展开9000年战争
-  - region: 摩尼教
-    version: 黑暗王 Ahriman
-    note: 摩尼将Ahriman转化为物质世界之王,黑暗五国之统帅
-  - region: 帕西社群
-    version: 禁忌化
-    note: 印度帕西人认为提名招邪,以"敌人"或"另一方"代称
+  - region: Sasanian Persia
+    version: Ahriman
+    note: 中古波斯语名称，萨珊时期通用，至今在波斯文学中仍常用此名。
+  - region: Zurvanism
+    version: Twin brother of Ahura Mazda
+    note: 祖尔宛派认为安格拉·曼纽与阿胡拉·马兹达是祖尔万所生的双胞胎。
 
 parallels:
-  - culture: 希伯来-基督教
-    entity: Satan/Devil
-    relation: 魔鬼学谱系
-    note: 巴比伦流亡后犹太Satan观念吸收祆教Ahriman元素,后由基督教继承
-    source_ref: Nakissa 2023
-  - culture: 印度吠陀
-    entity: Vṛtra
-    relation: 印伊分化前神话学谱系
-    note: 印伊分化前Aŋra与吠陀阻水魔Vṛtra共享抑制生命秩序之根源
-    source_ref: Skjærvø 2011
-  - culture: 摩尼教
-    entity: 黑暗王
-    relation: 直接吸收
-    note: 摩尼将Ahriman转化为二元神学中的黑暗物质本原
-    source_ref: Shaked 1994
-  - culture: 西方文学
-    entity: Milton的Satan
-    relation: 间接文学影响
-    note: 通过17-18世纪东方学 Ahriman形象注入西方浪漫主义恶的美学
-    source_ref: Rahiminia 2017
+  - culture: Christianity
+    entity: Satan
+    relation: functional parallel
+    note: 同为宇宙中恶的本原，上帝的对手，地位功能对应。
+    source_ref: "Moore 2008"
+  - culture: Gnosticism
+    entity: Demiurge
+    relation: cosmic dualism parallel
+    note: 与诺斯替低阶创造者不同，安格拉·曼纽是绝对恶的独立本原。
+    source_ref: "Weiling-Feldthuesen 2007"
+  - culture: Manichaeism
+    entity: Prince of Darkness
+    relation: direct inheritance
+    note: 摩尼教黑暗王子直接继承自安格拉·曼纽概念。
+    source_ref: "Shehu 2024"
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-19"
-updated_at: "2026-07-19"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 一、导读：宗教史上最早成型的魔鬼
+## 核心定位：恶的本原
 
-阿里曼（Aŋra Mainyu，Avestan"破坏之灵"；Pahlavi Ahreman；波斯语 Ahriman）是琐罗亚斯德教二元对立结构中的恶端本原。Iman Habibi（2017）指出：Aŋra Mainyu 是**人类宗教文本中最早成型的完整魔鬼形象**，比希伯来《约伯记》中 Satan 的登场早约六百年。他不是被神创造出来的堕落者，而是自初始就与善灵 Spenta Mainyu 并立的独立本原。Shaul Shaked（1994）的《变革中的二元论》被公认为本条目的学术奠基，追踪了萨珊时期祆教从伦理二元论向宇宙二元论的正典化过程。
+安格拉·曼纽（*Angra Mainyu*，意为"毁灭之灵"，中古波斯语称**阿赫里曼**Ahriman）是琐罗亚斯德神话中一切邪恶的根源，黑暗、死亡、混沌的人格化，阿胡拉·马兹达永恒的对手。在二元宇宙框架中，他代表绝对的恶，与代表绝对善的阿胡拉·马兹达相对立。
 
-## 二、Gathas 的双胞胎心灵
+与许多神话中恶魔只是至高神的反叛臣属不同，琐罗亚斯德体系中安格拉·曼纽是与阿胡拉·马兹达同样永恒的独立存在，这种彻底的二元论在古代宗教中非常独特——善恶从一开始就是对等的，宇宙就是它们永恒斗争的战场（Moore 2008）。
 
-Yasna 30.3–5 是理解 Aŋra Mainyu 起源的核心一手文本。琐罗亚斯德在此宣告："此二双胞胎心灵，起初显现为一梦，在思、言、行三层各有善恶。"P. O. Skjærvø（2011）与 Mary Boyce（1975）都强调：Gathas 中的 Aŋra Mainyu **并非本体之恶，而是抉择之恶**——它是与 Spenta Mainyu 从共同源头分岔的心灵，因选择了 *Druj*（谎言）而成为恶。这一"心灵抉择论"是原始琐罗亚斯德教的核心伦理张力。
+## 名称与词源
 
-## 三、萨珊的宇宙二元论转向
+"安格拉"（*Angra*）在阿维斯塔语中意思是"邪恶的""毁灭的"；"曼纽"（*Mainyu*）意思是"灵""精神"，所以全名直译就是"恶灵"。这个译名非常直接地传达了其本质——安格拉·曼纽首先是一种精神性的恶本原，而非单纯的怪物。
 
-Shaked（1994）系统追踪了从 Gathas 到萨珊 Pahlavi 文本的转变：Aŋra Mainyu 从**伦理心灵**升级为**宇宙敌手**。在《Bundahišn》（创世纪）中，Ohrmazd 与 Ahriman 分别占据无限光明与无限黑暗，各自独立自存。这一"绝对二元论"版本是萨珊祆教对早期教义的重大重塑，反映了帝国宗教对付摩尼教与基督教挑战时的正典化需求。
+在萨珊波斯时期，名称演变为**阿赫里曼**（*Ahriman*），这个称呼在波斯语中一直沿用至今，后世波斯文学中更常用这个名称。
 
-## 四、9000 年宇宙战争
+## 创世中的角色：入侵善的创造
 
-《Bundahišn》系统叙述了 12000 年宇宙时程：Ohrmazd 与 Ahriman 各在无限中自存 3000 年；Ahriman 见到光明发动进攻，Ohrmazd 提议 9000 年有限战争以为期限；前 3000 年 Ohrmazd 创造完美精神世界，Ahriman 无所作为；中 3000 年 Ahriman 攻入物质创造，破坏神牛、初人 Gayōmart；后 3000 年 Zarathustra 降生，善方逐步反攻，直至 *Frashokereti*（终末更新）Ahriman 被完全击败。这一时间图式是伊朗末世论对犹太-基督教末世论的核心影响源（Nakissa 2023）。
+根据创世神话，阿胡拉·马兹达创造了一个完美的善世界，安格拉·曼纽从黑暗深渊中闯入，对每一步创造都进行破坏和扭曲：
 
-## 五、造魔谱系：Ahriman 的恶灵矩阵
+- 阿胡拉·马兹创造天空，安格拉·曼纽创造乌云和风暴
+- 阿胡拉·马兹创造清水，安格拉·曼纽创造盐海和干旱
+- 阿胡拉·马兹创造植物，安格拉·曼纽创造荆棘和毒草
+- 阿胡拉·马兹创造原牛，安格拉·曼纽杀死它
+- 阿胡拉·马兹创造原人盖约马尔丁，安格拉·曼纽向他注入死亡
 
-Fereshteh Davaran（2010）分析 Andarz 文学发现，Ahriman 以逆行方式（sodomy）生育诸魔——这一意象反映了萨珊社会对邪恶的具象化想象。Ahriman 造六大恶灵 *Kamalīg* 对应 Ohrmazd 的六大 Amesha Spenta，形成结构性镜像：Aēšma（暴怒）↔ Vohu Manah（善思）；Indra（此处为魔）↔ Aša Vahišta（正义）；Nāŋhaithya ↔ Ārmaiti；Tauruui ↔ Xšaθra；Zauruui ↔ Haurvatāt；Astuuiδōtu ↔ Amərətāt。此外还有 Āz（贪婪）、Nasu（尸灵）、Jeh（原初妓女魔）与最著名的 Aži Dahāka（三头龙）。
+因此，现实世界是善恶交混的——每一种善中都植入了恶，人类生活在善恶之间，必须做出选择。这就是琐罗亚斯德对世界上为什么存在恶的解释。
 
-## 六、Aži Dahāka 与波斯史诗
+## 恶魔军团统帅
 
-Ahriman 造物中最具文学生命力的是 *Aži Dahāka*，三头六眼千计的龙魔。在 Yasht 5 与 Yasht 19 中他被英雄 Θraētaona 击败囚于 Damāvand 山。菲尔多西《列王纪》将其改写为暴君 Zahhāk，肩生二蛇每日食童脑，被铁匠 Kāveh 与英雄 Fereydun 推翻。这一叙事将祆教宇宙论转化为伊朗民族史诗的核心情节（Davaran 2010）。
+安格拉·曼纽统帅着众恶魔**德弗**（*Daevas*），这些恶魔对应着阿胡拉·马兹达一方的雅兹塔，每一种善都有一种恶来对应：
 
-## 七、对犹太-基督教魔鬼学的影响
+- 针对善思（Vohu Manah）：有恶念恶魔
+- 针对真理（Asha）：有谎言恶魔德鲁吉
+- 针对火：有扑灭火的恶魔
+- 针对生命：有带来疾病的恶魔
 
-Aria Nakissa（2023）比较研究指出：巴比伦流亡（前 586–前 538）期间犹太人与祆教徒直接接触，希伯来经典中 Satan 从"神的仆役检察官"（《约伯记》）向"独立恶灵"演变的关键阶段与波斯统治期重合。第二圣殿时期文献（1 Enoch、Jubilees）中 Belial/Beliar 的形象携带浓重祆教印记。基督教魔鬼学正是通过这一间接谱系继承了 Ahriman 的核心结构（Adam Cohen 2019 亦有专论）。
+最强大的恶魔是**阿兹**（*Azi*，贪婪），她吞噬一切，象征着无止境的欲望对善的侵蚀。在后来的传说中，阿兹被认为是安格拉·曼纽最得力的助手。
 
-## 八、摩尼教的黑暗王转化
+安格拉·曼纽不断引诱人类偏离真理，选择谎言和罪恶，以此削弱善的力量，增强恶的势力。
 
-摩尼（Mani，216–276 CE）在萨珊宫廷成长，直接吸收祆教二元论。他将 Ahriman 转化为**物质世界之王**——不是抽象恶灵，而是被光明本原战胜后被囚禁在物质中的黑暗本原。摩尼教向东传至粟特、回鹘、唐代中原，将 Ahriman 谱系带入丝绸之路。这一支流的极端本体二元论也直接激发了后世的 Cathar 与 Bogomil 运动（Shaked 1994）。
+## 二元论的哲学意义
 
-## 九、西方文学的间接影响
+琐罗亚斯德的二元论将恶视为真实、独立存在的实体，而不是善的缺失或上帝意志的产物。这与后来许多一神论中"恶是善的缺乏"的观念形成鲜明对比。
 
-Dariush Rahiminia（2017）追踪了 Ahriman 在西方文学中的隐性谱系。17–18 世纪东方学兴起，Anquetil-Duperron 首译 Avesta（1771）后，Ahriman 形象进入欧洲。Milton 的《失乐园》中 Satan 已带有 Ahriman 式的宇宙敌手气质。歌德《浮士德》二部曲中的 Mephistopheles 与浪漫主义"崇高之恶"美学都可追至这条谱系。Nietzsche 的《查拉图斯特拉如是说》则以反讽方式重新调用了这一符号。
+这种思路的优点在于它直面世界上恶的现实，不将恶归咎于上帝，也不要求人类为上帝的"奥秘计划"忍受恶。缺点在于它承认两个永恒本原，理论上无法解决二元对立的终极来源问题（Hintze 2013）。
 
-## 十、意义总结：抉择之恶到本原之恶
+在祖尔宛派变体中，试图解决这个问题，将阿胡拉·马兹达和安格拉·曼纽都说成是时间神祖尔万的双胞胎儿子，这样就回到了一元论框架，但这一派并未成为正统。
 
-Ahriman 的教义演化史提供了一个宗教史独特案例：**如何从伦理抉择论演变为宇宙本体论**。Gathas 的 Aŋra Mainyu 是每个人内心可选择的恶端；Bundahišn 的 Ahriman 是外在于人的绝对本原。这一转变既服务于萨珊帝国的宗教正典化需求，也回应了个体解释邪恶来源的深层焦虑。琐罗亚斯德教晚期改革派（如 19 世纪印度 Parsi 学者 K. R. Cama）尝试回归 Gathas 版本，弱化 Ahriman 的本体地位——这一神学争论至今在帕西社群中延续。
+## 末日结局
 
-## 十一、Mythos Atlas 编者按
+根据琐罗亚斯德教义，到世界末日，救世主索希扬斯将降临，带领善的力量彻底战胜安格拉·曼纽和所有恶魔，恶将被永远消灭，世界得到净化，进入永生的福乐状态。
 
-**奠基作**：Shaked（1994）《变革中的二元论》；Boyce（1975）《琐罗亚斯德教史》第一卷。**最新研究**：Nakissa（2023）晚期古代二元论比较；Skjærvø（2011）Gathas 敌手研究。**一手文献**：Yasna 30.3–5 双生子经文；Pahlavi《Bundahišn》9000 年宇宙战争叙事。**深度追踪**：从 Ahriman 到 Satan 的传递链条是研究晚期古代宗教接触的核心课题，Boyce 未完成的三卷本《琐罗亚斯德教史》第三卷正为此设。**神学地位**：Ahriman 是宗教史上最早成型的完整魔鬼形象，其结构直接或间接影响了从希伯来 Satan 到摩尼教黑暗王、到基督教 Devil、到现代西方文学"崇高之恶"的整条谱系。
+因此，安格拉·曼纽虽然是永恒存在的恶，但并不是最终胜利者，光明一定会战胜黑暗，善一定会战胜恶，这就是琐罗亚斯德的基本信仰。
+
+这种线性进步的历史观——从二元斗争走向善的一元胜利——在古代神话中非常独特，深刻影响了后来的末世论观念。
+
+## 艺术表现
+
+在波斯艺术中，安格拉·曼纽通常被描绘为黑暗、狰狞的怪物形象，有时表现为一条龙或黑暗中的狮子，与阿胡拉·马兹达光明庄严的形象形成鲜明对比。
+
+在萨珊波斯石刻中，有时可以看到王者战胜阿赫里曼的图像，象征着正义王权对邪恶的镇压。
+
+## 后世影响
+
+安格拉·曼纽的恶神观念深刻影响了后来的摩尼教，摩尼教的黑暗王子直接继承了这一概念，并将二元论推向极致——光明与黑暗是两个永远并存的王国。
+
+在基督教和诺斯替教的二元论思潮中，也能看到安格拉·曼纽观念的影子，鲍格米勒派等中世纪异端的二元论就可能通过多种渠道继承了琐罗亚斯德的思想（Weiling-Feldthuesen 2007）。
+
+在现代心理学中，荣格曾用安格拉·曼纽来象征人类集体无意识中的阴影原型，即被意识压抑的邪恶一面。
+
+## Mythos Atlas 编者按
+
+关于安格拉·曼纽的性质，学界曾有争论：原始琐罗亚斯德是否主张绝对二元论？现在的主流看法认为，《迦泰》中已经明确将安格拉·曼纽视为与阿胡拉·马兹达对立的永恒恶本原，这是琐罗亚斯德改革的核心洞见之一。后来的发展中，不同流派试图调和，但二元框架始终保留。
+
+理解安格拉·曼纽是理解琐罗亚斯德神话伦理特质的关键——正是因为存在真实的恶，人类的道德选择才具有真正的意义。
