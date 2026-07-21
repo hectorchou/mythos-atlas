@@ -1,212 +1,197 @@
 ---
 id: oshun-yoruba
-name_primary: 奥孙 河水与甜蜜之女神
-name_original: Oṣun / Ọ̀ṣun
-name_aliases: [Osun, Oshun, Ochun]
+name_primary: 奥顺 爱与生育淡水女神
+name_original: Ọṣun / Oxum
+name_aliases: [奥孙, 淡水之主, 爱情女神, 财富女神]
 name_translations:
-  zh: 奥孙
+  zh: 奥顺
   en: Oshun
-  pt: Oxum
-  es: Ochun
+  yo: Ọṣun
 
 hero_image: /images/entries/oshun-yoruba.jpg
-hero_image_alt: Oshun standing in golden river waters surrounded by brass ornaments and honeycomb, Yoruba sacred grove atmosphere
-hero_image_credit: AI generated · West African brass sculpture style
+hero_image_alt: 约鲁巴爱与生育女神奥顺
+hero_image_credit: AI generated · West African Yoruba bronze style
 
-culture_path: africa/west-africa/yoruba/orisha
+culture_path: Africa/West Africa/Nigeria/Yoruba
 entity_type: deity
-era: 前500年至今
-geo_region: 西非尼日利亚奥孙州Osogbo及大西洋 diaspora
+era: 远古传承—至今
+geo_region: 尼日利亚奥孙州、全球流散社群
 
-summary: 奥孙为约鲁巴奥里沙体系中最重要的女性水神，主掌奥孙河、甜蜜、爱与生殖力。Murphy与Sanford（2005）确立了其在非洲与美洲跨大西洋连续性中的核心地位；Abiodun（2005）论证了奥孙作为隐藏力量的神学维度；Abolaji（2026）揭示其在生态灵性中的性别协商。Olupona（1993）将其纳入约鲁巴宗教传统历史研究框架。
+summary: 奥顺（Ọṣun）是约鲁巴神话中最受欢迎的女神，掌管淡水河流、爱情、美丽、生育与财富。她是唯一成功完成创造人类任务的女神，奥孙-奥索博神树林是其圣地，2005年列入世界遗产。Umejei (2022) 讨论了其当代文化复兴。
 
-attributes: [甜蜜, 爱, 生殖力, 河水, 黄铜, 蜂蜜, 女性力量, 生态守护]
+attributes: [女神, 淡水, 爱情, 生育, 财富, 美丽]
 
 primary_sources:
-  - type: book
-    title: "Osun across the Waters: A Yoruba Goddess in Africa and the Americas"
-    author: "Joseph M. Murphy and Mei-Mei Sanford"
-    year: 2005
+  - type: paper
+    title: "Diaspora reconnection with homeland religion: cultural heritage festival celebration"
+    author: "Aboshioke Lilian Umejei"
+    year: 2022
     language: en
-    url: https://doi.org/10.1525/NR.2005.8.3.120
-    access: paywall
-    note: 奥孙跨大西洋宗教连续性的奠基性研究
-
-  - type: book
-    title: "The Religion of the Yorubas"
-    author: "Olumide Lucas"
-    year: 1948
-    language: en
-    url: https://www.semanticscholar.org/search?q=The+religion+of+the+Yorubas
+    url: https://doi.org/10.46222/pharosjot.10417
     access: open
-    note: 早期系统性记录奥孙神话与祭祀体系
+    note: 流散社群与故乡信仰重新连接，奥顺节庆研究
 
   - type: paper
-    title: "Osun as a Primordial Divinity: Gender Roles in African Yoruba Eco-Spirituality"
-    author: "Tosin Success Abolaji"
-    year: 2026
-    language: en
-    url: https://doi.org/10.32473/ysr.11.1.141493
+    title: "浅析奥孙-奥索博神树林的复兴"
+    author: "邓哲远"
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E6%B5%85%E6%9E%90%E5%A5%A5%E5%AD%99-%E5%A5%A5%E7%B4%A2%E5%8D%9A%E7%A5%9E%E6%A0%91%E6%9E%97%E7%9A%84%E5%A4%8D%E5%85%B4
     access: open
-    note: 奥孙在约鲁巴生态灵性中的性别协商角色
-
-  - type: book
-    title: "The Study of Yoruba Religious Tradition in Historical Perspective"
-    author: "Jacob K. Olupona"
-    year: 1993
-    language: en
-    url: https://doi.org/10.1163/156852793X00176
-    access: paywall
-    note: 将奥孙置于约鲁巴宗教历史全景中
+    note: 奥孙神树林的复兴过程与多方合作
 
   - type: paper
-    title: "Geleneksel Yoruba Dininde Yaygin Orisalar: Tanrisal Varliklar"
-    author: "Canan Seyfeli and Elif Kul"
-    year: 2019
+    title: "GELENEKSEL YORUBA DİNİNDE ORİŞA"
+    author: "Canan Seyfeli, Elif Kul"
+    year: 2020
     language: tr
-    url: https://doi.org/10.17120/omuifd.631893
+    url: https://doi.org/10.33415/daad.630586
     access: open
-    note: 奥孙作为约鲁巴主神之一的系统性调查
+    note: 奥顺在奥里沙体系中的地位
 
   - type: paper
-    title: "Osun of Osogbo and Osun in The New World"
-    author: "Adewale Alani Kuyebi"
-    year: 2008
-    language: en
-    url: https://www.semanticscholar.org/search?q=Osun+of+Osogbo+and+Osun+in+The+New+World
+    title: "A importância do estudo das mitologias e gêneros literários"
+    author: "Ivan da Silva Poli"
+    year: 2014
+    language: pt
+    url: https://doi.org/10.11606/D.48.2014.tde-28012015-131659
     access: open
-    note: 奥孙神话宗教学的比较研究
-
-  - type: paper
-    title: "Water in Yoruba Religious Belief and Practices"
-    author: "Oluwafunminiyi Wasiu Raheem"
-    year: 2024
-    language: en
-    url: https://doi.org/10.1007/s44282-024-00054-8
-    access: open
-    note: 奥孙与约鲁巴水崇拜的体系性分析
-
-  - type: book
-    title: "Yoruba Religion and Mythology"
-    author: "J. Omosade Awolalu"
-    year: 1979
-    language: en
-    url: https://www.semanticscholar.org/search?q=Yoruba+Religion+and+Mythology
-    access: open
-    note: 经典教科书级别的约鲁巴宗教体系介绍
+    note: 巴西教育语境中奥顺的性别意义分析
 
 structured_data:
-  epithets: [Iyá Àfímojúyà, Àbàjà, Àníké Ògá, Ọba Tírìn, Arẹwa Ọbá]
-  parents: [Obatala 和 Yemoja，不同传统中说法不一]
-  consort: [Shango, Ogun]
-  children: [Ibeji 孪生神]
-  cult_center: [Osogbo 奥孙-奥索博圣林, 奥孙河沿岸]
-
-  timeline:
-    - 前500: 约鲁巴口头传统中奥孙崇拜起源
-    - 1400: Osogbo 王国建立，奥孙圣林祭祀制度化
-    - 1910: Frobenius 团队首次系统记录奥孙祭祀
-    - 1960: 奥孙-奥索博圣林因城市化开始衰落
-    - 2005: 奥孙-奥索博圣林列入联合国教科文组织世界文化遗产
-
-variants:
-  - region: 尼日利亚本土
-    version: Oṣun Òṣogbo
-    note: 以奥孙河与Osogbo圣林为核心崇拜
-
-  - region: 古巴 Santeria
-    version: Ochún
-    note: 与 Carmen/Our Lady of Charity 对应，融合天主教元素
-
-  - region: 巴西 Candomblé
-    version: Oxum
-    note: 主掌黄金与甜蜜河水，身着黄色服饰
-
-  - region: 海地 Vodou
-    version: Ezili Freda
-    note: 融合爱与美的特质，与圣母形象对接
+  epithets: [淡水之主, 美丽女王, 赠财者, 生育保护者]
+  cult_center: Osogbo, Osun State, Nigeria
+  unesco_site: Osun-Osogbo Sacred Grove (2005)
+  symbol: yellow, copper, peacock, honey
+  sacred_river: Osun River
+  sacred_number: 5
 
 parallels:
   - culture: 希腊
-    entity: Aphrodite
-    relation: 爱与美的女神
-    note: 二者皆关联水体（诞生于海洋泡沫 vs 河水女神）与生殖力
-    source_ref: Murphy and Sanford 2005
+    entity: 阿芙洛狄忒
+    relation: 爱与美之女神
+    note: 爱情与美的对应，均与水有关
+    source_ref: 比较神话学
 
-  - culture: 美索不达米亚
-    entity: Inanna/Ishtar
-    relation: 爱与战争的双重性
-    note: 奥孙虽主掌爱，但在 oriki 颂诗中也展现愤怒力量
-    source_ref: Abiodun 2005
-
-  - culture: 埃及
-    entity: Hathor
-    relation: 爱、美与喜悦的女神
-    note: 二者皆以水体为居所，金饰为圣物，在女性生命力维度高度平行
-    source_ref: Lucas 1948
+  - culture: 印度
+    entity: 恒河女神
+    relation: 河流女神
+    note: 圣河洗涤罪恶，赋予生命
+    source_ref: 邓哲远 2018
 
   - culture: 中国
-    entity: 巫山神女/湘水女神
-    relation: 水神与情爱象征
-    note: 跨文化母题中水—女性—爱的三元结构
-    source_ref: Olupona 1993
+    entity: 女娲 织女
+    relation: 生育与情爱
+    note: 保护生育，美好爱情
+    source_ref: 韩红伟 2013
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-10"
-updated_at: "2026-07-10"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 导读
+## 导读：最受欢迎的女神
 
-奥孙（Oṣun）是约鲁巴奥里沙（Orisha）体系中最具影响力的女性神灵之一，主掌奥孙河——流经今尼日利亚奥孙州Osogbo的一条真实河流。她以甜蜜（ẹ̀wàárẹ̀）、爱（ìfẹ́）、生殖力与黄铜之美著称，是约鲁巴人日常祭祀中最频繁被祈求的女性奥里沙之一。Murphy 与 Sanford（2005）在 *Osun across the Waters* 中系统论证了奥孙从西非到大西洋 diaspora 的宗教连续性，确立了她在跨大西洋精神世界中的中心地位。Rowland Abiodun（2005）则揭示了奥孙作为「隐藏力量」（Àse）之承载者的神学深度——她不仅是一条河流，更是约鲁巴存在论中生命力流转的管道。
+奥顺（Ọṣun，音译奥顺，也译奥孙）是约鲁巴神话中**最受民众喜爱的女神**，她掌管淡水河流、爱情、美丽、生育与财富，兼具温柔与力量。在所有 Orisha 中，她是唯一一位被派去创造人类却成功完成任务的女神——其他神祇都失败了，因此人类特别感念她。
 
-## 奥孙之名与 oriki 颂诗传统
+奥孙河从尼日利亚中部流入大西洋，河岸的奥孙-奥索博神树林是她的圣地，2005年被列入联合国教科文组织世界遗产，成为约鲁巴文化复兴的象征。
 
-在约鲁巴语中，「Oṣun」既是女神之名，也是河流之名。她的 *oriki*（颂诗，约鲁巴宗教中最重要的赞美诗体裁）包含多重尊号——*Iyá Àfímojúyà*（给我胜利的母亲）、*Ọba Tírìn*（金色的女王）、*Arẹwa Ọbá*（最美丽的女王）。这些称号并非修辞装饰，而是 encode 了她在约鲁巴宇宙观中的功能定位：奥孙是赐予子嗣的母亲、是黄铜财富的守护者、是甜水——自然界中代表愉悦的元素——的主人。Kuyebi（2008）在比较非洲与美洲奥孙崇拜时指出，oriki 的口头吟诵本身就是一种仪式行动（ritual act），而非仅仅是描述。
+## 名称与象征
 
-## 核心神话：奥孙与创世的选择
+奥顺名字 *Ọṣun* 即来源于奥孙河，以河流名称命名女神，体现了约鲁巴人对河流哺育文明的直接感知。
 
-约鲁巴创世神话中有一个关键叙事：当十七位奥里沙被派遣下凡创造大地时，只有奥孙是女性。其余十六位男性神灵计划绕过奥孙，不让她参与创世的关键决策。奥孙以女性智慧逆转了这一局面——她的介入使得大地上的创造工作最终得以完成。这一神话被多位学者解读为约鲁巴社会性别协商的宇宙论映射（Abolaji 2026）。Seyfeli 与 Kul（2019）在其对约鲁巴传统宗教中奥里沙的系统性调查中，将奥孙定位为「不可或缺的第十七位」——一种结构性论证：没有女性参与，宇宙无法完整运作。
+她的象征：
 
-## 奥孙河与 Osogbo 圣林
+- **颜色**：黄色与浅蓝，黄金和河水的颜色
+- **圣物**：蜂蜜、贝壳、孔雀
+- **金属**：铜，而非铁
+- **动物**：淡水鱼、鸭子
 
-奥孙的物质锚点是奥孙河（Odo Ọ̀ṣun）与 Osogbo 城郊的奥孙-奥索博圣林（Ọ̀ṣun-Ọ̀ṣogbo Sacred Grove）。这座圣林是尼日利亚最后一片原始雨林之一，2005 年被列入联合国教科文组织世界文化遗产名录。圣林中的神龛、雕塑与祭坛群是奥孙信仰的物质化呈现。Barillet 与 Joffroy（2006）描述了圣林的「再神圣化」过程——20 世纪 60 年代以后，在奥地利艺术家 Susanne Wenger 的推动下，圣林从濒临消失的状态恢复为活跃的宗教场所。这一复兴不仅是文化遗产保护案例，更是活态宗教传统的再生产。
+奥顺作为淡水女神，区别于掌管海洋的其他神祇——淡水是日常生活饮用、灌溉所必需，因此她与日常生活联系更紧密。
 
-## 黄铜、蜂蜜与甜水的象征体系
+## 创世神话：唯一成功的女神
 
-奥孙的圣物体系以黄铜（ìdẹ́）、蜂蜜（ọyìn）和淡水为核心。黄铜在约鲁巴美学中代表「灵魂之美」（ẹwà ẹ̀mí），是奥孙独有的金属。蜂蜜象征甜蜜——不仅指味觉的甜蜜，更是人际关系和谐、生活愉悦的神圣品质。甜水（omi tutù ẹ̀dùn）与咸水（海水，属于 Olokun 和 Yemoja 的领域）形成对比，标记了奥孙在约鲁巴水系宇宙中的特定位置：她是内陆淡水之神，是日常可接触的神圣水源。Raheem（2024）在分析约鲁巴宗教中的水崇拜时指出，奥孙代表的淡水是约鲁巴人日常饮用、沐浴和农业灌溉的生命之源，因此她的神力与约鲁巴人的生存最直接相关。
+在创造人类的神话中：
 
-## 跨大西洋 diaspora 中的奥孙
+Olodumare 派遣了十七位 Orisha 下凡，任务是让大地繁衍人类。十六位男神都失败了，只有奥顺一位女神成功了，让人类在大地上繁衍开来（Umejei 2022）。
 
-奥孙是大西洋奴隶贸易后约鲁巴宗教diaspora中保留度最高的奥里沙之一。在古巴 Santería（即 Regla de Ocha）传统中，她被称为 Ochún，与天主教 Our Lady of Charity（Cobre 的圣母）对应。在巴西 Candomblé Ketu 传统中，她被称为 Oxum，身着金黄色服饰，手捧镜子。在海地 Vodou 中，她的特质部分融合进 Ezili Freda 的形象。Murphy 与 Sanford（2005）指出，奥孙在 diaspora 中并未因文化移植而简化——恰恰相反，她的多面性（母亲/情人/战士/治愈者）在美洲语境中获得了新的层次。这一现象挑战了「非洲传统宗教在新世界被稀释」的旧范式。
+因此奥顺被特别尊崇为**生育保护女神**，不孕的妇女会向她祈祷求子，孕妇向她祈求顺利分娩。
 
-## 女性力量与性别协商
+这一神话给予女神崇高地位——在许多神话体系中创造人类是男神事业，而约鲁巴神话将成功创造繁衍归功于女神，体现了约鲁巴文化中女性地位的特殊性。
 
-奥孙的神话叙事中包含强烈的性别政治维度。Abolaji（2026）的新近研究将奥孙解读为「在父权神灵群中协商自身身份的原初女神」（primordial divinity who negotiated her identity among patriarchal divinities）。创世神话中十六位男性奥里沙试图排除她的场景，被解读为约鲁巴社会实际性别结构的宇宙论镜像。然而奥孙的胜利不是通过对抗，而是通过不可或缺性——大地创造若无女性参与便无法完成。这种叙事策略在约鲁巴女性主义神学中具有深远意义，它为约鲁巴社会中的女性提供了超越「顺从」或「反抗」二元框架的第三种力量模型。
+## 奥顺的多重身份
 
-## 奥孙祭祀与奥孙-奥索博节
+奥顺掌管多个领域，都是日常生活最重要的：
 
-每年八月在 Osogbo 举行的奥孙-奥索博节（Ọ̀ṣun Ọ̀ṣogbo Festival）是约鲁巴世界最重要的宗教节庆之一。节日期间，*Arugba*（持壶少女）——被选中的处女——将奥孙圣壶从王宫护送至圣林中的奥孙神殿。这一仪式的核心象征是奥孙河水的物质性转移，将神圣力量从自然水体引入人类社区。Ezenagu 等人（2022）研究了该节庆的宗教旅游价值，指出它不仅是宗教仪式，更是约鲁巴文化身份展演的全球性事件，每年吸引数十万国际游客与朝圣者。
+1. **淡水河流**：提供生命水源，灌溉农田
+2. **爱情与美丽**：促进两性吸引，保佑婚姻美满
+3. **生育**：保佑怀孕分娩，保护妇女儿童
+4. **财富与繁荣**：河水带来肥沃冲积土，因此也象征财富增长
+5. **疗愈**：淡水有清洁疗愈作用，奥顺也能治病
 
-## 奥孙与 Ifá 占卜传统
+这种多重身份使她渗透到日常生活方方面面，人们日常许多小事都可以向她祈祷。
 
-在 Ifá 占卜体系中，奥孙与 *Odi Meji* 和 *Irosun Meji* 等奥杜（Odu）密切相关。Ifá 经典中记录了多个奥孙参与的神圣叙事（ìtàn），其中最著名的是她在奥杜 *Eji Ogbe* 中作为第十七位奥里沙的创世故事。Abiodun（2005）论证了奥孙在 Ifá 文本中呈现的「隐藏力量」（Àse）——她的力量不在于可见的武力，而在于柔软、适应性和不可替代性。这一特质使奥孙成为约鲁巴存在论中一种独特力量类型：通过显现缺席来确保存在的力量。
+## 奥孙-奥索博神树林
 
-## 跨文化谱系：水—女性—爱的三元结构
+奥孙河沿岸的神树林是奥顺最重要的圣地：
 
-将奥孙置于全球神话谱系中，她的水—女性—爱的三元结构并非约鲁巴独有。希腊的 Aphrodite 诞生于海洋泡沫、埃及的 Hathor 以尼罗河为居所并主掌爱、中国的巫山神女与湘水女神同样是水与情爱的象征。Olupona（1993）提醒我们，这种平行不一定是文化接触的结果，更可能是人类在处理水—生命—生殖力这一基础经验时产生的趋同思维结构。但奥孙的独特贡献在于，她同时承载了约鲁巴社会中女性政治地位的文化记忆——她的神话不是被动接受父权结构的结果，而是一种主动的、不可被绕过的协商过程。
+- 历史上是约鲁巴国王献祭奥顺的场所
+- 20世纪受外来宗教影响衰落
+- 1950年代由尼日利亚艺术家苏珊·温格（Susanne Wenger）主导复兴
+- 2005年列入世界遗产
+- 每年八月举行盛大的奥顺节，朝圣者从各地而来
+
+神树林保存了约二百座雕塑，都是奥顺和其他 Orisha 的形象，成为活态的宗教与艺术中心（邓哲远 2018）。复兴过程中政府、NGO、当地社区合作成功，成为文化遗产保护的范例。
+
+## 女神权力与性别角色
+
+奥顺在约鲁巴社会性别结构中扮演复杂角色：
+
+- 她肯定女性力量，赋予女性神圣权威
+- 她保护女性生育自主权
+- 在父权社会结构中保留了女性神圣空间
+
+巴西的研究者指出，在奴隶制背景下，奥顺崇拜成为黑人女性保持身份认同的重要方式（da Silva Poli 2014）。当代女性主义者也从奥顺神话中汲取灵感，肯定女性创造力。
+
+## 流散传统中的奥顺
+
+在美洲流散传统中，奥顺地位更加重要：
+
+- **巴西坎东布雷**：Oxum 是最受欢迎的 Orisha，代表爱情与金钱
+- **古巴 Santería**：对应 Our Lady of Charity，保留了河流与爱的属性
+- **美国**：成为新约鲁巴运动核心神祇
+
+许多非裔美国人回到奥索博朝圣， reconnect 与故乡文化的联系（Umejei 2022）——这成为当代文化复兴的重要动力。
+
+## 艺术中的奥顺
+
+传统艺术中奥顺形象：
+
+- 美丽女性，佩戴很多黄金首饰
+- 站在河畔，周围有鱼
+- 手持扇子，象征优雅
+- 颜色以黄色为主
+
+现代尼日利亚艺术中，奥顺常被描绘为环境与文化保护的象征，她的神树林就是最好例证。
+
+## 现代意义：环境与文化复兴
+
+奥顺信仰在当代具有新的意义：
+
+- **环境保护**：河流清洁与水资源保护，与女神崇拜直接相关
+- **文化自信**：作为约鲁巴文化符号，促进本土文化自信
+- **旅游业**：奥顺节吸引大量游客，促进地方经济
+- **女性赋权**：肯定女性创造力，赋予女性精神力量
+
+在环境问题日益严重的今天，奥顺提醒人们河流是生命之源，需要保护。
 
 ## Mythos Atlas 编者按
 
-**奠基作**：Murphy 与 Sanford（2005）的 *Osun across the Waters* 是奥孙研究的里程碑，首次系统呈现了这位女神从约鲁巴本土到大西洋 diaspora 的完整精神地理。
+奥顺是约鲁巴神话中最具魅力的神祇之一，她的 popularity 来源于她贴近日常生活——不像至高神遥不可及，也不像战神那样令人敬畏，她关心人们的爱情、生育、财富这些日常幸福。
 
-**最新研究**：Abolaji（2026）将生态灵性与性别分析引入奥孙研究，提出了在约鲁巴生态宇宙观中女性神灵的能动性模型。Raheem（2024）则从水的宗教人类学视角重新定位奥孙在约鲁巴水系宇宙中的功能层次。
+奥孙神树林的复兴故事也很有启发：一个几乎消失的传统，可以通过社区努力重新焕发活力，成为世界遗产。这说明活态神话只要有土壤，就不会死亡。
 
-**一手文献**：奥孙的口头传统是活态的——她的 oriki 颂诗仍在 Osogbo 的年度祭祀中被吟诵，Ifá 经典中的奥杜文本包含她的叙事，圣林中的雕塑群是物质化的神话叙事。
-
-**深度追踪**：奥孙-奥索博圣林作为活态文化遗产的保护与利用（Ezenagu 2022）；跨大 diaspora 中奥孙崇拜的在地化变异（Murphy and Sanford 2005）；约鲁巴女性主义神学中的奥孙阐释（Abolaji 2026）。
-
-**神学地位**：在约鲁巴 Orisha 谱系中，奥孙不是最高神 Olodumare，也不是创世者 Obatala，但她是最贴近人类日常经验的神灵——甜水、爱、子嗣，这些是约鲁巴人每天需要的。她的力量不是遥远的，而是可触及的、可饮用的、可沐浴的。这正是奥孙在约鲁巴宗教中不可替代的地位。
+作为本批唯一女神，奥顺展示了约鲁巴神话中女性神祇的强大独立地位，这在世界神话中相当突出。

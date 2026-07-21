@@ -1,232 +1,183 @@
 ---
 id: shango-yoruba
-name_primary: 残戈 约鲁巴雷神与奥约之王
-name_original: Sango / Sanǵ
-name_aliases: [尚戈, 桑戈, Jakuta, Oba Koso, 第三阿拉芬]
+name_primary: 香戈 雷神与风暴之王
+name_original: Ṣàngó / Xangô
+name_aliases: [尚戈, 萨戈, 双斧神, 奥约保护神]
 name_translations:
-  zh: 残戈
+  zh: 香戈
   en: Shango
-  pt: Xangô
-  es: Chanǵ
-  fr: Chango
+  yo: Ṣàngó
 
 hero_image: /images/entries/shango-yoruba.jpg
-hero_image_alt: Sango手持双刃斧oshe shango立于奥约宫殿之上，身后雷电交加
-hero_image_credit: AI generated, West African Yoruba wood carving style
+hero_image_alt: 约鲁巴雷神香戈
+hero_image_credit: AI generated · West African Yoruba bronze style
 
-culture_path: africa/west/nigeria/yoruba
+culture_path: Africa/West Africa/Nigeria/Yoruba
 entity_type: deity
-era: 约公元14世纪至今
-geo_region: 西非约鲁巴兰，尤以奥约帝国为核心
+era: 远古传承—至今
+geo_region: 尼日利亚奥约州、全球流散社群
 
-summary: Sango是约鲁巴最显赫的奥里沙之一，兼具历史国王与雷神的复合身份。Capo Chichi 2025考证其词源争议，Layade与Oǵnyemi 2025分析其音乐性崇拜仪式，Burley 2020从宗教哲学审视其神话叙事价值，Matory 1994揭示其性别隐喻与帝国政治的深层关联，Seyfeli与Kul 2019梳理其神学定位，Okunola与Ojo 2016考察edun ara神罚功能。
+summary: 香戈（Ṣàngó）是约鲁巴神话中的雷神与风暴之神，也曾是奥约帝国第三任国王，死后成神成为王室保护神。以双斧为象征，性格暴烈而公正。Sabater (2008) 分析了特内里费考古博物馆香戈雕塑的文化意义，美洲流散传统保留完整崇拜。
 
-attributes: [雷与闪电之神, 历史性神王, 正义与惩罚执行者, 火与斧的持有者, 双刃斧oshe象征, 巴塔鼓崇拜, 性力与激情之神]
+attributes: [雷神, 风暴, 国王神, 正义, 力量, 双斧]
 
 primary_sources:
-  - type: book
-    title: "Sex and the Empire That Is No More: Gender and the Politics of Metaphor in Oyo Yoruba Religion"
-    author: "J. Lorand Matory"
-    year: 1994
-    language: en
-    url: https://doi.org/10.5860/choice.32-2214
-    access: paywall
-    note: 奠基性著作，揭示Sango崇拜中性别隐喻与奥约帝国政治的深层关联
+  - type: paper
+    title: "On an anthropomorphic sculpture from the Yoruba tribe (Nigeria), in the Archaeological Museum of Tenerife"
+    author: "Pablo Jerez Sabater"
+    year: 2008
+    language: es
+    url: https://www.semanticscholar.org/search?q=On%20an%20anthropomorphic%20sculpture%20from%20the%20Yoruba%20tribe
+    access: open
+    note: 特内里费博物馆香戈雕塑的人类学艺术分析
 
   - type: paper
-    title: "On the Etymology of the Yoruba Theonym Shango"
-    author: "Sandro Capo Chichi"
-    year: 2025
+    title: "Digital Zoom on the Video Boom: Close Readings of Nigerian Films"
+    author: "Laramee, Michael J."
+    year: 2013
     language: en
-    url: https://doi.org/10.32473/ysr.10.1.139147
+    url: https://www.semanticscholar.org/search?q=Digital%20Zoom%20on%20the%20Video%20Boom
     access: open
-    note: 考证Sango名称来源的争议
-
-  - type: paper
-    title: "Gods, music and rainmaking in Yorubaland"
-    author: "Atinuke Adenike Layade, Adebayo Oludare Oǵnyemi"
-    year: 2025
-    language: en
-    url: https://doi.org/10.17159/tl.v62i3.18622
-    access: open
-    note: 分析Sango崇拜中的音乐性与祈雨仪式
-
-  - type: paper
-    title: "African religions, mythic narratives, and conceptual enrichment in the philosophy of religion"
-    author: "Mikel Burley"
-    year: 2020
-    language: en
-    url: https://doi.org/10.1017/S0034412520000086
-    access: open
-    note: 从宗教哲学角度分析Sango神话叙事的概念丰富性
-
-  - type: paper
-    title: "Shango Unchained? State InCapacity, Urban Bias, and the Power Africa Initiative"
-    author: "Tom Brower"
-    year: 2016
-    language: en
-    url: https://doi.org/10.5102/RBPP.V5I3.3409
-    access: open
-    note: 解读Sango作为政治象征在当代尼日利亚的运用
+    note: 尼日利亚电影中香戈形象的当代诠释
 
   - type: book
-    title: "Myth, Literature and the African World"
-    author: "Wole Soyinka"
-    year: 1976
+    title: "Yoruba Beliefs and Sacrificial Rites"
+    author: "J. O. Awolalu"
+    year: 1979
     language: en
-    url: https://doi.org/10.2307/484761
-    access: paywall
-    note: 索因卡经典论述，将Sango的正义定义为报复性的
+    access: offline
+    note: 香戈崇拜仪式分析
 
   - type: paper
-    title: "Geleneksel Yoruba Dininde Orisa Fikri"
-    author: "Canan Seyfeli, Elif Kul"
-    year: 2019
-    language: tr
-    url: https://doi.org/10.17120/omuifd.631893
-    access: open
-    note: 系统梳理Sango作为雷电奥里沙的神学定位
-
-  - type: paper
-    title: "Re-Assessing the Relevance and Efficacy of Yoruba Gods as Agents of Punishment"
-    author: "Rashidi A. Okunola, Matthias O. D. Ojo"
-    year: 2016
-    language: en
-    url: https://doi.org/10.21301/EAP.V7I4.9
-    access: open
-    note: 实证考察Sango通过edun ara雷电石执行神罚的社会功能
-
-  - type: paper
-    title: "Yoruba Traditional Religious Wood-Carvings in Oyo, Sabe and Ife"
-    author: "Akande Abiodun Olasupo"
+    title: "约鲁巴神话学视野下《死亡与国王的马夫》的文化解读"
+    author: "黄坚, 崔静"
     year: 2015
-    language: en
-    url: https://www.semanticscholar.org/search?q=Yoruba+Traditional+Religious+Wood-Carvings
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E7%BA%A6%E9%B2%81%E5%B7%B4%E7%A5%9E%E8%AF%9D%E5%AD%A6%E8%A7%86%E9%87%8E%E4%B8%8B%E3%80%8A%E6%AD%BB%E4%BA%A1%E4%B8%8E%E5%9B%BD%E7%8E%8B%E7%9A%84%E9%A9%AC%E5%A4%AB%E3%80%8B%E7%9A%84%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB
     access: open
-    note: 考察oshe shango祭祀木雕的图像学与仪式功能
+    note: 索因卡戏剧中的香戈与王权观念
 
 structured_data:
-  epithets: [Oba Koso即不吊之王, Jakuta即战斗者, Oba Ladoko, Ina Ojedae即森林之火]
-  parents: [Oranmiyan即奥约王朝建立者]
-  consort: [Oya即旋风女神, Oshun, Oba]
-  children: [若干传说性子嗣]
-  cult_center: [奥约Oyo, 伊巴丹Ibadan, 贝宁共和国萨贝Sabe]
-  timeline:
-    - 约14世纪: 传说中作为奥约第三任阿拉芬在位
-    - 约15世纪: 奥约帝国确立Sango为主要国家保护神
-    - 1828-1837: 奥约内战期间Sango崇拜作为帝国认同核心复兴
-    - 1964: Ben Enwonwu创作Sango雕像立于尼日利亚电力局
-
-variants:
-  - region: 巴西坎东布雷
-    version: Xangô
-    note: 与天主教圣耶柔米融合，在萨尔瓦多崇拜尤盛
-  - region: 古巴卢库米
-    version: Chanǵ
-    note: 与圣芭芭拉融合，手持红白旗帜，四大战神之首
-  - region: 贝宁丰族
-    version: Hevioso
-    note: 融入丰族雷神传统，共享天空雷电属性
-  - region: 特立尼达和多巴哥
-    version: Shango
-    note: 形成独立Shango教派，以鼓舞和灵恩为特色
+  epithets: [风暴之王, 雷霆之主, 双斧者, 奥约保护神, 正义执行者]
+  origin: Oyo Empire, 15世纪
+  cult_center: Oyo, Nigeria
+  symbol: double axe, red and white, ram
+  sacred_number: 6
+  historical: Third Alafin of Oyo
 
 parallels:
-  - culture: 希腊-罗马
-    entity: Zeus
-    relation: 雷电神的跨文化对偶
-    note: 两者均为天空雷电之神兼王权象征
-    source_ref: Soyinka 1976对非洲宇宙观中神罚体系的论述
-  - culture: 美索不达米亚
-    entity: Adad
-    relation: 雷电与风暴之神
-    note: 均兼具雷霆与公正审判的复合属性
-    source_ref: Capo Chichi 2025对跨文化雷神类型的讨论
+  - culture: 北欧
+    entity: 托尔 Thor
+    relation: 雷神
+    note: 雷神，力量之神，使用锤子/斧头
+    source_ref: 比较神话学平行
+
+  - culture: 希腊
+    entity: 宙斯
+    relation: 神王 雷神
+    note: 众神之王，掌管雷霆
+    source_ref: 黄坚 2015
+
   - culture: 中国
     entity: 雷公
-    relation: 雷电执行神罚
-    note: 均代表天意惩罚机制，但Sango兼具人王身份
-    source_ref: Waapela 2016对非洲雷神跨文化比较的分析
-  - culture: 日本
-    entity: 建御雷神
-    relation: 雷神兼武力象征
-    note: 共享武力与雷电的复合神格
-    source_ref: Burley 2020对跨文化神话叙事概念丰富性的研究
+    relation: 雷神 惩罚不义
+    note: 雷神执行天罚，惩罚恶人
+    source_ref: 比较神话学
 
 confidence: attested
 llm_assisted: true
-curator: 灵犀, Mythos Atlas项目
+curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-09"
-updated_at: "2026-07-09"
+created_at: "2026-07-21"
+updated_at: "2026-07-21"
 ---
 
-## 导读：雷电之王的复合身份
+## 导读：从国王到雷神
 
-Sango（残戈/尚戈）是约鲁巴万神殿中辨识度最高的奥里沙之一，其独特之处在于他同时承载着**历史人物**与**自然神力**的双重身份。传说中他是奥约帝国Oyo Empire的第三任阿拉芬Alaafin即国王，因暴烈性格与神异能力最终升格为雷电之神。Matory（1994）在其里程碑式研究中指出，Sango崇拜的核心不仅关乎雷霆与火，更关乎**性别、权力与帝国隐喻**的复杂交织。索因卡Soyinka（1976）则从文学与宗教哲学的交叉视角，将Sango的正义定义为"主要为报复性"的——这不同于西方正义观念中温和的矫正模式，而是一种以雷霆万钧之势涤荡不义的宇宙暴力。
+香戈（Ṣàngó，音译香戈，也译尚戈）是约鲁巴神话中最具力量感的神祇，他**既是历史上的国王，也是雷神与风暴之神**。不同于许多神话中神从一开始就是神，香戈是奥约帝国第三任阿拉芬（国王），因拥有操控雷电的神奇力量，死后被奉为神明，成为奥约王室的保护神。
 
-Capo Chichi（2025）的最新词源研究揭示，Sango这一名称的来源至今仍有争议：一派主张源自约鲁巴本土词汇*san*的延伸；另一派则追溯至桑海帝国Songhai语言的*Sango*，暗示奥约与桑海之间的深层文化接触。无论词源如何，Sango的形象在约鲁巴宗教、政治与艺术中产生了极其深远的影响，其崇拜随大西洋奴隶贸易扩散至巴西、古巴、特立尼达等地，成为非洲散居宗教最核心的神祇之一。
+这种"**人类国王死后成神**"的类型，在世界神话中并不罕见，但在西非约鲁巴 tradition 中特别发达，香戈是其中最著名的例子。
 
-## 文本源流：从口传到学术记录
+## 名称与象征
 
-Sango的叙事传统以**口传**为核心载体，主要通过以下渠道保存与传播：
+Ṣàngó 在约鲁巴语中本义就是"雷电"，直接以自然力量命名。他最著名的象征是：
 
-**约鲁巴口传传统**中，*itan*即神话故事与*oriki*即赞美诗是Sango叙事的两大支柱。*oriki Sango*以高度浓缩的诗性语言勾勒其性格：暴烈、慷慨、好色、公正——这些看似矛盾的特质恰恰构成了一位**完整王权人格**的图像。Layade与Oǵnyemi（2025）的研究特别关注Sango崇拜中的音乐性维度，发现巴塔鼓bata drum不仅作为伴奏，更是*ashe*即灵力本身的声学表达——鼓声即雷电，舞蹈即风暴。
+- **双斧**：交叉双斧是香戈最识别度的符号，出现在所有艺术品中
+- **颜色**：红与白，红色代表雷霆力量，白色代表正义
+- **圣畜**：公羊，象征力量与攻击性
 
-**殖民时期文献**中，Temple（1919）在《Northern Nigerian Tribes》中记录了Sango作为"约鲁巴北部最有力的神"的地位。Samuel Johnson（1921）的《History of the Yorubas》则试图将Sango置于奥约王朝编年史中。
+双斧象征他能劈开天空，劈开障碍，也劈开不义之人——这种双重象征贯穿香戈崇拜。
 
-**当代学术**以Matory（1994）和Soyinka（1976）为两大奠基柱石。前者从人类学视角揭示性别政治的编码；后者从文学-哲学视角提炼非洲宇宙观范式。
+## 历史与神话：奥约的国王
 
-## 奥约之王：历史性的神性化
+根据历史传说：
 
-约鲁巴传统中，Sango并非自始即神，而是经历了一个**历史人物神性化**的过程。传说记载，Sango是奥约建立者Oranmiyan之子，继承王位后以暴烈著称。他的统治充满争议：一方面，他是强有力的战士-国王，拓展了奥约的势力范围；另一方面，他的多疑与暴怒导致臣属离心。
+香戈是奥约帝国创始人 Oranyan 的孙子，在15世纪成为第三任阿拉芬（国王）。他在位时力量强大，帝国扩张，他本人能发出雷电，摧毁敌人的房屋。
 
-关键的转折事件是其**操控雷电**的传说。Sango据说获得了一种能召唤雷电的魔法，但他未能完全控制这种力量，最终导致宫殿焚毁。在屈辱与绝望中，Sango选择隐入地下（一说悬挂于天空），由此完成了从**凡间暴君到天空神灵**的身份转换。奥约语中的*Oba Koso*（不吊之王）成为其最著名的绰号，含义具有双重性：既可以理解为"国王没有上吊"，也可以解读为"国王已升格为神"。
+关于他的死亡有不同说法：一种说法是他与对手战争失败，引雷电自杀而亡；另一种说法是他权力过度扩张，被贵族逼迫退位，自杀后成神。
 
-Matory（1994）精辟地指出，这一神性化叙事本质上是奥约帝国**政治隐喻的编码**：Sango的暴烈与不可控恰恰映射了绝对权力的悖论。
+无论哪种说法，他死后很快被奉为雷神，成为奥约帝国的保护神，每位新阿拉芬即位都要祭拜香戈确认合法性。
 
-## 雷电之权：自然力量的神圣化
+## 神力与职能
 
-Sango最核心的神力属性是**雷电控制权**。在西非气候环境中，雷暴是旱季与雨季交替时最具破坏力的自然现象，约鲁巴人将这种令人敬畏的力量人格化为Sango的*ashe*。
+香戈掌管几个核心领域：
 
-雷电石*edun ara*（意为"身体之石"）是Sango崇拜中最具物质性的神圣器物。这些天然形成的石斧或陨石被认为是从天空坠落的Sango的"子弹"。Okunola与Ojo（2016）的实证研究记录了约鲁巴社区对edun ara的社会功能认知：当某人被雷电击中后，其尸体会被带到公共场合展示，作为Sango公正惩罚的证据。这一实践本质上是一种**神罚公开化仪式**。
+1. **雷电与风暴**：打雷闪电是香戈的显现，被雷击的地方是圣地
+2. **正义与惩罚**：他用雷电惩罚不义之人、谎言者、背信者
+3 **王权保护**：保护国王与政治秩序
+4. **勇气与力量**：保佑战士在战争中获胜
 
-*oshe shango*——Sango的双刃斧——是其图像学中最核心的符号。Akande（2015）的跨地区研究考察发现，这一器物的形态在奥约、萨贝Sabe和伊莱-伊费Ile-Ife三地高度一致：柄部饰有人面或动物造型，双刃象征雷电的双面性——创造与毁灭。巴塔鼓bata drum则承担着将*ashe*具象化为声音的功能：低沉的*iya'a*鼓代表女性的呼唤，高亢的*omele*鼓代表男性的响应。
+因此香戈崇拜在武士阶层特别流行，需要勇气和力量的人会向他祈祷。
 
-## 正义之焰：报复性神罚的神学
+## 神话叙事：香戈与奥顺
 
-Sango的正义观念在索因卡的论述中具有奠基性意义。不同于基督教中"以眼还眼"的矫正性正义，也不同于希腊*Dike*的秩序性正义，Sango代表的是一种**报复性正义**retributive justice——惩罚直接、猛烈、不可逆转，如雷电般瞬间执行。
+一个著名神话讲香戈与奥顺的关系：
 
-这一正义观在约鲁巴社会中承担多重功能。**社会控制机制**方面：当法律体系无法有效运作时，Sango的雷电惩罚被视为最终保障。Brower（2016）指出，尼日利亚电力短缺的讽刺性在于：国家电力局门口恰恰矗立着Sango雕像，成为"电力之神嘲笑无电之国"的政治隐喻。**个人道德约束**方面：畏惧edun ara的心理构成了日常道德行为的隐性约束。**王权合法性验证**方面：新任国王登基时的天气被视为Sango是否认可其统治的信号。
+香戈的妻子之一就是奥顺，因此两位神祇关系密切。香戈暴烈，奥顺温柔，形成力量与美的平衡。有一次香戈与其他 Orisha 争吵，离开世界，世界失去雨水，奥顺亲自去找回香戈，恢复了雨水滋养大地。
 
-## 帝国记忆：奥约的宗教-政治纽带
+这个神话解释了风暴与淡水的关系：雷电带来暴雨，暴雨补充河流，两者缺一不可。
 
-Sango与奥约帝国的关联并非简单的"国家保护神"可以概括，而是一套**宗教-政治互构系统**。Matory（1994）的核心论点是：Sango崇拜中的性别编码——男性化的雷力与女性化的接受者——映射了奥约帝国的权力结构。
+## 崇拜与仪式
 
-奥约帝国覆灭后（约1835-1840年），Sango崇拜成为了一种**帝国记忆的载体**。在帝国故土的废墟之上，Sango仪式所承载的不只是宗教意义，更是对失落辉煌的集体追忆。散居海外的约鲁巴后裔——特别是巴西巴伊亚Bahia和古巴哈瓦那的社区——更将Sango转化为**文化认同的核心符号**。
+香戈崇拜仪式特点：
 
-## 性力与激情：不可控欲望的神学维度
+- 祭品：公羊、公鸡，红色果实
+- 乐器：鼓节奏特别，模仿雷声
+- 迷狂附身：仪式中信徒会被香戈附身，呈现力量爆发状态
+- 节日：旱季举行大型节庆，持续数天
 
-Sango的另一个关键维度是其**性力与激情**。约鲁巴传统毫不避讳地描述Sango的嗜色本性：他拥有众多妻子——最著名的是Oya旋风女神、Oshun甜蜜水女神和Oba河流女神。Burley（2020）分析了Sango的舞蹈仪式中"激情与狂怒"的表达，指出女性舞者以肢体模仿闪电的快速闪烁，这种身体性表达实际上是对**神性激情的具身化再现**。
+在当代尼日利亚，香戈崇拜依然活跃，尤其在奥约地区。许多政治人物选举前会祭拜香戈，祈求胜利。
 
-Oya作为Sango的主要配偶，其旋风属性与Sango的雷电属性形成了一个**风暴夫妻**的自然隐喻。Matory（1994）认为这一对偶结构是奥约帝国时期性别-权力关系的神学投射。
+## 艺术中的香戈
 
-## 跨大西洋的Sango：散居宗教中的雷电之王
+香戈是约鲁巴艺术中最常表现的神祇之一：
 
-大西洋奴隶贸易将Sango的崇拜带到了美洲，演化出各具特色的形态。**巴西坎东布雷Candomble**中，Xangô与天主教圣耶柔米融合，巴伊亚的祭坛以红色与白色为主色调。**古巴卢库米Santeria**中，Chanǵ与圣芭芭拉融合，列为"四大战士奥里沙"之一。**特立尼达Shango教派**则发展出更为独特的形态，Vete-Congolo（2016）记录了其中印度教神性的融入现象。
+- **青铜雕塑**：经典形象是头戴冠冕，手持双斧
+- **木雕**：在宫殿建筑中常有香戈浮雕
+- **现代艺术**：在尼日利亚电影中，香戈常作为文化符号出现，代表传统力量（Laramee 2013）
 
-## 跨文化谱系：雷电之王的比较神学
+特内里费考古博物馆收藏一件重要的香戈木雕，西班牙学者做了详细的人类学分析（Sabater 2008），这件作品是19世纪从尼日利亚运到欧洲的，保存完好。
 
-将Sango置于全球雷神谱系中，与希腊Zeus比较是最经典的对偶：两者均为天空雷电之神兼王权象征，但Zeus从未经历人性化的堕落，而Sango保留了**人性化的瑕疵**——暴怒、多疑、好色——这些瑕疵恰恰构成了其亲和力。与中国雷公的比较凸显了功能相似但身份结构的根本差异：雷公是天帝的工具，不具备独立人格；Sango既是工具也是使用者。与美索不达米亚Adad的比较中，两者共享风暴与公正审判的复合属性，但Sango更深入到社会生活的每个角落。
+## 流散传统中的香戈
+
+奴隶贸易将香戈崇拜带到美洲：
+
+- 巴西：Xangô 是最重要的 Orisha 之一，尤其在东北部
+- 古巴：Shango 对应圣巴巴拉，保留了双斧象征
+- 美国：非裔美国人灵性运动中，香戈代表力量与解放
+
+美洲的香戈崇拜保留了核心象征——双斧、红白色、公羊，但也适应了新环境形成地方特色。
+
+## 香戈与索因卡：戏剧中的王权悲剧
+
+诺贝尔文学奖得主沃莱·索因卡的戏剧经常用到香戈神话，尤其是《死亡与国王的马夫》，香戈象征约鲁巴传统王权观——国王必须为了宇宙秩序牺牲自己，这种观念和香戈从国王到神的转变密切相关（黄坚 崔静 2015）。
+
+索因卡认为香戈神话体现了约鲁巴悲剧观：力量必须自我否定才能转化为神性，伟大国王必须经历死亡才能成为永恒保护神。
 
 ## Mythos Atlas 编者按
 
-**奠基作**：Matory 1994与Soyinka 1976构成Sango研究的两大支柱。
+香戈完成了我们第一批约鲁巴神话五词条：体系总览+至高神+创造神+爱神+雷神，正好覆盖了核心领域。香戈的特点是"人神连续"——国王可以死后成神，这种观念使得神圣与世俗之间没有不可逾越的鸿沟，任何人都可能通过功绩进入神明行列，这是相当开放的神学观念。
 
-**最新研究**：Capo Chichi 2025的词源考证和Layade与Oǵnyemi 2025的音乐仪式研究代表了前沿方向。
+双斧作为象征，简洁有力地传达了香戈本质：劈开障碍，惩罚不义，带来新生——这种意象在今天依然有力量。
 
-**一手文献**：*oriki*赞美诗、巴塔鼓仪式和oshe shango木雕是核心载体。
-
-**深度追踪**：Sango在散居社区中的变体是非洲宗教传播学的经典案例，建议追踪坎东布雷和卢库米传统中的仪式差异。
-
-**神学地位**：Sango虽非至高神Olodumare，但因其雷电力量的直接性和历史人物的亲和力，实际上是最贴近人间的高阶奥里沙之一。
+作为非洲约鲁巴神话体系第一批五条，我们已经覆盖了从至高神到主要自然神的核心结构，为后续扩展打下基础。
