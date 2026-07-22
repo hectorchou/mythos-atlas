@@ -81,7 +81,6 @@ const entries = defineCollection({
     key_figures: z.array(z.string()).optional(),
     key_deities: z.array(z.string()).optional(),
     key_narratives: z.array(z.string()).optional(),
-    key_narratives: z.array(z.string()).optional(),
     core_concepts: z.array(z.string()).optional(),
     core_deities: z.array(z.string()).optional(),
     related_concepts: z.array(z.string()).optional(),
