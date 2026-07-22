@@ -1,110 +1,98 @@
 ---
 id: nut-egypt
 name_primary: 努特 古埃及天空女神
-name_original: Nwt / 𓈖𓅱𓏏
+name_original: Nwt | Nut
 name_aliases: [努特, 努特, 诺特]
 name_translations:
   zh: 努特
   en: Nut
 
 hero_image: /images/entries/nut-egypt.jpg
-hero_image_alt: 古埃及陵墓天花板上的天空女神努特拱顶形象
-hero_image_credit: AI generated · Egyptian tomb ceiling relief style
+hero_image_alt: 古埃及天空女神努特拱罩大地之神盖布
+hero_image_credit: AI generated · Egyptian papyrus painting style
 
-culture_path: Africa/North Africa/Ancient Egypt/Ennead
+culture_path: Africa/North Africa/Ancient Egypt/Heliopolitan Ennead
 entity_type: deity
-era: 古王国时期—罗马时期 (c. 2686 BCE — 300 CE)
-geo_region: 全埃及崇拜，主要见于陵墓与神庙天花板
+era: Old Kingdom to Ptolemaic Period (c. 2686–30 BCE)
+geo_region: All Egypt, Heliopolis
 
-summary: 赫利奥波利斯九柱神体系中的天空女神，舒与泰芙努特之女，盖布的姐妹与妻子，奥西里斯、伊西斯、赛特、奈芙蒂斯的母亲。以拱形身体覆盖大地，承载日月运行，是死者进入冥界的保护者，Maravelia（2003）讨论了她与银河系的天文对应。
+summary: 努特是古埃及赫利奥波利斯九柱神体系中的天空女神，是星辰之母与死者保护者，每日吞食太阳又生下太阳，创造昼夜循环。Graur（2024）最新研究将其身体对应银河系。
 
-attributes: [天空女神, 九柱神, 拱形天空, 死者保护, 星辰女神]
+attributes: [sky goddess, stars, cosmos, rebirth, protection of dead, mother of gods, Nut-Geb myth]
 
 primary_sources:
   - type: paper
-    title: "Cosmic Space and Archetypal Time: Depictions of the Sky-Goddess Nut in Three Royal Tombs of the New Kingdom and Her Relation to the Milky Way"
-    author: "A. Maravelia"
-    year: 2003
+    title: "The Ancient Egyptian Personification of the Milky Way as the Sky-Goddess Nut: An Astronomical and Cross-Cultural Analysis"
+    author: "Or Graur"
+    year: 2024
     language: en
-    url: https://www.semanticscholar.org/search?q=Depictions%20of%20Nut%20Milky%20Way
+    url: https://doi.org/10.3724/SP.J.1440-2807.2024.01.02
     access: open
-    note: 提出努特的身体形象与银河系存在天文对应关系
-  - type: book
-    title: "The Routledge Dictionary of Egyptian Gods and Goddesses"
-    author: "George Hart"
-    year: 2005
-    language: en
-    url: https://doi.org/10.4324/9780203023624
-    access: paywall
-    note: 标准辞书条目，整理努特核心神话与形象
+    note: "最新天文学研究论证努特身体即银河系"
   - type: paper
-    title: "Unpublished Anthropoid Wooden Coffin of Padiatum at Beni-Suief Museum"
-    author: "Tamer Fahim, Soad Fayeze"
-    year: 2020
+    title: "Comparative Theology: Sumer, Memphis, Kongo Religion and Natural Systematic Theology"
+    author: "Kiatezua Lubanzadio Luyaluka"
+    year: 2018
     language: en
-    url: https://doi.org/10.21608/jaauth.2020.31493.1024
+    url: https://doi.org/10.22259/2637-5907.0201003
     access: open
-    note: 分析贝尼苏夫博物馆未刊布木棺上的努特形象
-  - type: paper
-    title: "Unpublished Coffin-Lid from Interior of pA-di-mnx in Mildred Lane Kemper Art Museum"
-    author: "Hossam Yasser Fawzy et al."
-    year: 2023
-    language: en
-    url: https://doi.org/10.21608/lijas.2023.235289.1014
-    access: open
-    note: 对美国藏未刊布棺盖努特形象的研究
+    note: "努特盖布神话与其他文化创世神话比较研究"
   - type: book
-    title: "Dictionary of Ancient Egypt"
-    author: "Ian Shaw, Paul Nicholson"
+    title: "Dictionary of ancient Egypt"
+    author: "Ian Shaw and Paul Nicholson"
     year: 1995
     language: en
     access: offline
-    note: 考古学整理努特主要遗存分布
-  - type: book
-    title: "Amentet: An Account of the Gods, Amulets and Scarabs of the Ancient Egyptians"
-    author: "Alfred E. Knight"
-    year: 1996
+    note: "标准工具书中的努特词条"
+  - type: paper
+    title: "Images as media: Sources for the cultural history of the Near East and the Eastern Mediterranean (1st millennium BCE)"
+    author: "Christoph Uehlinger"
+    year: 2000
+    language: de
+    url: https://doi.org/10.5167/UZH-140648
+    access: open
+    note: "分析卢浮宫藏努特盖布纸莎草图像"
+  - type: paper
+    title: "Myth and mythmaking in ancient Egypt"
+    author: "Jacobus van Dijk"
+    year: 1995
     language: en
     access: offline
-    note: 早期经典描述努特形象在丧葬艺术中的功能
+    note: "讨论努特神话在埃及创世思想中的地位"
 
 structured_data:
-  epithets: [星辰女士, 天之母, 承载太阳者, 拱顶者]
-  parents: [Shu (舒), Tefnut (泰芙努特)]
-  siblings_consort: [Geb (盖布)]
-  children: [Osiris (奥西里斯), Isis (伊西斯), Set (赛特), Nephthys (奈芙蒂斯)]
-  cult_center: 无单独大神庙，主要分布于丧葬建筑
-
-timeline:
-  - "2686 BCE": 古王国时期已列入九柱神体系
-  - "1550 BCE": 新王国陵墓中常见天花板拱顶形象
-  - "30 BCE": 托勒密时期仍在棺盖绘制
-  - "300 CE": 罗马时期民间崇拜延续
+  epithets: [ She who contains, Mother of Stars, Coverer of the World, Queen of Heaven ]
+  parents: [Shu (air), Tefnut (moisture)]
+  siblings: [Geb (earth)]
+  children: [Osiris, Isis, Set, Nephthys]
+  husband: [Geb]
+  cult_center: [Heliopolis, Abydos, Thebes]
+  timeline:
+    - 2686 BCE: Old Kingdom attestation in pyramid texts
+    - 1000 BCE: Common depiction in coffin paintings
+    - 2024 CE: Milky Way identification published
 
 variants:
-  - period: 新王国
-    version: 银河天体对应
-    note: 部分学者认为身体纹样对应银河系
-  - period: 晚期
-    version: 与其他天空女神融合
-    note: 吸收了哈索尔等女神的部分功能
+  - region: Nubia
+    version: absorbed into Nubian sky cult
+    note: Nubian kings adopted Nut into their royal funerary cult
 
 parallels:
-  - culture: 美索不达米亚
-    entity: Anu
-    relation: 天空神
-    note: 美索不达米亚天空神为男性，埃及为女性形成有趣对比
-    source_ref: Shaw & Nicholson 1995
-  - culture: 希腊
-    entity: Uranus / Gaia
-    relation: 天空与大地夫妇
-    note: 对应盖布大地+努特天空，但希腊性别相反
-    source_ref: Hart 2005
-  - culture: 中国
-    entity: 女娲
-    relation: 女创世神，补天造人
-    note: 同为女性创世大神，承载天地秩序
-    source_ref: 比较神话学整理
+  - culture: Mesopotamian
+    entity: Anu (sky) / Ki (earth)
+    relation: primordial sky-earth couple
+    note: Similar myth of separation by air god
+    source_ref: "van Dijk 1995"
+  - culture: Greek
+    entity: Uranus (sky) / Gaia (earth)
+    relation: primordial sky-earth marriage separated by children
+    note: Extremely close mythological parallel across civilizations
+    source_ref: "Luyaluka 2018"
+  - culture: Chinese
+    entity: Nuwa / Fuxi
+    relation: primordial creator couple of sky and earth
+    note: Similar primordial couple role in creation
+    source_ref: "comparative mythology"
 
 confidence: attested
 llm_assisted: true
@@ -114,84 +102,76 @@ created_at: "2026-07-22"
 updated_at: "2026-07-22"
 ---
 
-## 导读：拱形天空的母神形象
+## 导读：拱罩大地的星辰母亲
 
-努特（Nut）是古埃及赫利奥波利斯九柱神体系中的天空女神，在整个埃及历史中都扮演着重要角色。她最经典的形象是呈拱形覆盖在大地神盖布之上，身体就是天空，星辰点缀其间，太阳神拉每天从她的身体中诞生，傍晚又沉入她的身体，完成日月运行的循环。作为奥西里斯、伊西斯等众神的母亲，她是埃及神学体系中重要的母神形象，同时也是死者最重要的保护者之一，帮助死者进入冥界获得重生。
+努特（Nut）是古埃及创世神话中最重要的神祇之一，她是人格化的天空，每日吞食太阳神拉，又在早晨将他重新诞生，创造了昼夜循环。她是诸神之母，奥西里斯、伊西斯、塞特、涅弗提斯都是她的子女。在古埃及丧葬宗教中，她是死者最重要的保护者，棺木内壁常常绘制她张开身体拱罩死者的形象，保佑死者获得重生。
 
-近年来对未刊布棺盖与陵墓天花板的持续研究，不断丰富着我们对努特形象演变的认识（Fahim & Fayeze 2020；Fawzy et al. 2023）。
+2024年Or Graur发表的最新天文学研究提出，古埃及人已经认识到银河系，并将银河辨识为努特的身体，这一观点引起了学界广泛讨论（Graur 2024）。
 
-## 名称语源与核心定位
+## 名称与语源学
 
-努特的埃及语原名 *Nwt*，语源可能与“水”或“天空”相关，具体词源仍有争议，但核心定位从未改变——她就是天空的人格化。中文“努特”是标准音译。
+努特的埃及语原名 *Nwt*，语源不确定，多数学者认为与 *nw*（水）有关，因为最初天空被认为是原初之水的一部分。另一种解释认为词根意为"包裹"，对应她包裹整个世界的形象。
 
-与许多其他文明将天空神设定为男性不同，古埃及人将天空构想为女性，大地则构想为男性（盖布），这种性别配置在世界神话中相当独特，反映了古埃及对天地关系的独特理解：天空滋养万物如母亲孕育胎儿，所以应为女性（Hart 2005）。
+中文通常译作"努特"，也有译作"诺特"，前者更常用。
 
-## 创世神话中的位置：九柱神第四代
+## 图像学经典构图：努特-盖布-舒
 
-在赫利奥波利斯九柱神的创世谱系中，努特属于第四代神祇：
-1. 阿图姆（Atum）自生出
-2. 阿图姆生舒（Shu，空气）与泰芙努特（Tefnut，湿气）
-3. 舒与泰芙努特生盖布（Geb，大地）与努特（Nut，天空）
-4. 盖布与努特生奥西里斯、伊西斯、赛特、奈芙蒂斯
+努特最经典的图像构图是"天地分离图"：**天空女神努特以拱形身体覆盖着俯卧在下方的大地之神盖布（Geb），空气之神舒（Shu）站在中间，双臂高举将努特撑起，永远分开天空与大地**。这个构图从新王国时期开始流行，一直延续到希腊化时期，出现在无数棺木、神庙天花板和纸莎草文献上。
 
-这种清晰的世代传承，反映了赫利奥波利斯神学对宇宙演化的系统化理解，努特在其中正好位于天地分离之后、众神诞生之前的关键位置——没有天地就不可能有后来的万物与众神。
+她的身体上布满星星，代表星辰，每个星辰对应一个神祇或一个时日。她的手脚伸到地面四个方向，象征天空覆盖四极。在许多绘画中，太阳神拉从她的口中进入，从她的身体中诞生，形象地表现了昼夜循环。
 
-## 天地分离神话：舒托起努特
+颜色上，努特通常被绘成深蓝色或黑色，点缀金色星辰，象征夜空；盖布是绿色或棕色，象征大地植物；舒是浅蓝色，象征空气。
 
-最核心的创世神话情节是“天地分离”：最初，努特与盖布紧紧拥抱在一起，天地不分，世界处于混沌状态。父亲舒将他们分开，用力托起努特，让她的身体成为拱形的天空，盖布躺在下方成为大地。从此才有了光明与秩序，世界才能够孕育生命。
+## 创世神话中的地位
 
-这个神话场面在埃及艺术中表现得非常直观：舒站在中间，双手向上托起努特，努特呈弧形拱起在盖布上方，姿态清晰明了。这个场面常见于棺盖、陵墓天花板和神庙墙壁，是埃及创世艺术的经典主题。
+在赫利奥波利斯九柱神创世体系中，创世顺序是：阿图姆（Atum）→舒与特芙努特→努特与盖布→奥西里斯四兄妹。努特与盖布原本相亲相爱，结合在一起，世界因此没有空间，诸神无法诞生。空气之神舒受父亲阿图姆之命，分开他们，永远保持分离，于是才有了天地、空间和万物。
 
-在丹德拉神庙等晚期神庙中，这个场面被雕刻得极其宏伟，成为整个神庙天文大厅的核心装饰。
+这就是古埃及最经典的天地分离神话，和其他文明（希腊的乌兰诺斯-盖亚、美索不达米亚的安努-基）有着惊人的平行（Luyaluka 2018）。这种平行说明创世神话中"天地原本合一，后来分离"是许多人类文明共同的母题。
 
-## 天文意义：承载日月与星辰
+## 星辰与银河女神
 
-努特作为天空女神，最主要的功能就是承载日月星辰的运行。最经典的说法是：太阳神拉每天早晨从努特的阴道诞生，白天在她的身体（天空）上运行，傍晚从她的嘴巴沉入，夜晚在她的身体内部穿行，第二天再次诞生，完成循环。
+努特不仅是天空的人格化，还是星辰女神，所有星辰都住在她身体里。传统上埃及学界认为她身体上的星辰只是象征群星，但2024年Or Graur提出，努特弯曲的身体轮廓正好对应银河系在夜空中的形状，古埃及观测者已经认识到银河系是一条明亮的星带，并将其和天空女神联系起来（Graur 2024）。
 
-这个神话将自然现象完美融入神学体系，解释了太阳的东升西落。星辰同样分布在努特的身体上，所以她也被称为“星辰女士”。
+这个假说如果成立，说明古埃及人对银河系的观测比之前认为的要早得多，并且已经将天文观测整合到神话体系中。
 
-Maravelia（2003）提出了一个有趣的观点：新王国王陵中努特身体上的星辰排列，实际上对应了银河的位置，努特的身体轮廓本身就是银河系在天球上的投影。这一观点引发了广泛讨论，虽然未成为学界共识，但确实打开了从天文考古学角度研究努特形象的新方向。
+## 丧葬宗教中的保护功能
 
-## 丧葬功能：死者的保护者与重生之母
+努特在丧葬信仰中极其重要：**每一位死者进入冥界后，都需要努特的保护**。她会接纳死者，像母亲接纳孩子一样，让死者获得重生。因此，古埃及棺木的内壁几乎都绘制着努特的形象，张开双臂拥抱死者。
 
-除了宇宙论功能，努特在埃及丧葬信仰中极为重要。她是死者进入冥界后的保护者，帮助死者获得重生。几乎所有新王国以后的木棺或石棺内部都会绘制努特的形象，她张开双臂拥抱棺内的死者，给予保护。
+她与死者复活的关系来自她每日重生太阳的功能：既然她能每天让太阳神重生，自然也能让死者获得重生。许多金字塔铭文里都有祈求努接纳死者的咒语。
 
-这种功能源于她作为“母亲”的定位：正如她孕育了众神，她也孕育死者，帮助他们在冥界获得新生。许多棺文都会祈求努特保护死者，让他们在日出时能够重生，就像拉每天从她身体重生一样。
+## 与其他神祇的关系
 
-近年来陆续公布了多件未刊布的埃及木棺与棺盖，其上都保存了精美的努特形象，这些新资料帮助我们更清晰地追踪努特丧葬形象的演变过程（Fahim & Fayeze 2020；Fawzy et al. 2023）。
+- **父母**：舒（空气）与特芙努特（湿气），这是赫利奥波利斯体系固定的血统
+- **丈夫/兄弟**：盖布（大地之神），天地原本是夫妻，被舒强行分开
+- **子女**：四个最重要的埃及神——奥西里斯、伊西斯、塞特、涅弗提斯，所以她确实是"诸神之母"
+- **太阳神拉**：每日吞食拉，又生下拉，维持太阳循环
 
-## 艺术表现：从抽象到具象
+在一些地方文献中，她也被认为是牛女神，天空是牛的身体，这个形象更古老，可以追溯到旧王国时期。
 
-努特的艺术表现相对稳定，但也有演变：
-- **古王国**：主要出现在金字塔铭文与棺文中，形象相对抽象
-- **中王国**：开始在棺盖上绘制具体形象
-- **新王国**：定型为拱形拱顶形象，常见于王陵天花板
-- **托勒密时期**：在大型神庙中宏伟呈现，如丹德拉神庙
+## 文献源流
 
-最经典的姿势就是身体呈弧形，四肢伸展，手掌触及东西地平线，星辰散布全身。这种构图本身就是对天地结构的直观可视化。
+努特的信仰非常古老，在旧王国金字塔铭文里就已经出现，这是现存最早的埃及宗教文献。从中王国开始出现在棺木铭文上，新王国以后在神庙天花板和纸莎草上非常常见。
 
-## 崇拜分布：没有大庙的重要神祇
+最著名的一幅努特图像出自卢浮宫收藏的第17401号纸莎草，构图完整，保存良好，Uehlinger（2000）对这幅图像有详细的文化史分析。
 
-与许多重要神祇不同，努特几乎没有独立的大型神庙，她的崇拜主要依附于丧葬建筑和其他大神的神庙。这是因为她本身就是宇宙结构的一部分，人们不需要专门为她建造神庙来寻求庇护，而是在需要重生保护时直接向她祈祷。
+## 宇宙论意义
 
-这种分布特点反映了古埃及宗教的一个侧面：不是所有重要神祇都需要国家性的大庙，有些神祇因为其宇宙论或丧葬功能，自然融入到各类建筑中。
+努特-盖布神话反映了古埃及人对宇宙结构非常清晰的认知：天空在上，大地在下，空气在中间。这个宇宙模型非常稳定，一直延续了三千年。
 
-尽管没有独立大庙，努特的形象却比许多有大庙的神祇更为人熟知，因为她几乎出现在所有贵族与王室的丧葬建筑中。
+这个神话也解释了为什么大地能产出植物：因为大地神盖布是男性，天空女神努特是女性，雨水（来自天空女神）滋润大地，生出万物，这符合埃及人的观察——埃及农业依赖尼罗河泛滥而非降雨，但基本的宇宙性别分工还是天空女/大地男。
 
-## 跨文化比较：独特的性别配置
+这个性别分工和很多其他文明正好相反（通常是天空父/大地母），这是埃及宇宙论一个有趣的特点。Jacobus van Dijk（1995）指出，这和埃及特殊的水文有关：尼罗河从大地涌出，而非雨水从天降，所以大地是主动的孕育者。
 
-努特最值得比较的特点就是她的性别配置：天空为女，大地为男。这与几乎所有其他印欧或近东神话都正好相反——希腊神话中乌兰诺斯（天空）是男，盖亚（大地）是女；美索不达米亚中安努（天空）是男；中国神话中天为阳地为阴，通常也是天男地女。
+## 跨文化比较
 
-这种独特的性别配置反映了古埃及宗教思想的独立性，没有受到其他文明影响。埃及学家一直在讨论这种配置背后的文化原因，一种观点认为这与埃及人对尼罗河泛滥的体验有关：大地（盖布）接纳河水（努特）的滋养，就像男性接纳女性，所以自然形成了这种配置。
+如前所述，努特与盖布的天地分离神话在世界各地都有非常相似的版本：
+- 美索不达米亚：安（天）与祺（地）被恩利尔分开
+- 希腊：乌兰诺斯（天）与盖亚（地）被克洛诺斯分开
+- 中国：盘古开天辟地，清轻者上浮为天，浊者下沉为地
 
-另一个有趣的平行是中国神话中的女娲，同为女性创世大神，同样承担着修补天地、孕育生命的功能。
-
-## 意义总结：宇宙秩序的母性载体
-
-努特在埃及神学体系中的位置非常独特：她不是那种需要人们祈求丰产或战争胜利的功能性神祇，她本身就是宇宙秩序的载体。她的身体就是我们生活于其中的天空，她孕育了众神，也孕育了死者的重生，她的存在本身就是秩序。
-
-这种定位使得她跨越了三千年的埃及历史，始终保持着稳定的形象与功能，几乎没有大的变动，这在埃及诸神中并不多见。她体现了古埃及人对宇宙最直观的理解：天空是一位温柔的母亲，承载着万物，也接纳着万物回归。
+这种跨文化平行说明，创世神话中天地分离是人类解释宇宙起源的自然思路（Luyaluka 2018）。
 
 ## Mythos Atlas 编者按
 
-奠基性整理：Hart（2005）的辞书条目清晰系统整理了努特的所有核心神话与考古遗存。最新进展：Fawzy等人（2023）对欧美博物馆收藏未刊布埃及棺盖的持续整理，不断提供新的图像资料；天文考古学方面，Maravelia（2003）提出的银河对应假说仍在讨论中。核心遗存遍布各时期丧葬建筑，保存状况良好，图像资料丰富。独特的天空女神性别配置，使得努特成为比较神话学研究的重要案例。
+努特是古埃及宇宙论核心神祇，她的形象清晰稳定，流传三千年，是理解埃及创世思想的关键。传统研究已经非常充分，但2024年银河系新说为这个古老话题注入了新活力。本条目整合了经典研究与最新天文学假说，呈现当前学界讨论。由于她的形象构图极具美感，是埃及宗教艺术中最受欢迎的主题之一。
