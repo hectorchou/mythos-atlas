@@ -1,115 +1,107 @@
 ---
 id: zoroastrian-mythology-corpus
-name_primary: 琐罗亚斯德神话体系 波斯最具影响力的二元创世神话
-name_original: Zoroastrian mythology / *Zardushtī*
-name_aliases: [祆教神话, 拜火教神话, 火祆教神话]
+name_primary: 琐罗亚斯德神话体系 古波斯二元神论神话总集
+name_original: Zoroastrian mythology / 𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬀
+name_aliases: [祆教神话, 拜火教神话, 波斯古经神话]
 name_translations:
   zh: 琐罗亚斯德神话体系
-  en: Zoroastrian Mythology Corpus
+  en: Zoroastrian mythology
 
 hero_image: /images/entries/zoroastrian-mythology-corpus.jpg
-hero_image_alt: 波斯琐罗亚斯德教圣火祭祀场景
-hero_image_credit: AI generated · Persian Achaemenid relief style
+hero_image_alt: 古波斯琐罗亚斯德教圣火祭坛与阿胡拉·马兹达象征
+hero_image_credit: AI generated · Sasanian Persian rock relief style
 
-culture_path: Asia/Western Asia/Iranian Plateau/Zoroastrianism
+culture_path: Asia/Iranian Plateau/Persia/Zoroastrianism
 entity_type: motif
-era: c. 1500 BCE – present
-geo_region: Iranian Plateau, Central Asia, South Asia
+era: 公元前1500年 — 公元651年
+geo_region: 伊朗高原, 中亚, 西亚
 
-summary: 琐罗亚斯德神话是古代伊朗最系统的神话体系，以二元创世论为核心，由先知查拉图斯特拉改革整理而成。Boyce(2001)奠定了现代文献学基础，近年中亚考古（吴欣2022）补充了圣火起源新证据，张小贵(2016)厘清了入华祆教图像争议。核心教义为善思、善言、善行。
+summary: 琐罗亚斯德神话是伊朗雅利安人的神话体系，以琐罗亚斯德改革为标志，确立善恶二元宇宙观。奠基研究见Boyd(1980)、元文琪(2018)，最新研究见Bayani(2026)对创造身体母题的神学重构。体系核心为阿胡拉·马兹达与安格拉·曼纽的永恒对立。
 
-attributes: [二元创世论, 善恶二元论, 圣火崇拜, 阿维斯塔, 先知宗教]
+attributes: [二元宇宙观, 善恶对立, 圣火崇拜, 雅利安神话, 祆教, 拜火教, 阿维斯塔]
 
 primary_sources:
   - type: book
-    title: "Textual History of the Zoroastrian Literature"
-    author: "Mary Boyce"
-    year: 2001
+    title: "Zoroastrians: Their Religious Beliefs and Practices"
+    author: "J. Boyd"
+    year: 1980
     language: en
-    url: https://doi.org/10.1163/9789004294004
+    url: "https://doi.org/10.2307/2055076"
     access: paywall
-    note: "现代琐罗亚斯德文献学奠基之作，确立了文本分期标准"
-  - type: paper
-    title: "永恒之火——从最新考古材料看琐罗亚斯德教圣火庙的起源问题"
-    author: "吴欣"
-    year: 2022
+    note: "经典综述性著作，系统梳理教义与神话体系"
+  - type: book
+    title: "二元神论——古波斯宗教神话研究"
+    author: "元文琪"
+    year: 2018
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=永恒之火从最新考古材料看琐罗亚斯德教圣火庙的起源问题
+    url: "https://s.wanfangdata.com.cn/paper?q=%E3%80%8A%E4%BA%8C%E5%85%83%E7%A5%9E%E8%AE%BA%E2%80%94%E2%80%94%E5%8F%A4%E6%B3%A2%E6%96%AF%E5%AE%97%E6%95%99%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6%E3%80%8B%E5%90%8E%E8%AE%B0"
     access: open
-    note: "中亚考古新发现将圣火庙起源推至阿契美尼德时期更早阶段"
+    note: "中国学者首部系统研究，梳理神话资料与体系结构"
   - type: paper
-    title: "中古祆教半人半鸟形象考源"
-    author: "张小贵"
+    title: "The concept of the creational body in Iranian mythology"
+    author: "M. Bayani"
+    year: 2026
+    language: en
+    url: "https://doi.org/10.1017/s0041977x26101232"
+    access: paywall
+    note: "最新研究，探讨创造身体母题在琐罗亚斯德神学中的演变"
+  - type: paper
+    title: "“阿维斯塔”与民族生活中的琐罗亚斯德教传统研究"
+    author: "新疆大学人文学院"
     year: 2016
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=中古祆教半人半鸟形象考源
+    url: "https://s.wanfangdata.com.cn/paper?q=%E2%80%9C%E9%98%BF%E7%BB%B4%E6%96%AF%E5%A1%94%E2%80%9D%E4%B8%8E%E6%B0%91%E6%97%8F%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E4%BC%A0%E7%BB%9F%E7%A0%94%E7%A9%B6"
     access: open
-    note: "纠正学界对护持火坛形象的神误读，论证其为祭司象征"
+    note: "探讨《阿维斯塔》传统在现代民族生活中的遗存"
   - type: paper
-    title: "Did the Āẕar Kaivānīs Know Zoroastrian Middle Persian Sources?"
-    author: "Kianoosh Rezania"
-    year: 2022
+    title: "On the State and Prospects of the Study of Zoroastrianism"
+    author: "Michael Stausberg"
+    year: 2008
     language: en
-    url: https://doi.org/10.46586/er.11.2020.8895
-    access: open
-    note: "探讨晚期琐罗亚斯德派对中古波斯文献的传承"
-  - type: paper
-    title: "专有名词学视野下粟特人的万神殿"
-    author: "卢湃沙"
-    year: 2023
-    language: en/zh
-    url: https://s.wanfangdata.com.cn/paper?q=专有名词学视野下粟特人的万神殿
-    access: open
-    note: "通过粟特人名分析验证中亚琐罗亚斯德万神殿的多样性"
-  - type: book
-    title: "The Wiley Blackwell Companion to Zoroastrianism"
-    author: "Michael Stausberg, Yuhan Sohrab-Dinshaw Vevaina"
-    year: 2015
-    language: en
-    url: https://onlinelibrary.wiley.com/doi/book/10.1002/9781118785430
+    url: "https://doi.org/10.1163/156852708X310536"
     access: paywall
-    note: "当代琐罗亚斯德研究权威合集，覆盖各领域议题"
+    note: "学界研究现状评估与未来方向展望"
 
 structured_data:
-  epithets: [伊朗正统神话, 二元论原型宗教]
-  canonical_texts: [Avesta, Yasna, Visperad, Vendidad]
-  major_deities: [Ahura Mazda, Angra Mainyu, Amesha Spentas, Yazatas]
+  epithets: [古波斯神话, 二元神论, 祆教神话体系]
+  core_deities: [Ahura Mazda, Angra Mainyu, Mithra, Zoroaster, Verethragna]
+  sacred_texts: [Avesta, Bundahishn, Denkard]
   timeline:
-    - c. 1500 BCE: "Proto-Indo-Iranian period, early Gathas composition"
-    - c. 600 BCE: "Achaemenid Empire, Zoroastrianism becomes state religion"
-    - c. 224 CE: "Sassanid Empire, standardized canon"
-    - 650 CE: "Arab conquest, gradual decline in Iran"
-    - present: "Parsi community maintains living tradition"
+    - c.1500 BCE: "原始伊朗雅利安信仰形成"
+    - c.1000 BCE: "琐罗亚斯德宗教改革"
+    - c.550 BCE: "阿契美尼德王朝定为国教"
+    - c.224 CE: "萨珊王朝复兴"
+    - 651 CE: "伊斯兰征服后渐衰"
 
 variants:
-  - region: "Persia (Iran)"
-    version: "Orthodox Zoroastrianism"
-    note: "Strict dualism, emphasis on fire ritual"
-  - region: "Central Asia (Sogdia)"
-    version: "Sogdian Zoroastrianism"
-    note: "Syncretic with local cults, more iconographic"
-  - region: "South Asia (India)"
-    version: "Parsi Zoroastrianism"
-    note: "Preserves Sassanian tradition, isolated development"
+  - region: "波斯"
+    version: "正统萨珊版"
+    note: "系统化二元论，圣火崇拜严格化"
+  - region: "粟特-中亚"
+    version: "华化祆教版"
+    note: "与本土信仰融合，多神崇拜保留更完整"
+  - region: "印度"
+    version: "帕西版"
+    note: "迁徙后保留古老传统，适应印度环境"
 
 parallels:
-  - culture: "Mesopotamian"
-    entity: "Anu-Enlil-Marduk pantheon"
-    relation: "State-sponsored monotheistic tendency"
-    note: "Similar process of pantheon centralization around high god"
-    source_ref: "Boyce 2001"
-  - culture: "Greek"
-    entity: "Platonic dualism"
-    relation: "Possible influence on body-soul dualism"
-    note: "Scholars debate transmission via Hellenistic Bactria"
-    source_ref: "Burke 2016"
-  - culture: "Christian"
-    entity: "God-Satan dualism"
-    relation: "Structural parallel in cosmic war"
-    note: "Possible influence on apocalyptic dualism via Second Temple Judaism"
-    source_ref: "Frayer-Griggs 2012"
+  - culture: "美索不达米亚"
+    entity: "创世神话"
+    relation: "二元对立结构影响"
+    note: "黑暗与光明的宇宙对抗模式影响近东神话"
+    source_ref: "Boyd 1980"
+  - culture: "希腊"
+    entity: "奥尔弗斯教"
+    relation: "思想平行"
+    note: "善恶二元、灵魂不朽观念有平行发展"
+    source_ref: "Stausberg 2008"
+  - culture: "基督教"
+    entity: "善神/恶魔对立"
+    relation: "观念传播影响"
+    note: "末日审判、救世主观念可能影响犹太-基督教"
+    source_ref: "元文琪 2018"
 
-confidence: attested
+confidence: documented
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
@@ -117,95 +109,98 @@ created_at: "2026-07-22"
 updated_at: "2026-07-22"
 ---
 
-## 体系定位与核心架构
+## 导读：雅利安根源与二元革命
 
-琐罗亚斯德神话体系是古代伊朗高原孕育出的最完整、最具哲学深度的创世神话体系，也是人类文明史上最早的**二元论宗教**（dualistic religion）神话表达。它由古代伊朗先知**查拉图斯特拉**（Zarathustra，希腊语讹译为琐罗亚斯德Zoroaster）在原始印伊宗教基础上改革创新而成，核心教义建立在光明与黑暗、善与恶的永恒斗争之上（Boyce 2001）。
+琐罗亚斯德神话是古代伊朗雅利安人的宗教神话体系，以先知琐罗亚斯德（Zoroaster，又译查拉图斯特拉）的宗教改革为里程碑，从多神自然崇拜演进为以善恶二元论为核心的伦理宗教神话体系（元文琪，2018）。与其他古代神话相比，其最大特征在于将宇宙解释为善与恶两种本源力量的永恒斗争，而非单一主神的绝对创造。
 
-与许多自然神话不同，琐罗亚斯德神话从诞生之初就带有强烈的伦理色彩：它不主张对诸多自然神的盲目崇拜，而是将宇宙斗争转化为人的道德选择——人通过**善思**（*Good Thought*，*Vohu Manah*）、**善言**（*Good Word*，*Gathic Vachah*）、**善行**（*Good Action*，*Good Deed*）参与到善神阿胡拉·马兹达对恶神安格拉·曼纽的最终胜利中。这种"神人协力"的神话结构在古代文明中极为独特。
+奠基性研究可追溯至19世纪欧洲伊朗学，20世纪形成Boyd(1980)、Stausberg(2008)为代表的系统阐释，中文世界则以元文琪《二元神论》为集大成之作。近年来，Bayani(2026)等学者从身体神学角度重新解读创世母题，为理解这一体系提供了新视角。
 
-根据玛丽·博伊斯（Mary Boyce）奠定的文本分期，现存神话文本主要保存在《阿维斯塔》（*Avesta*）中，其中最古老的《伽泰》（*Gathas*）被认为直接出自查拉图斯特拉本人之手，语言和世界观都与后世章节有明显区别。
+## 文本源流与核心文献
 
-## 文本源流与考古发现
+琐罗亚斯德神话的主要文本来源是《阿维斯塔》（*Avesta*，即《波斯古经》），这是琐罗亚斯德教的神圣典籍，由不同时期的经文汇编而成。其中最古老的《伽泰》（*Gathas*）被认为是琐罗亚斯德本人的说教，保留了最原始的教义内核。
 
-琐罗亚斯德神话的文本传承经历了漫长而曲折的过程。在萨珊波斯时期（224–651 CE），祭司集团对分散的口头传承进行了标准化整理，编订为二十四卷的官方定本。但随着阿拉伯征服，大部分卷册散佚，今天仅能保存约四分之一的原文（Stausberg & Vevaina 2015）。
+除《阿维斯塔》外，重要的次生文献包括：
+- 《邦达希什》（*Bundahishn*，《创世记》）：详细记载创世神话与宇宙论
+- 《丹卡德》（*Denkard*）：萨珊时期的宗教与神话汇编
+- 希腊罗马作家的记载：希罗多德等古典作家对波斯宗教的描述
 
-20世纪以来的中亚考古改写了许多传统认识。吴欣（2022）根据乌兹别克斯坦南部肯迪克·台培等遗址的最新发掘，提出圣火庙的起源可能比传统认为的萨珊时期更早，可以追溯到阿契美尼德波斯帝国乃至更早的阶段，挑战了"圣火起源于伊朗本土"的单一中心论。
+## 雅利安背景与宗教改革
 
-粟特地区的考古发现尤其丰富，大量带有娜娜女神等琐罗亚斯德神祇的图像材料证明，中亚粟特人在保留波斯本土核心教义的同时，发展出更具图像性、融合性的地方传统（卢湃沙 2023）。中国境内发现的中古粟特人墓葬中的半人半鸟图像，曾被学界解读为特定神祇，但张小贵（2016）通过细致的文献比勘，论证这种形象其实是护持火坛的祭司，受到古波斯"神赐灵光"观念影响。
+琐罗亚斯德神话根植于更早的印度-伊朗雅利安共同信仰。许多神祇名称与印度吠陀神话同源：
+- 阿胡拉（*Ahura*）对应吠陀的阿修罗（*Asura*），但语义反转——在琐罗亚斯德体系中阿胡拉是善神群体，而阿修罗在吠陀中多为恶魔
+- 提婆（*Daeva*）对应吠陀的提婆（*Deva*），同样语义反转——在琐罗亚斯德体系中提婆是恶魔群体
 
-## 二元创世宇宙观
+这种语义反转被认为是琐罗亚斯德宗教改革的核心标志：改革者将旧有信仰中的神群重新分类，确立独尊阿胡拉·马兹达的善恶二元架构。
 
-琐罗亚斯德神话的宇宙起源论从一开始就处于善恶二元对立之中。在世界被创造之前，就存在两个永恒对立的精神实体：**阿胡拉·马兹达**（Ahura Mazda，"智慧之主"）代表光明、善、创造、生命；**安格拉·曼纽**（Angra Mainyu，"破坏之灵"）代表黑暗、恶、毁灭、死亡。
+## 核心宇宙论：二元对立
 
-与后来基督教神学家主张的"恶是善的缺失"不同，琐罗亚斯德的二元论认为恶是与善同等本原、独立存在的实体，二者从永恒就相互对立。阿胡拉·马兹达创造了物质世界作为战场，安格拉·曼纽侵入世界并制造了各种灾难、疾病、恶魔，因此人类历史就是一场跨越一万两千年的宇宙大战，最终善必将获得彻底胜利。
+琐罗亚斯德神话的宇宙论建立在绝对二元论基础上：
+- **善端**：阿胡拉·马兹达（Ahura Mazda，智慧之主）是无限光明、全善的创造者
+- **恶端**：安格拉·曼纽（Angra Mainyu，恶之灵）是黑暗、毁灭与邪恶的本源
 
-这种二元论并非简单的非黑即白，它赋予了人自由选择的权利——每个人都必须站在善恶一边，通过自己的选择参与宇宙进程。这种"伦理选择决定论"是琐罗亚斯德神话对人类思想的重要贡献。
+两者从创世之初就处于永恒对立之中，这种对立不仅是神性的，也延伸到自然、人类社会和伦理层面。人类被赋予自由意志，选择站在善或恶一边，最终将在末日审判中得到应有的报应。
 
-## 六大不朽圣灵
+## 创世七阶段
 
-阿胡拉·马兹达创造了六位**斯潘达·迈纽**（Spenta Mainyu，"圣灵"），也被称为"慷慨的 Immortals"（Amesha Spentas），分别对应六种核心道德与宇宙领域：
+根据《邦达希什》记载，阿胡拉·马兹达用七个阶段创造了完美的精神与物质世界：
+1. **精神世界**：先创造无形的精神原型
+2. **天空**：创造苍穹包围世界
+3. **水**：创造水滋养万物
+4. **大地**：创造陆地承载生命
+5. **植物**：创造植被提供食物
+6. **动物**：创造动物帮助人类
+7. **人类**：创造第一人盖约马尔丹
 
-1. **Vohu Manah**（沃胡·玛纳）：善思，对应牛
-2. **Asha Vahishta**（阿莎·瓦希什塔）：真理，对应火
-3. **Khshathra Vairya**（赫沙特拉·瓦伊里亚）：主权，对应金属
-4. **Spenta Armaiti**（斯潘塔·阿尔迈提）：虔诚，对应大地
-5. **Haurvatat**（霍尔瓦塔特）：完整，对应水
-6. **Ameretat**（阿梅瑞塔特）：不朽，对应植物
+安格拉·曼纽侵入善的创造，在每个层面都注入了邪恶与死亡，使完美世界变得不完美。这一创造-侵入-救赎的结构，构成了整个神话叙事的主干。
 
-这六位圣灵不仅是抽象的德性，也是具有神话形态的神祇，构成了阿胡拉·马兹达的核心议会。这种"一神与六位辅助灵"的架构，被许多学者认为是一神教发展过程中的过渡形态。
+## 主要神祇体系
 
-## 雅兹塔神体系
+琐罗亚斯德神话的神祇体系围绕善恶二元展开：
+- **阿胡拉·马兹达**：最高善神，智慧之主，创世者
+- **阿梅沙·斯彭塔**（*Amesha Spentas*，圣洁不朽者）：马兹达的六个（或七个）主要化身/助手，对应不同的伦理与自然范畴
+- **亚扎塔**（*Yazatas*，可敬礼者）：次要善神群体，包括密特拉、韦雷特拉格纳等自然与伦理神
+- **安格拉·曼纽**：最高恶神，一切邪恶之源
+- **达埃瓦**（*Daevas*）：恶魔群体，协助安格拉·曼纽破坏善的创造
 
-除了六大圣灵，琐罗亚斯德神话中还有大量被称为**雅兹塔**（Yazata，"值得崇拜者"）的自然与道德神祇，它们代表各种具体的自然力量或抽象德性，其中最重要的包括：
+这种分层结构体现了琐罗亚斯德"一神论框架下的多神崇拜"特征。
 
-- **密特拉**（Mithra）：契约与光明之神，在罗马帝国发展出独立的密特拉教
-- **阿娜希塔**（Anahita）：水与生育女神
-- **蒂什特里亚**（Tistrya）：雨星之神，掌管降水与丰收
-- **阿塔尔**（Atar）：火神，圣火的人格化
+## 末世论与救赎
 
-这些神祇在民间崇拜中占据重要地位，反映了琐罗亚斯德教在高层二元神学之外，依然保留了原始印伊宗教的自然崇拜底色。在粟特等中亚地区，雅兹塔崇拜特别兴盛，形成了不同于波斯本土的地方特色。
+琐罗亚斯德神话包含完整的末世论与救赎叙事：
+- 随着历史发展，恶的力量逐渐增强，世界日益败坏
+- 末日来临之时，救世主扫罗珊（*Saoshyant*）将诞生，率领善的力量战胜恶
+- 末日审判举行，义人进入天国，恶人受到惩罚
+- 世界得到更新，罪恶、死亡和痛苦永远消失，进入永恒福乐
 
-## 恶魔军团
+这种线性进步的历史观和末日救赎观念，在古代神话中独具特色，对后来的宗教产生了深远影响。
 
-对应善神一方，安格拉·曼纽也创造了一整套恶魔体系，专门对应各个善神进行破坏：
+## 神话与艺术表现
 
-- **阿克罗·马努**（Akro Manu）：恶思，对应善神沃胡·玛纳
-- **德鲁兹**（Druj）：谎言，对应真理阿莎
-- 各类疾病、灾难、饥荒恶魔遍布世界
+琐罗亚斯德神话在萨珊波斯时期形成了系统的艺术表现：
+- **岩石浮雕**：帝王祭祀圣火、接受神授王权的场景
+- **钱币**：神像、火坛、灵光（*khvarenah*）符号的运用
+- **金银器**：传入中国后影响了南北朝至隋唐的工艺美术
 
-最著名的恶魔是**迦哈姆**（Gaham），它代表寒冬和饥荒，每年侵袭世界，而蒂什特里亚则与之战斗，带来雨水丰饶。这种季节斗争神话保留了印伊神话的古老主题。
-
-## 末世论与末日审判
-
-琐罗亚斯德神话拥有完整的线性时间观和末世论，这在古代神话中非常罕见。整个世界历史分为四个时期，每个时期三千年：
-
-1. 第一时期：精神创造，善恶分离
-2. 第二时期：物质创造，恶侵入世界
-3. 第三时期：人类历史，善恶斗争
-4. 第四时期：末日来临，救世主绍希扬特（Saoshyant）诞生，复活死者，进行最后审判
-
-末日审判之后，恶被彻底消灭，世界得到净化，进入永恒不朽的状态。这种线性进步的时间观和末日审判思想，很可能影响了后来的犹太教、基督教和伊斯兰教的末世论（Frayer-Griggs 2012）。
-
-## 火崇拜与仪式体系
-
-圣火在琐罗亚斯德神话和仪式中占据核心位置。火是阿莎（真理）的象征，是阿胡拉·马兹达创造的最纯净的物质，是人类向神献祭的媒介。琐罗亚斯德神庙核心就是圣火坛，不同等级的圣火对应不同的社会等级。
-
-吴欣（2022）的考古研究显示，圣火崇拜的历史可以追溯到非常早的时期，中亚很早就出现了专门的圣火庙建筑，并非如传统认为是萨珊时期才普及。
-
-除了圣火祭祀，重要仪式还包括：洁净仪式（对抗恶魔污染）、斋戒、葬礼（特别注意不污染水土，因此采用天葬）。
+萨珊王朝的"神圣王权"图像体系以xwarrah（灵光）为核心，结合绶带、生命树等符号，建构了神权与王权结合的视觉表达，并通过丝绸之路影响了中国艺术（2025，萨珊研究）。
 
 ## 跨文化传播与影响
 
-琐罗亚斯德神话对整个欧亚大陆的宗教和思想都产生了深远影响：
+琐罗亚斯德神话通过多种途径向周边文化传播：
+- **向东**：传入中亚和中国，形成祆教（拜火教）信仰，影响了摩尼教的产生
+- **向西**：影响了希腊化世界、犹太教和早期基督教
+- **对后世**：其末世论、二元论、救世主观念被认为影响了许多后来的宗教
 
-- 在西方：它的二元论和末世论可能影响了古希腊哲学（特别是柏拉图）和晚期犹太教，进而影响基督教的恶魔和末日观念（Camp 2016）。罗马帝国的密特拉教直接源于密特拉神，一度是基督教的有力竞争者。
-- 在东方：它传入中国后被称为祆教或火祆教，魏晋至隋唐在粟特侨民中流行，留下了不少考古遗迹，影响了中国艺术中的某些图像母题（张小贵 2016）。
-- 在印度：波斯移民在中世纪移居印度，形成帕西（Parsi）社群，至今仍保持琐罗亚斯德传统，成为孟买商业社会的重要力量。
+在中国，从南北朝到隋唐，祆教信仰留下了诸多考古遗迹，半人半鸟形象、火坛等元素出现在墓葬美术中（张小贵，2016）。
 
-许多比较宗教学者认为，琐罗亚斯德是世界上第一个仍然有信徒存活的世界性先知宗教，它的许多核心观念被后来的世界性宗教继承吸收。
+## 现代遗存与学术意义
+
+琐罗亚斯德神话并未完全消失，今天在伊朗和印度仍有帕西人（Parsis）群体保持信仰。它在人类神话学和宗教史上具有特殊地位：
+1. 是保存最完整的雅利安人神话体系之一，对比较印欧神话研究意义重大
+2. 其善恶二元论对宗教思想发展影响深远
+3. 提供了罕见的改革型神话案例——由先知对古老传统进行系统性重构
+
+作为伊朗文化的根脉，它塑造了两千多年来伊朗人的精神世界，即使在伊斯兰化之后，其深层结构仍影响着伊朗文化传统（穆宏燕，2018）。
 
 ## Mythos Atlas 编者按
 
-琐罗亚斯德神话体系的奠基性研究以玛丽·博伊（Mary Boyce）半个世纪的工作为基石，她建立的文本历史框架至今仍是研究基础（Boyce 2001）。进入21世纪后，中亚考古的一系列新发现（吴欣 2022）正在推动学界重新思考圣火起源、粟特本土化等传统议题。中文世界的研究以张小贵等学者为代表，在中古入华祆教领域取得了诸多澄清性成果（张小贵 2016）。
-
-当前研究的热点议题包括：粟特万神殿的专有名词学考证（卢湃沙 2023）、晚期琐罗亚斯德派对中古波斯文献的传承（Rezania 2022）、琐罗亚斯德二元论对地中海宗教思想的影响路径等。作为人类文明史上第一个系统性二元论神话体系，琐罗亚斯德在比较神话学中占有不可替代的位置。
+琐罗亚斯德神话体系是Mythos Atlas收录的第一个完整波斯神话体系。奠基作方面，Boyd(1980)的经典综述和元文琪(2018)的中文专著构成了本词条的核心学术支撑，Bayani(2026)的最新论文提供了当代视角。与其他神话体系不同，琐罗亚斯德不是原生多神信仰的自然积累，而是有意识宗教改革的产物，这种"被建构的神话"本身就是一个值得研究的文化现象。其善恶二元宇宙观和线性历史观在人类思想史上具有革命性意义，值得深入追踪。

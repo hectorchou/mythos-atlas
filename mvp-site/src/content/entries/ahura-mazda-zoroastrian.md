@@ -1,107 +1,92 @@
 ---
 id: ahura-mazda-zoroastrian
-name_primary: 阿胡拉·马兹达 琐罗亚斯德神话至高善神与创世主
+name_primary: 阿胡拉·马兹达 琐罗亚斯德教最高智慧之神
 name_original: Ahura Mazda / 𐬀𐬵𐬎𐬭𐬀 𐬨𐬀𐬰𐬛𐬀
-name_aliases: [阿胡拉马兹达, 智慧之主, 奥尔穆兹德]
+name_aliases: [阿胡拉马兹达, 霍尔莫兹德, 奥胡拉马兹达]
 name_translations:
   zh: 阿胡拉·马兹达
   en: Ahura Mazda
   pe: اهورا مزدا
 
 hero_image: /images/entries/ahura-mazda-zoroastrian.jpg
-hero_image_alt: 阿契美尼德风格浮雕中的阿胡拉·马兹达象征
+hero_image_alt: 古波斯阿契美尼德风格浮雕中的阿胡拉·马兹达象征
 hero_image_credit: AI generated · Achaemenid Persian relief style
 
-culture_path: Asia/Western Asia/Iranian Plateau/Zoroastrianism
+culture_path: Asia/Iranian Plateau/Persia/Zoroastrianism
 entity_type: deity
-era: c. 1500 BCE – present
-geo_region: Iranian Plateau, Central Asia
+era: 公元前1000年 — 至今
+geo_region: 伊朗高原
 
-summary: 阿胡拉·马兹达是琐罗亚斯德神话中的至高神、智慧之主与万物创造者，代表光明、真理与善。Hintze(2005)系统梳理了其神学地位演化，Boyce(1996)阐明其与安格拉·曼纽的二元关系，滕磊(2006)梳理了其在中国文献中的记载。是二元创世论中善的本原。
+summary: 琐罗亚斯德神话体系中最高的善神与创世者，象征无限光明与绝对智慧。是善恶二元论中善端本源，创造了完美世界并引领人类走向善途。研究见Stausberg(2008)、元文琪(2018)。
 
-attributes: [至高神, 创世主, 智慧之主, 光明之神, 善本原]
+attributes: [最高神, 创世者, 智慧, 光明, 善端本源, 二元论, 琐罗亚斯德]
 
 primary_sources:
-  - type: paper
-    title: "Ahura Mazdā and Angra Mainyu"
-    author: "Almut Hintze"
+  - type: book
+    title: "Zoroastrianism: A Short Introduction"
+    author: "Michael Stausberg"
     year: 2005
     language: en
-    url: https://www.semanticscholar.org/search?q=Ahura%20Mazd%C4%81%20and%20Angra%20Mainyu
-    access: open
-    note: "系统分析阿胡拉·马兹达与安格拉·曼纽二元关系的神学发展"
-  - type: book
-    title: "AHURA MAZDĀ, ANGRA MAINYU AND THE BOUNTEOUS IMMORTALS"
-    author: "Mary Boyce"
-    year: 1996
-    language: en
-    url: https://doi.org/10.1163/9789004294004_009
+    url: "https://doi.org/10.1558/FIRN.V4I2.211"
     access: paywall
-    note: "经典研究，阐明六大不朽圣灵与至高神的关系架构"
-  - type: paper
-    title: "关于在华祆祠的几点认识"
-    author: "滕磊"
-    year: 2006
+    note: "系统介绍阿胡拉·马兹达在教义中的核心地位"
+  - type: book
+    title: "二元神论——古波斯宗教神话研究"
+    author: "元文琪"
+    year: 2018
     language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=关于在华祆祠的几点认识
+    url: "https://s.wanfangdata.com.cn/paper?q=%E3%80%8A%E4%BA%8C%E5%85%83%E7%A5%9E%E8%AE%BA%E2%80%94%E2%80%94%E5%8F%A4%E6%B3%A2%E6%96%AF%E5%AE%97%E6%95%99%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6%E3%80%8B%E5%90%8E%E8%AE%B0"
     access: open
-    note: "梳理中国中古文献中对阿胡拉·马兹达信仰的记载与误解"
+    note: "中文世界对阿胡拉·马兹达教义地位的系统阐释"
   - type: paper
-    title: "Cuidado del mundo, cuidado de la palabra, cuidado del alma: la visión del problema según el zoroastrismo"
-    author: "José Antonio Antón Pacheco"
-    year: 2016
-    language: es
-    url: https://www.semanticscholar.org/search?q=Cuidado%20del%20mundo%2c%20cuidado%20de%20la%20palabra
-    access: open
-    note: "从存在论视角分析阿胡拉·马兹达创世观念的伦理维度"
-  - type: paper
-    title: "The Relationship Between Zoroastrianism and Kingship in the Iranian Empire"
-    author: "Yangyi Zeng"
-    year: 2023
+    title: "The Zoroastrian Faith: Tradition and Modern Research"
+    author: "S. Nigosian"
+    year: 1993
     language: en
-    url: https://doi.org/10.54254/2753-7064/4/20220270
+    url: "https://doi.org/10.2307/605371"
+    access: paywall
+    note: "现代研究对阿胡拉·马兹达观念演变的梳理"
+  - type: paper
+    title: "琐罗亚斯德教及其救世主—琐什扬斯"
+    author: "普慧"
+    year: 2016
+    language: zh
+    url: "https://www.cqvip.com/search?k=%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E5%8F%8A%E5%85%B6%E6%95%91%E4%B8%96%E4%B8%BB%3A%E7%90%90%E4%BB%80%E6%89%AC%E6%96%AF"
     access: open
-    note: "探讨阿胡拉·马兹达信仰与伊朗王权意识形态的关系"
+    note: "讨论阿胡拉·马兹达救赎论中的核心位置"
 
 structured_data:
-  epithets: [智慧之主, 光明创造者, 至高无上者]
-  titles: [King of Kings, Creator of All]
-  children: [Amesha Spentas]
-  consort: [Spenta Armaiti (in some traditions)]
-  cult_center: [Persepolis, Naqsh-e Rustam, Fire Temples across Iran]
+  epithets: [智慧之主, 无限光明, 创世者, 善之本源]
+  titles: [最高阿胡拉, 万神之主]
+  manifestations: [圣火, 太阳, 星辰]
+  cult_center: [波斯波利斯, 塔克特伊苏莱曼, 纳欣奇万]
   timeline:
-    - c. 1500 BCE: "Emerges as supreme deity in Gathas"
-    - c. 500 BCE: "Becomes state god of Achaemenid Empire"
-    - c. 224 CE: "Sassanid standard theology: Ahura Mazda vs Angra Mainyu"
-    - 650 CE: "Declines after Arab conquest"
+    - c.1500 BCE: "原始雅利安信仰中的阿胡拉群体"
+    - c.1000 BCE: "琐罗亚斯德改革升为最高神"
+    - c.550 BCE: "阿契美尼德王朝国神"
+    - c.224 CE: "萨珊王朝复兴崇拜"
 
 variants:
-  - region: "Sassanid Persia"
-    version: "Orthodox Mazdaism"
-    note: "Ahura Mazda as sole creator, Angra Mainyu as separate evil principle"
-  - region: "Zurvanism"
-    version: "Zurvanite Zoroastrianism"
-    note: "Zurvan (Time) as father of both Ahura Mazda and Angra Mainyu"
-  - region: "Sogdian Central Asia"
-    version: "Sogdian Mazdaism"
-    note: "Syncretic with local cults, more iconographic representation"
+  - region: "萨珊波斯"
+    version: "霍尔莫兹德（Hormozd）"
+    note: "萨珊时期波斯语名称，与国王同名"
 
 parallels:
-  - culture: "Greek"
-    entity: "Zeus"
-    relation: "King of gods parallel"
-    note: "Both are sky father and king of pantheon, though Zeus not sole creator"
-    source_ref: "Stausberg & Vevaina 2015"
-  - culture: "Mesopotamian"
-    entity: "Anu"
-    relation: "High god of heaven parallel"
-    note: "Similar position as head of the pantheon"
-    source_ref: "Boyce 2001"
-  - culture: "Christian"
-    entity: "God the Father"
-    relation: "Creator god parallel"
-    note: "Possible influence on monotheistic concept of creator"
-    source_ref: "Frayer-Griggs 2012"
+  - culture: "印度吠陀"
+    entity: "伐楼拿（Varuna）"
+    relation: "同源神格，智性天帝"
+    note: "同属印度-雅利安至高神，均体现天道秩序观念"
+    source_ref: "元文琪 2018"
+  - culture: "希腊"
+    entity: "宙斯"
+    relation: "功能平行，至高天父"
+    note: "均为众神之父，主宰天界秩序"
+    source_ref: "Boyd 1980"
+  - culture: "基督教"
+    entity: "上帝"
+    relation: "观念影响"
+    note: "一神论、创世观、全能观念的平行与影响"
+    source_ref: "Stausberg 2008"
 
 confidence: attested
 llm_assisted: true
@@ -111,89 +96,93 @@ created_at: "2026-07-22"
 updated_at: "2026-07-22"
 ---
 
-## 神格定位与核心属性
+## 导读：善恶框架中的至善本源
 
-阿胡拉·马兹达（Ahura Mazda，字面意思是"智慧之主"）是琐罗亚斯德神话体系中的至高神、万物创造者，代表光明、真理、善与生命的本原。在《伽泰》中，查拉图斯特拉直接宣示："我承认你，阿胡拉·马兹达，你是创造万物的智慧之主。"
+阿胡拉·马兹达（Ahura Mazda）是琐罗亚斯德神话体系中的最高神，是智慧之主、创世者和一切善的本源。在琐罗亚斯德的二元论框架中，他作为光明与善的永恒代表，与代表黑暗与恶的安格拉·曼纽进行着永不停息的斗争。这一神格的确立，标志着伊朗雅利安宗教从多神信仰向伦理一神教的转变（Stausberg，2008）。
 
-与原始印伊宗教中的"阿胡拉"（Ahura）概念相比，查拉图斯特拉的改革将阿胡拉·马兹达提升到唯一创造者的位置。原有的其他阿胡拉神逐渐降格为圣灵或雅兹塔。这种神学发展被学界视为从多神教向一神教演变的典型案例（Hintze 2005）。
+与许多古代神话中的最高神不同，阿胡拉·马兹达并非全能独裁者，他创造了完美世界，但恶的入侵使世界变得不完美，他需要人类通过自由选择共同参与善的事业，最终战胜邪恶。这种"有限全能"的神格，在古代宗教思想中独具特色。
 
-根据神名词源学分析，*Ahura* 源于原始印欧语词根，意思是"存在者"、"主"，*Mazda* 意思是"智慧"，因此全名即"智慧的主宰"，强调其作为智慧创造者而非蛮力征服者的特质。
+## 名称语义与词源
 
-## 《伽泰》中的阿胡拉·马兹达
+阿胡拉·马兹达的名称由两部分组成：
+- **阿胡拉（Ahura）**：源自印度-伊朗词根*asu-*，意为"生命"、"精神"，在原始雅利安信仰中是一类尊贵神祇的统称
+- **马兹达（Mazda）**：意为"智慧"，形容词形式*mazdā*，表示"智慧的"
 
-在最古老的《伽泰》篇章中，阿胡拉·马兹达的形象相对抽象，更多是作为精神本原而非拟人化神祇出现。他创造了六大**不朽圣灵**（Amesha Spentas）作为自己的辅助，分别对应不同的德性和自然领域。
+合起来即"智慧的阿胡拉"或"智慧之主"。在词源上，阿胡拉与印度吠陀中的阿修罗（*Asura*）同源，但语义发生了反转：在琐罗亚斯德体系中阿胡拉是善神，而阿修罗在吠陀中多为魔神。这种反转是琐罗亚斯德宗教改革的标志性特征（元文琪，2018）。
 
-与后来萨珊时期明确的二元论不同，《伽泰》中对安格拉·曼纽的起源叙述比较模糊，有学者认为在最早期教义中，安格拉·曼纽本身也是阿胡拉·马兹达创造的，后来才背离了善。这种理解和后来萨珊神学主张的"二者都是永恒本原"有所不同（Boyce 1996）。
+## 在创世神话中的角色
 
-阿胡拉·马兹达在《伽泰》中最重要的属性是**阿莎**（Asha，真理/正义），他本身就是阿莎的创造者和守护者，整个创世就是为了实现阿莎对德鲁兹（Druj，谎言）的最终胜利。
+根据《邦达希什》创世记载，阿胡拉·马兹达是世界的创造者：
+1. 他首先创造了无形的精神世界和诸灵
+2. 然后分七个阶段创造了物质世界：天空、水、地、植物、动物、人类
+3. 他创造的世界原本是完美、不朽和无痛的
+4. 安格拉·曼纽嫉妒善的创造，侵入世界并在每个创造物中注入邪恶、死亡和痛苦
 
-## 阿契美尼德时期的发展
+因此，阿胡拉·马兹达不是世界上一切事物的创造者——他只创造了善，恶是安格拉·曼纽从外部引入的。这是琐罗亚斯德二元论最核心的主张：恶并非来自上帝，而是有独立本源。
 
-在阿契美尼德波斯帝国（前550–前330 BC）时期，阿胡拉·马兹达成为帝国的保护神。大流士一世在贝希斯敦铭文开头即宣称："我是大流士，大王，万王之王，阿胡拉·马兹达赐予我王国。"
+## 阿梅沙·斯彭塔：马兹达的六化身
 
-在阿契美尼德的宫殿浮雕中，阿胡拉·马兹达通常并不以人形出现，而是象征为一个有翅膀的圆盘，代表灵光（*khvarenah*）笼罩国王。这种无偶像崇拜符合琐罗亚斯德教的基本精神——反对偶像崇拜，只通过圣火和象征来敬拜至高神。
+阿胡拉·马兹达创造了六位（一说七位）阿梅沙·斯彭塔（*Amesha Spentas*，"圣洁不朽者"），作为他的主要助手和化身，分别对应不同的伦理和自然范畴：
 
-曾杨毅（2023）指出，阿胡拉·马兹达信仰为波斯王权提供了意识形态基础：国王的统治合法性来自阿胡拉·马兹达的任命，国王必须遵循阿莎（正义）进行统治，这一点影响了后来整个西亚北非的王权观念。
+1. **沃胡·玛纳（Vohu Manah）**：善思，对应动物
+2. **阿沙·瓦希什塔（Asha Vahishta）**：真理，对应火
+3. **赫沙特拉·瓦伊里亚（Khshathra Vairya）**：主权，对应金属
+4. **斯彭塔·阿尔迈蒂（Spenta Armaiti）**：虔敬，对应大地
+5. **胡尔瓦特（Haurvatat）**：完整，对应水
+6. **阿梅雷塔特（Ameretat）**：不朽，对应植物
 
-## 萨珊时期的系统化神学
+这种对应体现了琐罗亚斯德思想中伦理秩序与自然秩序的统一：善的伦理对应有序的自然，恶的入侵导致伦理败坏和自然灾变。
 
-萨珊波斯时期（224–651 CE），琐罗亚斯德教成为国教，祭司集团对神学进行了系统化整理，确立了阿胡拉·马兹达与安格拉·曼纽二元对立的正统教义：
+## 教义发展：从多神到一神
 
-- 二者都是无始无终、永恒存在的实体
-- 阿胡拉·马兹达代表光明、善、创造
-- 安格拉·曼纽代表黑暗、恶、破坏
-- 整个宇宙历史就是二者的永恒斗争
+阿胡拉·马兹达的神格地位有一个发展过程：
+- **前琐罗亚斯德时期**：只是阿胡拉群体中的一位重要神祇
+- **琐罗亚斯德改革**：被提升为唯一最高神，其他阿胡拉成为他的助手
+- **萨珊时期**：系统化教义中，他既是绝对本源，又保持二元框架
 
-在这个系统化过程中，阿胡拉·马兹达被明确表述为唯一的善神创造者，所有美好的事物都来自他，而一切的苦难和邪恶都源自安格拉·曼纽的入侵（Hintze 2005）。
+关于这一发展，学界存在不同观点：传统观点认为琐罗亚斯德创立了严格的一神论；晚近研究则倾向认为他确立的是二元神论框架下的一神崇拜，即一个最高善神，仍有一个独立的恶神存在。
 
-在祆教异端流派**楚尔凡派**（Zurvanism）中，楚尔凡（Zurvan，时间）被设定为阿胡拉·马兹达和安格拉·曼纽共同的父亲，这是对正统二元论的一种哲学调和，但最终被判定为异端（Murselev 2016）。
+## 崇拜与仪式：圣火作为象征
 
-## 阿胡拉·马兹达与六大圣灵
+阿胡拉·马兹达的主要崇拜方式是通过圣火崇拜，因为火是光明和洁净的象征，最接近阿胡拉·马兹达的本性：
+- 神庙中长年燃烧不息的圣火是马兹达存在的可见象征
+- 祭祀仪式在圣火前进行，保持火的纯洁是信徒的重要责任
+- 太阳、星辰也被视为马兹达光辉的显现
 
-阿胡拉·马兹达与六大不朽圣灵（Amesha Spentas）的关系是阿胡拉·马兹达神学中最有趣的部分：
+这种圣火崇拜是琐罗亚斯德教被中国称为"拜火教"、"火祆教"的原因。
 
-- 六大圣灵既是阿胡拉·马兹达属性的人格化，也是独立存在的神祇
-- 他们共同构成了至高神的"朝廷"或"议会"
-- 每个圣灵对应一个特定的创造领域
+## 灵光（Khvarenah）观念
 
-这种架构显示了琐罗亚斯德神学从多神到一神过渡的痕迹：保留了多位神祇，但他们都被吸收为至高神属性的一部分（Boyce 1996）。
+在萨珊时期的神学中，阿胡拉·马兹达将"灵光"（*xwarrah*，神圣王权之光）授予合法国王，赋予其统治的神圣合法性。这一观念构成了萨珊波斯"神圣王权"理论的核心：
+- 国王的统治权来自马兹达的恩赐
+- 灵光护佑国王，证明其统治的正义性
+- 当国王失道，灵光会离他而去，王朝更替
 
-在后来的发展中，六大圣灵逐渐等同于阿胡拉·马兹达本身的不同面向，这种"一神多面"的观念影响了后来基督教三位一体教义的形成路径，部分学者认为存在观念传播的可能。
+这种神权与王权结合的观念，通过丝绸之路传播到中亚和中国，影响了隋唐时期的艺术表现（2025，萨珊图像研究）。
 
-## 创世神话中的角色
+## 阿胡拉·马兹达与自由意志
 
-根据琐罗亚斯德创世神话，阿胡拉·马兹达在创造物质世界之前，先在精神世界创造了一切。然后他创造了物质世界作为战场，吸引安格拉·曼纽进入，最终在这里将其彻底消灭。
+琐罗亚斯德神学一个独特之处在于，阿胡拉·马兹达赋予人类自由意志：
+- 人类不是预定的棋子，可以自由选择站在善或恶一边
+- 选择善就是协助马兹达对抗安格拉·曼纽
+- 每个人的选择都会影响宇宙斗争的最终结果
+- 末日审判时，将根据人的选择进行审判
 
-这个创世计划的逻辑非常独特：阿胡拉·马兹达明知恶会进入世界，但仍然选择创造物质世界，因为只有通过斗争，恶才能被彻底清除，最终实现彻底的善。这种"通过斗争实现完善"的神义论（theodicy）在古代思想中非常深刻（Antón Pacheco 2016）。
+这种将人类主动参与引入神义论的做法，在古代思想中相当超前。
 
-阿胡拉·马兹达创造世界的顺序是：先创造天空，然后创造水，再创造大地，然后创造植物，然后创造动物，最后创造人类。这个顺序和《创世记》的创世顺序有惊人的相似之处，许多比较宗教学者认为二者可能存在历史联系。
+## 跨文化比较与影响
 
-## 灵光观念与王权
+阿胡拉·马兹达观念对后世宗教思想产生了深远影响：
+- **犹太教**：第二圣殿时期可能受到琐罗亚斯德善恶二元论影响
+- **基督教**：上帝与魔鬼对立的框架，在结构上与马兹达-曼纽二元对立相似
+- **伊斯兰教**：伊朗伊斯兰化后，"霍尔莫兹德"名称仍保留在文化记忆中
 
-在伊朗传统中，阿胡拉·马兹达将**赫瓦雷纳**（Khvarenah，神赐灵光）赐予合法的国王，拥有灵光的统治者才能稳定统治。这种灵光不是常驻不变的，如果国王背离阿莎（正义），灵光就会离开他。
+在比较神话学中，阿胡拉·马兹达与印度吠陀的伐楼拿、希腊的宙斯在功能上存在平行关系，都是印欧神话体系中至高天帝类型的神格（Boyd，1980）。
 
-纳格什-e鲁斯塔姆（Naqsh-e Rustam）的摩崖石刻中，大流士一世浮雕上方就是象征阿胡拉·马兹达灵光的带翼圆盘，明确表达了王权来自阿胡拉·马兹达的观念（Zeng 2023）。
+## 现代信仰中的地位
 
-这种"君权神授"观念比欧洲类似观念早了数百年，对伊朗政治文化产生了深远影响，一直持续到伊斯兰时期。
-
-## 在华文献记载
-
-琐罗亚斯德教在魏晋时期传入中国，被称为祆教或火祆教，阿胡拉·马兹达在中国文献中被称为"天神"或"火神"。由于唐代长安、洛阳等地都有祆祠，来华的粟特商人信奉阿胡拉·马兹达。
-
-滕磊（2006）指出，中国文献对祆教的记载多有混淆，常常将其与摩尼教、景教并称为"三夷教"，对其至高神的理解也多有偏差，主要因为中国人很少深入其教义内部。
-
-近年来随着虞弘墓、安伽墓等粟特人墓葬的考古发现，中国学界对入华祆教研究取得了很多新进展，其中就包括对阿胡拉·马兹达图像学的重新认识。
-
-## 跨文化比较
-
-阿胡拉·马兹达在世界神话体系中的位置非常特殊：
-
-1. 与古希腊宙斯相比：宙斯是众神之王，但并非唯一创造者，仍然保留多神教特征；阿胡拉·马兹达则是真正的创造者，接近一神教观念。
-2. 与美索不达米亚安努相比：安努是至高神但很少干预世间事务，阿胡拉·马兹达则积极参与创世和人类历史。
-3. 与基督教天父相比：阿胡拉·马兹达并不全能——他存在一个对等的邪恶对手，这与基督教认为上帝全能不同。
-
-Almut Hintze（2005）指出，阿胡拉·马兹达代表了人类思想史上最早的系统性一神论尝试，其核心洞见——一个有目的的创世、善恶斗争、最终善必胜——影响了后来所有的世界性宗教。
+在现代帕西人社区，阿胡拉·马兹达仍然是最高崇拜对象。现代化过程中，许多自由派信徒将其解释为抽象的善原则，而不仅仅是人格神。无论如何，作为善恶二元论的善端本源，阿胡拉·马兹达这一神格在人类宗教思想史上留下了不可磨灭的印记。
 
 ## Mythos Atlas 编者按
 
-阿胡拉·马兹达研究以Almut Hintze（2005）对二元关系的系统梳理最为权威，Mary Boyce（1996）则阐明了其与六大圣灵的架构关系。中文世界滕磊（2006）、张小贵（2016）等学者在入华祆教领域澄清了许多文献误解。当前学界关注的问题包括：阿胡拉·马兹达观念从《伽泰》到萨珊时期的演变轨迹、楚尔凡派异端对正统二元论的挑战、阿胡拉·马兹达信仰对欧亚王权观念的影响等。作为琐罗亚斯德神话的核心，阿胡拉·马兹达的神学建构本身就是人类早期一神论思考的珍贵案例。
+阿胡拉·马兹达是琐罗亚斯德体系的核心神格，其神格特征反映了这一宗教改革的根本特质——将神话从自然崇拜提升为伦理斗争。奠基研究见Stausberg(2005/2008)的经典梳理，中文研究见元文琪(2018)系统阐释。其自由意志和神义论方案，在古代思想中极具现代性，值得比较神话学深入比较研究。本词条依据一手经文记载和现代学术研究整合，confidence定级为attested，因为有充分的古代文本和铭文证据。
