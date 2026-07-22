@@ -1,41 +1,29 @@
 ---
 id: geb-egypt
-name_primary: 盖布 古埃及大地之神
-name_original: Gb / 𓎼𓃰
-name_aliases: [格布, 吉布, 凯布]
+name_primary: 盖布 古埃及大地神
+name_original: Gb / Geb
+name_aliases: [盖布, 吉布]
 name_translations:
   zh: 盖布
   en: Geb
-
 hero_image: /images/entries/geb-egypt.jpg
-hero_image_alt: 古埃及地神盖布躺卧在大地上
-hero_image_credit: AI generated · Ancient Egyptian papyrus painting style
-
-culture_path: Africa/North Africa/Ancient Egypt/Heliopolitan
+hero_image_alt: 古埃及大地神盖布仰卧在天空女神努特之下
+hero_image_credit: AI generated · Egyptian papyrus painting style
+culture_path: Africa/North Africa/Ancient Egypt/Heliopolitan Ennead
 entity_type: deity
-era: Old Kingdom - Ptolemaic Dynasty (c. 2686-30 BCE)
-geo_region: All Egypt, Heliopolis center
-
-summary: 盖布是古埃及赫利奥波利斯体系中的地神，与妻子天空女神努特共同构成天地二元。作为大地的人格化，他承载着万物生长、王权继承与死者埋葬的核心功能。
-
-attributes: [earth, vegetation, kingship, underworld, fertility]
-
+era: Old Kingdom — Roman Egypt
+geo_region: All Egypt
+summary: 盖布是赫利奥波利斯九神会中的大地神，仰卧在天空女神努特之下，是植物生长和地震的掌控者，也是埃及王权的神圣祖先（Hart 2005，Dijk 1995）。作为努特的丈夫，他是奥西里斯等四位核心神祇的父亲。
+attributes: [大地神, 植物生长, 地震掌控, 王权祖先, 努特丈夫]
 primary_sources:
-  - type: paper
-    title: "Rezeption und Auslegung in Ägypten. Das 'Denkmal memphitischer Theologie' als Auslegung der heliopolitanischen Kosmogonie"
-    author: "Jan Assmann"
-    year: 1997
-    language: de
-    url: https://doi.org/10.11588/PROPYLAEUMDOK.00003000
-    access: open
-    note: 阐释盖布在赫利奥波利斯创世神学中的位置
   - type: book
-    title: "Dictionary of Ancient Egypt"
-    author: "Ian Shaw and Paul Nicholson"
-    year: 1995
+    title: "The Routledge Dictionary of Egyptian Gods and Goddesses"
+    author: "George Hart"
+    year: 2005
     language: en
-    access: offline
-    note: 标准工具书条目
+    url: https://doi.org/10.4324/9780203023624
+    access: paywall
+    note: 标准辞书盖布条目
   - type: paper
     title: "Comparative Theology: Sumer, Memphis, Kongo Religion and Natural Systematic Theology"
     author: "Kiatezua Lubanzadio Luyaluka"
@@ -43,52 +31,59 @@ primary_sources:
     language: en
     url: https://doi.org/10.22259/2637-5907.0201003
     access: open
-    note: 跨文化比较天地创世神
+    note: 比较神学视角下天地配对分析
+  - type: book
+    title: "Myth and mythmaking in ancient Egypt"
+    author: "Jacobus van Dijk"
+    year: 1995
+    language: en
+    access: offline
+    note: 埃及创世神话系统研究
   - type: paper
-    title: "古埃及“创世论”的宇宙神学"
-    author: "刘文鹏"
-    year: 1996
-    language: zh
-    url: https://s.wanfangdata.com.cn/paper?q=%E5%8F%A4%E5%9F%83%E5%8F%8A%E2%80%9C%E5%88%9B%E4%B8%96%E8%AE%BA%E2%80%9D%E7%9A%84%E5%AE%87%E5%AE%99%E7%A5%9E%E5%AD%A6
+    title: "You Are My Son: God as Father in Psalms and Ancient Near Eastern Iconography"
+    author: "Guilherme Brasil de Souza, Martin G. Klingbeil"
+    year: 2014
+    language: en
+    url: https://www.semanticscholar.org/search?q=You%20Are%20My%20Son
     access: open
-    note: 中文学界对埃及创世神学的讨论
+    note: 近东图像学中父亲形象分析
   - type: paper
-    title: "Em busca de Osíris: o Mistério no Antigo Egito"
-    author: "Lúcia Gomes Serpa"
-    year: 2021
-    language: pt
-    url: https://doi.org/10.11606/t.27.2021.tde-25092023-103908
+    title: "Reversal of Gender in Ancient Egyptian Mythology: Discovering the Secrets of Androgyny"
+    author: "Ashley N. Dawson"
+    year: 2013
+    language: en
     access: open
-    note: 讨论盖布在奥西里斯神话中的作用
-
+    note: 讨论埃及天地神性别反转议题
 structured_data:
-  epithets: [父亲盖布, 大地领主, 万物孕育者, 王权裁决者]
+  epithets: [伟大的大地, 植物创造者, 地震之主]
   parents: [Shu, Tefnut]
-  siblings: [Nut (sister and consort)]
-  children: [Osiris, Isis, Seth, Nephthys, Horus the Elder]
+  siblings: [Nut]
+  consort: [Nut]
+  children: [Osiris, Isis, Seth, Nephthys]
   cult_center: [Heliopolis]
   timeline:
-    - "Old Kingdom": Attested in Pyramid Texts
-    - "Middle Kingdom": Featured in creation myths
-    - "New Kingdom": Common in tomb reliefs
-
+    - Old Kingdom: 出现在金字塔文中
+    - New Kingdom: 天地分离图像流行
 variants:
-  - region: Heliopolis
-    version: Ennead member
-    note: One of the nine original creator gods of Heliopolis
-
+  - region: Memphis
+    version: Geb
+    note: 孟菲斯体系中神格不变
 parallels:
+  - culture: Mesopotamian
+    entity: Ki
+    relation: 地母神对应
+    note: 虽然性别不同，但功能对应大地神
+    source_ref: 美索不达米亚宗教
   - culture: Greek
     entity: Gaia
-    relation: Earth mother parallel
-    note: Geb as earth god corresponds to Greek Gaia as earth mother (gender inverted)
-    source_ref: Luyaluka 2018
-  - culture: Mesopotamian
-    entity: Enlil
-    relation: Earth and storm god
-    note: Enlil shares role as supreme earth deity with Geb
-    source_ref: Assmann 1997
-
+    relation: 地母神
+    note: 希腊盖亚是地母，性别相反，但功能相同
+    source_ref: Hesiod, Theogony
+  - culture: Chinese
+    entity: 后土
+    relation: 大地之神
+    note: 中国后土大地神功能对应
+    source_ref: 淮南子
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
@@ -97,62 +92,66 @@ created_at: "2026-07-22"
 updated_at: "2026-07-22"
 ---
 
-## 导读：躺卧的大地父亲
+## 导读：承载万物的大地父亲
 
-盖布（*Gb*）是古埃及神话中的大地之神，在赫利奥波利斯的九神团体系中位列第二代，是天空女神努特的丈夫，奥西里斯、伊西斯等核心神祇的父亲。与许多其他文明将大地视为母亲不同，古埃及人将大地人格化为男神，天空则为女神，这种性别倒置是埃及创世观最独特的地方。
+盖布（Geb）是古埃及神话中的大地神，在流行的创世图像中，他总是仰卧在那里，天空女神努特拱罩在他上方，父亲空气神舒站在中间把他们分开。这个经典构图几千年来一直没变，成为埃及人宇宙观最直观的表达。
 
-作为大地，盖布承载着万物生长，也接纳死者回到他的怀抱。他还是埃及王权的神圣仲裁者——在奥西里斯与塞特的继承权争夺中，盖布作为父亲做出了最终裁决。可以说，埃及神话中最核心的冲突与解决都源于盖布的判断（Serpa，2021）。
+与大多数文明中"地母"的性别不同，在埃及神话中，大地是男神盖布，天空是女神努特，这种性别反转是埃及创世神话最显著的特征之一（Dawson 2013）。
 
-## 词源与形象特征
+## 神谱位置与名称起源
 
-"盖布"这个名字在埃及语中就是"大地"的意思。关于发音，埃及语中缺少元音符号，现代学界通常读作"盖布"（Geb），也有学者读作"Seb"或"Gebh"。
+盖布在赫利奥波利斯九神会中，和妹妹努特一样都是第三代神，是舒和泰芙努特的儿子。他娶了妹妹努特，生下四个孩子：奥西里斯、伊西斯、赛特、奈芙蒂斯，这四个孩子正是埃及神话中最核心的家族，所以盖布实际上是埃及众神的祖父。
 
-在艺术表现中，盖布通常被描绘为**躺卧的绿皮肤男子**，绿色象征着植被与生命。他躺在地上，妻子努特弯成拱形覆盖在他上方，这就是天地分开后的经典宇宙构图。有时他的头上会有一只鹅（goose）作为象征，因为"盖布"这个词在埃及语中也与"鹅"发音相近，这是一种常见的词源游戏。
+他的名字Geb在埃及语中可能和"土地""堆积"有关，直接就是大地的人格化。
 
-## 创世叙事中的分离
+## 天地分离神话中的位置
 
-在赫利奥波利斯创世神话中，舒（空气）将原本结合在一起的努特（天空）和盖布（大地）强行分开，一个升到天上成为天空，一个留在地上成为大地。这个分离过程就是宇宙秩序（*ma'at*）的确立（Assmann，1997）。
+在天地分离神话中，盖布原本和努特紧紧拥抱在一起，混沌不分。父亲舒把他们分开，把努特举到天上成为天空，盖布留在下面成为大地。从此世界才有了上下秩序。
 
-分开之后，盖布永远躺在下方，承受着天空的重量，但也因此获得了孕育万物的能力。所有植物从盖布的身体里生长出来，所有动物在他表面行走，所有人类死后都回到他的身体里安息。这种理解非常符合直觉——大地就是我们脚下的一切，承载着生命也接纳死亡。
+埃及人认为，地震就是盖布在摇动身体，所以有"盖布摇动"就是地震的说法。这种解释非常朴素直观。
 
-## 地神与生育能力
+## 植物生长与农业神
 
-虽然盖布是男神，但这并不影响他承载生育功能。古埃及人认为，尼罗河泛滥带来的肥沃淤泥就是盖布的馈赠，每年泛滥过后，新的生命从大地中生长出来，这就是盖布生育能力的体现（刘文鹏，1996）。
+作为大地神，盖布自然掌控着植物生长，农业丰收取决于盖布的恩赐。尼罗河泛滥给大地带来肥沃的淤泥，就是盖布滋养万物的表现。
 
-在一些文本中，盖布被称为"众神之父"，因为所有重要的埃及神祇都是他的孩子。这种父亲身份也对应着他的大地属性——所有生命都来自大地，最终也都回归大地。
+在一些宗教文本中，盖布被称为"植物的创造者"，他让谷物生长，供养一切生物。这种功能和其他文明的大地神是一样的。
 
-## 盖布与王权继承
+## 盖布与王权神圣性
 
-盖布一个非常特殊的职能是**裁决王权继承**。在著名的奥西里斯神话中，当奥西里斯被兄弟塞特杀害后，两人争夺埃及王位，最终由父亲盖布做出裁决，将王位判给了奥西里斯的儿子荷鲁斯。
+盖布一个很特别的功能是与埃及王权神圣性有关。在一些加冕铭文里，法老的王权被认为是继承自盖布，盖布是王权的神圣祖先。Souza & Klingbeil（2014）指出，这种父亲继承的观念影响了整个近东地区的王权意识形态。
 
-这个故事意义深远——它确立了埃及王位继承的合法性来源：王位继承不是由武力决定，而是由神圣的父亲（大地神）裁决。这种观念为王权世袭提供了神学基础，对埃及政治稳定非常重要。直到后期，法老加冕时仍然会提到盖布的裁决，确认其王位的合法性。
+这可能和奥西里斯是盖布的儿子有关，奥西里斯作为冥界之王，法老就是奥西里斯在人间的继承者，所以追溯上去，王权就来自祖父盖布。
 
-## 盖布与来世信仰
+## 艺术形象与表现
 
-由于盖布是大地，死者埋葬在地里，所以盖布也与来世信仰紧密相关。金字塔文中有许多咒语祈求盖布接纳死去的国王，为他打开大地之门。"哦，盖布，伟大的父亲，请为你的儿子打开道路，让他进入你的怀抱，获得永生。"
+在艺术表现中，盖布通常以男性人形出现，躺在地上，有时候头上会饰有鹅（goose）的符号，因为他的名字geb和埃及语"鹅"谐音，所以用鹅作为他的标志。这是埃及神话常见的谐音象征手法。
 
-与努特保护死者重生不同，盖布的功能更多是接纳与安息——死者回到大地父亲那里，等待重生的时机。这种分工非常清晰：天空母亲接纳，大地父亲安息，共同完成死亡到重生的循环。
+最经典的画面还是舒分离努特和盖布，这几乎成了埃及创世神话的标志性图像，出现在神庙天花板、棺椁盖等重要位置。
 
-## 植物生长与尼罗河泛滥
+## 性别反转的文化意义
 
-盖布的 fertility（生育能力）具体体现在植物生长上。每年尼罗河泛滥过后，盖布的身体被河水浸润，获得新的肥力，然后长出庄稼，养活埃及人。因此，盖布也被视为尼罗河泛滥的受益者和提供者。
+为什么在埃及神话中，天空是女神，大地是男神，而在其他大多数文明中正好相反？这个问题一直吸引着学者讨论。Dawson（2013）认为这可能和埃及语言中名词的语法性别有关：埃及语中"天空"是阴性，"大地"是阳性，所以人格化后性别也就随之而来。
 
-在一些泛滥季的祭祀仪式中，埃及人会向盖布献祭，祈求他赐予今年好的肥力，让庄稼丰收。这种祭祀直接关系到国家生存，因为整个埃及文明都依赖尼罗河泛滥带来的肥沃土地。
+也有学者认为这反映了埃及宗教中不同的性别分工观念，无论如何，这确实是埃及神话非常独特的一点。
 
-## 家族谱系与神学整合
+## 比较视角下的大地神
 
-在赫利奥波利斯九神团中，盖布是非常清晰的位置：祖父阿图姆，父亲舒，自己是第二代，儿子奥西里斯是第三代。这种清晰的三代创世结构是赫利奥波利斯神学的特点。
+世界各个文明都有大地神，盖布的功能其实和其他文明的大地神差不多：承载万物，生长植物，滋养生命。不同之处主要在性别。希腊的盖亚（Gaia）是地母，中国的后土也是地母，美索不达米亚的基（Ki）也是地母，只有埃及是男神。
 
-随着埃及统一，不同地区的神学体系逐渐融合，盖布的位置始终没有动摇，他一直是大地之神和众神之父。即使在底比斯阿蒙神成为最高神之后，盖布在创世叙事中的位置仍然保留。
+这种差异提醒我们，神话中神的性别不完全是功能决定的，也受到语言和文化传统的影响。
 
-## 跨文化比较中的独特性
+## 在埃及神学体系中的演变
 
-从比较神话学角度看，盖布最独特的地方就是**男神地母倒置**——几乎所有其他古老文明都将大地视为母亲（希腊盖亚、中国后土等等），而埃及正好相反：大地是父亲，天空是母亲（Luyaluka，2018）。
+盖布很早就出现在金字塔文中，说明他的起源非常古老。从那以后，他的神格和形象基本保持稳定，没有太大变化。这说明天地结构是埃及宇宙观的基础，一旦定型就很少改变。
 
-这种倒置可能与尼罗河环境有关：尼罗河每年泛滥，给大地带来新的生命，这种主动的馈赠更符合"父亲"的角色定位；而天空每天吞食太阳又生出太阳，这种不断的生育更符合"母亲"的角色。古埃及人是根据自然现象的特征来分配性别的，而不是按照固定的文化模板。
+在后来的各种创世体系中，不管哪个主神占据核心地位，盖布和努特的位置都基本保留，因为他们代表的是宇宙基本结构，没有他们就没有世界。
 
-## Mythos Atlas编者按
+## 总结：稳定的大地根基
 
-盖布作为古埃及核心创世神之一，从旧王国金字塔文到托勒密神庙都有丰富的证据，可信度评级为**attested**。他的存在提醒我们，不同文明对性别的理解可以非常不同，没有什么"天经地义"的模板——重要的是这种理解如何反映他们对自然的观察。
+盖布在埃及万神殿中不是那种风光无限的大神，他很少成为崇拜的中心，也没有太多轰轰烈烈的神话故事，但他却是整个宇宙架构不可或缺的基石。他静静地躺在那里，承载着万物，就像大地本身一样，稳定而可靠。
 
-盖布与努特的天地组合，是埃及创世观最基础的二元结构，理解了他们，才能理解整个埃及神话体系。所有后来的故事都从这个二元结构中生长出来，正如所有生命都从大地中生长出来一样。
+他作为众神祖父的身份，也让他成为埃及王权神圣性的来源，这种功能虽然不显眼，但对古代埃及政治秩序非常重要。
+
+## Mythos Atlas 编者按
+
+盖布作为核心创世神，传统研究已经比较充分，Hart（2005）的条目已经整理得很好。近年研究主要从比较视角和性别视角展开，Dawson（2013）对性别反转的讨论和Luyaluka（2018）对跨文化比较的分析提供了新的视角。本条目整合了这些新观点，同时保留传统神话学的基本框架。
