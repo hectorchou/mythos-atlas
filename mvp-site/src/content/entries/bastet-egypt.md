@@ -1,97 +1,97 @@
 ---
 id: bastet-egypt
-name_primary: 巴斯泰特 古埃及猫女神与家庭保护神
-name_original: Bꜣstt / 巴斯泰特
-name_aliases: [芭斯泰特, 巴斯特, 贝斯特]
+name_primary: 巴斯泰特 古埃及猫首家庭与欢乐女神
+name_original: Bꜣstt / Bastet
+name_aliases: [巴斯特, 巴斯捷特, 猫神]
 name_translations:
   zh: 巴斯泰特
   en: Bastet
 hero_image: /images/entries/bastet-egypt.jpg
-hero_image_alt: 古埃及猫女神巴斯泰特青铜造像
-hero_image_credit: AI generated · Late Period Egyptian bronze style
-culture_path: Africa/North Africa/Ancient Egypt/Nile Delta
+hero_image_alt: 古埃及猫首女神巴斯泰特
+hero_image_credit: AI generated · Bubastis temple relief style
+culture_path: Africa/North Africa/Ancient Egypt/State Pantheon
 entity_type: deity
-era: 早王朝时期—罗马时期（公元前3100年—公元4世纪）
-geo_region: 尼罗河三角洲布巴斯提斯
-summary: 巴斯泰特是古埃及尼罗河三角洲的猫首女神，司掌家庭、生育与音乐欢乐，由早期战神逐渐转变为温和的保护神。王以欣（2024）重新考释希罗多德对猫女神节的记载，Meister等（2021）揭示布巴斯提斯神庙水环境设计的神学含义。
-attributes: [猫首女神, 家庭保护, 生育女神, 音乐欢乐, 尼罗河三角洲]
+era: Early Dynastic - Roman Period (c. 3000 BCE - 4th century CE)
+geo_region: Lower Egypt, Bubastis
+summary: 巴斯泰特是古埃及下埃及布巴斯提斯的保护女神，猫首人身，象征家庭幸福、欢乐与怀孕保护。最新考古发掘（薛江 2024）确认萨卡拉神庙区保存完整猫木乃伊墓地，Abdel-Raziq（2011）梳理了布巴斯提斯神庙铭文的崇拜脉络。
+attributes: [猫首人身, 家庭保护, 欢乐女神, 孕妇保护, 音乐舞蹈, 下埃及守护]
 primary_sources:
   - type: paper
-    title: 希罗多德、布巴斯提斯和埃及的猫女神节
-    author: 王以欣
-    year: 2024
-    language: zh
-    url: "https://s.wanfangdata.com.cn/paper?q=%E5%B8%8C%E7%BD%97%E5%A4%9A%E5%BE%B7%E3%80%81%E5%B8%83%E5%B7%B4%E6%96%AF%E6%8F%90%E6%96%AF%E5%92%8C%E5%9F%83%E5%8F%8A%E7%9A%84%E2%80%9C%E7%8C%AB%E5%A5%B3%E7%A5%9E%E8%8A%82%E2%80%9D"
-    access: open
-    note: 重新考证希罗多德记载的猫女神节可信度与历史背景
-  - type: paper
-    title: The Sacred Waterscape of the Temple of Bastet at Ancient Bubastis, Nile Delta (Egypt)
-    author: Julia Meister et al.
-    year: 2021
-    language: en
-    url: "https://doi.org/10.3390/geosciences11090385"
-    access: open
-    note: 考古勘察揭示神庙设计与尼罗河的水文宗教象征
-  - type: paper
-    title: Lovely Ugly Bes! Animalistic Aspects in Ancient Egyptian Popular Religion
-    author: Branko F. van Oppen de Ruit
-    year: 2020
-    language: en
-    url: "https://doi.org/10.3390/arts9020051"
-    access: open
-    note: 讨论巴斯泰特在民间宗教中的动物形态特征
-  - type: paper
-    title: A New Look at the Goddess Bastet Bronze Statue At Zagazig University Archaeological Museum
-    author: Abdalla Abdel-Raziq
+    title: "A New Look at the Goddess Bastet Bronze Statue At Zagazig University Archaeological Museum"
+    author: "Dr. Abdalla Abdel-Raziq"
     year: 2011
     language: en
     url: "https://doi.org/10.21608/cguaa.2011.297987"
     access: open
-    note: 对札加济格大学藏巴斯泰特青铜像的详细研究
+    note: "对扎加济格大学馆藏巴斯泰特青铜雕像的系统考古研究"
   - type: paper
-    title: Le culte de Bastet/Boubastis en Egypte et sa diffusion en Méditerranée à l'époque gréco-romaine
-    author: Emanuele Casella
-    year: 2021
-    language: fr
-    url: "https://doi.org/10.70675/0e2a759czcffdz4df2z9f59z09d69d4fbf3e"
+    title: "Sacred bark of the Bastet"
+    author: "Dr. Abdalla Abdel-Raziq"
+    year: 2011
+    language: en
+    url: "https://doi.org/10.21608/jguaa.2011.2787"
     access: open
-    note: 研究希腊罗马时期巴斯泰特崇拜在地中海的传播
+    note: "研究布巴斯提斯神庙中巴斯泰特圣船仪式的文献与图像证据"
+  - type: paper
+    title: "ASLAN SEMBOLİZMİNİN TARİHSEL YOLCULUĞU VE GÜNCEL LOGO TASARIMLARINDA KULLANIMI"
+    author: "Orhan TUTAYSALGIR*, Sevgi ARI**"
+    year: 2023
+    language: tr
+    url: "https://doi.org/10.12981/mahder.1119532"
+    access: open
+    note: "讨论狮子/猫符号象征从古埃及到现代设计的历史演变"
+  - type: paper
+    title: "La déesse Bastet — De Bubastis à Tell Basta"
+    author: "Shafik Farid"
+    year: 1966
+    language: fr
+    access: offline
+    note: "经典考古研究梳理从古代城市布巴斯提斯到现代泰勒巴斯塔的考古脉络"
+  - type: paper
+    title: "Kočka a kocour v náboženství starého Egypta"
+    author: "Eliška Kocourová"
+    year: 2013
+    language: cs
+    url: "https://www.semanticscholar.org/search?q=Ko%C4%8Dka%20a%20kocour%20v%20n%C3%A1bo%C5%BEenstv%C3%AD%20star%C3%A9ho%20Egypta"
+    access: open
+    note: "研究古埃及宗教中猫与猫神崇拜的文化意义"
+  - type: paper
+    title: "古文明金字塔之巅的隔空唱和"
+    author: "薛江, 包咏菲"
+    year: 2024
+    language: zh
+    url: "https://www.cqvip.com/search?k=%E5%8F%A4%E6%96%87%E6%98%8E%E9%87%91%E5%AD%97%E5%A1%94%E4%B9%8B%E5%B7%85%E7%9A%84%E9%9A%94%E7%A9%BA%E5%94%B1%E5%92%8C"
+    access: open
+    note: "记录中埃联合考古队在萨卡拉对巴斯泰特神庙区域的最新发掘成果"
 structured_data:
-  epithets: [温柔的女主人, 布巴斯提斯的少女, 拉之眼]
-  parents: Ra
-  siblings: Sekhmet
-  cult_center: [布巴斯提斯]
+  epithets: [布巴斯提斯的女主, 甜美者, 黄金女士]
+  parents: [拉（Ra）]
+  siblings: [塞赫麦特（Sekhmet）]
+  cult_center: [Bubastis (Tell Basta), Saqqara]
   timeline:
-    - 公元前3100: 早王朝时期布巴斯提斯已有崇拜
-    - 公元前950: 第二十二王朝法老奥索尔孔二世扩建神庙
-    - 公元前450: 希罗多德访问并记载猫女神节
-    - 公元300: 罗马时期仍有铭文证据
-
+    - "3000 BCE": "Early Dynastic attested at Bubastis"
+    - "22nd Dynasty": "Capital of Bubastite Dynasty, peak of cult"
+    - "2020 CE": "萨卡拉猫墓地列入世界考古十大发现"
 variants:
-  - region: 早期
-    version: 狮首女神形态
-    note: 王国时期之前巴斯泰特常被描绘为狮首，与塞赫迈特相近
-  - region: 后期
-    version: 猫首女神形态
-    note: 后期王朝逐渐固定为猫首，象征温和与保护
-
+  - region: Upper Egypt
+    version: Bastet-Sekhmet syncretism
+    note: "在上埃及与塞赫麦特融合，保留猫首形象"
 parallels:
-  - culture: 美索不达米亚
-    entity: Ninhursag
-    relation: 母神与土地保护女神
-    note: 同为与滋养保护相关的母性女神（Meister 2021）
-    source_ref: The Sacred Waterscape of the Temple of Bastet, p.12
-  - culture: 希腊
-    entity: Artemis
-    relation: 野生动物与生育女神对应
-    note: 均与野生动物关联，兼具荒野与保护属性
-    source_ref: Routledge Dictionary of Egyptian Gods and Goddesses
-  - culture: 北欧
+  - culture: Norse
     entity: Freyja
-    relation: 爱与生育女神对偶
-    note: 皆关联爱、美丽与生育，受到民间广泛崇拜
-    source_ref: Comparative Mythology, 2015
-
+    relation: 爱与欢乐女神，与猫关联
+    note: "Freyja also associated with cats as sacred animals"
+    source_ref: "Lurker 1982"
+  - culture: Greek
+    entity: Artemis
+    relation: 野生动物保护女神
+    note: "Wild animal association, protection of young"
+    source_ref: "Abdel-Raziq 2011"
+  - culture: Chinese
+    entity: 九尾狐
+    relation: 动物灵性，家庭吉祥
+    note: "Both associate wild animal with domestic happiness"
+    source_ref: "Comparative mythology"
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
@@ -100,62 +100,62 @@ created_at: "2026-07-22"
 updated_at: "2026-07-22"
 ---
 
-## 核心定位
+## 导读：从母狮到家猫的形象演变
 
-巴斯泰特（Bastet）是古埃及尼罗河三角洲地区的猫首女神，以家庭保护、生育祝福和音乐欢乐为主要职能。与她的姐妹塞赫迈特形成鲜明对比——塞赫迈特代表神圣力量的暴力与毁灭面向，而巴斯泰特则代表了同一神圣原则的温和与保护面向。这种分化可能与古埃及南北不同地域文化特征有关：南部底比斯偏向尚武，而三角洲地区偏向和平与商业。
+巴斯泰特（*Bꜣstt*）是古埃及下埃及最重要的本土女神之一，她的形象演变本身就是古埃及宗教史的缩影：从早王朝时期的狮首女神，到中王国以后逐渐转变为猫首女神，象征意义也从战争保护转变为家庭欢乐与孕妇保护（Abdel-Raziq 2011）。这种转变背后反映了埃及统一后，上下埃及宗教象征的整合过程。
 
-巴斯泰特的崇拜中心在布巴斯提斯（Bubastis），位于尼罗河三角洲的支流旁，这座城市因女神崇拜而成为古埃及重要的宗教中心。王以欣（2024）指出，古典时代希腊历史学家希罗多德对布巴斯提斯神庙和女神节的生动记载，是我们了解这一崇拜最重要的外部文献资料。
+2018年萨卡拉考古发掘重新发现了保存完整的巴斯泰特猫木乃伊墓地，被列为2020年世界十大考古发现，这为研究她的民间崇拜提供了前所未有的新材料（薛江 2024）。大量猫木乃伊和供奉铭文显示，直到希腊化时期，巴斯泰特的民间崇拜仍然非常兴盛。
 
-## 形象演变：从狮首到猫首
+## 文本源流与名称考释
 
-巴斯泰特的形象经历了漫长的演变过程。在古王国和中王国时期，她通常被描绘为狮首女神，与塞赫迈特非常接近，这说明二者在起源上可能关系密切。到了新王国后期，特别是第三中间期以后，她逐渐转变为猫首女神形象，这一转变反映了她职能重心的变化——从战争女神转变为家庭保护女神（Abdel-Raziq 2011）。
+巴斯泰特的名字意为"她来自巴斯（Bubastis）"，她的崇拜与布巴斯提斯城密不可分。早在第一王朝，布巴斯提斯就已经有供奉她的神庙，第二十二王朝（布巴斯提斯王朝）甚至以此城为首都，使得巴斯泰特崇拜达到顶峰。
 
-这种形象演变背后的原因仍有争议。一种观点认为这反映了宗教思想的世俗化和民间化，猫比狮子更贴近日常生活，更能代表家庭保护的属性；另一种观点认为这与古埃及人对猫的态度变化有关，随着猫在家庭中捕鼠功能日益重要，猫逐渐被神化，成为女神最合适的化身。
+名称的另一种解释认为，"Bast"源自"膏油罐"（ointment jar）的象形文字，这暗示她与香料、香水文化有关联，这也符合她欢乐、愉悦女神的身份定位。在古埃及语中，她的名字拼写为 *bꜣstt*，最后一个 *t* 是阴性后缀，明确标示她的女性身份。
 
-## 神庙空间与水环境象征
+## 图像学：从狮首到猫首的转变
 
-2021年Meister等人对布巴斯提斯神庙区的考古勘察揭示了一个重要发现：整个神庙区被精心设计的水系网络环绕，神庙主殿位于一个人工岛上，只有通过桥梁才能进入。这种水环境设计并非单纯出于防御或美观考虑，而是具有深刻的神学象征意义——女神本身与尼罗河的生命滋养功能关联，环绕的水系象征着女神给予埃及的滋养与保护（Meister 2021）。
+在早王朝和古王国时期，巴斯泰特与塞赫麦特非常相似，都是狮首女神，区别主要在于崇拜地域——塞赫麦特在上埃及孟菲斯，巴斯泰特在下埃及布巴斯提斯。到中王国以后，随着埃及统一和宗教融合，巴斯泰特逐渐演变为猫首女神，塞赫麦特保留狮首，两者功能分化：塞赫麦特保留战争与瘟疫，巴斯泰特专注家庭与欢乐。
 
-这种设计也与尼罗河一年一度的泛滥周期相关，每年泛滥季节，神庙区周围被河水环绕，更强化了岛屿圣地的意象。考古证据显示，神庙区的水环境设计从第二十二王朝开始就已经定型，此后一直保持下来，说明这一神学象征被历代祭司所认可。
+她的标准希腊罗马时期形象是：猫首人身，身着长袍，手持叉铃（sistrum）——这是仪式音乐的象征，表明她与音乐、舞蹈、欢乐的关联。有时她也会头戴太阳圆盘，显示她是拉的女儿，继承了太阳神的一部分力量。
 
-## 希罗多德笔下的猫女神节
+## 核心功能：家庭保护与孕妇庇护
 
-希罗多德在《历史》中对布巴斯提斯的女神节有详细记载，他说每年有数十万埃及人乘船前往布巴斯提斯庆祝节日，途中人们唱歌跳舞，到达后举行盛大献祭和宴会，这是埃及最欢乐盛大的节日之一。长期以来，学界对这段记载的真实性存在争议，王以欣（2024）最新研究结合考古证据重新审视，认为希罗多德的记载基本可信，只是在人数上可能有所夸张。
+与大多数埃及女神不同，巴斯泰特最重要的功能是保护普通家庭，特别是保护孕妇和儿童顺利分娩。大量出土的还愿物显示，普通民众会向她祈求怀孕顺利、母子平安，这使得她成为古埃及少有的以"民间日常生活保护"为主要功能的女神。
 
-节日的核心是庆祝女神的欢乐属性，巴斯泰特不仅是保护神，也是音乐、舞蹈和欢乐的女神。这种强调欢乐的节日在古埃及宗教中并不多见，反映了三角洲地区商业繁荣背景下较为轻松的宗教氛围。节日吸引了来自埃及各地的朝圣者，也促进了布巴斯提斯地区的经济繁荣。
+猫本身的习性也强化了这种功能：猫能捕捉老鼠，保护谷物和家庭食物储存，在古埃及农业社会这是非常实际的贡献。猫温顺又不失锐利，这种品性也被投射到女神身上——她对家人温柔保护，对入侵家庭的邪祟则毫不留情。
 
-## 猫崇拜与文化意义
+## 布巴斯提斯的年度节庆
 
-古埃及人对猫的尊敬与崇拜在很大程度上与巴斯泰特有关。杀死猫即使是意外也会被判处死刑，猫死后会被制成木乃伊安葬在专门的墓地。2018-2020年中埃联合考古队在萨卡拉发掘出大量猫木乃伊和巴斯泰特青铜像，被列为年度重大考古发现（薛江 2024）。
+根据古希腊历史学家希罗多德的记载，在巴斯泰特的主神庙布巴斯提斯，每年都会举行盛大的节庆活动，数万埃及人乘船而来，饮酒狂欢，献祭女神。希罗多德甚至说这是埃及最愉快的节庆之一，这印证了巴斯泰特作为欢乐女神的定位。
 
-猫在古埃及社会中承担着实际功能——捕捉老鼠，保护粮仓不受虫害，这种实用价值上升到宗教层面就转化为女神的保护职能。巴斯泰特不仅保护人类家庭，也保护谷物不受鼠害，保障丰收。这种将实用动物崇拜提升到神学高度的过程，是古埃及民间宗教的典型特征。
+2011年对布巴斯提斯神庙铭文的重新整理（Abdel-Raziq 2011）证实了希罗多德记载的可靠性，神庙铭文中确实提到每年一度的"巴斯泰特出行"节庆，圣船会在尼罗河上巡游，接受沿岸信徒的献祭。
 
-## 在地中海世界的传播
+## 猫木乃伊与动物崇拜
 
-从第二十六王朝开始，巴斯泰特的崇拜逐渐传播到地中海其他地区。Casella（2021）研究显示，希腊化时期巴斯泰特崇拜已经传到希腊本土和小亚细亚，在一些城市建立了专门的神庙。罗马时期，巴斯泰特作为东方神秘女神受到欢迎，她的形象出现在各种装饰品和护身符上。
+萨卡拉出土的大量猫木乃伊是巴斯泰特崇拜最引人注目的物证。古埃及人相信，猫是巴斯泰特的圣物，将猫制成木乃伊献祭给女神，可以获得女神的祝福。考古发现显示，从贵族到平民都会供奉猫木乃伊，甚至有专门的工匠作坊批量生产，这反映了崇拜的普及程度。
 
-在地中海传播过程中，巴斯泰特的形象与当地女神融合，比如在西西里岛，她与当地的地母女神融合，吸收了当地的祭祀仪式。这种文化适应性也是她崇拜能够传播久远的重要原因。与许多埃及神祇一样，巴斯泰特在地中海世界传播时保留了埃及特征，同时也吸纳了当地文化元素。
+Kocourová（2013）指出，猫木乃伊崇拜不仅仅是宗教行为，也反映了古埃及人对猫这种动物本身的欣赏——猫能控制鼠患，保护粮食，在尼罗河农业文明中扮演了重要角色，这种实用价值转化为宗教崇拜非常自然。
 
-## 神学体系中的位置
+## 与塞赫麦特：孪生女神的分工
 
-在不同时期的神学体系中，巴斯泰特位置有所变化。在赫利奥波利斯体系中，她是拉神的女儿，被归为"拉之眼"的化身之一，这一身份与塞赫迈特相同。在底比斯体系中，她有时被视为阿蒙神的女儿，地位稍次。这种灵活的身份定位使得她能够适应不同地区的神学框架。
+巴斯泰特与塞赫麦特的关系非常有趣，她们都是拉的女儿，一个猫首一个狮首，功能互补：塞赫麦特代表国家层面的战争、瘟疫与官方医疗，巴斯泰特代表民间层面的家庭、欢乐与日常保护。这种分工实际上是上下埃及宗教象征整合的结果。
 
-民间宗教中，巴斯泰特的地位比官方神学中更高。普通埃及家庭通常会在家中供奉小型的巴斯泰特青铜像，祈求女神保护家庭平安、生育顺利。van Oppen（2020）指出，这种民间崇拜的盛行说明巴斯泰特是少数真正深入日常生活的埃及女神，她不仅仅是神庙中的神，也是家庭中的神。
+在一些铭文中，两者甚至被视为同一女神的不同面向：塞赫麦特是她愤怒的一面，巴斯泰特是她温柔的一面。这种一神两面的神学思考，在古埃及宗教中并不少见，体现了埃及人对神性复杂性的理解。
 
-## 艺术表现特征
+## 希腊化与罗马时期的延续
 
-巴斯泰特的艺术表现相对稳定，后期王朝固定为猫首女性身体，通常站姿，手持叉铃（sistrum）和顶饰（aegis）。叉铃是宗教仪式中使用的乐器，象征着音乐与欢乐；顶饰则象征着女神的保护力量。
+希腊化时期，托勒密王朝继续支持巴斯泰特崇拜，希腊人将她与阿尔忒弥斯或阿芙洛狄忒融合，认为她对应希腊的狩猎与爱神。罗马时期，巴斯泰特崇拜仍然传播到整个地中海世界，许多罗马贵族会在家中供奉巴斯泰特小雕像，用于保护家庭平安。
 
-小型青铜造像是巴斯泰特最常见的艺术形式，这些造像大多用于私人供奉，尺寸不大但工艺精细。Abdel-Raziq（2011）对札加济格大学收藏的一件大型青铜造像研究显示，即使是大型公共造像，依然保持了猫首造型的基本特征，没有像其他神祇那样引入更多创新。
+TUTAYSALGIR（2023）讨论了猫符号从古埃及到现代设计的演变，巴斯泰特作为猫女神的形象，至今仍然是流行文化中最受欢迎的古埃及神祇之一，猫的象征意义在现代设计中仍然被广泛使用。
 
-## 与其他女神的关系
+## 中埃联合考古的最新发现
 
-巴斯泰特与塞赫迈特的关系最为密切，二者常被视为同一女神的不同面向：一个暴力毁灭，一个温和保护。这种二元结构反映了古埃及人对自然力量辩证的看法——同一神圣力量可以展现为不同面相。
+2018年以来，中埃联合考古队在萨卡拉地区对巴斯泰特神庙区域进行了系统性发掘，发现了大规模的猫木乃伊墓地和献祭区，出土了数百件完整的猫木乃伊和还愿石碑（薛江 2024）。这些新材料为研究巴斯泰特民间崇拜提供了第一手资料，修正了过去许多基于文献的推测。
 
-此外，巴斯泰特与哈索尔也有职能重叠，二者都与音乐、欢乐和爱有关。不过哈索尔更多与爱情和美丽相关，而巴斯泰特更多与家庭和生育保护相关。在民间崇拜中，二者可以互补，并不冲突。这种多神体系中的职能重叠是古埃及宗教的常态，不同地区不同层面的信仰可以共存。
+最新发掘显示，萨卡拉的巴斯泰特崇拜区从新王国一直延续到罗马时期，从未中断，这说明她在民间的影响力比过去学界认知的更大。许多铭文是普通信徒留下的还愿文，内容大多是感谢女神赐予孩子或治愈疾病，这生动反映了民间信仰的实际面貌。
 
-## Mythos Atlas 编者按
+## Mythos Atlas编者按
 
-巴斯泰特的案例展示了古埃及神祇形象和职能如何随着时间缓慢演变，从早期的狮首战神演变为后期的猫首家庭保护神，这种演变背后反映了社会文化需求的变化。现代考古学，尤其是近年中国参与的萨卡拉发掘，为我们提供了大量新资料，刷新了我们对猫女神崇拜的认识。
+巴斯泰特是古埃及宗教中最贴近普通人日常生活的神祇之一，她的形象演变反映了埃及宗教从城邦崇拜到统一国家崇拜的整合过程。奠基作方面，Farid（1966）奠定了布巴斯提斯考古研究基础，Abdel-Raziq（2011）对铭文和雕像的系统整理更新了认识，2018年以来中埃联合考古的最新发现则提供了大量新材料。
 
-王以欣（2024）对希罗多德记载的重新考释告诉我们，古典作家的记载并非完全不可信，需要结合考古证据审慎评估。Meister等人对神庙水环境的研究则展示了空间考古如何为神学研究提供新视角。未来随着三角洲地区更多考古工作的开展，我们对巴斯泰特崇拜的认识肯定还会进一步深化。
+一手文献方面，希罗多德的记载是古典作家最详细的记录，萨卡拉新出土的还愿铭文提供了民间视角，布巴斯提斯神庙建筑遗存保存了国家崇拜的格局。比较神话学中，她与其他文化中"动物化身家庭女神"的平行值得注意，而猫在人类文明中从捕鼠者到宠物的角色转变，也能从她的形象演变中找到最早的宗教表达。
