@@ -1,174 +1,184 @@
 ---
 id: zoroaster-persian
-name_primary: 琐罗亚斯德 琐罗亚斯德教创始人
-name_original: Zarathustra / Zoroaster / 𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬀
-name_aliases: [查拉图斯特拉, 苏鲁支, 扎拉图斯特拉]
+name_primary: 琐罗亚斯德 琐罗亚斯德教创始人与先知
+name_original: 𐭆𐭅𐭓𐭅𐭃𐭉 / Zaraθuštra
+name_aliases: [查拉图斯特拉, 苏鲁支,  Zarathustra]
 name_translations:
   zh: 琐罗亚斯德
   en: Zoroaster
-  fa: زرتشت
+  pe: زرتشت
 
 hero_image: /images/entries/zoroaster-persian.jpg
-hero_image_alt: 先知琐罗亚斯德在山中接受启示的古波斯风格画像
+hero_image_alt: 先知琐罗亚斯德接受启示的古波斯绘画场景
 hero_image_credit: AI generated · Persian miniature style
 
 culture_path: Asia/West Asia/Persia/Zoroastrianism
 entity_type: deity
-era: c. 1500 – 1000 BCE (traditional dating)
-geo_region: Eastern Iranian Plateau
+era: 约公元前1500年 - 公元前1000年
+geo_region: 巴克特里亚 东伊朗
 
-summary: 琐罗亚斯德（又译查拉图斯特拉）是琐罗亚斯德教的创始先知，宣称接受阿胡拉·马兹达启示，改革古代伊朗宗教，创立了以善恶二元论为核心的先知宗教。生平争议见Boyce 1984，最新研究见Cucu 2023。
+summary: 琐罗亚斯德（又名查拉图斯特拉）是琐罗亚斯德教的创始人，相传他获得阿胡拉·马兹达启示，改革原始波斯多神教，创立了以二元神论为核心的新信仰。现存最古老的伽塔诗歌被认为出自他本人。Boyce（1996）考证其活动年代约在公元前1000年左右。
 
-attributes: [先知, 宗教创始人, 启示宗教, 二元论]
+attributes: [先知, 创始人, 改革者, 启示宗教]
 
 primary_sources:
   - type: book
-    title: "Textual Sources for the Study of Zoroastrianism"
-    author: "Mary Boyce"
-    year: 1984
-    language: en
-    note: "经典生平考证"
-  - type: paper
-    title: "Neither Zarathushtra nor Pope: Zoroastrianism as a Front for the Anglican Church’s Attacks on Catholicism"
-    author: "IONUȚ-VALENTIN CUCU"
-    year: 2023
-    language: en
-    url: "https://doi.org/10.46586/er.11.2023.10810"
-    access: open
-    note: "近代欧洲对琐罗亚斯德形象的建构研究"
-  - type: paper
-    title: "On the State and Prospects of the Study of Zoroastrianism"
-    author: "Michael Stausberg"
+    title: "二元神论——古波斯宗教神话研究"
+    author: 元文琪
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E3%80%8A%E4%BA%8C%E5%85%83%E7%A5%9E%E8%AE%BA%E2%80%94%E2%80%94%E5%8F%A4%E6%B3%A2%E6%96%AF%E5%AE%97%E6%95%99%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6%E3%80%8B
+    access: offline
+    note: 系统梳理琐罗亚斯德生平与思想在中文世界的研究
+
+  - type: book
+    title: "Zarathustra and Zoroastrianism: A Short Introduction"
+    author: Michael Stausberg
     year: 2008
     language: en
-    url: "https://doi.org/10.1163/156852708X310536"
+    url: https://doi.org/10.1558/FIRN.V4I2.211
+    access: paywall
+    note: 现代导论性著作，总结了百年学术研究成果
+
+  - type: paper
+    title: "SEVERAL COMMENTS ON THE PERSONALITY OF ZARATKHUSHTRA"
+    author: Is'hoqov Mirdsodiq Mirsultonovich
+    year: 2019
+    language: en
     access: open
-    note: "当代琐罗亚斯德研究现状综述"
+    note: 重新考察琐罗亚斯德个人历史记载中的问题
+
+  - type: paper
+    title: "On the State and Prospects of the Study of Zoroastrianism"
+    author: Michael Stausberg
+    year: 2008
+    language: en
+    url: https://doi.org/10.1163/156852708X310536
+    access: open
+    note: 讨论琐罗亚斯德研究的现状与未来方向
+
+  - type: paper
+    title: "Terrorizing Zoroaster's Prophethood and the Opinion of Malay Gawra of Koya on Zoroastrianism"
+    author: Ala Dara Abdul Majid
+    year: 2016
+    language: en
+    url: https://doi.org/10.21600/ijoks.278415
+    access: open
+    note: 伊斯兰学术传统对琐罗亚斯德先知身份的讨论
+
+  - type: book
+    title: "A History of Zoroastrianism"
+    author: Mary Boyce
+    year: 1996
+    language: en
+    access: offline
+    note: 权威考证琐罗亚斯德的历史活动年代和地域
 
 structured_data:
-  epithets: [Spitama, the Prophet, the Reformer]
-  clan: Spitama
-  father: Pourushaspa
-  mother: Dughdova
-  wife: Hvovi
-
-variants:
-  - region: "Greek sources"
-    version: "Zoroaster"
-    note: "Greek transliteration"
-  - region: "Chinese sources"
-    version: "苏鲁支"
-    note: "Chinese Buddhist translation"
+  epithets: [先知, 获得启示者, 改革者]
+  birth_place: 巴克特里亚（今阿富汗北部）
+  traditional_dates: 公元前628年 - 公元前551年
+  modern_critical_dates: 公元前1500年 - 公元前1000年
+  main_revelation: 接受阿胡拉·马兹达启示，创立二元神论教义
 
 parallels:
-  - culture: "Judaism"
-    entity: "Moses"
-    relation: "founding prophet of monotheistic religion"
-    note: "Comparable role as lawgiver and prophet"
-    source_ref: "Eliade 1978"
-  - culture: "Islam"
-    entity: "Muhammad"
-    relation: "founder prophet receiving divine revelation"
-    source_ref: "Stausberg 2015"
+  - culture: 希伯来
+    entity: 摩西
+    relation: 功能对应
+    note: 同为获得启示创立一神论信仰的先知
+    source_ref: Stausberg 2008
+
+  - culture: 印度
+    entity: 释迦牟尼
+    relation: 功能对应
+    note: 同为宗教改革家，创立新的思想体系
+    source_ref: 元文琪 2018
+
+  - culture: 伊斯兰
+    entity: 穆罕默德
+    relation: 功能对应
+    note: 同为传播一神论启示的先知
+    source_ref: 元文琪 2018
 
 confidence: documented
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-21"
-updated_at: "2026-07-21"
+created_at: "2026-07-23"
+updated_at: "2026-07-23"
 ---
 
-## 名称与译名
+## 历史人物与神话先知
 
-琐罗亚斯德（Zoroaster）来自希腊语对原始伊朗语*Zarathustra*的转写，中文还有几个常见译名：
-- **查拉图斯特拉**：尼采《查拉图斯特拉如是说》使用这个译名
-- **苏鲁支**：佛教典籍和民国时期常用译名
-- **扎拉图斯特拉**：近年一些学术作品使用
+琐罗亚斯德（*Zaraθuštra*，希腊化译名为Zoroaster，中文也译查拉图斯特拉、苏鲁支）是琐罗亚斯德教的创始人，相传他获得阿胡拉·马兹达的直接启示，创立了以二元神论为核心的新信仰（Boyce，1996）。
 
-琐罗亚斯德本人属于**斯皮塔马（Spitama）**氏族，因此全名常作**Spitama Zarathustra**。
+关于琐罗亚斯德究竟是历史人物还是神话人物，学术界仍有讨论，但多数学者认为存在一个历史上的宗教改革家，其教义经过后世发展形成了现存体系。
 
-## 生平年代争议
+## 生平记载与年代考证
 
-关于琐罗亚斯德的生活年代，学界争议很大：
-- **传统琐罗亚斯德纪年**：认为他生活在公元前6000年左右，这个显然是宗教纪年不是历史纪年
-- **希罗多德记载**：说他比梭伦早约600年，大约公元前1200年左右
-- **现代语言学与文献学**：大多数学者倾向于公元前1500-1000年之间，在东伊朗地区
-- **少数观点**：认为他生活在公元前6世纪左右，和佛陀同时代
+根据琐罗亚斯德教传统记载，琐罗亚斯德出生于公元前628年，卒于公元前551年，活了77岁。但现代语言学家和历史学家根据《阿维斯塔》语言风格考证，认为他生活的年代更早，大约在公元前1500年到公元前1000年之间，活动区域在东伊朗的巴克特里亚（今阿富汗北部）（Boyce，1996）。
 
-目前主流观点倾向于公元前1000年之前，东伊朗游牧部落中活动（Boyce 1984）。由于没有同时代的文字记录，他的准确生卒年份无法确定。
+传说他出身于祭司家族，年轻时就对宗教问题进行深入思考，在30岁时获得阿胡拉·马兹达的启示，开始传教。起初传教并不顺利，后来得到一位国王的支持，信仰才得以广泛传播。他晚年在战争中被杀害。
 
-## 生平传说与启示经历
+## 宗教改革：从多神教到二元神论
 
-根据后世琐罗亚斯德教传说，琐罗亚斯德生平大致如下：
-1. 出生于东伊朗斯皮塔马氏族贵族家庭
-2. 年轻时就与众不同，从小拒绝饮酒和献祭恶神
-3. 三十岁时，在河畔祈祷时接受了阿胡拉·马兹达的启示，看到了光明世界，听到了神的召唤
-4. 开始传道，起初受到很多反对，只有少数人跟随
-5. 后来得到了维斯塔巴国王的支持，国王和王后都皈依了他的教导
-6. 在七十七岁时，于一座神庙中被入侵者杀害
+琐罗亚斯德对原始伊朗宗教进行了根本性改革：
 
-这个生平框架来自萨珊时期的文字记载，距离他生活的年代已经过去了一千多年，其中肯定混合了很多传说元素（Stausberg 2008）。
+1. **神系重构**：将原始伊朗神分为阿胡拉和提婆两大类，抬高阿胡拉，贬低提婆，最终确立阿胡拉·马兹达为唯一至高神
+2. **二元框架**：引入阿胡拉·马兹达与安格拉·曼纽的永恒对立，解释世界上善与恶的来源
+3. **伦理转向**：将宗教核心从仪式牺牲转向道德选择，强调人必须在善恶之间做出选择
+4. **末日终末论**：提出明确的末日审判和世界净化观念，承诺善最终必然胜利
 
-## 宗教改革：琐罗亚斯德的贡献
+这场改革使琐罗亚斯德教成为人类历史上最早的**启示宗教**之一，对后来的宗教发展产生了深远影响（Stausberg，2008）。
 
-琐罗亚斯德对古代伊朗宗教进行了根本性改革：
-1. **提升阿胡拉·马兹达**：将原来印度-伊朗万神殿中的阿胡拉提升为唯一至高神
-2. **反转提婆**：原来的提婆（Deva）诸神被宣布为恶魔，成为安格拉·曼纽的仆从
-3. **善恶二元论**：明确提出宇宙分为善恶两大阵营，人类必须选择立场
-4. **三善伦理**：确立善思、善言、善行的核心伦理准则
-5. **末世论**：提出最终末日审判，善必胜恶
+## 《伽塔》：琐罗亚斯德本人的诗歌
 
-这场改革使得原来多神的伊朗宗教转变为以善恶二元论为核心的先知宗教，这在人类宗教思想史上是一次重大飞跃（Eliade 1978）。
+现存《阿维斯塔》中的《伽塔》（*Gathas*，意为"颂歌"）部分，共17章，被学术界认为最可能出自琐罗亚斯德本人之手。这些诗歌语言古朴，风格独特，表达了他对阿胡拉·马兹达的信仰和对教义的理解。
 
-## 《伽萨》：琐罗亚斯德本人的诗歌
+《伽塔》中已经包含了二元论的基本框架，但不如后世体系化，反映了创始人原初的思想。这些诗歌是研究琐罗亚斯德本人思想最直接的材料。
 
-《阿维斯塔》中的《伽萨》（Gathas）十七章诗歌，被普遍认为是琐罗亚斯德本人的作品，保留了他最原始的教导：
-- 使用更古老的语言，比其他《阿维斯塔》部分更古老
-- 第一人称叙述，表达了他对启示的体验
-- 讨论了核心神学问题：恶的来源、自由意志、创世
+## 教义核心：选择与责任
 
-即使经过千年口传，《伽萨》仍然保留了琐罗亚斯德思想的核心轮廓，是研究他本人最可靠的材料（元文琪 2018）。
+琐罗亚斯德教义的核心在于**人的自由选择**：阿胡拉·马兹达创造了人，赋予人选择善恶的自由。每个人都必须在善恶斗争中选择立场，选择善道的人将在末日获得奖赏，选择恶道的人将受到惩罚。
 
-## 欧洲思想史中的琐罗亚斯德
+这种对个人道德责任的强调，在古代宗教中非常突出，它赋予每个个体在宇宙斗争中的关键地位，而不仅仅是被动接受命运。
 
-在欧洲思想史上，琐罗亚斯德形象经历了很多变化：
-- **古典希腊时期**：希腊人认为他是最古老的智者和波斯魔法的创始人
-- **中世纪**：欧洲基督徒将他看作异教先知，有时认为他预言了基督降临
-- **近代早期**：一些共济会和秘密结社将琐罗亚斯德作为古老智慧的象征
-- **尼采**：尼采在《查拉图斯特拉如是说》中，使用他作为自己哲学代言人，宣扬超人说，这让查拉图斯特拉这个译名在西方广为人知
+## 后世对琐罗亚斯德的神话化
 
-IONUȚ-VALENTIN CUCU（2023）的研究指出，近代欧洲对琐罗亚斯德的形象建构，经常被用来服务于当时的宗教争议，比如利用琐罗亚斯德权威攻击天主教会，这些建构和历史上真实的琐罗亚斯德已经关系不大。
+随着琐罗亚斯德教的发展，创始人逐渐被神话化。在后期文献中，琐罗亚斯德的诞生被赋予各种神迹：他出生时不哭而是笑，天生具有神圣灵光，众恶魔试图杀害他但都失败等等。
 
-## 琐罗亚斯德在宗教史上的地位
+在萨珊王朝时期，琐罗亚斯德被视为完美的先知，所有真理都已经通过他传达完毕，后世只需要传承和解释。
 
-在宗教史上，琐罗亚斯德具有非常重要的地位：
-- **第一个启示宗教创始人**：通常认为他是历史上第一个宣称接受神启，创立宗教的先知
-- **二元论范式创造者**：他创立的善恶二元宇宙论，影响了后世几乎所有一神论宗教
-- **伦理宗教先驱**：将宗教核心从献祭转向伦理实践，强调个人道德选择
+## 琐罗亚斯德在文化史上的影响
 
-许多宗教史学家认为，琐罗亚斯德是世界上第一个真正意义上的先知，开创了先知宗教的传统，这个传统后来通过犹太教、基督教、伊斯兰教延续至今（Eliade 1978）。
+琐罗亚斯德创立的宗教不仅影响了波斯文明本身，还通过各种渠道影响了整个欧亚大陆的宗教发展：
 
-## 考古能找到琐罗亚斯德吗？
+- 影响了犹太教、基督教的末世论和魔鬼观念
+- 直接被摩尼教继承核心框架
+- 影响了诺斯替主义的二元宇宙观
+- 对伊斯兰哲学中的某些流派也有影响
 
-由于琐罗亚斯德生活年代太早，又缺乏同时代文字记录，考古学至今没有找到任何可以确定是他本人的遗迹：
-- 目前发现最古老的琐罗亚斯德教遗迹是阿契美尼德时期的，距离他生活年代已经几百年
-- 中亚最近的一些考古发现，比如花剌子模的早期神庙，可能和早期琐罗亚斯德教有关，但无法直接关联到他本人
-- 文字材料都是后世编纂的，最早也不超过阿契美尼德时期
+在现代西方思想中，尼采以"查拉图斯特拉如是说"为名写作哲学著作，使这个名字在现代思想中获得了新的象征意义。
 
-尽管如此，大多数学者都认为琐罗亚斯德本人是真实历史人物，不是神话虚构，只是他的生平细节无法确证（Boyce 1984）。
+## 中国文献中的记载
 
-## 琐罗亚斯德形象的现代演变
+在中国古代文献中，琐罗亚斯德教（祆教）从南北朝时期就传入中国，留下了多处记载。杜佑《通典》、《魏书》等文献中都有关于祆教的记载，琐罗亚斯德被称为"胡天神"。
 
-在现代伊朗，琐罗亚斯德形象被赋予了新的意义：
-- **伊朗民族主义**：琐罗亚斯德被视为前伊斯兰波斯文化的象征，伊朗民族精神的代表
-- **文化复兴**：一些文化运动重新发掘琐罗亚斯德思想对伊朗文化的贡献
-- **帕西人社区**：在印度，琐罗亚斯德仍然是社区认同的核心
+现代中国学者对琐罗亚斯德的研究始于20世纪，林悟殊、元文琪等学者相继做出重要贡献，推动了中文世界对这位波斯先知的认识。
 
-现代学者越来越认识到，琐罗亚斯德创立的思想体系，不仅是波斯文化的根基，也对整个欧亚大陆的宗教思想产生了深远影响（Stausberg 2008）。
+## 现代学术争议
+
+关于琐罗亚斯德仍有一些争议问题：
+
+1. 确切的生卒年代：传统年代和现代语言学考证相差近千年，仍未有定论
+2. 确切的出生地：到底是东伊朗还是西伊朗，仍有不同观点
+3. 《伽塔》到底有多少出自他本人：有些学者认为全部出自他，有些认为只有部分
+4. 他是否真的存在：少数极端观点认为他完全是神话人物
+
+这些争议反映了材料不足带来的困难，期待未来考古发现能提供更多线索。
 
 ## Mythos Atlas 编者按
 
-琐罗亚斯德作为人类历史上第一个有记载的先知，其思想的广度和深度都超出了一般古代宗教创始人。他提出的善恶二元论、自由意志、末日审判等观念，塑造了后来三千多年欧亚大陆的宗教思想轨迹。
+琐罗亚斯德是整个琐罗亚斯德神话体系的创建者，理解他的改革才能理解这个体系如何从原始印欧多神教演变为启示宗教。**权威考证**Mary Boyce（1996）将其活动年代定在公元前1000年左右的东伊朗，**中文研究**元文琪（2018）系统梳理了他的思想体系。
 
-尼采让查拉图斯特拉这个名字在现代广为人知，但尼采的查拉图斯特拉其实是尼采自己的哲学代言人，和历史上真实的琐罗亚斯德差别很大。Mythos Atlas整理此词条，基于原始文献和现代学术研究，力图呈现历史上真实的琐罗亚斯德——那个三千年前在伊朗高原改革宗教，改变了人类思想史走向的先知。
+作为一位生活在三千年前的宗教改革家，琐罗亚斯德提出的二元神论和道德选择观念，在人类思想史上具有开创性意义。

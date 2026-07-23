@@ -1,200 +1,187 @@
 ---
 id: avesta-persian
-name_primary: 阿维斯塔 琐罗亚斯德教圣典
-name_original: 𐬀𐬥𐬀𐬬𐬾𐬙𐬀 / Avesta
-name_aliases: [阿维斯陀，波斯古经]
+name_primary: 阿维斯塔 琐罗亚斯德教神圣典籍
+name_original: 𐬀𐬨𐬈𐬯𐬙𐬀 / Avesta
+name_aliases: [波斯古经, 阿维斯塔]
 name_translations:
   zh: 阿维斯塔
   en: Avesta
-  fa: اوستا
+  pe: اوستا
 
 hero_image: /images/entries/avesta-persian.jpg
-hero_image_alt: 古代阿维斯塔写本 琐罗亚斯德教经书
-hero_image_credit: AI generated · Persian manuscript style
+hero_image_alt: 古波斯阿维斯塔经文抄本残片
+hero_image_credit: AI generated · Pahlavi manuscript style
 
 culture_path: Asia/West Asia/Persia/Zoroastrianism
-entity_type: motif
+entity_type: ritual
 era: 公元前1000年 - 公元7世纪
 geo_region: 伊朗高原
 
-summary: 《阿维斯塔》是琐罗亚斯德教的根本圣典，汇集了神话、赞美诗、祷文、仪式规范等内容，最古老部分《伽萨》可追溯至公元前1000年左右。阿拉伯征服后部分散失，现存文本由帕西人社区保存传承。现代整理研究始于19世纪欧洲东方学，权威版本为达梅斯特泰与博伊斯整理本。
+summary: 《阿维斯塔》是琐罗亚斯德教的神圣典籍，汇集了琐罗亚斯德以来的宗教经文、神话、仪式规范和赞美诗。原典共二十一卷，阿拉伯征服后大部分散佚，现存仅约四分之一。元文琪（2018）系统梳理了其成书过程和神话内容。
 
-attributes: [琐罗亚斯德教圣典, 波斯古经, 阿维斯塔语, 神话汇集]
+attributes: [圣典, 经书, 神话总集, 仪式规范]
 
 primary_sources:
   - type: book
-    title: "The Avesta and the Zoroastrian Community"
-    author: "Mary Boyce"
-    year: 2001
-    language: en
-    url: https://doi.org/10.1163/9789004294004
-    access: paywall
-    note: "权威整理，梳理文本传承历史"
+    title: "二元神论——古波斯宗教神话研究"
+    author: 元文琪
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E3%80%8A%E4%BA%8C%E5%85%83%E7%A5%9E%E8%AE%BA%E2%80%94%E2%80%94%E5%8F%A4%E6%B3%A2%E6%96%AF%E5%AE%97%E6%95%99%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6%E3%80%8B
+    access: offline
+    note: 中文世界系统梳理《阿维斯塔》成书过程与内容
+
   - type: book
-    title: "Textual Sources For The Study Of Zoroastrianism"
-    author: "Prods Oktor Skjærvø"
-    year: 2016
+    title: "A History of Zoroastrianism"
+    author: Mary Boyce
+    year: 1996
     language: en
-    url: https://www.semanticscholar.org/search?q=Textual%20Sources%20For%20The%20Study%20Of%20Zoroastrianism
-    access: open
-    note: "文本选本，便于现代研究者使用"
+    access: offline
+    note: 权威梳理《阿维斯塔》文本形成的历史过程
+
   - type: paper
     title: "“阿维斯塔”与民族生活中的琐罗亚斯德教传统研究"
-    author: "新疆大学人文学院"
+    author: 新疆大学人文学院
     year: 2016
     language: zh
     url: https://s.wanfangdata.com.cn/paper?q=%E2%80%9C%E9%98%BF%E7%BB%B4%E6%96%AF%E5%A1%94%E2%80%9D%E4%B8%8E%E6%B0%91%E6%97%8F%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99%E4%BC%A0%E7%BB%9F%E7%A0%94%E7%A9%B6
     access: open
-    note: "中文世界阿维斯塔研究综述"
+    note: 讨论《阿维斯塔》传统在当代民族生活中的遗存
+
   - type: book
-    title: "The Wiley Blackwell Companion to Zoroastrianism"
-    author: "Michael Stausberg"
-    year: 2015
+    title: "The Zoroastrian Faith: Tradition and Modern Research"
+    author: S. Nigosian
+    year: 1993
     language: en
-    url: https://onlinelibrary.wiley.com/doi/book/10.1002/9781118785904
+    url: https://doi.org/10.2307/605371
     access: paywall
-    note: "当代研究现状综述，包含文本考证"
+    note: 综合介绍《阿维斯塔》各部分内容与现代研究
+
+  - type: paper
+    title: "Zoroastrismo e religioni dell'Iran preislamico"
+    author: Antonio C.D. Panaino
+    year: 2010
+    language: it
+    access: offline
+    note: 讨论前伊斯兰伊朗文献中《阿维斯塔》的传承
 
 structured_data:
-  sections: [Gathas, Yasna, Visperad, Vendidad, Khordeh Avesta]
-  oldest_section: Gathas
+  original_books: 21 Nasks
+  surviving_books: 约5卷完整
+  main_sections: [Yasna, Vendidad, Visperad, Khordeh Avesta]
   language: Avestan
-  traditional_author: Zarathustra
-  date_range: "1000 BCE - 651 CE"
-
-variants:
-  - region: "Sasanian Persia"
-    version: "Sasanian redaction"
-    note: "Official version compiled by Vologases V, complete 21 nasks"
-  - region: "Parsis in India"
-    version: "Indian recension"
-    note: "Transmitted orally by Parsis after Islamic conquest"
-  - region: "modern scholarship"
-    version: "critical edition"
-    note: "Critical edition compiled by European Orientalists"
 
 parallels:
-  - culture: "Hinduism"
-    entity: "Rigveda"
-    relation: "Indo-Iranian parallel"
-    note: "Both are oldest sacred texts of Indo-Iranian traditions"
-    source_ref: "Boyce 2001"
-  - culture: "Judaism"
-    entity: "Tanakh"
-    relation: "canonical collection"
-    note: "Similar process of collecting ancient sacred texts over centuries"
-    source_ref: "Stausberg 2015"
-  - culture: "Buddhism"
-    entity: "Tripitaka"
-    relation: "canonical collection"
-    note: "Comparable process of redaction and transmission"
-    source_ref: "Jackson 1899"
+  - culture: 印度
+    entity: 吠陀
+    relation: 同源对应
+    note: 同为印度-伊朗传统最古老圣典，语言结构相近
+    source_ref: Boyce 1996
+
+  - culture: 基督教
+    entity: 圣经
+    relation: 功能对应
+    note: 同为宗教核心圣典，汇集不同时期经文
+    source_ref: 元文琪 2018
+
+  - culture: 伊斯兰教
+    entity: 古兰经
+    relation: 功能对应
+    note: 同为先知获得启示后汇集的神圣经典
+    source_ref: 元文琪 2018
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-22"
-updated_at: "2026-07-22"
+created_at: "2026-07-23"
+updated_at: "2026-07-23"
 ---
 
-## 导读：波斯最古老圣典
+## 典籍定位：琐罗亚斯德教神圣总汇
 
-《阿维斯塔》（Avesta，也译阿维斯陀）是琐罗亚斯德教根本圣典，它是古代伊朗宗教和神话最主要文本来源，汇集了从公元前1000年到萨珊王朝几千年不同阶段内容，保存了琐罗亚斯德教神话、教义、仪式规范。
+《阿维斯塔》（*Avesta*，中文也译《波斯古经》）是琐罗亚斯德教的**神圣典籍总汇**，汇集了从琐罗亚斯德以来不同时期的宗教经文、赞美诗、神话叙事、仪式规范和教义教诲（元文琪，2018）。它不仅是宗教经典，也是保存古代波斯神话最主要的文献来源，我们对琐罗亚斯德神话的认识几乎全部来自《阿维斯塔》。
 
-阿拉伯征服波斯后，大部分内容散失，保存到现在只是原来一部分，主要靠印度帕西人社区口传和写本保存下来。19世纪欧洲东方学开始系统整理翻译，现在已经有比较完善的校勘本（Boyce 2001）。
+## 成书与传承历史
 
-## 名称语源
+《阿维斯塔》的成书经历了漫长的过程：
 
-"Avesta" 词源不确定，可能意思是"律法"，"知识"，或者"启示"，中文翻译波斯古经，就是《阿维斯塔》。萨珊波斯时期编纂为二十一卷（nasks），现在只有一部分保存下来。
+1. **口传阶段**：从琐罗亚斯德时代开始，经文通过口耳相传，传承了数百年
+2. **阿契美尼德王朝**：开始用文字记录部分内容，但没有完整编订
+3. **帕提亚王朝**：尝试重新收集和整理散佚的经文
+4. **萨珊王朝**：最终完成编订，共有二十一卷（Nasks），分为三个部分
 
-文本语言是阿维斯塔语，这是最古老伊朗语，比吠陀梵语还古老一些，和梵语很接近，属于印伊语族，比较语言学可以和吠陀对比，帮助重构原始印伊共同宗教。
+公元7世纪阿拉伯征服波斯后，琐罗亚斯德教衰落，《阿维斯塔》大部分散佚，只有部分内容保存下来。现存《阿维斯塔》大约只有原典的四分之一左右（Boyce，1996）。
 
-## 文本结构与成书过程
+## 现存内容结构
 
-《阿维斯塔》现存分为几个部分：
+现存《阿维斯塔》主要分为四个部分：
 
-1. **《伽萨》（Gathas）**：十七首赞美诗，最古老部分，语言最古，认为是查拉图斯特拉本人作品，大约公元前1000年左右
-2. **《耶斯纳》（Yasna）**：祭祀祈祷文，包含《伽萨》在内，一共七十二章，是祭祀仪式核心经文
-3. **《维斯佩拉德》（Visperad）**：对众神赞美诗，补充《耶斯纳》
-4. **《万迪达德》（Vendidad）**：律法与祓除恶魔仪式规范，保存了很多古代神话和习俗
-5. **《霍尔德阿维斯塔》（Khordeh Avesta）**：日常祈祷文选本，普通信徒使用
+1. **耶斯纳**（*Yasna*，意为"祭祀"）：共72章，是祭祀仪式中的祈祷文，其中最古老的《伽塔》（Gathas）17章被认为出自琐罗亚斯德本人
+2. **万迪达德**（*Vendidad*，意为"涤罪法"）：主要讲述驱魔、洁净仪式规范，保存了许多古老神话
+3. **维斯佩拉德**（*Visperad*，意为"一切主"）：是对诸神的赞美诗合集
+4. **霍尔德阿维斯塔**（*Khordeh Avesta*，即"小阿维斯塔"）：是信徒日常使用的祈祷书
 
-萨珊王朝国王沃洛吉斯五世（Vologases V）下令收集整理分散经文，编成官方二十一卷本，这是最后官方编纂，阿拉伯征服后，大部分散佚，现存只有约四分之一原来文本。
+不同部分成文年代相差很大，从公元前一千纪早期到萨珊时期都有。
 
 ## 神话内容保存
 
-《阿维斯塔》保存很多古代伊朗神话：
-- 创世神话：阿胡拉·马兹达创造世界，安格拉入侵，完整二元创世
-- 伊玛神话：第一个人王伊玛，黄金时代，后来失国故事
-- 提什特里亚神话：雨神提什特里亚对抗干旱恶魔阿波什，带来雨水神话
-- 阿兹·达哈卡神话：三头龙恶魔，被勇士特拉埃陶纳杀死故事
+《阿维斯塔》保存了丰富的琐罗亚斯德神话内容：
 
-这些神话原来都是口传，《阿维斯塔》把它们写定保存，很多内容只在这里保存，其他地方失传。
+- **创世神话**：详细叙述阿胡拉·马兹达创造世界的过程，以及安格拉·曼纽入侵带来的罪恶
+- **神祇谱系**：记载了善神阵营各个神祇的属性和功能
+- **宇宙二元论**：系统阐述善恶二元对立的宇宙观
+- **末世论**：描述末日审判和善最终胜利的过程
+- **起源神话**：解释原人、原牛等神话存在的意义
 
-## 文本传承历史
+许多古代波斯神话仅保存在《阿维斯塔》中，因此它具有不可替代的文献价值。
 
-《阿维斯塔》传承历史很曲折：
-- 萨珊王朝之前：主要口传，祭司阶层代代相传，写本很少
-- 萨珊王朝：官方整理成二十一卷，写在一千二百张牛皮上，保存于首都
-- 阿拉伯征服：战争破坏，很多写本毁失，内容散失，一部分靠口传保存
-- 伊斯兰时期：波斯本土信徒慢慢减少，印度帕西人完整保存传统，口传一直持续到近代
-- 19世纪：欧洲东方学家到印度，从帕西祭司那里得到文本，开始系统整理翻译
+## 语言特征
 
-所以现在我们读到《阿维斯塔》，主要来自帕西人传承，非常幸运，不然很多内容就彻底失传了。
+《阿维斯塔》使用**阿维斯塔语**写成，这是一种非常古老的伊朗语，比梵语更接近原始印度-伊朗语，对比较印欧语言学研究具有重要价值。
 
-## 语言与文献学价值
+阿维斯塔语分为两个层次：《伽塔》部分使用更古老的语言，反映了琐罗亚斯德本人时代的语言；后期部分使用的语言稍晚，接近中古波斯语。
 
-阿维斯塔语是非常古老伊朗语，保存了很多原始印欧语特征，和吠陀梵语非常接近，比较语言学非常珍贵材料，可以帮助我们重构印伊原始共同语言和宗教。
+## 文本传承中的问题
 
-很多神名可以和吠陀对应：
-- Ahura → Asura（阿修罗）
-- Daeva → Deva（提婆）
-- Haurvatāt → Svāhā?
-- 这些对应帮助我们理解印伊宗教分化过程，非常重要。
+由于经历了多次战乱和散佚重编，《阿维斯塔》现存文本存在一些问题：
 
-《阿维斯塔》保存了很多古代伊朗地名、族群名，可以帮助我们重构古代伊朗历史地理，很多信息其他地方没有。
+- 许多篇章顺序已经打乱，无法恢复原初顺序
+- 部分经文因为口传发生了变化，原文已经无法确定
+- 一些注释混入正文，需要学者区分辨别
+- 不同传承版本存在异文，需要校勘
 
-## 神话学价值
+尽管如此，核心神话内容保存得比较完整，不影响对整体神话体系的理解。
 
-《阿维斯塔》保存了印伊共同神话很多元素，帮助我们理解印欧神话起源，很多母题可以和印度、希腊神话对比。
+## 不同历史时期的注释传统
 
-比如伊玛黄金城神话，对应印度阎摩，两者都是第一个人，祖先，对应共同印欧神话源头。
+在琐罗亚斯德教历史上，存在多次对《阿维斯塔》的注释：
 
-琐罗亚斯德改革改变了很多神地位，阿胡拉升，德夫降，这个变化《阿维斯塔》清楚记录，帮助我们理解宗教改革过程。
+- **帕拉维语注释**：萨珊时期用中古波斯语（帕拉维语）对经文进行注释，保存了许多古代传统
+- **梵文注释**：印度帕西人社区用梵文进行注释
+- **现代学术注释**：从18世纪开始，欧洲学者开始进行科学整理和注释，目前已有多个现代校勘本
 
-作为圣典，它把神话和教义整合在一起，神话不是单纯故事，而是服务二元伦理，每个神话都有伦理意义，这个整合非常成熟。
+中国学者元文琪等对《阿维斯塔》进行了系统的中文介绍和研究，使中文世界能够了解这部古老典籍（元文琪，2018）。
 
-## 帕西人传承
+## 文化影响
 
-阿拉伯征服后，一部分琐罗亚斯德教徒不愿意改宗，慢慢向南迁移，最终到印度西海岸，建立帕西人社区，一直保存《阿维斯塔》传承，坚持每天祈祷，仪式规范。
+《阿维斯塔》中的神话和思想对伊朗文化和整个欧亚大陆文化产生了深远影响：
 
-帕西祭司一直保持口传传统，即使后来有写本，口传仍然非常重要，发音准确性靠口传保证，这个传统持续将近一千三百年，非常了不起，要是没有帕西人坚持，我们今天看不到完整《阿维斯塔》。
+- **二元论思想**：通过琐罗亚斯德教影响了后来诸多宗教的宇宙观
+- **末日审判观念**：这一观念直接被后来的宗教继承
+- **火崇拜传统**：影响了中亚许多民族的宗教习俗
+- **印欧比较神话**：保存了许多原始印欧神话元素，对 reconstruct 原始印欧神话具有重要价值
 
-18世纪开始，欧洲学者开始接触帕西人，慢慢把文本带到欧洲，进行整理研究，才有现代阿维斯塔学。
+在今天伊朗，《阿维斯塔》仍然被视为伊朗古代文化的象征，是伊朗民族文化认同的重要组成部分。
 
-## 现代整理与研究
+## 《阿维斯塔》在中国
 
-现代阿维斯塔研究，从19世纪法国东方学家达梅斯特泰（James Darmesteter）开始，他第一个完整校勘翻译《阿维斯塔》，出版了权威版本。
+琐罗亚斯德教（祆教）从南北朝时期传入中国，在唐代长安等地还有祆祠，但《阿维斯塔》全文从未翻译成中文。近代以来，中国学者开始介绍和研究《阿维斯塔》，目前已有部分章节的中文译本。
 
-20世纪玛丽·博伊斯系统重新整理，她的《琐罗亚斯德教史》整合了所有研究成果，建立现代阿维斯塔学框架，现在学界使用她整理文本。
-
-当代随着新考古发现，文献学方法进步，对阿维斯塔文本断代，成书过程认识不断深化，现在一般认为《伽萨》确实公元前1000年左右，比其他部分早很多。
-
-中文世界，《阿维斯塔》已经有完整翻译，从英文转译，方便中文读者阅读。
-
-## 文化意义
-
-《阿维斯塔》是伊朗文化最古老文献，保存了古代伊朗神话、宗教、语言、历史，是研究伊朗古代文明核心资料，没有《阿维斯塔》我们对波斯前伊斯兰时代认识会差很多。
-
-它的二元创世神话，影响整个欧亚宗教思想，通过摩尼教、诺斯替影响基督教，这种影响通过文本传播，《阿维斯塔》就是源头。
-
-作为印伊语族最古老圣典之一，和《梨俱吠陀》对应，帮助我们重构原始印欧人宗教，比较神话学非常珍贵。
+新疆地区一些民族的传统习俗中，还保留着一些源自琐罗亚斯德教的传统，这些传统可以追溯到《阿维斯塔》中的规范（新疆大学人文学院，2016）。
 
 ## Mythos Atlas 编者按
 
-**文本传承**：萨珊官方二十一卷，阿拉伯征服后大部分散失，帕西人保存残卷，欧洲东方学整理。
-**核心价值**：保存了古代伊朗最完整神话材料，语言古老比较语言学价值极高。
-**研究现状**：玛丽·博伊斯整理本是现在权威，文本断代和成书过程还有讨论空间。
-**中文资源**：已有中文全译本，方便中文研究者使用。
-**神话地位**：印伊神话传统核心文献，保存了很多独一无二创世神话。
+《阿维斯塔》是保存琐罗亚斯德神话最主要的文献来源，没有这部典籍我们就无法了解古代波斯神话。**中文奠基研究**元文琪（2018）系统梳理了其成书过程和内容，**国际权威**Mary Boyce（1996）梳理了文本传承的历史脉络。
+
+作为第一批五条词条的最后一条，《阿维斯塔》完成了琐罗亚斯德教神话体系基本框架：体系总览+至高善神+终极恶神+先知创始人+圣典，五个维度正好构成了完整的第一批次。

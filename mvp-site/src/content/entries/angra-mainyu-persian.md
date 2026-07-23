@@ -1,200 +1,185 @@
 ---
 id: angra-mainyu-persian
-name_primary: 安格拉·曼纽 琐罗亚斯德教恶灵与恶的本源
-name_original: 𐭠𐭭𐭪𐭫𐭬𐭭𐭩 / Angra Mainyu
-name_aliases: [安哥拉明纽, 艾哈曼, 阿赫里曼]
+name_primary: 安格拉·曼纽 琐罗亚斯德教终极恶神
+name_original: 𐭠𐭭𐭢𐭥𐭫 𐭌𐭄𐭭𐭥 / Aŋra Mainyu
+name_aliases: [阿赫里曼, 安哥拉迈纽, 毁灭之灵]
 name_translations:
   zh: 安格拉·曼纽
   en: Angra Mainyu
-  fa: اهریمن
+  pe: اهریمن
 
 hero_image: /images/entries/angra-mainyu-persian.jpg
-hero_image_alt: 安格拉·曼纽黑暗形象 波斯风格浮雕
-hero_image_credit: AI generated · Persian Sasanian relief style
+hero_image_alt: 象征黑暗毁灭的安格拉·曼秘古波斯风格艺术表现
+hero_image_credit: AI generated · Persian dark deity relief style
 
 culture_path: Asia/West Asia/Persia/Zoroastrianism
 entity_type: deity
-era: 公元前1000年 - 至今
-geo_region: 伊朗高原, 中亚
+era: 公元前1500年 - 公元7世纪
+geo_region: 伊朗高原 中亚
 
-summary: 安格拉·曼纽是琐罗亚斯德教体系中一切恶与毁灭的本源，与善神阿胡拉·马兹达永恒对立。他作为独立的黑暗本原，不断入侵善的创造世界，生出各种恶魔、疾病和灾难。核心二元论框架由Boyce(2001)系统整理，现代哲学讨论见Antón Pacheco(2016)。
+summary: 安格拉·曼纽是琐罗亚斯德教神话中代表黑暗、毁灭与罪恶的终极恶神，是阿胡拉·马兹达的永恒对立面。他入侵善神创造的世界，引入一切灾难，最终将在末日审判中被彻底击败。元文琪（2018）系统阐释了他在二元框架中的位置。
 
-attributes: [恶的本源, 黑暗恶灵, 毁灭之神, 二元对立, 谎言]
+attributes: [恶神, 毁灭, 黑暗, 罪恶, 对立面]
 
 primary_sources:
   - type: book
+    title: "二元神论——古波斯宗教神话研究"
+    author: 元文琪
+    year: 2018
+    language: zh
+    url: https://s.wanfangdata.com.cn/paper?q=%E3%80%8A%E4%BA%8C%E5%85%83%E7%A5%9E%E8%AE%BA%E2%80%94%E2%80%94%E5%8F%A4%E6%B3%A2%E6%96%AF%E5%AE%97%E6%95%99%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6%E3%80%8B
+    access: offline
+    note: 中文世界最系统阐释安格拉·曼纽在二元论中的地位
+
+  - type: book
     title: "A History of Zoroastrianism"
-    author: "Mary Boyce"
-    year: 2001
-    language: en
-    url: https://doi.org/10.1163/9789004294004
-    access: paywall
-    note: "经典通史梳理安格拉·曼纽概念演变"
-  - type: paper
-    title: "AHURA MAZDĀ, ANGRA MAINYU AND THE BOUNTEOUS IMMORTALS"
-    author: "Mary Boyce"
+    author: Mary Boyce
     year: 1996
     language: en
-    url: https://doi.org/10.1163/9789004294004_009
+    access: offline
+    note: 权威梳理恶神概念从原始伊朗宗教到琐罗亚斯德的演变
+
+  - type: paper
+    title: "The Zoroastrian Faith: Tradition and Modern Research"
+    author: S. Nigosian
+    year: 1993
+    language: en
+    url: https://doi.org/10.2307/605371
     access: paywall
-    note: "分析二元对置结构的神学意义"
+    note: 讨论不同学术流派对二元论的解释
+
   - type: paper
-    title: "Cuidado del mundo, cuidado de la palabra, cuidado del alma: la visión del problema según el zoroastrismo"
-    author: "José Antonio Antón Pacheco"
+    title: "Terrorizing Zoroaster's Prophethood and the Opinion of Malay Gawra of Koya on Zoroastrianism"
+    author: Ala Dara Abdul Majid
     year: 2016
-    language: es
-    url: https://www.semanticscholar.org/search?q=Cuidado%20del%20mundo%2C%20cuidado%20de%20la%20palabra%2C%20cuidado%20del%20alma%3A%20la%20visi%C3%B3n%20del%20problema%20seg%C3%BAn%20el%20zoroastrismo
+    language: en
+    url: https://doi.org/10.21600/ijoks.278415
     access: open
-    note: "哲学视角重新阐释安格拉·曼纽在二元论中位置"
-  - type: paper
-    title: "KÂDÎ ABDÜLCEBBÂR'IN MECÛSÎ TEOLOJİ TENKİDİ"
-    author: "YAKUP HAFIZOĞLU"
-    year: 2020
-    language: tr
-    url: https://doi.org/10.46353/k7auifd.795226
-    access: open
-    note: "伊斯兰神学对琐罗亚斯德二元论的批评讨论"
-  - type: paper
-    title: "Zerdüştîlik'de Kozmogoni ve Yaratılış"
-    author: "Yrd. Doç. Dr. Huzeyfe SAYIM"
-    year: 2004
-    language: tr
-    url: https://www.semanticscholar.org/search?q=Zerd%C3%BC%5C%9Ct%C3%AAlik%E2%80%99de%20Kozmogoni%20ve%20Yarat%C4%B1l%C4%B1%C5%9F
-    access: open
-    note: "从创世论角度分析安格拉角色"
+    note: 讨论伊斯兰学术传统对琐罗亚斯德神系的看法
 
 structured_data:
-  epithets: [Evil Spirit, Destructive Spirit, Lie Personification]
-  realm: [Darkness, Outer Void]
-  children: [All Daevas, demons, diseases]
-  opposite: [Ahura Mazda]
-
-variants:
-  - region: "Sasanian Zurvanism"
-    version: "son of Zurvan"
-    note: "Brother of Ahura Mazda, both born to Zurvan the infinite time"
-  - region: "modern Zoroastrianism"
-    version: "evil force"
-    note: "Not co-eternal, created by Ahura Mazda as test"
+  epithets: [毁灭之灵, 黑暗之主, 谎言本源, 万恶之源]
+  realm: 黑暗深渊
+  followers: [Daevas, 各类恶魔]
+  goal: 毁灭阿胡拉·马兹达创造的一切
 
 parallels:
-  - culture: "Gnosticism"
-    entity: "Demiurge vs. true God"
-    relation: "conceptual influence"
-    note: "Dualistic framework directly influenced Gnostic cosmology"
-    source_ref: "Boyce 2001"
-  - culture: "Manichaeism"
-    entity: "Prince of Darkness"
-    relation: "direct adoption"
-    note: "Manichaean Prince of Darkness directly derived from Angra Mainyu"
-    source_ref: "Stausberg 2015"
-  - culture: "Christianity"
-    entity: "Satan"
-    relation: "functional parallel"
-    note: "Similar role as personification of evil and adversary of God"
-    source_ref: "Burke 2016"
+  - culture: 基督教
+    entity: 撒旦
+    relation: 观念同源
+    note: 基督教魔鬼观念可能受到琐罗亚斯德恶神影响
+    source_ref: Boyce 1996
+
+  - culture: 诺斯替教
+    entity: 德穆革
+    relation: 功能对应
+    note: 同样作为创造世界中的恶的本源存在
+    source_ref: 元文琪 2018
+
+  - culture: 摩尼教
+    entity: 黑暗魔王
+    relation: 直接继承
+    note: 摩尼教直接继承安格拉·曼纽为黑暗王国君主
+    source_ref: 元文琪 2018
 
 confidence: attested
 llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-created_at: "2026-07-22"
-updated_at: "2026-07-22"
+created_at: "2026-07-23"
+updated_at: "2026-07-23"
 ---
 
-## 导读：恶的本体论地位
+## 核心定位：终极恶的本源
 
-安格拉·曼纽（Angra Mainyu）在琐罗亚斯德教神话体系中占据独特位置——他不是阿胡拉·马兹达创造的堕落天使，而是与光明本原同等永恒的黑暗本原，是一切恶、毁灭与谎言的人格化。这种独立恶本体设定，使得琐罗亚斯德二元论在人类宗教思想史非常特别。
+安格拉·曼纽（*Aŋra Mainyu*，萨珊时期波斯语称为*Ahriman*，阿赫里曼）是琐罗亚斯德神话体系中**恶与毁灭的终极本源**，是阿胡拉·马兹达永恒的对立面（元文琪，2018）。他代表着谎言、黑暗、无序、死亡和一切罪恶，是世界上所有灾难和痛苦的来源。
 
-不同于大多数宗教将恶视为善的缺失或堕落结果，琐罗亚斯德教从一开始就设定两个对立本原，这种彻底二元论带来了独特宇宙观：整个世界就是善与恶两大阵营的战场，每个存在都必须选边站（Boyce 1996）。
+名称"安格拉·曼纽"的词义：安格拉（*Angra*）意为"邪恶的"，曼纽（*Mainyu*）意为"精神"或"灵"，合起来就是"恶的精神"，直接点明其本质。
 
-## 名称语源与语义
+## 在二元框架中的存在论地位
 
-Angra Mainyu 原意"邪恶的灵"，angra 就是"邪恶，有害"，mainyu 就是"灵，精神"。萨珊波斯时期中古波斯语转写为 Ahriman（阿赫里曼），这个名称更常用在伊斯兰时期文献，欧洲东方学早期常采用阿赫里曼译名，现在学术界多用原始阿维斯塔语名称安格拉·曼纽。
+关于安格拉·曼纽的存在论地位，学界存在两种不同解释，对应对琐罗亚斯德二元论的两种理解：
 
-在《伽萨》中，查拉图斯特拉直接称他为"作恶的灵"，与斯彭塔·曼纽（Spenta Mainyu，"圣善的灵"）对立，斯彭塔·曼纽是阿胡拉·马兹达发出的善灵，所以最初对立是两个灵之间对立，后来演变为阿胡拉与安格拉整体对立。
+1. **绝对二元论**：安格拉·曼纽与阿胡拉·马兹达是同等永恒、相互独立的两个本源，世界是两者斗争的场所。这一解释被摩尼教继承发展为彻底二元论。
+2. **派生二元论**：安格拉·曼纽是阿胡拉·马兹达本性中对立面的外化，并非同等永恒的独立本源。这是目前主流学术界观点（Boyce，1996）。
 
-名称演变本身反映了神学发展，从两个灵对立，升级为两个独立本原对立，概念慢慢成型，萨珊时期已经成为系统二元神学。
+无论哪种解释，安格拉·曼纽都代表着世界中恶的原则，是一切负面存在的根源。
 
-## 创世叙事中的安格拉·曼纽
+## 创世冲突：入侵善神创造
 
-根据《班达希申》创世故事，最初阿胡拉·马兹达在光明界，安格拉·曼纽在黑暗界，两者之间是虚空。阿胡拉创造了善世界后，安格拉从黑暗中出来，入侵善的创造，每创造一个善存在，安格拉就生出一个对应的恶存在作为对抗。
+根据琐罗亚斯德创世叙事，原本阿胡拉·马兹达在光明中，安格拉·曼纽在黑暗中，两者之间隔着虚空。为了决定宇宙命运，双方约定进行为期一万二千年的斗争。
 
-阿胡拉创造了天空，安格拉创造了乌云；阿胡拉创造了水，安格拉创造了干旱；阿胡拉创造了植物，安格拉创造了荆棘；阿胡拉创造了牛，安格拉创造了狼；阿胡拉创造了人，安格拉创造了女巫。这种一一对应创造，强化了二元对立结构，每个善都有镜像恶。
+约定之后，阿胡拉·马兹达创造了完美的物质世界。安格拉·曼纽得知后，从黑暗中冲出，入侵了这个完美世界：
 
-安格拉的入侵使得完美世界变得不完美，疾病死亡痛苦进入世界，这就是为什么世界存在恶，整个历史就是善逐渐驱逐恶，最终光明胜利过程。
+- 他污染了水，使部分水变成咸水无法饮用
+- 他攻击了大地，创造了沙漠和山地阻碍人类
+- 他杀死了原牛，引入了肉食动物捕食草食动物
+- 他引诱了原人伽约马雷特定，使其堕落死亡
+- 他在世界各处埋下各种疾病、毒药、灾难
 
-## 恶魔军团统帅
+通过这次入侵，恶进入了原本完美的世界，世界从此成为善恶斗争的战场。
 
-安格拉·曼纽是所有德夫（Daeva，恶魔）的首领，德夫原本古代伊朗神祇，查拉图斯特拉改革后判定为恶魔，全部归入安格拉旗下。每个德夫负责一种具体恶：
+## 恶魔军团：达瓦诸神
 
-- **德鲁杰（Druj）**：谎言，对应真理阿沙
-- **阿科·马诺（Ako Manah）**：恶思，对应善思沃胡·玛诺
-- **阿兹·达哈卡（Azi Dahaka）**：三头龙，贪婪与暴政化身
-- **杰伊（Jeh）**：娼妇女巫，诱惑与败坏
-- **纳斯（Nasu）**：死亡污染，尸秽之神
+安格拉·曼纽领导着一支庞大的**恶魔军团**，即**达瓦**（*Daeva*）诸神。这些达瓦原本是原始伊朗宗教中的神祇，在琐罗亚斯德改革中被贬低为恶神。
 
-安格拉不断通过恶魔诱惑人类，让人类选择恶，帮助黑暗战胜光明。他不是被动存在，而是主动进攻，整个世界就是战场，不断攻击善创造，这种进攻性就是恶本质。
+每个达瓦代表一种特定的罪恶或灾难：
 
-人类受到诱惑选择恶，死后灵魂过分别桥（Chinvat Bridge）就会堕入安格拉的黑暗地狱，接受惩罚。
+- **阿科曼**（Akem Manah）：恶思，对应阿胡拉一方的善思沃胡·玛诺
+- **安达罗**：异端，破坏真理
+- **扎尔万**：时间，某些流派中作为超越两者的更高存在
+- 各种疾病、灾害、谎言的化身
 
-## 二元论神学争论
+这些恶魔不断诱惑人类背离善道，帮助安格拉·曼纽破坏阿胡拉·马兹达的创造。
 
-安格拉·曼纽的本体论地位，一直是琐罗亚斯德神学争论焦点：
+## 末日审判中的结局
 
-1. **正统二元论**：安格拉与阿胡拉同样永恒，两个独立本原，没有谁创造谁，永远对立，这是主流正统观点
-2. **楚尔凡派**：两者都是时间之神楚尔凡（Zurvan）儿子，楚尔凡超越两者之上，这种观点在萨珊时期一度流行，后被判异端
-3. **现代一神论解释**：安格拉是阿胡拉创造的恶势力，不是同等永恒，这种解释适应现代一神论观念
+根据琐罗亚斯德教义，善恶斗争有确定的结局：在末日到来时，救主索希扬将诞生，率领善的力量击败安格拉·曼纽和他的恶魔军团。
 
-中世纪伊斯兰神学家批评这种二元论，认为两个同等永恒本原违背一神论，卡迪·阿卜杜勒·贾巴尔详细讨论了琐罗亚斯德二元论矛盾，指出两个永恒必然导致有限权能（HAFIZOĞLU 2020）。
+经过末日大火的净化，所有罪恶将被清除，安格拉·曼纽将被彻底消灭或永远囚禁，世界将恢复到最初的完美状态，再也没有死亡、痛苦和罪恶（Nigosian，1993）。
 
-## 安格拉与斯彭塔·曼纽
+这种确定的终末论保证了善必然胜利，给信徒以希望，这是琐罗亚斯德教义一个重要特征。
 
-在最古老《伽萨》文本中，最初对立是斯彭塔·曼纽（善灵）和安格拉·曼纽（恶灵），两者都是孪生灵，都出自阿胡拉·马兹达，这种说法和后来独立本原不一样。
+## 名称演变与译名问题
 
-许多学者认为这反映了更早阶段，最初二元是两个灵，后来升级为两个独立本原，神学发展从内在二元变成外在二元，这个演变过程反映神学思想深化（Hintze 2005）。
+安格拉·曼纽在不同时期和不同语言中有不同名称：
 
-这个演变和琐罗亚斯德教社会发展有关，随着体系化，需要更明确对立结构，从阿胡拉内在两个属性，变成两个独立宇宙本原，结构更清晰。
+- 古阿维斯塔语：*Aŋra Mainyu*
+- 中古波斯语（帕拉维语）：*Ahriman*（阿赫里曼）
+- 阿拉伯语：*Iblīs*（与易卜劣厮混淆）
+- 中文：除安格拉·曼纽外，也译"安哥拉迈纽""阿利曼"
 
-## 伦理意义：恶的主动性
+不同名称反映了该神在不同历史阶段的演变。
 
-在琐罗亚斯德伦理中，安格拉代表恶的主动性，恶不是被动缺失，而是主动破坏，他不断入侵创造，所以善必须主动战斗，不是被动等待。这种战斗伦理要求每个信徒都必须主动参与善对恶斗争，不能中立。
+## 艺术表现
 
-每个选择善人，都是阿胡拉战士，帮助最终胜利，这种把个人伦理和宇宙命运结合，是琐罗亚斯德教非常突出特点。安格拉存在使得人类选择有了宇宙意义，你的每个善举都帮助光明更接近胜利。
+由于琐罗亚斯德教义禁止对恶神进行偶像崇拜，安格拉·曼纽在古代艺术中很少以独立形象出现。当需要表现时，通常以黑暗、混沌的象征来暗示，或者在宇宙图式中占据下方黑暗区域，与上方光明区域的阿胡拉·马兹达形成对比。
 
-这种战斗伦理和印度教业报轮回不同，不是被动承受，而是主动战斗改变宇宙，非常积极入世。
+在希腊化影响下的中亚艺术中，偶尔有人形形象出现，通常表现为丑陋、狰狞的黑色巨人，这是受到希腊恶魔形象影响的结果。
 
-## 跨文化影响
+## 对后世魔鬼观念的影响
 
-安格拉·曼纽二元恶概念对后来许多宗教产生影响：
+安格拉·曼纽是人类文明史上第一个体系化的**终极恶神**概念，对后世各大宗教的魔鬼观念产生了深远影响：
 
-- **摩尼教**：直接继承了光明黑暗二元，摩尼教黑暗王子就是直接继承安格拉·曼纽，结构几乎完全一样，只是规模更大（Stausberg 2015）
-- **诺斯替教**：诺斯替派二元论，巨匠创造世界和真神对立，结构上受到琐罗亚斯德影响，安格拉模式被吸收
-- **基督教**：撒旦概念发展中，可能受到安格拉影响，撒旦作为独立恶神对抗上帝，虽然基督教神学坚持撒旦是堕落天使，但民间想象中撒旦更像独立恶本原，这个演变可能有伊朗影响
-- **伊斯兰教**：伊布利斯（魔鬼）虽然是堕落精灵，但是大众信仰中有时候接近独立恶本原，受到本地伊朗传统影响
+- 犹太教在巴比伦囚虏时期吸收了二元论元素，撒旦观念逐渐发展为终极恶魔
+- 基督教直接继承了犹太教的魔鬼观念，保留了光明与黑暗斗争的框架
+- 摩尼教直接将琐罗亚斯德的二元论推向极致，安格拉·曼纽成为黑暗王国的君主
+- 诺斯替主义吸收了光明与黑暗对立的宇宙论结构
 
-这种影响通过波斯文化向东向西传播，改变了许多宗教对恶理解，提供了一个系统二元论模板。
+可以说，西方宗教中魔鬼观念的基本框架很大程度上来源于安格拉·曼纽。
 
-## 艺术表现中的安格拉
+## 现代神学解读
 
-古代波斯艺术中，安格拉·曼纽很少直接表现，通常用象征符号，比如黑暗、龙、怪物表示他。阿兹·达哈卡作为安格拉最著名副手，经常出现在艺术中，三头蛇身，代表混乱和破坏。
+现代神学家和神话学家对安格拉·曼纽有不同解读：
 
-萨珊时期银盘有时候会表现帝王杀死阿兹·达哈卡，象征善战胜恶，帝王就是阿胡拉在人间代表，杀死恶龙就是完成神圣使命。
+- 心理学解读：荣格认为安格拉·曼纽代表人类集体无意识中的阴影，是人性中恶的一面的投射
+- 哲学解读：存在主义认为安格拉·曼纽代表世界中荒诞和不合理的一面
+- 历史解读：反映了古代伊朗草原文明与农业文明冲突的记忆
 
-在现代艺术创作中，安格拉经常被表现为黑暗笼罩的人形，黑色长袍，代表毁灭，这种表现是现代创造，古代没有直接人形描绘。
-
-## 现代哲学解读
-
-现代哲学对安格拉·曼纽概念有不同解读：存在主义认为，这种二元论表达了人类存在中恶不可避免，必须面对；伦理学认为，独立恶本体承认恶真实性，不是简单归结为善缺失，更符合人类经验。
-
-安格拉问题本质就是恶存在问题，为什么全善全能创造主允许恶存在？琐罗亚斯德二元论给了一个逻辑一致回答：恶本来就是独立存在，不是创造主创造，所以创造主没有责任，这个回答虽然一神论不接受，但逻辑上一致（Antón Pacheco 2016）。
-
-一神论必须面对全善全能和恶存在矛盾，这个问题困扰神学家几千年，二元论直接解决，代价就是放弃绝对一神论，这种思想取舍很有意思。
+这些解读从不同角度揭示了安格拉·曼纽神话的丰富内涵。
 
 ## Mythos Atlas 编者按
 
-**奠基梳理**：玛丽·博伊斯在经典论文和通史系统梳理了安格拉·曼纽概念演变，从两个灵到两个本原，理清发展脉络。
-**神学争论**：本体论地位争议持续两千多年，正统二元、楚尔凡派、现代一元三种解释反映不同时代神学需求。
-**文化影响**：对摩尼教、诺斯替、基督教撒旦概念都有影响，这种影响比通常认为更大。
-**思想意义**：人类宗教史上罕见独立恶本体论，提供了对恶问题完全不同解决方案，思想史上独特位置。
-**研究现状**：随着琐罗亚斯德教文本整理推进，对安格拉概念早期演变认识还在深化。
+安格拉·曼纽是琐罗亚斯德二元神话体系不可或缺的一极，没有恶神就没有二元框架。**奠基性研究**元文琪（2018）在中文世界系统阐明了他在二元论中的位置，Mary Boyce（1996）从历史演变角度梳理了恶神观念的形成过程。
+
+理解安格拉·曼纽，才能真正理解琐罗亚斯德神话为什么是"二元神论"——它不回避世界上恶的存在，而是将其作为宇宙结构的一部分，并承诺善终将获得胜利。
