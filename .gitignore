@@ -9,3 +9,6 @@ mvp-site/.vite/
 Thumbs.db
 *.log
 screenshot-*.png
+
+# AI image generation intermediates
+mvp-site/public/images/entries/generated*.png
