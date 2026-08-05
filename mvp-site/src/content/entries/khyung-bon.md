@@ -1,44 +1,43 @@
 ---
 id: khyung-bon
-name_primary: 琼 苯教神圣大鹏鸟与宇宙圣兽
-name_original: Khyung / mKha'-lding / ཁྱུང་
-name_aliases: [ 大鹏鸟, 金翅鸟, 佛鹏, mKha-lding, Khyung-po, 神鹏]
+name_primary: 琼鸟 苯教神鹏与象雄王族图腾
+name_original: Khyung / ཁྱུང / Khyung
+name_aliases: [神鹏, 大鹏鸟, 金翅鸟, 佛鹏, 琼, Garuda, Kading, Khading]
 name_translations:
-  zh: 琼 — 苯教神圣大鹏鸟
-  en: Khyung / Horned Eagle / Garuda
-  bo: ཁྱུང་
-  ja: キュン
+  zh: 琼 / 神鹏 / 大鹏鸟
+  en: Khyung / Divine Garuda
+  bo: ཁྱུང
 
 hero_image: /images/entries/khyung-bon.jpg
-hero_image_alt: 巨大神鹏Khyung展翅翱翔于冈底斯圣山之上, 双角从头部伸出, 羽毛为青金色, 爪中握蛇
-hero_image_credit: AI generated · Tibetan rock art style with Upper Tibet motifs
+hero_image_alt: 琼鸟展翼金羽翱翔于冈底斯山上空 苯教神鹏唐卡
+hero_image_credit: AI generated · Tibetan thangka painting with Zhangzhung motifs
 
 culture_path: 亚洲/青藏高原/象雄-吐蕃/苯教
 entity_type: creature
-era: 铁器时代岩画至今, 约前1000年已有考古证据
-geo_region: 青藏高原/藏北/冈底斯山/嘉绒藏区/苯教文化圈
+era: 前佛教象雄图腾传统至当代藏传佛教六孥具体系
+geo_region: 青藏高原/象雄故地/嘉绒藏区/冈底斯山区域
 
-summary: 苯教神圣大鹏鸟。张亚莎(2009)考证Khyung图形演变脉络从岩画到壁画到六孥具。Bellezza(2011,2013)在藏北岩画中发现Khyung大量实物证据。Yang(2019)研究嘉绒藏族Khyung崇拜的人类学案例。吴艳春(2012)论双头鹰形金翅鸟源流。Bruneau和Bellezza(2013)藏北岩画全面调查。核心:辛饶弥沃坐骑,象雄王族图腾,与印度Garuda同源,藏式佛龛六孥具之首,苯教宇宙圣兽。
+summary: 苯教神鹏。张亚莎(2009)考证Khyung图形在青藏高原从岩画到壁画的演变脉络。Bellezza&Bruneau(2013)析藏北拉达克岩画中鸟图腾。Yang(2019)记嘉绒藏区碉楼与琼崇拜。Iddhyana等(2020)比较各国Garuda形态。Badmaev(2020)记布里亚特鸟信仰。Pommaret(1994)记不丹山神与Khyung。
 
-attributes: [苯教宇宙圣兽,辛饶弥沃的坐骑,象雄王族图腾,双角大鹏鸟造型,与印度Garuda同源,藏式佛龛六孥具之首,藏北岩画高频主题,嘉绒藏族崇拜延续至今,与蛇龙形成对立互补,苯教护法神之一]
+attributes: [苯教神圣大鹏鸟, 辛饶弥沃坐骑, 象雄王族图腾, 六孥具之首, 金翅鸟Garuda藏地本土形态, 岩画中最古老图腾之一, 与印度Garuda同源异流, 嘉绒藏族碉楼建筑灵感来源, 苯教护法神Khyung-bdud的来源, 冈底斯山守护圣兽]
 
 primary_sources:
   - type: paper
-    title: "藏传佛教佛鹏源流考"
+    title: "藏传佛教佛鹏源流考——青藏高原Khyung图形的演变脉络"
     author: "张亚莎"
     year: 2009
     language: zh
     url: https://s.wanfangdata.com.cn/paper?q=%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99%E4%BD%9B%E9%B9%8F%E6%BA%90%E6%B5%81%E8%80%83
     access: open
-    note: "张亚莎2009。系统考证Khyung图形从岩画到壁画到六孥具的演变脉络,论证Khyung出现于佛教传入前的藏族文化层,后被佛教吸收为护法"
+    note: "张亚莎 2009权威研究。考证Khyung图形从岩画到壁画到六孥具之首的完整演变脉络,指出其象雄本土起源"
   - type: paper
-    title: "The Rock Art of Upper Tibet and Ladakh"
+    title: "The Rock Art of Upper Tibet and Ladakh: Inner Asian cultural adaptation, regional differentiation and the Western Tibetan Plateau Style"
     author: "Laurianne Bruneau, John Vincent Bellezza"
     year: 2013
     language: en
-    url: https://www.semanticscholar.org/search?q=The+Rock+Art+of+Upper+Tibet+and+Ladakh
+    url: https://www.semanticscholar.org/search?q=Rock+Art+Upper+Tibet+Ladakh+Inner+Asian
     access: open
-    note: "Bruneau和Bellezza 2013。藏北和拉达克岩画全面调查,Khyung是最高频的动物母题之一,多与祭祀场景和雍仲符号组合出现"
+    note: "Bruneau & Bellezza 2013。藏北与拉达克岩画综合研究,鸟图腾在青藏高原的文化价值与族源意义"
   - type: paper
     title: "Anthropological Investigation of the Ancient Blockhouses in Jiarong Tibetan Village"
     author: "Yinghui Yang"
@@ -46,15 +45,31 @@ primary_sources:
     language: en
     url: https://doi.org/10.2991/iceess-19.2019.17
     access: open
-    note: "Yang 2019。嘉绒藏族古碉楼人类学调查,Khyung崇拜是当地苯教文化遗留的核心元素,古碉楼建筑本身就象征Khyung展翅"
+    note: "Yang 2019。嘉绒藏族碉楼建筑与Khyung崇拜的人类学调查,碉楼形态可能源于对琼鸟的模仿"
   - type: paper
-    title: "双头鹰形金翅鸟图像源流探"
-    author: "吴艳春"
-    year: 2012
-    language: zh
-    url: https://www.cqvip.com/search?k=%E5%8F%8C%E5%A4%B4%E9%B9%B0%E5%BD%A2%E9%87%91%E7%BF%85%E9%B8%9F%E5%9B%BE%E5%83%8F%E6%BA%90%E6%B5%81%E6%8E%A2
+    title: "Ornamental Variety of Garuda and Wilmana on Padmasana Architecture at Kahyangan Jagat Temple in Bali"
+    author: "Ida Bagus Iddhyana et al."
+    year: 2020
+    language: en
+    url: https://doi.org/10.24843/ijeet.2020.v05.i01.p08
     access: open
-    note: "吴艳春2012。双头鹰形金翅鸟图像从印度经中亚到新疆的传播脉络,Khyung与印度Garuda的图像学关系揭示了印欧语族迁徙和文化传播"
+    note: "Iddhyana等 2020。比较各国Garuda形态,西藏Khyung作为独特变体被纳入泛亚洲比较"
+  - type: paper
+    title: "Traditional Buryat Beliefs About Birds"
+    author: "A.A. Badmaev"
+    year: 2020
+    language: en
+    url: https://doi.org/10.17746/1563-0102.2020.48.2.106-113
+    access: open
+    note: "Badmaev 2020。布里亚特传统鸟信仰,汗赫尔度格舒布恩Khan Garudi bird与西藏Khyung的跨蒙古高原关联"
+  - type: paper
+    title: "On local and mountain deities in Bhutan"
+    author: "Francoise Pommaret"
+    year: 1994
+    language: en
+    url: https://www.semanticscholar.org/search?q=local+mountain+deities+Bhutan+Pommaret
+    access: open
+    note: "Pommaret 1994。不丹地方与山神研究,Khyung-bdud作为苯教护法在不丹的在地化形象"
   - type: paper
     title: "A Comparative Analysis of Archaeological Evidence and Popular Bon Literary Sources"
     author: "John Vincent Bellezza"
@@ -62,112 +77,137 @@ primary_sources:
     language: en
     url: https://www.semanticscholar.org/search?q=ENTITY+A+COMPARATIVE+ANALYSIS
     access: open
-    note: "Bellezza 2011。Khyung Lung(鹏谷)在苯教文学传统中为重要神圣地理,Bellezza将其与考古证据对比,确认其在物质文化中的实物对应"
-  - type: paper
-    title: "Gods, hunting and society: Animals in the ancient cave paintings of Celestial Lake in northern Tibet"
-    author: "John Vincent Bellezza"
-    year: 2002
-    language: en
-    url: https://www.semanticscholar.org/search?q=Gods+hunting+and+society
-    access: open
-    note: "Bellezza 2002。藏北天湖洞穴岩画中Khyung形象与传说中的神鹏高度吻合,翼展约80厘米,线条粗犷而富有动感,为Khyung崇拜的最早物质证据"
-  - type: paper
-    title: "从彝语看彝族鸿雁鹤鹰系鸟崇拜文化"
-    author: "普晋, 普忠良"
-    year: 2021
-    language: zh
-    url: https://www.cqvip.com/search?k=%E9%B8%BF%E9%9B%81%E9%B9%A4%E9%B9%B0%E7%B3%BB%E9%B8%9F%E5%B4%87%E6%8B%9C
-    access: open
-    note: "普晋和普忠良2021。彝族鸿雁鹤鹰系鸟崇拜与藏族Khyung崇拜共享汉藏语系鸟图腾原型,反映了东亚内陆萨满文化中鸟崇拜的广泛分布"
+    note: "Bellezza 2011。苯教考古与文学比较,Khyung母题在上古物质文化中的实物对应"
 
-related_entries: [bon-mythology-corpus, shenrab-miwo-bon, garuda-vedic]
-parallel_motifs:
-  - entry_id: garuda-vedic
-    relation: 苯教Khyung与印度教Garuda有直接同源关系,均为大鹏鸟/金翅鸟,均与蛇龙形成对立,是印欧语族鸟神原型在两个传统中的分化
-  - entry_id: thunderbird-algonquian
-    relation: 均为高空猛禽型神圣生物,以雷电和风暴为自然属性,是北美和青藏两个内陆高原文化的独立鸟神原型
-  - entry_id: simurgh-zoroastrian
-    relation: Khyung与波斯Simurgh共享中亚高原神圣巨鸟原型,均有治疗和救赎功能,暗示鸟神崇拜在伊朗-青藏走廊的古代传播
+structured_data:
+  epithets: [神鹏, 大鹏, 金翅鸟, 琼鸟, 六孥具之首]
+  parents: [卵生, 从光卵中孵化]
+  consort: [无]
+  children: [Khyung-bdud（琼魔,苯教护法神）]
+  cult_center: [象雄故地, 嘉绒藏区碉楼群, 冈底斯山]
+  timeline:
+    - "金石并用时代": 藏北岩画中出现Khyung图腾
+    - "前佛教时期": 象雄王族以Khyung为图腾
+    - "7-8世纪": 佛教传入后Khyung与印度Garuda融合
+    - "后弘期": 被纳入藏传佛教六孥具体系之首
+    - "当代": 嘉绒藏族碉楼建筑延续Khyung崇拜
+
+variants:
+  - region: 象雄苯教传统
+    version: 神圣大鹏鸟,辛饶弥沃的坐骑,象雄王族图腾
+    note: 最古老的本土层,Khyung为象雄语音
+  - region: 藏传佛教传统
+    version: 六孥具之首,佛龛背光最上方装饰
+    note: 佛教化后与印度Garuda融合,称佛鹏
+  - region: 嘉绒藏区
+    version: 碉楼建筑的形态灵感来源
+    note: Yang(2019)记嘉绒碉楼与Khyung崇拜的关联
+  - region: 不丹
+    version: Khyung-bdud作为山神与护法
+    note: Pommaret(1994)记其在不丹的在地化形象
+
+parallels:
+  - culture: 印度教/佛教
+    entity: 迦楼罗 Garuda
+    relation: 同源异流
+    note: 均为金翅大鹏鸟,但Khyung有独立的象雄本土起源,后与印度Garuda融合
+    source_ref: 张亚莎 2009
+  - culture: 布里亚特蒙古
+    entity: 汗赫尔度格舒布恩 Khan Garudi bird
+    relation: 跨高原传播
+    note: 均为中亚高原鸟图腾信仰,可能通过蒙古-西藏文化通道传播
+    source_ref: Badmaev 2020
+  - culture: 中国
+    entity: 凤凰
+    relation: 主题平行
+    note: 均为神圣鸟图腾,与王权关联,张亚莎(2009)论佛鹏与道教神鸟可能同源
+    source_ref: 张亚莎 2009
+  - culture: 印尼巴厘
+    entity: Garuda/Wilmana
+    relation: 泛亚洲传播
+    note: 均为Padmasana建筑上的鸟形装饰,泛亚洲Garuda文化圈的西端
+    source_ref: Iddhyana等 2020
 
 confidence: attested
-first_recorded: 约前1000年藏北岩画, 7世纪后文献化
-created_at: "2026-07-13"
-updated_at: "2026-07-13"
+llm_assisted: true
 curator: 灵犀 · Mythos Atlas项目
 review_status: draft
-llm_assisted: true
+created_at: "2026-08-05"
+updated_at: "2026-08-05"
 ---
 
 ## 导读
 
-琼（Khyung），藏文ཁྱུང་，是苯教神话中的神圣大鹏鸟，也是青藏高原上最古老、最持久的文化图腾之一。它的形象——一只双角从头部伸出的巨大猛禽——从金石并用时代的藏北岩画一直延续到当代的寺院壁画和民间建筑。
+琼（Khyung），藏文ཁྱུང，是苯教传统中的神圣大鹏鸟。它既是辛饶弥沃的坐骑，也是象雄王族的图腾，更是青藏高原上最古老的鸟图腾信仰之一。在藏传佛教的六孥具体系中，琼鸟位居首位——佛龛背光的最上方——这一位置安排本身就揭示了它从苯教神鹏到佛教护法的跨宗教旅程。
 
-张亚莎（2009）系统考证了 Khyung 图形从岩画到壁画再到藏式佛龛"六孥具"之首的演变脉络。Bellezza（2002, 2011, 2013）在藏北和拉达克的岩画调查中发现 Khyung 是最高频的动物母题之一。Yang（2019）对嘉绒藏族的人类学调查则揭示了 Khyung 崇拜在当代苯教文化圈中的活态存续。
+张亚莎（2009）在《藏传佛教"佛鹏"源流考》中系统考证了 Khyung 图形在青藏高原的完整演变脉络——从藏北岩画中最古老的刻痕，到寺院壁画的精美绘制，再到六孥具之首的制度化定位。她的研究证明，Khyung 并非从印度传入的 Garuda 的简单翻译，而是有独立的象雄本土起源。
 
-## 名称与图像学特征
+Bellezza 与 Bruneau（2013）在藏北与拉达克岩画的综合研究中指出，鸟类在青藏高原的上古文化中具有极高的文化价值——从族群祖先到仪式助手，鸟图腾渗透了从宗教到族群认同的多个层面。Yang（2019）的人类学调查更是揭示了一个惊人的发现：嘉绒藏区的碉楼建筑形态可能直接源于对琼鸟的模仿。
 
-"Khyung"在藏语中泛指鹰隼类猛禽，但在苯教和藏传佛教语境中特指一种神话化的巨鸟。其图像学特征极为鲜明：（一）体型巨大，翼展可达数米；（二）头顶伸出双角——这是 Khyung 区别于其他大鹏鸟图像的关键特征；（三）羽毛常为青金色，有条纹状纹理；（四）爪中常握蛇——象征与蛇龙族的对立关系。
+## 名号与语源
 
-张亚莎（2009）指出，Khyung 的"双角"是其最独特的图像学元素。在印度教的 Garuda（参见 garuda-vedic 词条）传统中，大鹏鸟通常不画角。这一差异暗示 Khyung 可能在传入印度之前就已经在青藏高原形成了独立的图像传统。
+"琼"（Khyung）是象雄语词汇，在藏文中被音译保留。张亚莎（2009）指出，Khyung 这一发音本身可能模仿了大型猛禽的鸣叫声——一种声像合一的命名方式。在藏文文献中，琼鸟也被称为"khading"或"mkha' ldeng"，意为"天空之翼"。
 
-Bellezza（2002）描述了藏北天湖洞穴岩画中的 Khyung 形象："翼展约 80 厘米，翅膀上绘有清晰的条纹状纹理，身体呈圆润的椭圆形，头部略尖，面部轮廓简洁，似乎带有神兽般的威严感。"这一形象与当代寺院壁画中的 Khyung 在核心特征上高度一致——跨越数千年保持了惊人的连续性。
+"大鹏鸟"和"金翅鸟"是汉文佛教文献中对 Khyung/Garuda 的通用翻译。"佛鹏"则是藏传佛教语境中的特称——强调其作为佛教护法的身份。张亚莎（2009）特别区分了"Khyung"（苯教本土名称）与"Garuda"（印度教/佛教名称）的关系：两者在佛教传入西藏后发生了深度融合，但 Khyung 的图像传统有独立的象雄起源。
 
-## 藏北岩画中的考古证据
+在象雄语的苯教经典中，Khyung 的名号据称为 *Khyung* 或 *Chung*，但象雄语原貌已难以确考。值得注意的是，嘉绒藏区的"嘉绒"（rGyal-rong）地名本身就可能与 Khyung 崇拜有关——"绒"指河谷，而"嘉"可能指与 Khyung 相关的族群。
 
-Khyung 崇拜的物质证据可以追溯到金石并用时代。Bruneau 和 Bellezza（2013）的藏北和拉达克岩画全面调查确认，Khyung 是最高频的动物母题之一——在调查的数百处岩画点中，Khyung 图像反复出现，常与雍仲符号、祭祀场景和日月图案组合。
+## 象雄王族图腾与岩画证据
 
-这些岩画 Khyung 的年代跨度极大：最早的可能属于前佛教时期（约前 1000 年），最晚的延续到佛教传入后的吐蕃时期（7-9 世纪）。Bellezza（2013）认为，Khyung 岩画的持续存在反映了这一图腾在藏族文化中的深层根植——即使佛教成为主导宗教，Khyung 作为文化符号的凝聚力并未消失。
+琼鸟最核心的身份是象雄王族的图腾。在苯教传统中，象雄王族的祖先被认为是琼鸟的后裔——这种"鸟生族源"神话在欧亚大陆有广泛的分布，但从象雄到藏传佛教的演变脉络尤为清晰。
 
-Bellezza（2011）还发现了一个重要的地理联系：苯教文学传统中的"鹏谷"（Khyung-lung）——一个与 Khyung 崇拜密切相关的神圣地理——在考古证据中也有对应。鹏谷位于冈仁波齐峰附近，与苯教的宇宙轴心形成空间上的呼应。
+Bellezza 与 Bruneau（2013）在藏北和拉达克的岩画调查中发现了大量鸟图腾图像。这些图像刻画在露天岩面上，年代从金石并用时代延续到早期历史时期。鸟的形象多种多样——有展翅翱翔的大型猛禽，有与人形组合的半人半鸟，还有衔蛇或叼鱼的捕食场景。这些图像的存在证明了鸟图腾信仰在青藏高原的古老性和持续性。
 
-## 辛饶弥沃的坐骑与象雄王族图腾
+Bellezza（2011）将岩画证据与苯教文学传统做了系统比较，发现琼鸟母题在上古物质文化中有大量实物对应。特别值得注意的是，某些岩画中的鸟图像具有夸张的角和羽冠——这些特征在后来的苯教寺院壁画中演变为琼鸟的标准图像志元素。
 
-在苯教传统中，Khyung 是辛饶弥沃的主要坐骑。Gurung（2011）研究的辛饶弥沃传记中，先知多次乘 Khyung 飞行传法——这一"神鹏乘骑"母题不仅赋予辛饶弥沃超凡的空间移动能力，更强化了 Khyung 作为苯教圣兽的神学地位。
+## 从苯教神鹏到佛教六孥具之首
 
-Khyung 同时也是象雄王族的图腾。苯教传统中，象雄王室自称"Khyung-po"（鹏族），以 Khyung 为族徽。Bellezza（2011）认为，这种图腾关系反映了象雄社会的社会结构——以神鹏为象征的王权，与苯教的宇宙王权神话紧密交织。
+琼鸟的跨宗教旅程是西藏宗教史的一个缩影。张亚莎（2009）系统梳理了这一演变过程：
 
-Yang（2019）在嘉绒藏区的田野调查中发现，当地的古碉楼建筑本身就是 Khyung 展翅的象征——碉楼的方形主体为鸟身，顶部的挑檐为翅膀，整座建筑是一个巨大的 Khyung 图腾。这种建筑-图腾的一体化设计极为罕见，暗示了 Khyung 崇拜在嘉绒苯教文化中的根深蒂固。
+**第一阶段（前佛教时期）**：琼鸟是象雄苯教的神圣大鹏鸟，辛饶弥沃的坐骑，象雄王族的图腾。此时的琼鸟是一个独立的苯教神灵，与印度 Garuda 尚无直接关联。
 
-## 与印度 Garuda 的关系
+**第二阶段（7-8世纪佛教传入后）**：琼鸟与印度的 Garuda（金翅鸟）发生了深度融合。Garuda 在印度教中是毗湿奴的坐骑，在佛教中被纳为天龙八部之一。佛教传入西藏后，传教者发现藏地已有琼鸟信仰，便将其与 Garuda 等同——这是一种典型的宗教本土化策略。
 
-Khyung 与印度教 Garuda（迦楼罗，参见 garuda-vedic 词条）的关系是苯教图像学中最具争议性的议题之一。两者在以下层面高度相似：（一）均为大鹏鸟/金翅鸟；（二）均与蛇龙族形成对立关系；（三）均有太阳象征意义。
+**第三阶段（后弘期至今）**：琼鸟被正式纳入藏传佛教的六孥具体系，位居首位。六孥具是藏式佛龛背光的六种装饰元素——琼鸟（大鹏）在最上方，下方依次为龙女、童子、兽王、宝瓶、摩羯首。张亚莎（2009）指出，琼鸟居首的位置安排直接继承了苯教中琼鸟作为至高神鹏的地位。
 
-吴艳春（2012）研究了"双头鹰形金翅鸟"图像从印度经中亚到新疆龟兹的传播脉络，论证了 Khyung/Garuda 图像与古代印欧民族迁徙的关联。她认为，Khyung 的"双头"变体暗示了这一鸟神原型在印欧语族东西两支中的分化。
+## 嘉绒碉楼与琼崇拜
 
-然而关键差异在于：Khyung 的双角在印度 Garuda 传统中没有对应。张亚莎（2009）据此认为，Khyung 可能在青藏高原经历了独立的图像演化——在吸收了印度 Garuda 元素的同时，保留了本土的"双角"特征。这一判断与 Bellezza（2013）的考古发现一致：藏北最早的 Khyung 岩画就已经有双角，早于佛教传入西藏的时间。
+Yang（2019）的人类学调查揭示了一个引人注目的发现：嘉绒藏区的古碉楼建筑可能与琼崇拜有直接关联。嘉绒藏区位于四川西部的大渡河流域，是苯教文化的重要存续地。这里的碉楼——高耸的石质塔形建筑——在形态上可能模仿了琼鸟的形象。
 
-## 从苯教圣兽到佛教护法
+Yang 记录了当地藏族口述传统中对碉楼起源的解释：碉楼是为了"镇住"琼鸟而建造的，或者是为了"模仿"琼鸟的高耸形态。无论哪种解释，都揭示了琼崇拜与建筑实践之间的深层关联。
 
-Khyung 从苯教圣兽到佛教护法的转变是藏传佛教图像学的重要篇章。张亚莎（2009）考证，Khyung 在佛教传入后被纳入藏式佛龛的"六孥具"（gzhi-drug）之首——位于释迦牟尼佛的头顶上方，构成藏式佛背光的最上层。
+嘉绒藏区的碉楼群是青藏高原东部最壮观的建筑遗产之一。如果 Yang 的假说成立——碉楼形态确实源于对琼鸟的模仿——那么这将是苯教鸟图腾信仰在建筑领域最直接的物质化表现，其时间跨度可达数百年甚至上千年。
 
-这一转变不是简单的"吸收"，而是苯教文化元素在佛教框架中的创造性重组。六孥具的其余五项（龙、摩羯、童子、大象、共命鸟）均来自印度佛教传统，唯有 Khyung 是苯教本土元素。它的出现暗示了佛教在西藏的本土化过程中对苯教符号的主动借用。
+## 不丹的Khyung-bdud与跨喜马拉雅传播
 
-在密续传统中，Khyung 进一步被赋予护法神的功能。苯教和佛教的 Phur-pa（金刚杵）仪轨中，Khyung 常作为护法神出现，以怒相守护修行者。Ramble & Roesler（2015）研究的苯教 Phur-pa 长寿仪式中，Khyung 的啸鸣被视为驱除魔障的神圣声音。
+Pommaret（1994）在不丹地方和山神的研究中记录了 Khyung-bdud（琼魔）这一独特形象。Khyung-bdud 是苯教护法神在不丹的在地化形态——它既有琼鸟的神圣来源，又被赋予了地方性的恶魔特征。
 
-## 与蛇龙的对立互补
+Pommaret 指出，Khyung-bdud 在不丹的形象是双面的：一方面它是佛教的护法神，另一方面它又是一个"熟悉"的形象——容易受骗、嗜酒如命。一个故事讲述 Zhabs drung Ngag dbang rnam rgyal 如何以欺骗手段降服了 Khyung-bdud，将其转化为佛教护法。
 
-Khyung 与蛇龙（klu）的关系是苯教宇宙论中的重要二元结构。在苯教和藏传佛教传统中，Khyung 以蛇为食，蛇龙则常以愤怒的蛇形出现——这种捕食关系在图像学中表现为 Khyung 爪中握蛇的经典构图。
+这种"神圣但可欺"的双面形象揭示了苯教神灵在佛教化过程中的地位变化——从至高的图腾祖先降格为可以被圣者降服的地方护法。然而，Khyung-bdud 保留了琼鸟的核心身份，说明其苯教根源并未被完全抹去。
 
-然而这一关系不是简单的善恶对立。普晋和普忠良（2021）的研究暗示，在更古老的汉藏语系鸟崇拜传统中，鸟与蛇的关系更接近互补而非对立——鸟代表天空和光明，蛇代表大地和深渊，两者的互动是宇宙运行的自然机制。
+## 泛亚洲Garuda文化圈
 
-## 现代存续与文化意义
+Iddhyana 等人（2020）在研究巴厘岛 Padmasana 建筑上的 Garuda/Wilmana 装饰时，将西藏的 Khyung 纳入了泛亚洲 Garuda 文化圈的比较框架。从印度到西藏、从西藏到蒙古、从东南亚到巴厘岛，金翅大鹏鸟的图像传统覆盖了几乎整个亚洲。
 
-Khyung 崇拜在当代藏族文化中仍然广泛存续。Yang（2019）的嘉绒藏区调查显示，当地居民对 Khyung 的崇拜已融入日常生活——建筑、服饰、节庆中均有 Khyung 的图像学元素。苯教寺院中的 Khyung 壁画和雕塑则持续维护着这一图腾的宗教神圣性。
+然而，在这个泛亚洲文化圈中，西藏的 Khyung 具有独特的地位。张亚莎（2009）的研究证明，Khyung 不是 Garuda 的简单移植，而是有独立的象雄本土起源。当 Garuda 随佛教传入西藏时，它遇到了一个已有的、根深蒂固的鸟图腾传统——两者的融合产生了藏地独特的"佛鹏"形象，既保留了苯教 Khyung 的本土特征，又吸纳了佛教 Garuda 的教义内涵。
 
-Alay（2010）研究的 Khyung Sprul Rinpoche（1897-1955）是一位以 Khyung 命名的苯教高僧——他的名字本身就是 Khyung 崇拜活态存续的证据。这位"神鹏化身"喇嘛在印度 Kinnaur 和西西藏的传教旅行，是 20 世纪苯教文化在喜马拉雅地区扩散的重要事件。
+Badmaev（2020）记录了布里亚特蒙古的传统鸟信仰——"汗赫尔度格舒布恩"（Khan Kherdeg shubuun，汗 Garudi 鸟），被称为"鸟中之王"。这一形象很可能通过蒙古-西藏文化通道从 Khyung 传播而来，为琼鸟的跨喜马拉雅-蒙古高原传播提供了证据。
 
 ## 跨文化谱系
 
-Khyung 在世界神圣鸟谱系中代表"高原猛禽型圣兽"。与印度 Garuda（参见 garuda-vedic 词条）有直接同源关系；与波斯 Simurgh（参见 simurgh-zoroastrian 词条）共享中亚高原神圣巨鸟原型；与北美雷鸟（参见 thunderbird-algonquian 词条）形成有趣的平行——两个内陆高原文化各自独立发展了以猛禽为核心的神圣生物。
+琼鸟在世界鸟图腾谱系中占据独特位置。与印度 Garuda 的"同源异流"关系是最核心的对偶——两者在佛教传入后深度融合，但 Khyung 有独立的象雄起源。与中国凤凰的"主题平行"则指向更深层的文化关联——张亚莎（2009）论佛鹏与道教神鸟可能同源，这一假说将琼鸟的谱系追溯到了更古老的东亚鸟图腾传统。
+
+琼鸟最独特的之处在于它从苯教图腾到佛教六孥具之首的完整演变轨迹。这一轨迹不仅是一个图像志的演变史，更是一部西藏宗教史的缩影——从象雄本土信仰到佛教化重构，从独立神灵到体系内护法，琼鸟的身份变迁映射了整个青藏高原宗教格局的变迁。
 
 ## Mythos Atlas 编者按
 
-**奠基作**：张亚莎（2009）的《佛鹏源流考》是 Khyung 图像学研究的中文奠基作。Bruneau 和 Bellezza（2013）的藏北岩画调查提供了不可替代的考古证据。Bellezza（2011）的考古与文学比较研究则将 Khyung 从图像学提升到宗教史层面。
+**奠基作**：张亚莎（2009）的 Khyung 图形演变脉络考证和 Bellezza（2011）的考古与文学比较是理解琼鸟的两块基石。前者提供了完整的图像志演变史，后者提供了物质文化佐证。
 
-**最新研究**：Yang（2019）对嘉绒藏族 Khyung 崇拜的人类学调查揭示了这一图腾的当代活态存续。普晋和普忠良（2021）对彝族鸟崇拜的研究则从汉藏语系比较视角拓宽了 Khyung 研究的文化视野。
+**最新研究**：Yang（2019）的嘉绒碉楼与 Khyung 崇拜关联发现、Badmaev（2020）的布里亚特鸟信仰记录、Iddhyana 等（2020）的泛亚洲 Garuda 比较，为琼鸟研究提供了新的跨学科和跨地域视角。
 
-**一手文献**：Khyung 主要以物质文化形式存续——藏北岩画（Bellezza 2002, 2013）、寺院壁画（张亚莎 2009）、嘉绒古碉楼建筑（Yang 2019）以及苯教仪轨文献中的护法神描述。
+**一手文献**：苯教经典中的 Khyung 相关段落、嘉绒藏族口述传统。岩画证据主要来自 Bellezza 在藏北和拉达克的田野调查。
 
-**深度追踪**：Khyung 的"双角"起源问题是未来研究的关键突破口——如果双角确实是青藏高原本土的图像创新，则意味着 Khyung 代表了一个独立于印度 Garuda 的本土鸟神传统。
+**深度追踪**：琼鸟与嘉绒碉楼建筑形态的关联是一个极具潜力的研究方向。如果碉楼确实模仿了琼鸟，这将是苯教鸟图腾在建筑领域最壮观的物质化表现。
 
-**神学地位**：Khyung 在苯教神谱中是宇宙圣兽，兼具辛饶弥沃坐骑、象雄王族图腾、护法神三重身份，从金石并用时代延续至今，是青藏高原上最古老的文化图腾之一。
+**神学地位**：琼鸟是理解苯教从象雄本土信仰到藏传佛教体系这一转化过程的关键个案——它不是被消灭的"失败图腾"，而是在新体系中获得了首位的"成功转型者"。
